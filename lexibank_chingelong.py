@@ -12,8 +12,6 @@ class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
     Chinese_Name = attr.ib(default=None)
-    RawLatitude = attr.ib(default=None)
-    RawLongitude = attr.ib(default=None)
 
 
 
