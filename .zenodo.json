@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Chin's \"Gelong Language in the Multilingual Hub of Hainan\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Andy C. Chin"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Fiona Grond",
+            "type": "Other"
+        },
+        {
+            "name": "Ayten T\u00fcfekci",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chin, Andy (2015): The Gelong Language in the Multilingual Hub of Hainan</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
