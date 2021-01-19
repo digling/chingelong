@@ -1,11 +1,11 @@
-ID,Name,Name_in_Source,SubGroup,Chinese_Name,Glottolog,Geo-coordinates
-Xifang,Xifang Hlai,XF,Northern Hlai,西方,hlai1239,
-Baisha,Baisha Hlai,BS,Northern Hlai,白沙,hlai1239,
-Yuanmen,Yuanmen Hlai,YM,Northern Hlai,元門,hlai1239,
-Heitu,Heitu Hlai,HT,Southern Hlai,黑土,hlai1239,
-Baoding,Baoding Hlai,BD,Central Hlai,保定,hlai1239,
-Zhongsha,Zhongsha Hlai,ZS,Central Hlai,中沙,hlai1239,
-Tongzha,Tongzha Hlai,TZ,Central Hlai,通什,hlai1239,
-Qiandui,Quiandui Hlai,QD,Central Hlai,塹對,hlai1239,
-Baocheng,Baocheng Hlai,BC,Central Hlai,保城,hlai1239,
-Gelong,Gelong,Gelong,,哥隆話,,19°06′N 108°39′E
+ID,Name,Name_in_Source,SubGroup,Chinese_Name,Glottolog,Latitude,Longitude
+Xifang,Xifang Hlai,XF,Northern Hlai,西方,hlai1239,19°17´N,109°14′E
+Baisha,Baisha Hlai,BS,Northern Hlai,白沙,hlai1239,18°38′N,108°42′E
+Yuanmen,Yuanmen Hlai,YM,Northern Hlai,元門,hlai1239,19°06′N,109°32′E
+Heitu,Heitu Hlai,HT,Southern Hlai,黑土,hlai1239,19°30′N,108°56′E
+Baoding,Baoding Hlai,BD,Central Hlai,保定,hlai1239,18°46′N,110°27′E
+Zhongsha,Zhongsha Hlai,ZS,Central Hlai,中沙,hlai1239,15°50′N,114°20′E
+Tongzha,Tongzha Hlai,TZ,Central Hlai,通什,hlai1239,18°53′N,109°39′E
+Qiandui,Quiandui Hlai,QD,Central Hlai,塹對,hlai1239,18°54′N,110°02′E
+Baocheng,Baocheng Hlai,BC,Central Hlai,保城,hlai1239,18°38′N,109°41′E
+Gelong,Gelong,Gelong,,哥隆話,,19°06′N,108°39′E
