@@ -14,7 +14,7 @@ setup(
     py_modules=["lexibank_chingelong"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["allenbai=lexibank_chingelong:Dataset"]},
+    entry_points={"lexibank.dataset": ["chingelong=lexibank_chingelong:Dataset"]},
     install_requires=["pylexibank>=2.1"],
     extras_require={"test": ["pytest-cldf"]},
 )
