@@ -24,9 +24,9 @@ $	NULL
 ^f	f	fei1, fan1	Tongzha, Baisha, Qiandui, Baoding, Baocheng, Gelong, Xifang, Zhongsha, Yuanmen	67	U+005e U+0066
 ^fh	fʰ	fhei1, fhan1	Yuanmen	5	U+005e U+0066 U+0068
 ^g	g	ga:n3, gi:u1	Tongzha, Zhongsha, Baoding	13	U+005e U+0067
-^gw	gʷ	gwou3, gwei3	Baoding	2	U+005e U+0067 U+0077
+^gw	g w	gwou3, gwei3	Baoding	2	U+005e U+0067 U+0077
 ^h	h	hau3, hau1	Baocheng, Gelong, Qiandui, Heitu, Zhongsha, Xifang, Tongzha, Baoding, Yuanmen, Baisha	55	U+005e U+0068
-^hw	hʷ	hwou3, hwom1	Baoding	2	U+005e U+0068 U+0077
+^hw	h w	hwou3, hwom1	Baoding	2	U+005e U+0068 U+0077
 ^i	i	it2	Gelong	1	U+005e U+0069
 ^k	k	ku:n1, kɯ2	Gelong, Zhongsha, Yuanmen, Baisha, Xifang, Baoding, Baocheng, Heitu, Tongzha, Qiandui	27	U+005e U+006b
 ^kh	kʰ	kha:u1, khat7	Gelong, Qiandui, Heitu, Yuanmen, Baocheng, Zhongsha, Xifang, Tongzha, Baoding, Baisha	69	U+005e U+006b U+0068
@@ -61,7 +61,7 @@ e	e	meɯ1, ɓeɯ1	Baoding, Heitu, Xifang, Baisha, Tongzha, Baocheng, Qiandui, Zh
 e:	eː	phe:ŋ1, ze:ŋ1	Zhongsha, Tongzha, Heitu, Qiandui, Baoding, Xifang, Baocheng	21	U+0065 U+003a
 f	f	ki5_feu1, ŋuan1_fo1	Gelong	2	U+0066
 h	h	me3_he3, me3_he1	Tongzha, Baoding	2	U+0068
-hw	hʷ	tsha1_hwan1	Baoding	1	U+0068 U+0077
+hw	h w	tsha1_hwan1	Baoding	1	U+0068 U+0077
 i	i	ba:i3_ba:i3, tshai1	Gelong, Xifang, Yuanmen, Heitu, Baisha, Zhongsha, Qiandui, Baoding, Baocheng, Tongzha	100	U+0069
 i:	iː	khi:u1, li:p7	Heitu, Zhongsha, Tongzha, Baocheng, Baoding, Qiandui, Baisha	34	U+0069 U+003a
 k	k	tɔk8, khok7	Xifang, Gelong, Baisha, Baoding, Baocheng, Heitu, Zhongsha, Yuanmen, Tongzha	46	U+006b
@@ -135,3 +135,6 @@ uːu	uːu
 ɘ:u	ɘːu
 ɘːi	ɘːi
 ɘːu	ɘːu
+ua	u/w a
+^ua	u/w a
+ɔi	ɔi

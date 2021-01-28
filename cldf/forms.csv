@@ -92,7 +92,7 @@ Qiandui-9_all-1,,Qiandui,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aːi *3/³ + b aːi *3/
 Baocheng-9_all-1,,Baocheng,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aːi *3/³ + b aːi *3/³,,Chin2015,,,^b a:i 3 _ b a:i 3$,default
 Gelong-9_all-1,,Gelong,9_all,nuŋ3,nuŋ3,n u ŋ *3/³,,Chin2015,,,^n u ŋ 3$,default
 Xifang-10_many-1,,Xifang,10_many,ɬo:i1,ɬo:i1,ɬ oːi *1/¹,,Chin2015,,,^ɬ o:i 1$,default
-Baisha-10_many-1,,Baisha,10_many,ɬuai1,ɬuai1,ɬ u ai *1/¹,,Chin2015,,,^ɬ u ai 1$,default
+Baisha-10_many-1,,Baisha,10_many,ɬuai1,ɬuai1,ɬ u/w a i *1/¹,,Chin2015,,,^ɬ ua i 1$,default
 Yuanmen-10_many-1,,Yuanmen,10_many,ɬu:i1,ɬu:i1,ɬ uːi *1/¹,,Chin2015,,,^ɬ u:i 1$,default
 Heitu-10_many-1,,Heitu,10_many,da:i1,da:i1,d aːi *1/¹,,Chin2015,,,^d a:i 1$,default
 Baoding-10_many-1,,Baoding,10_many,ɬo:i1,ɬo:i1,ɬ oːi *1/¹,,Chin2015,,,^ɬ o:i 1$,default
@@ -100,7 +100,7 @@ Zhongsha-10_many-1,,Zhongsha,10_many,ɬo:i1,ɬo:i1,ɬ oːi *1/¹,,Chin2015,,,^ɬ
 Tongzha-10_many-1,,Tongzha,10_many,ɬa:i1,ɬa:i1,ɬ aːi *1/¹,,Chin2015,,,^ɬ a:i 1$,default
 Qiandui-10_many-1,,Qiandui,10_many,ɬa:i1,ɬa:i1,ɬ aːi *1/¹,,Chin2015,,,^ɬ a:i 1$,default
 Baocheng-10_many-1,,Baocheng,10_many,ɬa:i1,ɬa:i1,ɬ aːi *1/¹,,Chin2015,,,^ɬ a:i 1$,default
-Gelong-10_many-1,,Gelong,10_many,tθɔi1,tθɔi1,tθ ɔ i *1/¹,,Chin2015,,,^tθ ɔ i 1$,default
+Gelong-10_many-1,,Gelong,10_many,tθɔi1,tθɔi1,tθ ɔi *1/¹,,Chin2015,,,^tθ ɔi 1$,default
 Xifang-11_one-1,,Xifang,11_one,tshei3,tshei3,tsʰ ei *3/³,,Chin2015,,,^tsh ei 3$,default
 Baisha-11_one-1,,Baisha,11_one,tsheɯ3,tsheɯ3,tsʰ e ɯ *3/³,,Chin2015,,,^tsh e ɯ 3$,default
 Yuanmen-11_one-1,,Yuanmen,11_one,tsɯ2,tsɯ2,ts ɯ *2/²,,Chin2015,,,^ts ɯ 2$,default
@@ -151,7 +151,7 @@ Zhongsha-15_small-1,,Zhongsha,15_small,Ɂin2,Ɂin2,ʔ i n *2/²,,Chin2015,,,^Ɂ 
 Tongzha-15_small-1,,Tongzha,15_small,tok8,tok8,t o k *8/⁵³,,Chin2015,,,^t o k 8$,default
 Qiandui-15_small-1,,Qiandui,15_small,thoɁ8,thoɁ8,tʰ o ʔ *8/⁵³,,Chin2015,,,^th o Ɂ 8$,default
 Baocheng-15_small-1,,Baocheng,15_small,tɔk8,tɔk8,t ɔ k *8/⁵³,,Chin2015,,,^t ɔ k 8$,default
-Gelong-15_small-1,,Gelong,15_small,vɔi3,vɔi3,v ɔ i *3/³,,Chin2015,,,^v ɔ i 3$,default
+Gelong-15_small-1,,Gelong,15_small,vɔi3,vɔi3,v ɔi *3/³,,Chin2015,,,^v ɔi 3$,default
 Xifang-16_woman-1,,Xifang,16_woman,ɬɯk7 kho2,ɬɯk7_kho2,ɬ ɯ k *7/⁵² + kʰ o *2/²,,Chin2015,,,^ɬ ɯ k 7 _ kh o 2$,default
 Baisha-16_woman-1,,Baisha,16_woman,pai3 kho5,pai3_kho5,p ai *3/³ + kʰ o *5/⁵,,Chin2015,,,^p ai 3 _ kh o 5$,default
 Yuanmen-16_woman-1,,Yuanmen,16_woman,pai4 kho5,pai4_kho5,p ai *4/⁴ + kʰ o *5/⁵,,Chin2015,,,^p ai 4 _ kh o 5$,default
@@ -191,7 +191,7 @@ Zhongsha-19_fish-1,,Zhongsha,19_fish,ɬa1,ɬa1,ɬ a *1/¹,,Chin2015,,,^ɬ a 1$,d
 Tongzha-19_fish-1,,Tongzha,19_fish,ɬa1,ɬa1,ɬ a *1/¹,,Chin2015,,,^ɬ a 1$,default
 Qiandui-19_fish-1,,Qiandui,19_fish,ɬa1,ɬa1,ɬ a *1/¹,,Chin2015,,,^ɬ a 1$,default
 Baocheng-19_fish-1,,Baocheng,19_fish,ɬa1,ɬa1,ɬ a *1/¹,,Chin2015,,,^ɬ a 1$,default
-Gelong-19_fish-1,,Gelong,19_fish,ŋɔi1,ŋɔi1,ŋ ɔ i *1/¹,,Chin2015,,,^ŋ ɔ i 1$,default
+Gelong-19_fish-1,,Gelong,19_fish,ŋɔi1,ŋɔi1,ŋ ɔi *1/¹,,Chin2015,,,^ŋ ɔi 1$,default
 Xifang-20_bird-1,,Xifang,20_bird,sat7,sat7,s a t *7/⁵²,,Chin2015,,,^s a t 7$,default
 Baisha-20_bird-1,,Baisha,20_bird,tshat8,tshat8,tsʰ a t *8/⁵³,,Chin2015,,,^tsh a t 8$,default
 Yuanmen-20_bird-1,,Yuanmen,20_bird,ȵa:u4,ȵa:u4,ȵ aːu *4/⁴,,Chin2015,,,^ȵ a:u 4$,default
@@ -263,8 +263,8 @@ Qiandui-26_root-1,,Qiandui,26_root,van4,van4,v a n *4/⁴,,Chin2015,,,^v a n 4$,
 Baocheng-26_root-1,,Baocheng,26_root,van4,van4,v a n *4/⁴,,Chin2015,,,^v a n 4$,default
 Gelong-26_root-1,,Gelong,26_root,fon1,fon1,f o n *1/¹,,Chin2015,,,^f o n 1$,default
 Xifang-28_skin-1,,Xifang,28_skin,no:ŋ1,no:ŋ1,n oː ŋ *1/¹,,Chin2015,,,^n o: ŋ 1$,default
-Baisha-28_skin-1,,Baisha,28_skin,nuaŋ1,nuaŋ1,n u a ŋ *1/¹,,Chin2015,,,^n u a ŋ 1$,default
-Yuanmen-28_skin-1,,Yuanmen,28_skin,nuaŋ4,nuaŋ4,n u a ŋ *4/⁴,,Chin2015,,,^n u a ŋ 4$,default
+Baisha-28_skin-1,,Baisha,28_skin,nuaŋ1,nuaŋ1,n u/w a ŋ *1/¹,,Chin2015,,,^n ua ŋ 1$,default
+Yuanmen-28_skin-1,,Yuanmen,28_skin,nuaŋ4,nuaŋ4,n u/w a ŋ *4/⁴,,Chin2015,,,^n ua ŋ 4$,default
 Heitu-28_skin-1,,Heitu,28_skin,naŋ1,naŋ1,n a ŋ *1/¹,,Chin2015,,,^n a ŋ 1$,default
 Baoding-28_skin-1,,Baoding,28_skin,no:ŋ1,no:ŋ1,n oː ŋ *1/¹,,Chin2015,,,^n o: ŋ 1$,default
 Zhongsha-28_skin-1,,Zhongsha,28_skin,no:ŋ1,no:ŋ1,n oː ŋ *1/¹,,Chin2015,,,^n o: ŋ 1$,default
@@ -286,7 +286,7 @@ Gelong-29_flesh-2,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,tθɯək2,tθ ɯ 
 Gelong-29_flesh-3,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,khai1,kʰ ai *1/¹,,Chin2015,,,^kh ai 1$,default
 Xifang-30_blood-1,,Xifang,30_blood,ɬo:ȶ7,ɬo:ȶ7,ɬ oː ȶ *7/⁵²,,Chin2015,,,^ɬ o: ȶ 7$,default
 Baisha-30_blood-1,,Baisha,30_blood,ɬa:ȶ 8,ɬa:ȶ_8,ɬ aː ȶ + *8/⁵³,,Chin2015,,,^ɬ a: ȶ _ 8$,default
-Yuanmen-30_blood-1,,Yuanmen,30_blood,ɬuaȶ7,ɬuaȶ7,ɬ u a ȶ *7/⁵²,,Chin2015,,,^ɬ u a ȶ 7$,default
+Yuanmen-30_blood-1,,Yuanmen,30_blood,ɬuaȶ7,ɬuaȶ7,ɬ u/w a ȶ *7/⁵²,,Chin2015,,,^ɬ ua ȶ 7$,default
 Heitu-30_blood-1,,Heitu,30_blood,da:ȶ7,da:ȶ7,d aː ȶ *7/⁵²,,Chin2015,,,^d a: ȶ 7$,default
 Baoding-30_blood-1,,Baoding,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ *7/⁵²,,Chin2015,,,^ɬ a: ȶ 7$,default
 Zhongsha-30_blood-1,,Zhongsha,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ *7/⁵²,,Chin2015,,,^ɬ a: ȶ 7$,default
@@ -308,7 +308,7 @@ Xifang-32_grease-1,,Xifang,32_grease,xui3,xui3,x ui *3/³,,Chin2015,,,^x ui 3$,d
 Baisha-32_grease-1,,Baisha,32_grease,xui3,xui3,x ui *3/³,,Chin2015,,,^x ui 3$,default
 Yuanmen-32_grease-1,,Yuanmen,32_grease,khui3,khui3,kʰ ui *3/³,,Chin2015,,,^kh ui 3$,default
 Heitu-32_grease-1,,Heitu,32_grease,ru:i3,ru:i3,r uːi *3/³,,Chin2015,,,^r u:i 3$,default
-Baoding-32_grease-1,,Baoding,32_grease,gwei3,gwei3,gʷ ei *3/³,,Chin2015,,,^gw ei 3$,default
+Baoding-32_grease-1,,Baoding,32_grease,gwei3,gwei3,g w ei *3/³,,Chin2015,,,^gw ei 3$,default
 Zhongsha-32_grease-1,,Zhongsha,32_grease,gu:i3,gu:i3,g uːi *3/³,,Chin2015,,,^g u:i 3$,default
 Tongzha-32_grease-1,,Tongzha,32_grease,gu:i6,gu:i6,g uːi *6/⁵¹,,Chin2015,,,^g u:i 6$,default
 Qiandui-32_grease-1,,Qiandui,32_grease,hu:i6,hu:i6,h uːi *6/⁵¹,,Chin2015,,,^h u:i 6$,default
@@ -369,7 +369,7 @@ Xifang-38_head-1,,Xifang,38_head,ɣo3,ɣo3,ɣ o *3/³,,Chin2015,,,^ɣ o 3$,defau
 Baisha-38_head-1,,Baisha,38_head,vo3,vo3,v o *3/³,,Chin2015,,,^v o 3$,default
 Yuanmen-38_head-1,,Yuanmen,38_head,vo3,vo3,v o *3/³,,Chin2015,,,^v o 3$,default
 Heitu-38_head-1,,Heitu,38_head,rau3,rau3,r au *3/³,,Chin2015,,,^r au 3$,default
-Baoding-38_head-1,,Baoding,38_head,gwou3,gwou3,gʷ ou *3/³,,Chin2015,,,^gw ou 3$,default
+Baoding-38_head-1,,Baoding,38_head,gwou3,gwou3,g w ou *3/³,,Chin2015,,,^gw ou 3$,default
 Zhongsha-38_head-1,,Zhongsha,38_head,gau3,gau3,g au *3/³,,Chin2015,,,^g au 3$,default
 Tongzha-38_head-1,,Tongzha,38_head,go6,go6,g o *6/⁵¹,,Chin2015,,,^g o 6$,default
 Qiandui-38_head-1,,Qiandui,38_head,ho6,ho6,h o *6/⁵¹,,Chin2015,,,^h o 6$,default
@@ -519,7 +519,7 @@ Baocheng-52_heart-1,,Baocheng,52_heart,ɬa:u3,ɬa:u3,ɬ aːu *3/³,,Chin2015,,,^
 Gelong-52_heart-1,,Gelong,52_heart,tθem5,tθem5,tθ e m *5/⁵,,Chin2015,,,^tθ e m 5$,default
 Xifang-53_liver-1,,Xifang,53_liver,ŋa: ŋ1,ŋa:_ŋ1,ŋ aː + ŋ *1/¹,,Chin2015,,,^ŋ a: _ ŋ 1$,default
 Baisha-53_liver-1,,Baisha,53_liver,ŋa: ŋ1,ŋa:_ŋ1,ŋ aː + ŋ *1/¹,,Chin2015,,,^ŋ a: _ ŋ 1$,default
-Yuanmen-53_liver-1,,Yuanmen,53_liver,ŋuan1,ŋuan1,ŋ u a n *1/¹,,Chin2015,,,^ŋ u a n 1$,default
+Yuanmen-53_liver-1,,Yuanmen,53_liver,ŋuan1,ŋuan1,ŋ u/w a n *1/¹,,Chin2015,,,^ŋ ua n 1$,default
 Heitu-53_liver-1,,Heitu,53_liver,ŋa: n1,ŋa:_n1,ŋ aː + n *1/¹,,Chin2015,,,^ŋ a: _ n 1$,default
 Baoding-53_liver-1,,Baoding,53_liver,ŋa:n1,ŋa:n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a: n 1$,default
 Zhongsha-53_liver-1,,Zhongsha,53_liver,ŋa:n1,ŋa:n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a: n 1$,default
@@ -559,7 +559,7 @@ Baocheng-56_bite-1,,Baocheng,56_bite,ka:n6,ka:n6,k aː n *6/⁵¹,,Chin2015,,,^k
 Gelong-56_bite-1,,Gelong,56_bite,ŋat2,ŋat2,ŋ a t *2/²,,Chin2015,,,^ŋ a t 2$,default
 Xifang-57_see-1,,Xifang,57_see,la:i3,la:i3,l aːi *3/³,,Chin2015,,,^l a:i 3$,default
 Baisha-57_see-1,,Baisha,57_see,la:i3,la:i3,l aːi *3/³,,Chin2015,,,^l a:i 3$,default
-Yuanmen-57_see-1,,Yuanmen,57_see,luai6,luai6,l u ai *6/⁵¹,,Chin2015,,,^l u ai 6$,default
+Yuanmen-57_see-1,,Yuanmen,57_see,luai6,luai6,l u/w a i *6/⁵¹,,Chin2015,,,^l ua i 6$,default
 Heitu-57_see-1,,Heitu,57_see,la:i3,la:i3,l aːi *3/³,,Chin2015,,,^l a:i 3$,default
 Baoding-57_see-1,,Baoding,57_see,la:i3,la:i3,l aːi *3/³,,Chin2015,,,^l a:i 3$,default
 Zhongsha-57_see-1,,Zhongsha,57_see,la:i3,la:i3,l aːi *3/³,,Chin2015,,,^l a:i 3$,default
@@ -582,11 +582,11 @@ Heitu-59_know-1,,Heitu,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ *1/¹,,Chin2015,,,^kh 
 Baoding-59_know-1,,Baoding,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ *1/¹,,Chin2015,,,^kh u: ŋ 1$,default
 Zhongsha-59_know-1,,Zhongsha,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ *1/¹,,Chin2015,,,^kh u: ŋ 1$,default
 Tongzha-59_know-1,,Tongzha,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ *1/¹,,Chin2015,,,^kh u: ŋ 1$,default
-Qiandui-59_know-1,,Qiandui,59_know,khuaŋ1,khuaŋ1,kʰ u a ŋ *1/¹,,Chin2015,,,^kh u a ŋ 1$,default
+Qiandui-59_know-1,,Qiandui,59_know,khuaŋ1,khuaŋ1,kʰ u/w a ŋ *1/¹,,Chin2015,,,^kh ua ŋ 1$,default
 Baocheng-59_know-1,,Baocheng,59_know,khuŋ1,khuŋ1,kʰ u ŋ *1/¹,,Chin2015,,,^kh u ŋ 1$,default
 Gelong-59_know-1,,Gelong,59_know,khoŋ1,khoŋ1,kʰ o ŋ *1/¹,,Chin2015,,,^kh o ŋ 1$,default
 Xifang-60_sleep-1,,Xifang,60_sleep,tso:ŋ1,tso:ŋ1,ts oː ŋ *1/¹,,Chin2015,,,^ts o: ŋ 1$,default
-Baisha-60_sleep-1,,Baisha,60_sleep,tsuaŋ1,tsuaŋ1,ts u a ŋ *1/¹,,Chin2015,,,^ts u a ŋ 1$,default
+Baisha-60_sleep-1,,Baisha,60_sleep,tsuaŋ1,tsuaŋ1,ts u/w a ŋ *1/¹,,Chin2015,,,^ts ua ŋ 1$,default
 Yuanmen-60_sleep-1,,Yuanmen,60_sleep,tu:n1,tu:n1,t uː n *1/¹,,Chin2015,,,^t u: n 1$,default
 Heitu-60_sleep-1,,Heitu,60_sleep,tso:n1,tso:n1,ts oː n *1/¹,,Chin2015,,,^ts o: n 1$,default
 Baoding-60_sleep-1,,Baoding,60_sleep,tso:n1,tso:n1,ts oː n *1/¹,,Chin2015,,,^ts o: n 1$,default
@@ -623,7 +623,7 @@ Zhongsha-63_swim-1,,Zhongsha,63_swim,lei1,lei1,l ei *1/¹,,Chin2015,,,^l ei 1$,d
 Tongzha-63_swim-1,,Tongzha,63_swim,plei1,plei1,p l ei *1/¹,,Chin2015,,,^p l ei 1$,default
 Qiandui-63_swim-1,,Qiandui,63_swim,pei1,pei1,p ei *1/¹,,Chin2015,,,^p ei 1$,default
 Baocheng-63_swim-1,,Baocheng,63_swim,pei1,pei1,p ei *1/¹,,Chin2015,,,^p ei 1$,default
-Gelong-63_swim-1,,Gelong,63_swim,lɔi4,lɔi4,l ɔ i *4/⁴,,Chin2015,,,^l ɔ i 4$,default
+Gelong-63_swim-1,,Gelong,63_swim,lɔi4,lɔi4,l ɔi *4/⁴,,Chin2015,,,^l ɔi 4$,default
 Xifang-64_fly-1,,Xifang,64_fly,ben1,ben1,b e n *1/¹,,Chin2015,,,^b e n 1$,default
 Baisha-64_fly-1,,Baisha,64_fly,ben1,ben1,b e n *1/¹,,Chin2015,,,^b e n 1$,default
 Yuanmen-64_fly-1,,Yuanmen,64_fly,ben1,ben1,b e n *1/¹,,Chin2015,,,^b e n 1$,default
@@ -675,7 +675,7 @@ Zhongsha-69_stand-1,,Zhongsha,69_stand,tsu:n1,tsu:n1,ts uː n *1/¹,,Chin2015,,,
 Tongzha-69_stand-1,,Tongzha,69_stand,tsu:n1,tsu:n1,ts uː n *1/¹,,Chin2015,,,^ts u: n 1$,default
 Qiandui-69_stand-1,,Qiandui,69_stand,tsu:n1,tsu:n1,ts uː n *1/¹,,Chin2015,,,^ts u: n 1$,default
 Baocheng-69_stand-1,,Baocheng,69_stand,tsu:n1,tsu:n1,ts uː n *1/¹,,Chin2015,,,^ts u: n 1$,default
-Gelong-69_stand-1,,Gelong,69_stand,hɔi5,hɔi5,h ɔ i *5/⁵,,Chin2015,,,^h ɔ i 5$,default
+Gelong-69_stand-1,,Gelong,69_stand,hɔi5,hɔi5,h ɔi *5/⁵,,Chin2015,,,^h ɔi 5$,default
 Xifang-70_give-1,,Xifang,70_give,tɯŋ2,tɯŋ2,t ɯ ŋ *2/²,,Chin2015,,,^t ɯ ŋ 2$,default
 Baisha-70_give-1,,Baisha,70_give,kau2,kau2,k au *2/²,,Chin2015,,,^k au 2$,default
 Yuanmen-70_give-1,,Yuanmen,70_give,kau2,kau2,k au *2/²,,Chin2015,,,^k au 2$,default
@@ -693,7 +693,7 @@ Heitu-71_say-1,,Heitu,71_say,ri:n1,ri:n1,r iː n *1/¹,,Chin2015,,,^r i: n 1$,de
 Baoding-71_say-1,,Baoding,71_say,ri:n1,ri:n1,r iː n *1/¹,,Chin2015,,,^r i: n 1$,default
 Zhongsha-71_say-1,,Zhongsha,71_say,ri:n1,ri:n1,r iː n *1/¹,,Chin2015,,,^r i: n 1$,default
 Tongzha-71_say-1,,Tongzha,71_say,ri:n4,ri:n4,r iː n *4/⁴,,Chin2015,,,^r i: n 4$,default
-Qiandui-71_say-1,,Qiandui,71_say,khuaŋ3,khuaŋ3,kʰ u a ŋ *3/³,,Chin2015,,,^kh u a ŋ 3$,default
+Qiandui-71_say-1,,Qiandui,71_say,khuaŋ3,khuaŋ3,kʰ u/w a ŋ *3/³,,Chin2015,,,^kh ua ŋ 3$,default
 Baocheng-71_say-1,,Baocheng,71_say,li:n4,li:n4,l iː n *4/⁴,,Chin2015,,,^l i: n 4$,default
 Gelong-71_say-1,,Gelong,71_say,kaːŋ2,kaːŋ2,k aː ŋ *2/²,,Chin2015,,,^k aː ŋ 2$,default
 Xifang-72_sun-1,,Xifang,72_sun,tsha3 // vaŋ1,tsha3,tsʰ a *3/³,,Chin2015,,,^tsh a 3$,default
@@ -703,7 +703,7 @@ Baisha-72_sun-2,,Baisha,72_sun,tsha1 // vaŋ1,vaŋ1,v a ŋ *1/¹,,Chin2015,,,^v 
 Yuanmen-72_sun-1,,Yuanmen,72_sun,van4,van4,v a n *4/⁴,,Chin2015,,,^v a n 4$,default
 Heitu-72_sun-1,,Heitu,72_sun,tsha1 // ven1,tsha1,tsʰ a *1/¹,,Chin2015,,,^tsh a 1$,default
 Heitu-72_sun-2,,Heitu,72_sun,tsha1 // ven1,ven1,v e n *1/¹,,Chin2015,,,^v e n 1$,default
-Baoding-72_sun-1,,Baoding,72_sun,tsha1 hwan1,tsha1_hwan1,tsʰ a *1/¹ + hʷ a n *1/¹,,Chin2015,,,^tsh a 1 _ hw a n 1$,default
+Baoding-72_sun-1,,Baoding,72_sun,tsha1 hwan1,tsha1_hwan1,tsʰ a *1/¹ + h w a n *1/¹,,Chin2015,,,^tsh a 1 _ hw a n 1$,default
 Zhongsha-72_sun-1,,Zhongsha,72_sun,tsha2 // van1,tsha2,tsʰ a *2/²,,Chin2015,,,^tsh a 2$,default
 Zhongsha-72_sun-2,,Zhongsha,72_sun,tsha2 // van1,van1,v a n *1/¹,,Chin2015,,,^v a n 1$,default
 Tongzha-72_sun-1,,Tongzha,72_sun,tsha1 // van4,tsha1,tsʰ a *1/¹,,Chin2015,,,^tsh a 1$,default
@@ -715,7 +715,7 @@ Gelong-72_sun-1,,Gelong,72_sun,zi1 // hon4,zi1,z i *1/¹,,Chin2015,,,^z i 1$,def
 Gelong-72_sun-2,,Gelong,72_sun,zi1 // hon4,hon4,h o n *4/⁴,,Chin2015,,,^h o n 4$,default
 Xifang-73_moon-1,,Xifang,73_moon,ȵa:ŋ1,ȵa:ŋ1,ȵ aː ŋ *1/¹,,Chin2015,,,^ȵ a: ŋ 1$,default
 Baisha-73_moon-1,,Baisha,73_moon,ȵa:ŋ1,ȵa:ŋ1,ȵ aː ŋ *1/¹,,Chin2015,,,^ȵ a: ŋ 1$,default
-Yuanmen-73_moon-1,,Yuanmen,73_moon,ȵuan4,ȵuan4,ȵ u a n *4/⁴,,Chin2015,,,^ȵ u a n 4$,default
+Yuanmen-73_moon-1,,Yuanmen,73_moon,ȵuan4,ȵuan4,ȵ u/w a n *4/⁴,,Chin2015,,,^ȵ ua n 4$,default
 Heitu-73_moon-1,,Heitu,73_moon,ȵa:n1,ȵa:n1,ȵ aː n *1/¹,,Chin2015,,,^ȵ a: n 1$,default
 Baoding-73_moon-1,,Baoding,73_moon,ȵa:n1,ȵa:n1,ȵ aː n *1/¹,,Chin2015,,,^ȵ a: n 1$,default
 Zhongsha-73_moon-1,,Zhongsha,73_moon,ȵa:n1,ȵa:n1,ȵ aː n *1/¹,,Chin2015,,,^ȵ a: n 1$,default
@@ -805,7 +805,7 @@ Zhongsha-81_smoke-1,,Zhongsha,81_smoke,zɯ:Ɂ7,zɯ:Ɂ7,z ɯː ʔ *7/⁵²,,Chin2
 Tongzha-81_smoke-1,,Tongzha,81_smoke,za4,za4,z a *4/⁴,,Chin2015,,,^z a 4$,default
 Qiandui-81_smoke-1,,Qiandui,81_smoke,za4,za4,z a *4/⁴,,Chin2015,,,^z a 4$,default
 Baocheng-81_smoke-1,,Baocheng,81_smoke,za1,za1,z a *1/¹,,Chin2015,,,^z a 1$,default
-Gelong-81_smoke-1,,Gelong,81_smoke,ŋuan1 fo1,ŋuan1_fo1,ŋ u a n *1/¹ + f o *1/¹,,Chin2015,,,^ŋ u a n 1 _ f o 1$,default
+Gelong-81_smoke-1,,Gelong,81_smoke,ŋuan1 fo1,ŋuan1_fo1,ŋ u/w a n *1/¹ + f o *1/¹,,Chin2015,,,^ŋ ua n 1 _ f o 1$,default
 Xifang-82_fire-1,,Xifang,82_fire,fei1,fei1,f ei *1/¹,,Chin2015,,,^f ei 1$,default
 Baisha-82_fire-1,,Baisha,82_fire,fei1,fei1,f ei *1/¹,,Chin2015,,,^f ei 1$,default
 Yuanmen-82_fire-1,,Yuanmen,82_fire,fhei1,fhei1,fʰ ei *1/¹,,Chin2015,,,^fh ei 1$,default
@@ -826,7 +826,7 @@ Zhongsha-84_burn-1,,Zhongsha,84_burn,tshui3,tshui3,tsʰ ui *3/³,,Chin2015,,,^ts
 Tongzha-84_burn-1,,Tongzha,84_burn,tshui3,tshui3,tsʰ ui *3/³,,Chin2015,,,^tsh ui 3$,default
 Qiandui-84_burn-1,,Qiandui,84_burn,tshui3,tshui3,tsʰ ui *3/³,,Chin2015,,,^tsh ui 3$,default
 Baocheng-84_burn-1,,Baocheng,84_burn,tshui3,tshui3,tsʰ ui *3/³,,Chin2015,,,^tsh ui 3$,default
-Gelong-84_burn-1,,Gelong,84_burn,tshɔi3,tshɔi3,tsʰ ɔ i *3/³,,Chin2015,,,^tsh ɔ i 3$,default
+Gelong-84_burn-1,,Gelong,84_burn,tshɔi3,tshɔi3,tsʰ ɔi *3/³,,Chin2015,,,^tsh ɔi 3$,default
 Xifang-85_path-1,,Xifang,85_path,kuŋ1,kuŋ1,k u ŋ *1/¹,,Chin2015,,,^k u ŋ 1$,default
 Baisha-85_path-1,,Baisha,85_path,kuŋ1,kuŋ1,k u ŋ *1/¹,,Chin2015,,,^k u ŋ 1$,default
 Yuanmen-85_path-1,,Yuanmen,85_path,kun5,kun5,k u n *5/⁵,,Chin2015,,,^k u n 5$,default
@@ -841,7 +841,7 @@ Xifang-86_mountain-1,,Xifang,86_mountain,ŋo3,ŋo3,ŋ o *3/³,,Chin2015,,,^ŋ o 
 Baisha-86_mountain-1,,Baisha,86_mountain,ŋo3,ŋo3,ŋ o *3/³,,Chin2015,,,^ŋ o 3$,default
 Yuanmen-86_mountain-1,,Yuanmen,86_mountain,ɱo6,ɱo6,ɱ o *6/⁵¹,,Chin2015,,,^ɱ o 6$,default
 Heitu-86_mountain-1,,Heitu,86_mountain,hau3,hau3,h au *3/³,,Chin2015,,,^h au 3$,default
-Baoding-86_mountain-1,,Baoding,86_mountain,hwou3,hwou3,hʷ ou *3/³,,Chin2015,,,^hw ou 3$,default
+Baoding-86_mountain-1,,Baoding,86_mountain,hwou3,hwou3,h w ou *3/³,,Chin2015,,,^hw ou 3$,default
 Zhongsha-86_mountain-1,,Zhongsha,86_mountain,hau3,hau3,h au *3/³,,Chin2015,,,^h au 3$,default
 Tongzha-86_mountain-1,,Tongzha,86_mountain,go3,go3,g o *3/³,,Chin2015,,,^g o 3$,default
 Qiandui-86_mountain-1,,Qiandui,86_mountain,vo3,vo3,v o *3/³,,Chin2015,,,^v o 3$,default
@@ -929,7 +929,7 @@ Baocheng-93b_hot-1,,Baocheng,93b_hot,ti:t7,ti:t7,t iː t *7/⁵²,,Chin2015,,,^t
 Gelong-93b_hot-1,,Gelong,93b_hot,fau3,fau3,f au *3/³,,Chin2015,,,^f au 3$,default
 Xifang-94_cold-1,,Xifang,94_cold,kha:i2,kha:i2,kʰ aːi *2/²,,Chin2015,,,^kh a:i 2$,default
 Baisha-94_cold-1,,Baisha,94_cold,kha:i2,kha:i2,kʰ aːi *2/²,,Chin2015,,,^kh a:i 2$,default
-Yuanmen-94_cold-1,,Yuanmen,94_cold,khuai5,khuai5,kʰ u ai *5/⁵,,Chin2015,,,^kh u ai 5$,default
+Yuanmen-94_cold-1,,Yuanmen,94_cold,khuai5,khuai5,kʰ u/w a i *5/⁵,,Chin2015,,,^kh ua i 5$,default
 Heitu-94_cold-1,,Heitu,94_cold,khai2,khai2,kʰ ai *2/²,,Chin2015,,,^kh ai 2$,default
 Baoding-94_cold-1,,Baoding,94_cold,kha:i2,kha:i2,kʰ aːi *2/²,,Chin2015,,,^kh a:i 2$,default
 Zhongsha-94_cold-1,,Zhongsha,94_cold,kha:i2,kha:i2,kʰ aːi *2/²,,Chin2015,,,^kh a:i 2$,default
@@ -971,7 +971,7 @@ Xifang-98_round-1,,Xifang,98_round,ɣom1,ɣom1,ɣ o m *1/¹,,Chin2015,,,^ɣ o m 
 Baisha-98_round-1,,Baisha,98_round,zom1,zom1,z o m *1/¹,,Chin2015,,,^z o m 1$,default
 Yuanmen-98_round-1,,Yuanmen,98_round,vom4,vom4,v o m *4/⁴,,Chin2015,,,^v o m 4$,default
 Heitu-98_round-1,,Heitu,98_round,hom1,hom1,h o m *1/¹,,Chin2015,,,^h o m 1$,default
-Baoding-98_round-1,,Baoding,98_round,hwom1,hwom1,hʷ o m *1/¹,,Chin2015,,,^hw o m 1$,default
+Baoding-98_round-1,,Baoding,98_round,hwom1,hwom1,h w o m *1/¹,,Chin2015,,,^hw o m 1$,default
 Zhongsha-98_round-1,,Zhongsha,98_round,hom1,hom1,h o m *1/¹,,Chin2015,,,^h o m 1$,default
 Tongzha-98_round-1,,Tongzha,98_round,gom4,gom4,g o m *4/⁴,,Chin2015,,,^g o m 4$,default
 Qiandui-98_round-1,,Qiandui,98_round,po5,po5,p o *5/⁵,,Chin2015,,,^p o 5$,default
