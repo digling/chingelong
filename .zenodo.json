@@ -20,7 +20,7 @@
             "type": "Other"
         },
         {
-            "name": "Ayten T\u00fcfekci",
+            "name": "Ayten T\u00c3\u00bcfekci",
             "type": "Other"
         }
     ],
@@ -30,7 +30,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chin, Andy (2015): The Gelong Language in the Multilingual Hub of Hainan</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chin, Andy C. (2015): The Gelong Language in the Multilingual Hub of Hainan. Bulletin of Chinese Linguistics. 8. 140-156.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

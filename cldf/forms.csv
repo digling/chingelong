@@ -1,999 +1,999 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-Xifang-1_i-1,,Xifang,1_i,hou1,hou1,,,Chin2015,,,,
-Baisha-1_i-1,,Baisha,1_i,ho1,ho1,,,Chin2015,,,,
-Yuanmen-1_i-1,,Yuanmen,1_i,houɁ7,houɁ7,,,Chin2015,,,,
-Heitu-1_i-1,,Heitu,1_i,hou1,hou1,,,Chin2015,,,,
-Baoding-1_i-1,,Baoding,1_i,hou1 // de3,hou1,,,Chin2015,,,,
-Baoding-1_i-2,,Baoding,1_i,hou1 // de3,de3,,,Chin2015,,,,
-Zhongsha-1_i-1,,Zhongsha,1_i,hou1,hou1,,,Chin2015,,,,
-Tongzha-1_i-1,,Tongzha,1_i,hou1,hou1,,,Chin2015,,,,
-Qiandui-1_i-1,,Qiandui,1_i,hou1,hou1,,,Chin2015,,,,
-Baocheng-1_i-1,,Baocheng,1_i,hou1,hou1,,,Chin2015,,,,
-Gelong-1_i-1,,Gelong,1_i,kɘ5,kɘ5,,,Chin2015,,,,
-Xifang-2_you-1,,Xifang,2_you,meɯ1,meɯ1,,,Chin2015,,,,
-Baisha-2_you-1,,Baisha,2_you,mə1,mə1,,,Chin2015,,,,
-Yuanmen-2_you-1,,Yuanmen,2_you,meɯɁ8,meɯɁ8,,,Chin2015,,,,
-Heitu-2_you-1,,Heitu,2_you,mɯ1,mɯ1,,,Chin2015,,,,
-Baoding-2_you-1,,Baoding,2_you,meɯ1,meɯ1,,,Chin2015,,,,
-Zhongsha-2_you-1,,Zhongsha,2_you,meɯ1,meɯ1,,,Chin2015,,,,
-Tongzha-2_you-1,,Tongzha,2_you,meɯ1,meɯ1,,,Chin2015,,,,
-Qiandui-2_you-1,,Qiandui,2_you,meɯ4,meɯ4,,,Chin2015,,,,
-Baocheng-2_you-1,,Baocheng,2_you,meɯ1,meɯ1,,,Chin2015,,,,
-Gelong-2_you-1,,Gelong,2_you,mɔ5,mɔ5,,,Chin2015,,,,
-Xifang-3_we-1,,Xifang,3_we,fau1,fau1,,,Chin2015,,,,
-Baisha-3_we-1,,Baisha,3_we,fə1,fə1,,,Chin2015,,,,
-Yuanmen-3_we-1,,Yuanmen,3_we,feɯɁ7,feɯɁ7,,,Chin2015,,,,
-Heitu-3_we-1,,Heitu,3_we,Ɂa2 rou1,Ɂa2_rou1,,,Chin2015,,,,
-Baoding-3_we-1,,Baoding,3_we,fa1,fa1,,,Chin2015,,,,
-Zhongsha-3_we-1,,Zhongsha,3_we,Ɂa3tau1,Ɂa3tau1,,,Chin2015,,,,
-Tongzha-3_we-1,,Tongzha,3_we,fau1,fau1,,,Chin2015,,,,
-Qiandui-3_we-1,,Qiandui,3_we,fau1,fau1,,,Chin2015,,,,
-Baocheng-3_we-1,,Baocheng,3_we,fou1,fou1,,,Chin2015,,,,
-Gelong-3_we-1,,Gelong,3_we,ha5,ha5,,,Chin2015,,,,
-Xifang-4_this-1,,Xifang,4_this,nei2,nei2,,,Chin2015,,,,
-Baisha-4_this-1,,Baisha,4_this,ne2 // nen3,ne2,,,Chin2015,,,,
-Baisha-4_this-2,,Baisha,4_this,ne2 // nen3,nen3,,,Chin2015,,,,
-Yuanmen-4_this-1,,Yuanmen,4_this,ni5,ni5,,,Chin2015,,,,
-Heitu-4_this-1,,Heitu,4_this,nei2,nei2,,,Chin2015,,,,
-Baoding-4_this-1,,Baoding,4_this,nei2,nei2,,,Chin2015,,,,
-Zhongsha-4_this-1,,Zhongsha,4_this,nei2,nei2,,,Chin2015,,,,
-Tongzha-4_this-1,,Tongzha,4_this,ni5,ni5,,,Chin2015,,,,
-Qiandui-4_this-1,,Qiandui,4_this,nei2,nei2,,,Chin2015,,,,
-Baocheng-4_this-1,,Baocheng,4_this,nei5,nei5,,,Chin2015,,,,
-Gelong-4_this-1,,Gelong,4_this,nɛi3,nɛi3,,,Chin2015,,,,
-Xifang-5_that-1,,Xifang,5_that,ma2,ma2,,,Chin2015,,,,
-Baisha-5_that-1,,Baisha,5_that,na3,na3,,,Chin2015,,,,
-Yuanmen-5_that-1,,Yuanmen,5_that,no5,no5,,,Chin2015,,,,
-Heitu-5_that-1,,Heitu,5_that,ma2,ma2,,,Chin2015,,,,
-Baoding-5_that-1,,Baoding,5_that,ma2,ma2,,,Chin2015,,,,
-Zhongsha-5_that-1,,Zhongsha,5_that,na2,na2,,,Chin2015,,,,
-Tongzha-5_that-1,,Tongzha,5_that,ma5,ma5,,,Chin2015,,,,
-Qiandui-5_that-1,,Qiandui,5_that,mɔ2,mɔ2,,,Chin2015,,,,
-Baocheng-5_that-1,,Baocheng,5_that,ma5,ma5,,,Chin2015,,,,
-Gelong-5_that-1,,Gelong,5_that,hɔ5,hɔ5,,,Chin2015,,,,
-Xifang-6_who-1,,Xifang,6_who,Ɂɯ3 ra3,Ɂɯ3_ra3,,,Chin2015,,,,
-Baisha-6_who-1,,Baisha,6_who,Ɂa1 ra5,Ɂa1_ra5,,,Chin2015,,,,
-Yuanmen-6_who-1,,Yuanmen,6_who,Ɂa1 ra6,Ɂa1_ra6,,,Chin2015,,,,
-Heitu-6_who-1,,Heitu,6_who,Ɂa3 ra1,Ɂa3_ra1,,,Chin2015,,,,
-Baoding-6_who-1,,Baoding,6_who,Ɂɯ3 ra3,Ɂɯ3_ra3,,,Chin2015,,,,
-Zhongsha-6_who-1,,Zhongsha,6_who,Ɂa3 ra1,Ɂa3_ra1,,,Chin2015,,,,
-Tongzha-6_who-1,,Tongzha,6_who,Ɂa3 ra2,Ɂa3_ra2,,,Chin2015,,,,
-Qiandui-6_who-1,,Qiandui,6_who,Ɂai1 la3,Ɂai1_la3,,,Chin2015,,,,
-Baocheng-6_who-1,,Baocheng,6_who,Ɂa4 la1,Ɂa4_la1,,,Chin2015,,,,
-Gelong-6_who-1,,Gelong,6_who,au5,au5,,,Chin2015,,,,
-Xifang-7_what-1,,Xifang,7_what,pɯ3 ra3,pɯ3_ra3,,,Chin2015,,,,
-Baisha-7_what-1,,Baisha,7_what,mau2 pla2,mau2_pla2,,,Chin2015,,,,
-Yuanmen-7_what-1,,Yuanmen,7_what,ma3 ra6,ma3_ra6,,,Chin2015,,,,
-Heitu-7_what-1,,Heitu,7_what,mei3 paŋ3,mei3_paŋ3,,,Chin2015,,,,
-Baoding-7_what-1,,Baoding,7_what,me3 he3,me3_he3,,,Chin2015,,,,
-Zhongsha-7_what-1,,Zhongsha,7_what,mau2 phe1,mau2_phe1,,,Chin2015,,,,
-Tongzha-7_what-1,,Tongzha,7_what,me3 he1,me3_he1,,,Chin2015,,,,
-Qiandui-7_what-1,,Qiandui,7_what,mo2 me:ŋ1,mo2_me:ŋ1,,,Chin2015,,,,
-Baocheng-7_what-1,,Baocheng,7_what,he1,he1,,,Chin2015,,,,
-Gelong-7_what-1,,Gelong,7_what,mɔ5 miɘ,mɔ5_miɘ,,,Chin2015,,,,
-Xifang-8_not-1,,Xifang,8_not,ɣan3,ɣan3,,,Chin2015,,,,
-Baisha-8_not-1,,Baisha,8_not,van3,van3,,,Chin2015,,,,
-Yuanmen-8_not-1,,Yuanmen,8_not,van5,van5,,,Chin2015,,,,
-Heitu-8_not-1,,Heitu,8_not,Ɂe:m2,Ɂe:m2,,,Chin2015,,,,
-Baoding-8_not-1,,Baoding,8_not,ta1,ta1,,,Chin2015,,,,
-Zhongsha-8_not-1,,Zhongsha,8_not,Ɂe:m2,Ɂe:m2,,,Chin2015,,,,
-Tongzha-8_not-1,,Tongzha,8_not,vei4,vei4,,,Chin2015,,,,
-Qiandui-8_not-1,,Qiandui,8_not,van3,van3,,,Chin2015,,,,
-Baocheng-8_not-1,,Baocheng,8_not,vei4,vei4,,,Chin2015,,,,
-Gelong-8_not-1,,Gelong,8_not,vɛn3,vɛn3,,,Chin2015,,,,
-Xifang-9_all-1,,Xifang,9_all,rik7 rik7,rik7_rik7,,,Chin2015,,,,
-Baisha-9_all-1,,Baisha,9_all,rit7 rit7,rit7_rit7,,,Chin2015,,,,
-Yuanmen-9_all-1,,Yuanmen,9_all,bu:i3 bu:i3,bu:i3_bu:i3,,,Chin2015,,,,
-Heitu-9_all-1,,Heitu,9_all,ba:i3 ba:i3,ba:i3_ba:i3,,,Chin2015,,,,
-Baoding-9_all-1,,Baoding,9_all,ba:i3 ba:i3,ba:i3_ba:i3,,,Chin2015,,,,
-Zhongsha-9_all-1,,Zhongsha,9_all,ba:i3 ba:i3,ba:i3_ba:i3,,,Chin2015,,,,
-Tongzha-9_all-1,,Tongzha,9_all,ba:i3 ba:i3,ba:i3_ba:i3,,,Chin2015,,,,
-Qiandui-9_all-1,,Qiandui,9_all,ba:i3 ba:i3,ba:i3_ba:i3,,,Chin2015,,,,
-Baocheng-9_all-1,,Baocheng,9_all,ba:i3 ba:i3,ba:i3_ba:i3,,,Chin2015,,,,
-Gelong-9_all-1,,Gelong,9_all,nuŋ3,nuŋ3,,,Chin2015,,,,
-Xifang-10_many-1,,Xifang,10_many,ɬo:i1,ɬo:i1,,,Chin2015,,,,
-Baisha-10_many-1,,Baisha,10_many,ɬuai1,ɬuai1,,,Chin2015,,,,
-Yuanmen-10_many-1,,Yuanmen,10_many,ɬu:i1,ɬu:i1,,,Chin2015,,,,
-Heitu-10_many-1,,Heitu,10_many,da:i1,da:i1,,,Chin2015,,,,
-Baoding-10_many-1,,Baoding,10_many,ɬo:i1,ɬo:i1,,,Chin2015,,,,
-Zhongsha-10_many-1,,Zhongsha,10_many,ɬo:i1,ɬo:i1,,,Chin2015,,,,
-Tongzha-10_many-1,,Tongzha,10_many,ɬa:i1,ɬa:i1,,,Chin2015,,,,
-Qiandui-10_many-1,,Qiandui,10_many,ɬa:i1,ɬa:i1,,,Chin2015,,,,
-Baocheng-10_many-1,,Baocheng,10_many,ɬa:i1,ɬa:i1,,,Chin2015,,,,
-Gelong-10_many-1,,Gelong,10_many,tθɔi1,tθɔi1,,,Chin2015,,,,
-Xifang-11_one-1,,Xifang,11_one,tshei3,tshei3,,,Chin2015,,,,
-Baisha-11_one-1,,Baisha,11_one,tsheɯ3,tsheɯ3,,,Chin2015,,,,
-Yuanmen-11_one-1,,Yuanmen,11_one,tsɯ2,tsɯ2,,,Chin2015,,,,
-Heitu-11_one-1,,Heitu,11_one,kɯ2,kɯ2,,,Chin2015,,,,
-Baoding-11_one-1,,Baoding,11_one,tsheɯ3,tsheɯ3,,,Chin2015,,,,
-Zhongsha-11_one-1,,Zhongsha,11_one,kɯ2,kɯ2,,,Chin2015,,,,
-Tongzha-11_one-1,,Tongzha,11_one,Ɂɯ3,Ɂɯ3,,,Chin2015,,,,
-Qiandui-11_one-1,,Qiandui,11_one,tɯ5,tɯ5,,,Chin2015,,,,
-Baocheng-11_one-1,,Baocheng,11_one,kɯ2,kɯ2,,,Chin2015,,,,
-Gelong-11_one-1,,Gelong,11_one,tsi4,tsi4,,,Chin2015,,,,
-Xifang-12_two-1,,Xifang,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Baisha-12_two-1,,Baisha,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Yuanmen-12_two-1,,Yuanmen,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Heitu-12_two-1,,Heitu,12_two,dou3,dou3,,,Chin2015,,,,
-Baoding-12_two-1,,Baoding,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Zhongsha-12_two-1,,Zhongsha,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Tongzha-12_two-1,,Tongzha,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Qiandui-12_two-1,,Qiandui,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Baocheng-12_two-1,,Baocheng,12_two,ɬau3,ɬau3,,,Chin2015,,,,
-Gelong-12_two-1,,Gelong,12_two,tθai3,tθai3,,,Chin2015,,,,
-Xifang-13_big-1,,Xifang,13_big,loŋ1,loŋ1,,,Chin2015,,,,
-Baisha-13_big-1,,Baisha,13_big,luŋ1,luŋ1,,,Chin2015,,,,
-Yuanmen-13_big-1,,Yuanmen,13_big,luŋ4,luŋ4,,,Chin2015,,,,
-Heitu-13_big-1,,Heitu,13_big,luŋ1,luŋ1,,,Chin2015,,,,
-Baoding-13_big-1,,Baoding,13_big,loŋ1,loŋ1,,,Chin2015,,,,
-Zhongsha-13_big-1,,Zhongsha,13_big,luŋ1,luŋ1,,,Chin2015,,,,
-Tongzha-13_big-1,,Tongzha,13_big,loŋ1,loŋ1,,,Chin2015,,,,
-Qiandui-13_big-1,,Qiandui,13_big,luŋ4,luŋ4,,,Chin2015,,,,
-Baocheng-13_big-1,,Baocheng,13_big,luŋ1,luŋ1,,,Chin2015,,,,
-Gelong-13_big-1,,Gelong,13_big,loŋ1,loŋ1,,,Chin2015,,,,
-Xifang-14_long-1,,Xifang,14_long,ta:u3,ta:u3,,,Chin2015,,,,
-Baisha-14_long-1,,Baisha,14_long,ta:u3,ta:u3,,,Chin2015,,,,
-Yuanmen-14_long-1,,Yuanmen,14_long,ta:u6,ta:u6,,,Chin2015,,,,
-Heitu-14_long-1,,Heitu,14_long,na:u3,na:u3,,,Chin2015,,,,
-Baoding-14_long-1,,Baoding,14_long,ta:u3,ta:u3,,,Chin2015,,,,
-Zhongsha-14_long-1,,Zhongsha,14_long,ta:u3,ta:u3,,,Chin2015,,,,
-Tongzha-14_long-1,,Tongzha,14_long,ta:u6,ta:u6,,,Chin2015,,,,
-Qiandui-14_long-1,,Qiandui,14_long,tha:u6,tha:u6,,,Chin2015,,,,
-Baocheng-14_long-1,,Baocheng,14_long,ta:u6,ta:u6,,,Chin2015,,,,
-Gelong-14_long-1,,Gelong,14_long,tsaːu4,tsaːu4,,,Chin2015,,,,
-Xifang-15_small-1,,Xifang,15_small,Ɂiȵ2 // tɔk7,Ɂiȵ2,,,Chin2015,,,,
-Xifang-15_small-2,,Xifang,15_small,Ɂiȵ2 // tɔk7,tɔk7,,,Chin2015,,,,
-Baisha-15_small-1,,Baisha,15_small,tɔk8,tɔk8,,,Chin2015,,,,
-Yuanmen-15_small-1,,Yuanmen,15_small,tɔk8,tɔk8,,,Chin2015,,,,
-Heitu-15_small-1,,Heitu,15_small,tik9,tik9,,,Chin2015,,,,
-Baoding-15_small-1,,Baoding,15_small,Ɂeȵ2,Ɂeȵ2,,,Chin2015,,,,
-Zhongsha-15_small-1,,Zhongsha,15_small,Ɂin2,Ɂin2,,,Chin2015,,,,
-Tongzha-15_small-1,,Tongzha,15_small,tok8,tok8,,,Chin2015,,,,
-Qiandui-15_small-1,,Qiandui,15_small,thoɁ8,thoɁ8,,,Chin2015,,,,
-Baocheng-15_small-1,,Baocheng,15_small,tɔk8,tɔk8,,,Chin2015,,,,
-Gelong-15_small-1,,Gelong,15_small,vɔi3,vɔi3,,,Chin2015,,,,
-Xifang-16_woman-1,,Xifang,16_woman,ɬɯk7 kho2,ɬɯk7_kho2,,,Chin2015,,,,
-Baisha-16_woman-1,,Baisha,16_woman,pai3 kho5,pai3_kho5,,,Chin2015,,,,
-Yuanmen-16_woman-1,,Yuanmen,16_woman,pai4 kho5,pai4_kho5,,,Chin2015,,,,
-Heitu-16_woman-1,,Heitu,16_woman,mei3 khau2,mei3_khau2,,,Chin2015,,,,
-Baoding-16_woman-1,,Baoding,16_woman,pai3 khau2,pai3_khau2,,,Chin2015,,,,
-Zhongsha-16_woman-1,,Zhongsha,16_woman,pai3 khau2,pai3_khau2,,,Chin2015,,,,
-Tongzha-16_woman-1,,Tongzha,16_woman,ɬɯɁ7 kho5,ɬɯɁ7_kho5,,,Chin2015,,,,
-Qiandui-16_woman-1,,Qiandui,16_woman,phai6 kho5,phai6_kho5,,,Chin2015,,,,
-Baocheng-16_woman-1,,Baocheng,16_woman,pai4 khɔ4,pai4_khɔ4,,,Chin2015,,,,
-Gelong-16_woman-1,,Gelong,16_woman,ŋaːu1 bai4,ŋaːu1_bai4,,,Chin2015,,,,
-Xifang-17_man-1,,Xifang,17_man,pha3,pha3,,,Chin2015,,,,
-Baisha-17_man-1,,Baisha,17_man,pha3,pha3,,,Chin2015,,,,
-Yuanmen-17_man-1,,Yuanmen,17_man,pha3,pha3,,,Chin2015,,,,
-Heitu-17_man-1,,Heitu,17_man,pha3,pha3,,,Chin2015,,,,
-Baoding-17_man-1,,Baoding,17_man,pha3,pha3,,,Chin2015,,,,
-Zhongsha-17_man-1,,Zhongsha,17_man,pha3,pha3,,,Chin2015,,,,
-Tongzha-17_man-1,,Tongzha,17_man,ɬɯ:Ɂ7,ɬɯ:Ɂ7,,,Chin2015,,,,
-Qiandui-17_man-1,,Qiandui,17_man,pha3,pha3,,,Chin2015,,,,
-Baocheng-17_man-1,,Baocheng,17_man,pha3,pha3,,,Chin2015,,,,
-Gelong-17_man-1,,Gelong,17_man,phɔ3,phɔ3,,,Chin2015,,,,
-Xifang-18_person-1,,Xifang,18_person,Ɂa:u1,Ɂa:u1,,,Chin2015,,,,
-Baisha-18_person-1,,Baisha,18_person,ŋa:u4,ŋa:u4,,,Chin2015,,,,
-Yuanmen-18_person-1,,Yuanmen,18_person,ɱa:u5,ɱa:u5,,,Chin2015,,,,
-Heitu-18_person-1,,Heitu,18_person,Ɂa:u2,Ɂa:u2,,,Chin2015,,,,
-Baoding-18_person-1,,Baoding,18_person,Ɂa:u1,Ɂa:u1,,,Chin2015,,,,
-Zhongsha-18_person-1,,Zhongsha,18_person,Ɂa:u1,Ɂa:u1,,,Chin2015,,,,
-Tongzha-18_person-1,,Tongzha,18_person,Ɂa:u1,Ɂa:u1,,,Chin2015,,,,
-Qiandui-18_person-1,,Qiandui,18_person,Ɂa:u1,Ɂa:u1,,,Chin2015,,,,
-Baocheng-18_person-1,,Baocheng,18_person,Ɂa:u1,Ɂa:u1,,,Chin2015,,,,
-Gelong-18_person-1,,Gelong,18_person,ŋaːu1,ŋaːu1,,,Chin2015,,,,
-Xifang-19_fish-1,,Xifang,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Baisha-19_fish-1,,Baisha,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Yuanmen-19_fish-1,,Yuanmen,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Heitu-19_fish-1,,Heitu,19_fish,da1,da1,,,Chin2015,,,,
-Baoding-19_fish-1,,Baoding,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Zhongsha-19_fish-1,,Zhongsha,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Tongzha-19_fish-1,,Tongzha,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Qiandui-19_fish-1,,Qiandui,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Baocheng-19_fish-1,,Baocheng,19_fish,ɬa1,ɬa1,,,Chin2015,,,,
-Gelong-19_fish-1,,Gelong,19_fish,ŋɔi1,ŋɔi1,,,Chin2015,,,,
-Xifang-20_bird-1,,Xifang,20_bird,sat7,sat7,,,Chin2015,,,,
-Baisha-20_bird-1,,Baisha,20_bird,tshat8,tshat8,,,Chin2015,,,,
-Yuanmen-20_bird-1,,Yuanmen,20_bird,ȵa:u4,ȵa:u4,,,Chin2015,,,,
-Heitu-20_bird-1,,Heitu,20_bird,tat9,tat9,,,Chin2015,,,,
-Baoding-20_bird-1,,Baoding,20_bird,taȶ7,taȶ7,,,Chin2015,,,,
-Zhongsha-20_bird-1,,Zhongsha,20_bird,tat7,tat7,,,Chin2015,,,,
-Tongzha-20_bird-1,,Tongzha,20_bird,tat7,tat7,,,Chin2015,,,,
-Qiandui-20_bird-1,,Qiandui,20_bird,tat7,tat7,,,Chin2015,,,,
-Baocheng-20_bird-1,,Baocheng,20_bird,tat7,tat7,,,Chin2015,,,,
-Gelong-20_bird-1,,Gelong,20_bird,tshiat2,tshiat2,,,Chin2015,,,,
-Xifang-21_dog-1,,Xifang,21_dog,pa1,pa1,,,Chin2015,,,,
-Baisha-21_dog-1,,Baisha,21_dog,pa1,pa1,,,Chin2015,,,,
-Yuanmen-21_dog-1,,Yuanmen,21_dog,pa4,pa4,,,Chin2015,,,,
-Heitu-21_dog-1,,Heitu,21_dog,ma1,ma1,,,Chin2015,,,,
-Baoding-21_dog-1,,Baoding,21_dog,pa1,pa1,,,Chin2015,,,,
-Zhongsha-21_dog-1,,Zhongsha,21_dog,pa1,pa1,,,Chin2015,,,,
-Tongzha-21_dog-1,,Tongzha,21_dog,pa4,pa4,,,Chin2015,,,,
-Qiandui-21_dog-1,,Qiandui,21_dog,pha4,pha4,,,Chin2015,,,,
-Baocheng-21_dog-1,,Baocheng,21_dog,pa4,pa4,,,Chin2015,,,,
-Gelong-21_dog-1,,Gelong,21_dog,khak5,khak5,,,Chin2015,,,,
-Xifang-22_louse-1,,Xifang,22_louse,thaɁ1,thaɁ1,,,Chin2015,,,,
-Baisha-22_louse-1,,Baisha,22_louse,thaɁ1,thaɁ1,,,Chin2015,,,,
-Yuanmen-22_louse-1,,Yuanmen,22_louse,than1,than1,,,Chin2015,,,,
-Heitu-22_louse-1,,Heitu,22_louse,then1,then1,,,Chin2015,,,,
-Baoding-22_louse-1,,Baoding,22_louse,than1,than1,,,Chin2015,,,,
-Zhongsha-22_louse-1,,Zhongsha,22_louse,than1,than1,,,Chin2015,,,,
-Tongzha-22_louse-1,,Tongzha,22_louse,than1,than1,,,Chin2015,,,,
-Qiandui-22_louse-1,,Qiandui,22_louse,than1,than1,,,Chin2015,,,,
-Baocheng-22_louse-1,,Baocheng,22_louse,than1,than1,,,Chin2015,,,,
-Gelong-22_louse-1,,Gelong,22_louse,ki5 feu1,ki5_feu1,,,Chin2015,,,,
-Xifang-23_tree-1,,Xifang,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Baisha-23_tree-1,,Baisha,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Yuanmen-23_tree-1,,Yuanmen,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Heitu-23_tree-1,,Heitu,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Baoding-23_tree-1,,Baoding,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Zhongsha-23_tree-1,,Zhongsha,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Tongzha-23_tree-1,,Tongzha,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Qiandui-23_tree-1,,Qiandui,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Baocheng-23_tree-1,,Baocheng,23_tree,tshai1,tshai1,,,Chin2015,,,,
-Gelong-23_tree-1,,Gelong,23_tree,nɛk2,nɛk2,,,Chin2015,,,,
-Xifang-24_seed-1,,Xifang,24_seed,faŋ1,faŋ1,,,Chin2015,,,,
-Baisha-24_seed-1,,Baisha,24_seed,faŋ1,faŋ1,,,Chin2015,,,,
-Yuanmen-24_seed-1,,Yuanmen,24_seed,fan1,fan1,,,Chin2015,,,,
-Heitu-24_seed-1,,Heitu,24_seed,phen1,phen1,,,Chin2015,,,,
-Baoding-24_seed-1,,Baoding,24_seed,fan1,fan1,,,Chin2015,,,,
-Zhongsha-24_seed-1,,Zhongsha,24_seed,fan1,fan1,,,Chin2015,,,,
-Tongzha-24_seed-1,,Tongzha,24_seed,fan1,fan1,,,Chin2015,,,,
-Qiandui-24_seed-1,,Qiandui,24_seed,fan1,fan1,,,Chin2015,,,,
-Baocheng-24_seed-1,,Baocheng,24_seed,fan1,fan1,,,Chin2015,,,,
-Gelong-24_seed-1,,Gelong,24_seed,fon1,fon1,,,Chin2015,,,,
-Xifang-25_leaf-1,,Xifang,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Baisha-25_leaf-1,,Baisha,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Yuanmen-25_leaf-1,,Yuanmen,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Heitu-25_leaf-1,,Heitu,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Baoding-25_leaf-1,,Baoding,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Zhongsha-25_leaf-1,,Zhongsha,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Tongzha-25_leaf-1,,Tongzha,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Qiandui-25_leaf-1,,Qiandui,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Baocheng-25_leaf-1,,Baocheng,25_leaf,ɓeɯ1,ɓeɯ1,,,Chin2015,,,,
-Gelong-25_leaf-1,,Gelong,25_leaf,bou1,bou1,,,Chin2015,,,,
-Xifang-26_root-1,,Xifang,26_root,kei1,kei1,,,Chin2015,,,,
-Baisha-26_root-1,,Baisha,26_root,rip8,rip8,,,Chin2015,,,,
-Yuanmen-26_root-1,,Yuanmen,26_root,rip8,rip8,,,Chin2015,,,,
-Heitu-26_root-1,,Heitu,26_root,ri:u1,ri:u1,,,Chin2015,,,,
-Baoding-26_root-1,,Baoding,26_root,kei1,kei1,,,Chin2015,,,,
-Zhongsha-26_root-1,,Zhongsha,26_root,gi:u1,gi:u1,,,Chin2015,,,,
-Tongzha-26_root-1,,Tongzha,26_root,van4,van4,,,Chin2015,,,,
-Qiandui-26_root-1,,Qiandui,26_root,van4,van4,,,Chin2015,,,,
-Baocheng-26_root-1,,Baocheng,26_root,van4,van4,,,Chin2015,,,,
-Gelong-26_root-1,,Gelong,26_root,fon1,fon1,,,Chin2015,,,,
-Xifang-28_skin-1,,Xifang,28_skin,no:ŋ1,no:ŋ1,,,Chin2015,,,,
-Baisha-28_skin-1,,Baisha,28_skin,nuaŋ1,nuaŋ1,,,Chin2015,,,,
-Yuanmen-28_skin-1,,Yuanmen,28_skin,nuaŋ4,nuaŋ4,,,Chin2015,,,,
-Heitu-28_skin-1,,Heitu,28_skin,naŋ1,naŋ1,,,Chin2015,,,,
-Baoding-28_skin-1,,Baoding,28_skin,no:ŋ1,no:ŋ1,,,Chin2015,,,,
-Zhongsha-28_skin-1,,Zhongsha,28_skin,no:ŋ1,no:ŋ1,,,Chin2015,,,,
-Tongzha-28_skin-1,,Tongzha,28_skin,no:ŋ1,no:ŋ1,,,Chin2015,,,,
-Qiandui-28_skin-1,,Qiandui,28_skin,nɔ:ŋ4,nɔ:ŋ4,,,Chin2015,,,,
-Baocheng-28_skin-1,,Baocheng,28_skin,nɔ:ŋ1,nɔ:ŋ1,,,Chin2015,,,,
-Gelong-28_skin-1,,Gelong,28_skin,naŋ1,naŋ1,,,Chin2015,,,,
-Xifang-29_flesh-1,,Xifang,29_flesh,xam3,xam3,,,Chin2015,,,,
-Baisha-29_flesh-1,,Baisha,29_flesh,xam3,xam3,,,Chin2015,,,,
-Yuanmen-29_flesh-1,,Yuanmen,29_flesh,kham3,kham3,,,Chin2015,,,,
-Heitu-29_flesh-1,,Heitu,29_flesh,mam2,mam2,,,Chin2015,,,,
-Baoding-29_flesh-1,,Baoding,29_flesh,gom3,gom3,,,Chin2015,,,,
-Zhongsha-29_flesh-1,,Zhongsha,29_flesh,gam3,gam3,,,Chin2015,,,,
-Tongzha-29_flesh-1,,Tongzha,29_flesh,gam6,gam6,,,Chin2015,,,,
-Qiandui-29_flesh-1,,Qiandui,29_flesh,ham6,ham6,,,Chin2015,,,,
-Baocheng-29_flesh-1,,Baocheng,29_flesh,ham6,ham6,,,Chin2015,,,,
-Gelong-29_flesh-1,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,muŋ1,,,Chin2015,,,,
-Gelong-29_flesh-2,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,tθɯək2,,,Chin2015,,,,
-Gelong-29_flesh-3,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,khai1,,,Chin2015,,,,
-Xifang-30_blood-1,,Xifang,30_blood,ɬo:ȶ7,ɬo:ȶ7,,,Chin2015,,,,
-Baisha-30_blood-1,,Baisha,30_blood,ɬa:ȶ 8,ɬa:ȶ_8,,,Chin2015,,,,
-Yuanmen-30_blood-1,,Yuanmen,30_blood,ɬuaȶ7,ɬuaȶ7,,,Chin2015,,,,
-Heitu-30_blood-1,,Heitu,30_blood,da:ȶ7,da:ȶ7,,,Chin2015,,,,
-Baoding-30_blood-1,,Baoding,30_blood,ɬa:ȶ7,ɬa:ȶ7,,,Chin2015,,,,
-Zhongsha-30_blood-1,,Zhongsha,30_blood,ɬa:ȶ7,ɬa:ȶ7,,,Chin2015,,,,
-Tongzha-30_blood-1,,Tongzha,30_blood,ɬa:ȶ7,ɬa:ȶ7,,,Chin2015,,,,
-Qiandui-30_blood-1,,Qiandui,30_blood,ɬa:ȶ7,ɬa:ȶ7,,,Chin2015,,,,
-Baocheng-30_blood-1,,Baocheng,30_blood,ɬa:ȶ7,ɬa:ȶ7,,,Chin2015,,,,
-Gelong-30_blood-1,,Gelong,30_blood,tθɔt2,tθɔt2,,,Chin2015,,,,
-Xifang-31_bone-1,,Xifang,31_bone,ɣɯk7,ɣɯk7,,,Chin2015,,,,
-Baisha-31_bone-1,,Baisha,31_bone,fɯk8,fɯk8,,,Chin2015,,,,
-Yuanmen-31_bone-1,,Yuanmen,31_bone,fɯɁ8,fɯɁ8,,,Chin2015,,,,
-Heitu-31_bone-1,,Heitu,31_bone,rɯ:Ɂ7,rɯ:Ɂ7,,,Chin2015,,,,
-Baoding-31_bone-1,,Baoding,31_bone,vɯ:k7,vɯ:k7,,,Chin2015,,,,
-Zhongsha-31_bone-1,,Zhongsha,31_bone,rɯ:7,rɯ:7,,,Chin2015,,,,
-Tongzha-31_bone-1,,Tongzha,31_bone,fɯ:Ɂ8,fɯ:Ɂ8,,,Chin2015,,,,
-Qiandui-31_bone-1,,Qiandui,31_bone,fɯaɁ8,fɯaɁ8,,,Chin2015,,,,
-Baocheng-31_bone-1,,Baocheng,31_bone,fɯ:Ɂ8,fɯ:Ɂ8,,,Chin2015,,,,
-Gelong-31_bone-1,,Gelong,31_bone,vɯək4,vɯək4,,,Chin2015,,,,
-Xifang-32_grease-1,,Xifang,32_grease,xui3,xui3,,,Chin2015,,,,
-Baisha-32_grease-1,,Baisha,32_grease,xui3,xui3,,,Chin2015,,,,
-Yuanmen-32_grease-1,,Yuanmen,32_grease,khui3,khui3,,,Chin2015,,,,
-Heitu-32_grease-1,,Heitu,32_grease,ru:i3,ru:i3,,,Chin2015,,,,
-Baoding-32_grease-1,,Baoding,32_grease,gwei3,gwei3,,,Chin2015,,,,
-Zhongsha-32_grease-1,,Zhongsha,32_grease,gu:i3,gu:i3,,,Chin2015,,,,
-Tongzha-32_grease-1,,Tongzha,32_grease,gu:i6,gu:i6,,,Chin2015,,,,
-Qiandui-32_grease-1,,Qiandui,32_grease,hu:i6,hu:i6,,,Chin2015,,,,
-Baocheng-32_grease-1,,Baocheng,32_grease,hu:i6,hu:i6,,,Chin2015,,,,
-Xifang-33_egg-1,,Xifang,33_egg,zum1,zum1,,,Chin2015,,,,
-Baisha-33_egg-1,,Baisha,33_egg,zum1,zum1,,,Chin2015,,,,
-Yuanmen-33_egg-1,,Yuanmen,33_egg,zum1,zum1,,,Chin2015,,,,
-Heitu-33_egg-1,,Heitu,33_egg,zɯ:m1,zɯ:m1,,,Chin2015,,,,
-Baoding-33_egg-1,,Baoding,33_egg,zɯ:m1,zɯ:m1,,,Chin2015,,,,
-Zhongsha-33_egg-1,,Zhongsha,33_egg,zɯ:m1,zɯ:m1,,,Chin2015,,,,
-Tongzha-33_egg-1,,Tongzha,33_egg,zɯ:m1,zɯ:m1,,,Chin2015,,,,
-Qiandui-33_egg-1,,Qiandui,33_egg,zu:m1,zu:m1,,,Chin2015,,,,
-Baocheng-33_egg-1,,Baocheng,33_egg,zɯ:m1,zɯ:m1,,,Chin2015,,,,
-Gelong-33_egg-1,,Gelong,33_egg,fon1,fon1,,,Chin2015,,,,
-Xifang-34_horn-1,,Xifang,34_horn,hau1,hau1,,,Chin2015,,,,
-Baisha-34_horn-1,,Baisha,34_horn,hau1,hau1,,,Chin2015,,,,
-Yuanmen-34_horn-1,,Yuanmen,34_horn,hau1,hau1,,,Chin2015,,,,
-Heitu-34_horn-1,,Heitu,34_horn,hau1,hau1,,,Chin2015,,,,
-Baoding-34_horn-1,,Baoding,34_horn,hau1,hau1,,,Chin2015,,,,
-Zhongsha-34_horn-1,,Zhongsha,34_horn,hau1,hau1,,,Chin2015,,,,
-Tongzha-34_horn-1,,Tongzha,34_horn,hau1,hau1,,,Chin2015,,,,
-Qiandui-34_horn-1,,Qiandui,34_horn,hau1,hau1,,,Chin2015,,,,
-Baocheng-34_horn-1,,Baocheng,34_horn,hau1,hau1,,,Chin2015,,,,
-Gelong-34_horn-1,,Gelong,34_horn,hau1,hau1,,,Chin2015,,,,
-Xifang-35_tail-1,,Xifang,35_tail,tshot7,tshot7,,,Chin2015,,,,
-Baisha-35_tail-1,,Baisha,35_tail,tshot8,tshot8,,,Chin2015,,,,
-Yuanmen-35_tail-1,,Yuanmen,35_tail,tshət7,tshət7,,,Chin2015,,,,
-Heitu-35_tail-1,,Heitu,35_tail,tshut7,tshut7,,,Chin2015,,,,
-Baoding-35_tail-1,,Baoding,35_tail,tshuȶ7,tshuȶ7,,,Chin2015,,,,
-Zhongsha-35_tail-1,,Zhongsha,35_tail,tshut7,tshut7,,,Chin2015,,,,
-Tongzha-35_tail-1,,Tongzha,35_tail,tshut7,tshut7,,,Chin2015,,,,
-Qiandui-35_tail-1,,Qiandui,35_tail,tshut7,tshut7,,,Chin2015,,,,
-Baocheng-35_tail-1,,Baocheng,35_tail,tshut7,tshut7,,,Chin2015,,,,
-Gelong-35_tail-1,,Gelong,35_tail,tshət2,tshət2,,,Chin2015,,,,
-Xifang-36_feather-1,,Xifang,36_feather,ŋoŋ1,ŋoŋ1,,,Chin2015,,,,
-Baisha-36_feather-1,,Baisha,36_feather,ŋoŋ1,ŋoŋ1,,,Chin2015,,,,
-Yuanmen-36_feather-1,,Yuanmen,36_feather,ɱən4,ɱən4,,,Chin2015,,,,
-Heitu-36_feather-1,,Heitu,36_feather,hun1,hun1,,,Chin2015,,,,
-Baoding-36_feather-1,,Baoding,36_feather,hun1,hun1,,,Chin2015,,,,
-Zhongsha-36_feather-1,,Zhongsha,36_feather,hun1,hun1,,,Chin2015,,,,
-Tongzha-36_feather-1,,Tongzha,36_feather,hun1,hun1,,,Chin2015,,,,
-Qiandui-36_feather-1,,Qiandui,36_feather,hun1,hun1,,,Chin2015,,,,
-Baocheng-36_feather-1,,Baocheng,36_feather,hun1,hun1,,,Chin2015,,,,
-Gelong-36_feather-1,,Gelong,36_feather,ŋən1,ŋən1,,,Chin2015,,,,
-Xifang-37_hair-1,,Xifang,37_hair,rom1,rom1,,,Chin2015,,,,
-Baisha-37_hair-1,,Baisha,37_hair,ɱən4,ɱən4,,,Chin2015,,,,
-Yuanmen-37_hair-1,,Yuanmen,37_hair,ɗan5,ɗan5,,,Chin2015,,,,
-Heitu-37_hair-1,,Heitu,37_hair,nom1,nom1,,,Chin2015,,,,
-Baoding-37_hair-1,,Baoding,37_hair,ɗan2,ɗan2,,,Chin2015,,,,
-Zhongsha-37_hair-1,,Zhongsha,37_hair,tom1,tom1,,,Chin2015,,,,
-Tongzha-37_hair-1,,Tongzha,37_hair,ɗan5,ɗan5,,,Chin2015,,,,
-Qiandui-37_hair-1,,Qiandui,37_hair,ɗan5,ɗan5,,,Chin2015,,,,
-Baocheng-37_hair-1,,Baocheng,37_hair,ɗan5,ɗan5,,,Chin2015,,,,
-Gelong-37_hair-1,,Gelong,37_hair,ŋən1 // vau2 // tθok3,ŋən1,,,Chin2015,,,,
-Gelong-37_hair-2,,Gelong,37_hair,ŋən1 // vau2 // tθok3,vau2,,,Chin2015,,,,
-Gelong-37_hair-3,,Gelong,37_hair,ŋən1 // vau2 // tθok3,tθok3,,,Chin2015,,,,
-Xifang-38_head-1,,Xifang,38_head,ɣo3,ɣo3,,,Chin2015,,,,
-Baisha-38_head-1,,Baisha,38_head,vo3,vo3,,,Chin2015,,,,
-Yuanmen-38_head-1,,Yuanmen,38_head,vo3,vo3,,,Chin2015,,,,
-Heitu-38_head-1,,Heitu,38_head,rau3,rau3,,,Chin2015,,,,
-Baoding-38_head-1,,Baoding,38_head,gwou3,gwou3,,,Chin2015,,,,
-Zhongsha-38_head-1,,Zhongsha,38_head,gau3,gau3,,,Chin2015,,,,
-Tongzha-38_head-1,,Tongzha,38_head,go6,go6,,,Chin2015,,,,
-Qiandui-38_head-1,,Qiandui,38_head,ho6,ho6,,,Chin2015,,,,
-Baocheng-38_head-1,,Baocheng,38_head,hɔ6,hɔ6,,,Chin2015,,,,
-Gelong-38_head-1,,Gelong,38_head,vau3,vau3,,,Chin2015,,,,
-Xifang-39_ear-1,,Xifang,39_ear,zai1,zai1,,,Chin2015,,,,
-Baisha-39_ear-1,,Baisha,39_ear,zai1,zai1,,,Chin2015,,,,
-Yuanmen-39_ear-1,,Yuanmen,39_ear,tsai4,tsai4,,,Chin2015,,,,
-Heitu-39_ear-1,,Heitu,39_ear,zai1,zai1,,,Chin2015,,,,
-Baoding-39_ear-1,,Baoding,39_ear,zai1,zai1,,,Chin2015,,,,
-Zhongsha-39_ear-1,,Zhongsha,39_ear,zai1,zai1,,,Chin2015,,,,
-Tongzha-39_ear-1,,Tongzha,39_ear,ɬai4,ɬai4,,,Chin2015,,,,
-Qiandui-39_ear-1,,Qiandui,39_ear,ɬai4,ɬai4,,,Chin2015,,,,
-Baocheng-39_ear-1,,Baocheng,39_ear,ɬai4,ɬai4,,,Chin2015,,,,
-Gelong-39_ear-1,,Gelong,39_ear,lai4,lai4,,,Chin2015,,,,
-Xifang-40_eye-1,,Xifang,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Baisha-40_eye-1,,Baisha,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Yuanmen-40_eye-1,,Yuanmen,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Heitu-40_eye-1,,Heitu,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Baoding-40_eye-1,,Baoding,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Zhongsha-40_eye-1,,Zhongsha,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Tongzha-40_eye-1,,Tongzha,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Qiandui-40_eye-1,,Qiandui,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Baocheng-40_eye-1,,Baocheng,40_eye,tsha1,tsha1,,,Chin2015,,,,
-Gelong-40_eye-1,,Gelong,40_eye,khan5 // hɔ1,khan5,,,Chin2015,,,,
-Gelong-40_eye-2,,Gelong,40_eye,khan5 // hɔ1,hɔ1,,,Chin2015,,,,
-Xifang-41_nose-1,,Xifang,41_nose,khak7,khak7,,,Chin2015,,,,
-Baisha-41_nose-1,,Baisha,41_nose,khak7,khak7,,,Chin2015,,,,
-Yuanmen-41_nose-1,,Yuanmen,41_nose,khat7,khat7,,,Chin2015,,,,
-Heitu-41_nose-1,,Heitu,41_nose,khet7,khet7,,,Chin2015,,,,
-Baoding-41_nose-1,,Baoding,41_nose,khat7,khat7,,,Chin2015,,,,
-Zhongsha-41_nose-1,,Zhongsha,41_nose,khat7,khat7,,,Chin2015,,,,
-Tongzha-41_nose-1,,Tongzha,41_nose,khat7,khat7,,,Chin2015,,,,
-Qiandui-41_nose-1,,Qiandui,41_nose,khat7,khat7,,,Chin2015,,,,
-Baocheng-41_nose-1,,Baocheng,41_nose,khat7,khat7,,,Chin2015,,,,
-Gelong-41_nose-1,,Gelong,41_nose,khat2,khat2,,,Chin2015,,,,
-Xifang-42_mouth-1,,Xifang,42_mouth,pom3,pom3,,,Chin2015,,,,
-Baisha-42_mouth-1,,Baisha,42_mouth,pom3,pom3,,,Chin2015,,,,
-Yuanmen-42_mouth-1,,Yuanmen,42_mouth,pom6,pom6,,,Chin2015,,,,
-Heitu-42_mouth-1,,Heitu,42_mouth,mom3,mom3,,,Chin2015,,,,
-Baoding-42_mouth-1,,Baoding,42_mouth,pom3,pom3,,,Chin2015,,,,
-Zhongsha-42_mouth-1,,Zhongsha,42_mouth,pam3,pam3,,,Chin2015,,,,
-Tongzha-42_mouth-1,,Tongzha,42_mouth,pam6,pam6,,,Chin2015,,,,
-Qiandui-42_mouth-1,,Qiandui,42_mouth,pham6,pham6,,,Chin2015,,,,
-Baocheng-42_mouth-1,,Baocheng,42_mouth,pam6,pam6,,,Chin2015,,,,
-Gelong-42_mouth-1,,Gelong,42_mouth,boŋ4,boŋ4,,,Chin2015,,,,
-Xifang-43_tooth-1,,Xifang,43_tooth,sen1,sen1,,,Chin2015,,,,
-Baisha-43_tooth-1,,Baisha,43_tooth,faŋ1,faŋ1,,,Chin2015,,,,
-Yuanmen-43_tooth-1,,Yuanmen,43_tooth,fhan1,fhan1,,,Chin2015,,,,
-Heitu-43_tooth-1,,Heitu,43_tooth,phen1,phen1,,,Chin2015,,,,
-Baoding-43_tooth-1,,Baoding,43_tooth,fan1,fan1,,,Chin2015,,,,
-Zhongsha-43_tooth-1,,Zhongsha,43_tooth,fan1,fan1,,,Chin2015,,,,
-Tongzha-43_tooth-1,,Tongzha,43_tooth,fan1,fan1,,,Chin2015,,,,
-Qiandui-43_tooth-1,,Qiandui,43_tooth,fan1,fan1,,,Chin2015,,,,
-Baocheng-43_tooth-1,,Baocheng,43_tooth,fan1,fan1,,,Chin2015,,,,
-Gelong-43_tooth-1,,Gelong,43_tooth,sen1,sen1,,,Chin2015,,,,
-Xifang-44_tongue-1,,Xifang,44_tongue,ɬiŋ3,ɬiŋ3,,,Chin2015,,,,
-Baisha-44_tongue-1,,Baisha,44_tongue,ɬiŋ3,ɬiŋ3,,,Chin2015,,,,
-Yuanmen-44_tongue-1,,Yuanmen,44_tongue,ɬin3,ɬin3,,,Chin2015,,,,
-Heitu-44_tongue-1,,Heitu,44_tongue,di:n3,di:n3,,,Chin2015,,,,
-Baoding-44_tongue-1,,Baoding,44_tongue,ɬi:n3,ɬi:n3,,,Chin2015,,,,
-Zhongsha-44_tongue-1,,Zhongsha,44_tongue,ɬi:n3,ɬi:n3,,,Chin2015,,,,
-Tongzha-44_tongue-1,,Tongzha,44_tongue,ɬi:n3,ɬi:n3,,,Chin2015,,,,
-Qiandui-44_tongue-1,,Qiandui,44_tongue,ɬi:n3,ɬi:n3,,,Chin2015,,,,
-Baocheng-44_tongue-1,,Baocheng,44_tongue,ɬi:n3,ɬi:n3,,,Chin2015,,,,
-Gelong-44_tongue-1,,Gelong,44_tongue,tθin3,tθin3,,,Chin2015,,,,
-Xifang-45_claw-1,,Xifang,45_claw,lip7,lip7,,,Chin2015,,,,
-Baisha-45_claw-1,,Baisha,45_claw,lip8,lip8,,,Chin2015,,,,
-Yuanmen-45_claw-1,,Yuanmen,45_claw,lip8,lip8,,,Chin2015,,,,
-Heitu-45_claw-1,,Heitu,45_claw,li:p7,li:p7,,,Chin2015,,,,
-Baoding-45_claw-1,,Baoding,45_claw,li:p7,li:p7,,,Chin2015,,,,
-Zhongsha-45_claw-1,,Zhongsha,45_claw,li:p7,li:p7,,,Chin2015,,,,
-Tongzha-45_claw-1,,Tongzha,45_claw,li:p7,li:p7,,,Chin2015,,,,
-Qiandui-45_claw-1,,Qiandui,45_claw,li:p8,li:p8,,,Chin2015,,,,
-Baocheng-45_claw-1,,Baocheng,45_claw,li:p7,li:p7,,,Chin2015,,,,
-Gelong-45_claw-1,,Gelong,45_claw,lip2,lip2,,,Chin2015,,,,
-Xifang-46_foot-1,,Xifang,46_foot,khɔk7,khɔk7,,,Chin2015,,,,
-Baisha-46_foot-1,,Baisha,46_foot,khɔk8,khɔk8,,,Chin2015,,,,
-Yuanmen-46_foot-1,,Yuanmen,46_foot,khɔk7,khɔk7,,,Chin2015,,,,
-Heitu-46_foot-1,,Heitu,46_foot,khok7,khok7,,,Chin2015,,,,
-Baoding-46_foot-1,,Baoding,46_foot,khok7,khok7,,,Chin2015,,,,
-Zhongsha-46_foot-1,,Zhongsha,46_foot,khuk7,khuk7,,,Chin2015,,,,
-Tongzha-46_foot-1,,Tongzha,46_foot,khok7,khok7,,,Chin2015,,,,
-Qiandui-46_foot-1,,Qiandui,46_foot,khoɁ7,khoɁ7,,,Chin2015,,,,
-Baocheng-46_foot-1,,Baocheng,46_foot,khɔk7,khɔk7,,,Chin2015,,,,
-Gelong-46_foot-1,,Gelong,46_foot,khok2,khok2,,,Chin2015,,,,
-Xifang-47_knee-1,,Xifang,47_knee,rou1,rou1,,,Chin2015,,,,
-Baisha-47_knee-1,,Baisha,47_knee,rou4,rou4,,,Chin2015,,,,
-Yuanmen-47_knee-1,,Yuanmen,47_knee,rou4,rou4,,,Chin2015,,,,
-Heitu-47_knee-1,,Heitu,47_knee,rou1,rou1,,,Chin2015,,,,
-Baoding-47_knee-1,,Baoding,47_knee,rou1,rou1,,,Chin2015,,,,
-Zhongsha-47_knee-1,,Zhongsha,47_knee,rou1,rou1,,,Chin2015,,,,
-Tongzha-47_knee-1,,Tongzha,47_knee,rou4,rou4,,,Chin2015,,,,
-Qiandui-47_knee-1,,Qiandui,47_knee,lou4,lou4,,,Chin2015,,,,
-Baocheng-47_knee-1,,Baocheng,47_knee,lou4,lou4,,,Chin2015,,,,
-Gelong-47_knee-1,,Gelong,47_knee,vau3 // zen4,vau3,,,Chin2015,,,,
-Gelong-47_knee-2,,Gelong,47_knee,vau3 // zen4,zen4,,,Chin2015,,,,
-Xifang-48_hand-1,,Xifang,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Baisha-48_hand-1,,Baisha,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Yuanmen-48_hand-1,,Yuanmen,48_hand,meɯ4,meɯ4,,,Chin2015,,,,
-Heitu-48_hand-1,,Heitu,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Baoding-48_hand-1,,Baoding,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Zhongsha-48_hand-1,,Zhongsha,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Tongzha-48_hand-1,,Tongzha,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Qiandui-48_hand-1,,Qiandui,48_hand,meɯ4,meɯ4,,,Chin2015,,,,
-Baocheng-48_hand-1,,Baocheng,48_hand,meɯ1,meɯ1,,,Chin2015,,,,
-Gelong-48_hand-1,,Gelong,48_hand,mou1,mou1,,,Chin2015,,,,
-Xifang-49_belly-1,,Xifang,49_belly,pɔk7,pɔk7,,,Chin2015,,,,
-Baisha-49_belly-1,,Baisha,49_belly,pɔk8,pɔk8,,,Chin2015,,,,
-Yuanmen-49_belly-1,,Yuanmen,49_belly,pɔk8,pɔk8,,,Chin2015,,,,
-Heitu-49_belly-1,,Heitu,49_belly,mok7,mok7,,,Chin2015,,,,
-Baoding-49_belly-1,,Baoding,49_belly,pok7,pok7,,,Chin2015,,,,
-Zhongsha-49_belly-1,,Zhongsha,49_belly,pok7,pok7,,,Chin2015,,,,
-Tongzha-49_belly-1,,Tongzha,49_belly,pok8,pok8,,,Chin2015,,,,
-Qiandui-49_belly-1,,Qiandui,49_belly,phoɁ8,phoɁ8,,,Chin2015,,,,
-Baocheng-49_belly-1,,Baocheng,49_belly,pɔk8,pɔk8,,,Chin2015,,,,
-Gelong-49_belly-1,,Gelong,49_belly,bɔk4,bɔk4,,,Chin2015,,,,
-Xifang-50_neck-1,,Xifang,50_neck,zɔŋ3,zɔŋ3,,,Chin2015,,,,
-Baisha-50_neck-1,,Baisha,50_neck,zɔŋ3,zɔŋ3,,,Chin2015,,,,
-Yuanmen-50_neck-1,,Yuanmen,50_neck,tsɔŋ3,tsɔŋ3,,,Chin2015,,,,
-Heitu-50_neck-1,,Heitu,50_neck,zoŋ3,zoŋ3,,,Chin2015,,,,
-Baoding-50_neck-1,,Baoding,50_neck,zoŋ3,zoŋ3,,,Chin2015,,,,
-Zhongsha-50_neck-1,,Zhongsha,50_neck,zuŋ3,zuŋ3,,,Chin2015,,,,
-Tongzha-50_neck-1,,Tongzha,50_neck,ɬoŋ6,ɬoŋ6,,,Chin2015,,,,
-Qiandui-50_neck-1,,Qiandui,50_neck,ɬoŋ6,ɬoŋ6,,,Chin2015,,,,
-Baocheng-50_neck-1,,Baocheng,50_neck,ɬɔŋ6,ɬɔŋ6,,,Chin2015,,,,
-Gelong-50_neck-1,,Gelong,50_neck,lɔŋ4,lɔŋ4,,,Chin2015,,,,
-Xifang-51_breast-1,,Xifang,51_breast,tsei1,tsei1,,,Chin2015,,,,
-Baisha-51_breast-1,,Baisha,51_breast,tsi3,tsi3,,,Chin2015,,,,
-Yuanmen-51_breast-1,,Yuanmen,51_breast,ti3,ti3,,,Chin2015,,,,
-Heitu-51_breast-1,,Heitu,51_breast,tsi2,tsi2,,,Chin2015,,,,
-Baoding-51_breast-1,,Baoding,51_breast,tsei1,tsei1,,,Chin2015,,,,
-Zhongsha-51_breast-1,,Zhongsha,51_breast,tsi2,tsi2,,,Chin2015,,,,
-Tongzha-51_breast-1,,Tongzha,51_breast,tsi5,tsi5,,,Chin2015,,,,
-Qiandui-51_breast-1,,Qiandui,51_breast,tsi5,tsi5,,,Chin2015,,,,
-Baocheng-51_breast-1,,Baocheng,51_breast,tsi5,tsi5,,,Chin2015,,,,
-Gelong-51_breast-1,,Gelong,51_breast,tsɛi1,tsɛi1,,,Chin2015,,,,
-Xifang-52_heart-1,,Xifang,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Baisha-52_heart-1,,Baisha,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Yuanmen-52_heart-1,,Yuanmen,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Heitu-52_heart-1,,Heitu,52_heart,tem3,tem3,,,Chin2015,,,,
-Baoding-52_heart-1,,Baoding,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Zhongsha-52_heart-1,,Zhongsha,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Tongzha-52_heart-1,,Tongzha,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Qiandui-52_heart-1,,Qiandui,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Baocheng-52_heart-1,,Baocheng,52_heart,ɬa:u3,ɬa:u3,,,Chin2015,,,,
-Gelong-52_heart-1,,Gelong,52_heart,tθem5,tθem5,,,Chin2015,,,,
-Xifang-53_liver-1,,Xifang,53_liver,ŋa: ŋ1,ŋa:_ŋ1,,,Chin2015,,,,
-Baisha-53_liver-1,,Baisha,53_liver,ŋa: ŋ1,ŋa:_ŋ1,,,Chin2015,,,,
-Yuanmen-53_liver-1,,Yuanmen,53_liver,ŋuan1,ŋuan1,,,Chin2015,,,,
-Heitu-53_liver-1,,Heitu,53_liver,ŋa: n1,ŋa:_n1,,,Chin2015,,,,
-Baoding-53_liver-1,,Baoding,53_liver,ŋa:n1,ŋa:n1,,,Chin2015,,,,
-Zhongsha-53_liver-1,,Zhongsha,53_liver,ŋa:n1,ŋa:n1,,,Chin2015,,,,
-Tongzha-53_liver-1,,Tongzha,53_liver,ŋa:n1,ŋa:n1,,,Chin2015,,,,
-Qiandui-53_liver-1,,Qiandui,53_liver,ŋa:n4,ŋa:n4,,,Chin2015,,,,
-Baocheng-53_liver-1,,Baocheng,53_liver,ŋa:n1,ŋa:n1,,,Chin2015,,,,
-Gelong-53_liver-1,,Gelong,53_liver,ŋɔn1,ŋɔn1,,,Chin2015,,,,
-Xifang-54_drink-1,,Xifang,54_drink,ȵa:u1,ȵa:u1,,,Chin2015,,,,
-Baisha-54_drink-1,,Baisha,54_drink,Ɂɔk8,Ɂɔk8,,,Chin2015,,,,
-Yuanmen-54_drink-1,,Yuanmen,54_drink,ɁɔɁ7,ɁɔɁ7,,,Chin2015,,,,
-Heitu-54_drink-1,,Heitu,54_drink,lou2,lou2,,,Chin2015,,,,
-Baoding-54_drink-1,,Baoding,54_drink,Ɂo:k9,Ɂo:k9,,,Chin2015,,,,
-Zhongsha-54_drink-1,,Zhongsha,54_drink,Ɂok7,Ɂok7,,,Chin2015,,,,
-Tongzha-54_drink-1,,Tongzha,54_drink,Ɂo:Ɂ 9,Ɂo:Ɂ_9,,,Chin2015,,,,
-Qiandui-54_drink-1,,Qiandui,54_drink,ɁoɁ7,ɁoɁ7,,,Chin2015,,,,
-Baocheng-54_drink-1,,Baocheng,54_drink,Ɂɔ:Ɂ7,Ɂɔ:Ɂ7,,,Chin2015,,,,
-Gelong-54_drink-1,,Gelong,54_drink,tshep2,tshep2,,,Chin2015,,,,
-Xifang-55_eat-1,,Xifang,55_eat,lau2,lau2,,,Chin2015,,,,
-Baisha-55_eat-1,,Baisha,55_eat,lɔɁ8,lɔɁ8,,,Chin2015,,,,
-Yuanmen-55_eat-1,,Yuanmen,55_eat,lɔɁ8,lɔɁ8,,,Chin2015,,,,
-Heitu-55_eat-1,,Heitu,55_eat,lou2,lou2,,,Chin2015,,,,
-Baoding-55_eat-1,,Baoding,55_eat,la2,la2,,,Chin2015,,,,
-Zhongsha-55_eat-1,,Zhongsha,55_eat,lau2,lau2,,,Chin2015,,,,
-Tongzha-55_eat-1,,Tongzha,55_eat,lau5,lau5,,,Chin2015,,,,
-Qiandui-55_eat-1,,Qiandui,55_eat,khan1,khan1,,,Chin2015,,,,
-Baocheng-55_eat-1,,Baocheng,55_eat,khan1,khan1,,,Chin2015,,,,
-Gelong-55_eat-1,,Gelong,55_eat,la5,la5,,,Chin2015,,,,
-Xifang-56_bite-1,,Xifang,56_bite,kan3,kan3,,,Chin2015,,,,
-Baisha-56_bite-1,,Baisha,56_bite,kan3,kan3,,,Chin2015,,,,
-Yuanmen-56_bite-1,,Yuanmen,56_bite,rap8,rap8,,,Chin2015,,,,
-Heitu-56_bite-1,,Heitu,56_bite,than3,than3,,,Chin2015,,,,
-Baoding-56_bite-1,,Baoding,56_bite,ka:ȵ3,ka:ȵ3,,,Chin2015,,,,
-Zhongsha-56_bite-1,,Zhongsha,56_bite,ka:n3,ka:n3,,,Chin2015,,,,
-Tongzha-56_bite-1,,Tongzha,56_bite,ka:n8,ka:n8,,,Chin2015,,,,
-Qiandui-56_bite-1,,Qiandui,56_bite,kha:n6,kha:n6,,,Chin2015,,,,
-Baocheng-56_bite-1,,Baocheng,56_bite,ka:n6,ka:n6,,,Chin2015,,,,
-Gelong-56_bite-1,,Gelong,56_bite,ŋat2,ŋat2,,,Chin2015,,,,
-Xifang-57_see-1,,Xifang,57_see,la:i3,la:i3,,,Chin2015,,,,
-Baisha-57_see-1,,Baisha,57_see,la:i3,la:i3,,,Chin2015,,,,
-Yuanmen-57_see-1,,Yuanmen,57_see,luai6,luai6,,,Chin2015,,,,
-Heitu-57_see-1,,Heitu,57_see,la:i3,la:i3,,,Chin2015,,,,
-Baoding-57_see-1,,Baoding,57_see,la:i3,la:i3,,,Chin2015,,,,
-Zhongsha-57_see-1,,Zhongsha,57_see,la:i3,la:i3,,,Chin2015,,,,
-Tongzha-57_see-1,,Tongzha,57_see,la:i3,la:i3,,,Chin2015,,,,
-Qiandui-57_see-1,,Qiandui,57_see,la:i6,la:i6,,,Chin2015,,,,
-Baocheng-57_see-1,,Baocheng,57_see,la:i3,la:i3,,,Chin2015,,,,
-Gelong-57_see-1,,Gelong,57_see,lai3,lai3,,,Chin2015,,,,
-Xifang-58_hear-1,,Xifang,58_hear,pleɯ1,pleɯ1,,,Chin2015,,,,
-Baisha-58_hear-1,,Baisha,58_hear,pleɯ1,pleɯ1,,,Chin2015,,,,
-Yuanmen-58_hear-1,,Yuanmen,58_hear,pleɯ1,pleɯ1,,,Chin2015,,,,
-Heitu-58_hear-1,,Heitu,58_hear,leɯ1,leɯ1,,,Chin2015,,,,
-Baoding-58_hear-1,,Baoding,58_hear,pleɯ1,pleɯ1,,,Chin2015,,,,
-Zhongsha-58_hear-1,,Zhongsha,58_hear,leɯ1,leɯ1,,,Chin2015,,,,
-Tongzha-58_hear-1,,Tongzha,58_hear,pleɯ1,pleɯ1,,,Chin2015,,,,
-Qiandui-58_hear-1,,Qiandui,58_hear,peɯ1,peɯ1,,,Chin2015,,,,
-Baocheng-58_hear-1,,Baocheng,58_hear,pleɯ1,pleɯ1,,,Chin2015,,,,
-Gelong-58_hear-1,,Gelong,58_hear,liəŋ5,liəŋ5,,,Chin2015,,,,
-Xifang-59_know-1,,Xifang,59_know,khoŋ1,khoŋ1,,,Chin2015,,,,
-Heitu-59_know-1,,Heitu,59_know,khu:ŋ1,khu:ŋ1,,,Chin2015,,,,
-Baoding-59_know-1,,Baoding,59_know,khu:ŋ1,khu:ŋ1,,,Chin2015,,,,
-Zhongsha-59_know-1,,Zhongsha,59_know,khu:ŋ1,khu:ŋ1,,,Chin2015,,,,
-Tongzha-59_know-1,,Tongzha,59_know,khu:ŋ1,khu:ŋ1,,,Chin2015,,,,
-Qiandui-59_know-1,,Qiandui,59_know,khuaŋ1,khuaŋ1,,,Chin2015,,,,
-Baocheng-59_know-1,,Baocheng,59_know,khuŋ1,khuŋ1,,,Chin2015,,,,
-Gelong-59_know-1,,Gelong,59_know,khoŋ1,khoŋ1,,,Chin2015,,,,
-Xifang-60_sleep-1,,Xifang,60_sleep,tso:ŋ1,tso:ŋ1,,,Chin2015,,,,
-Baisha-60_sleep-1,,Baisha,60_sleep,tsuaŋ1,tsuaŋ1,,,Chin2015,,,,
-Yuanmen-60_sleep-1,,Yuanmen,60_sleep,tu:n1,tu:n1,,,Chin2015,,,,
-Heitu-60_sleep-1,,Heitu,60_sleep,tso:n1,tso:n1,,,Chin2015,,,,
-Baoding-60_sleep-1,,Baoding,60_sleep,tso:n1,tso:n1,,,Chin2015,,,,
-Zhongsha-60_sleep-1,,Zhongsha,60_sleep,tso:n1,tso:n1,,,Chin2015,,,,
-Tongzha-60_sleep-1,,Tongzha,60_sleep,tso:n1,tso:n1,,,Chin2015,,,,
-Qiandui-60_sleep-1,,Qiandui,60_sleep,tsɔ:n1,tsɔ:n1,,,Chin2015,,,,
-Baocheng-60_sleep-1,,Baocheng,60_sleep,tsɔ:n1,tsɔ:n1,,,Chin2015,,,,
-Xifang-61_die-1,,Xifang,61_die,hɔk7,hɔk7,,,Chin2015,,,,
-Baisha-61_die-1,,Baisha,61_die,ɬa:u2,ɬa:u2,,,Chin2015,,,,
-Yuanmen-61_die-1,,Yuanmen,61_die,zui6,zui6,,,Chin2015,,,,
-Heitu-61_die-1,,Heitu,61_die,da:u2,da:u2,,,Chin2015,,,,
-Baoding-61_die-1,,Baoding,61_die,ɬa:u2,ɬa:u2,,,Chin2015,,,,
-Zhongsha-61_die-1,,Zhongsha,61_die,ɬa:u2,ɬa:u2,,,Chin2015,,,,
-Tongzha-61_die-1,,Tongzha,61_die,ɬu:i4,ɬu:i4,,,Chin2015,,,,
-Qiandui-61_die-1,,Qiandui,61_die,ɬu:i4,ɬu:i4,,,Chin2015,,,,
-Baocheng-61_die-1,,Baocheng,61_die,ɬu:i4,ɬu:i4,,,Chin2015,,,,
-Gelong-61_die-1,,Gelong,61_die,tshɔt2,tshɔt2,,,Chin2015,,,,
-Xifang-62_kill-1,,Xifang,62_kill,hau3,hau3,,,Chin2015,,,,
-Baisha-62_kill-1,,Baisha,62_kill,hau3,hau3,,,Chin2015,,,,
-Yuanmen-62_kill-1,,Yuanmen,62_kill,hau3,hau3,,,Chin2015,,,,
-Heitu-62_kill-1,,Heitu,62_kill,hau3,hau3,,,Chin2015,,,,
-Baoding-62_kill-1,,Baoding,62_kill,hau3,hau3,,,Chin2015,,,,
-Zhongsha-62_kill-1,,Zhongsha,62_kill,hau3,hau3,,,Chin2015,,,,
-Tongzha-62_kill-1,,Tongzha,62_kill,hau3,hau3,,,Chin2015,,,,
-Qiandui-62_kill-1,,Qiandui,62_kill,hau3,hau3,,,Chin2015,,,,
-Baocheng-62_kill-1,,Baocheng,62_kill,hau3,hau3,,,Chin2015,,,,
-Gelong-62_kill-1,,Gelong,62_kill,hai3,hai3,,,Chin2015,,,,
-Xifang-63_swim-1,,Xifang,63_swim,plei1,plei1,,,Chin2015,,,,
-Baisha-63_swim-1,,Baisha,63_swim,plei1,plei1,,,Chin2015,,,,
-Yuanmen-63_swim-1,,Yuanmen,63_swim,plei1,plei1,,,Chin2015,,,,
-Heitu-63_swim-1,,Heitu,63_swim,lei1,lei1,,,Chin2015,,,,
-Baoding-63_swim-1,,Baoding,63_swim,plei1,plei1,,,Chin2015,,,,
-Zhongsha-63_swim-1,,Zhongsha,63_swim,lei1,lei1,,,Chin2015,,,,
-Tongzha-63_swim-1,,Tongzha,63_swim,plei1,plei1,,,Chin2015,,,,
-Qiandui-63_swim-1,,Qiandui,63_swim,pei1,pei1,,,Chin2015,,,,
-Baocheng-63_swim-1,,Baocheng,63_swim,pei1,pei1,,,Chin2015,,,,
-Gelong-63_swim-1,,Gelong,63_swim,lɔi4,lɔi4,,,Chin2015,,,,
-Xifang-64_fly-1,,Xifang,64_fly,ben1,ben1,,,Chin2015,,,,
-Baisha-64_fly-1,,Baisha,64_fly,ben1,ben1,,,Chin2015,,,,
-Yuanmen-64_fly-1,,Yuanmen,64_fly,ben1,ben1,,,Chin2015,,,,
-Heitu-64_fly-1,,Heitu,64_fly,bin1,bin1,,,Chin2015,,,,
-Baoding-64_fly-1,,Baoding,64_fly,beȵ1,beȵ1,,,Chin2015,,,,
-Zhongsha-64_fly-1,,Zhongsha,64_fly,bin1,bin1,,,Chin2015,,,,
-Tongzha-64_fly-1,,Tongzha,64_fly,ben1,ben1,,,Chin2015,,,,
-Qiandui-64_fly-1,,Qiandui,64_fly,ben1,ben1,,,Chin2015,,,,
-Baocheng-64_fly-1,,Baocheng,64_fly,bin1,bin1,,,Chin2015,,,,
-Gelong-64_fly-1,,Gelong,64_fly,ben1,ben1,,,Chin2015,,,,
-Xifang-65_walk-1,,Xifang,65_walk,fei1,fei1,,,Chin2015,,,,
-Baisha-65_walk-1,,Baisha,65_walk,fei1,fei1,,,Chin2015,,,,
-Yuanmen-65_walk-1,,Yuanmen,65_walk,fhei1,fhei1,,,Chin2015,,,,
-Heitu-65_walk-1,,Heitu,65_walk,pei1,pei1,,,Chin2015,,,,
-Baoding-65_walk-1,,Baoding,65_walk,fei1,fei1,,,Chin2015,,,,
-Zhongsha-65_walk-1,,Zhongsha,65_walk,fei1,fei1,,,Chin2015,,,,
-Tongzha-65_walk-1,,Tongzha,65_walk,fei1,fei1,,,Chin2015,,,,
-Qiandui-65_walk-1,,Qiandui,65_walk,fei1,fei1,,,Chin2015,,,,
-Baocheng-65_walk-1,,Baocheng,65_walk,fei1,fei1,,,Chin2015,,,,
-Gelong-65_walk-1,,Gelong,65_walk,foil1,foil1,,,Chin2015,,,,
-Xifang-66_come-1,,Xifang,66_come,pɯŋ1,pɯŋ1,,,Chin2015,,,,
-Baisha-66_come-1,,Baisha,66_come,phə1 // nen3,phə1,,,Chin2015,,,,
-Baisha-66_come-2,,Baisha,66_come,phə1 // nen3,nen3,,,Chin2015,,,,
-Yuanmen-66_come-1,,Yuanmen,66_come,pheɯɁ7 // kɯ3 ni5,pheɯɁ7,,,Chin2015,,,,
-Yuanmen-66_come-2,,Yuanmen,66_come,pheɯɁ7 // kɯ3 ni5,kɯ3_ni5,,,Chin2015,,,,
-Heitu-66_come-1,,Heitu,66_come,mɯ:n1,mɯ:n1,,,Chin2015,,,,
-Baoding-66_come-1,,Baoding,66_come,pɯ:n1,pɯ:n1,,,Chin2015,,,,
-Zhongsha-66_come-1,,Zhongsha,66_come,pɯ:n1,pɯ:n1,,,Chin2015,,,,
-Tongzha-66_come-1,,Tongzha,66_come,pɯ:n4,pɯ:n4,,,Chin2015,,,,
-Qiandui-66_come-1,,Qiandui,66_come,phɯ:n4,phɯ:n4,,,Chin2015,,,,
-Baocheng-66_come-1,,Baocheng,66_come,pɯ:n4,pɯ:n4,,,Chin2015,,,,
-Gelong-66_come-1,,Gelong,66_come,bɘn4,bɘn4,,,Chin2015,,,,
-Xifang-68_sit-1,,Xifang,68_sit,tsɔŋ3,tsɔŋ3,,,Chin2015,,,,
-Baisha-68_sit-1,,Baisha,68_sit,tsɔŋ1,tsɔŋ1,,,Chin2015,,,,
-Yuanmen-68_sit-1,,Yuanmen,68_sit,tɔŋ3,tɔŋ3,,,Chin2015,,,,
-Heitu-68_sit-1,,Heitu,68_sit,tsuŋ3,tsuŋ3,,,Chin2015,,,,
-Baoding-68_sit-1,,Baoding,68_sit,tsoŋ3,tsoŋ3,,,Chin2015,,,,
-Zhongsha-68_sit-1,,Zhongsha,68_sit,tsuŋ3,tsuŋ3,,,Chin2015,,,,
-Tongzha-68_sit-1,,Tongzha,68_sit,tsoŋ3,tsoŋ3,,,Chin2015,,,,
-Qiandui-68_sit-1,,Qiandui,68_sit,tsoŋ3,tsoŋ3,,,Chin2015,,,,
-Baocheng-68_sit-1,,Baocheng,68_sit,tsɔŋ3,tsɔŋ3,,,Chin2015,,,,
-Gelong-68_sit-1,,Gelong,68_sit,tsom5,tsom5,,,Chin2015,,,,
-Xifang-69_stand-1,,Xifang,69_stand,tsuŋ1,tsuŋ1,,,Chin2015,,,,
-Baisha-69_stand-1,,Baisha,69_stand,tsuŋ1,tsuŋ1,,,Chin2015,,,,
-Yuanmen-69_stand-1,,Yuanmen,69_stand,tun1,tun1,,,Chin2015,,,,
-Heitu-69_stand-1,,Heitu,69_stand,tsu:n1,tsu:n1,,,Chin2015,,,,
-Baoding-69_stand-1,,Baoding,69_stand,tsu:n1,tsu:n1,,,Chin2015,,,,
-Zhongsha-69_stand-1,,Zhongsha,69_stand,tsu:n1,tsu:n1,,,Chin2015,,,,
-Tongzha-69_stand-1,,Tongzha,69_stand,tsu:n1,tsu:n1,,,Chin2015,,,,
-Qiandui-69_stand-1,,Qiandui,69_stand,tsu:n1,tsu:n1,,,Chin2015,,,,
-Baocheng-69_stand-1,,Baocheng,69_stand,tsu:n1,tsu:n1,,,Chin2015,,,,
-Gelong-69_stand-1,,Gelong,69_stand,hɔi5,hɔi5,,,Chin2015,,,,
-Xifang-70_give-1,,Xifang,70_give,tɯŋ2,tɯŋ2,,,Chin2015,,,,
-Baisha-70_give-1,,Baisha,70_give,kau2,kau2,,,Chin2015,,,,
-Yuanmen-70_give-1,,Yuanmen,70_give,kau2,kau2,,,Chin2015,,,,
-Heitu-70_give-1,,Heitu,70_give,ɗeɯ1,ɗeɯ1,,,Chin2015,,,,
-Baoding-70_give-1,,Baoding,70_give,tɯ:ŋ2,tɯ:ŋ2,,,Chin2015,,,,
-Zhongsha-70_give-1,,Zhongsha,70_give,ɗeɯ1,ɗeɯ1,,,Chin2015,,,,
-Tongzha-70_give-1,,Tongzha,70_give,ɗeɯ1,ɗeɯ1,,,Chin2015,,,,
-Qiandui-70_give-1,,Qiandui,70_give,ɗeɯ1,ɗeɯ1,,,Chin2015,,,,
-Baocheng-70_give-1,,Baocheng,70_give,ɗeɯ1,ɗeɯ1,,,Chin2015,,,,
-Gelong-70_give-1,,Gelong,70_give,tsɯɘŋ5,tsɯɘŋ5,,,Chin2015,,,,
-Xifang-71_say-1,,Xifang,71_say,tshem2,tshem2,,,Chin2015,,,,
-Baisha-71_say-1,,Baisha,71_say,tshem2,tshem2,,,Chin2015,,,,
-Yuanmen-71_say-1,,Yuanmen,71_say,ȵeɯ4,ȵeɯ4,,,Chin2015,,,,
-Heitu-71_say-1,,Heitu,71_say,ri:n1,ri:n1,,,Chin2015,,,,
-Baoding-71_say-1,,Baoding,71_say,ri:n1,ri:n1,,,Chin2015,,,,
-Zhongsha-71_say-1,,Zhongsha,71_say,ri:n1,ri:n1,,,Chin2015,,,,
-Tongzha-71_say-1,,Tongzha,71_say,ri:n4,ri:n4,,,Chin2015,,,,
-Qiandui-71_say-1,,Qiandui,71_say,khuaŋ3,khuaŋ3,,,Chin2015,,,,
-Baocheng-71_say-1,,Baocheng,71_say,li:n4,li:n4,,,Chin2015,,,,
-Gelong-71_say-1,,Gelong,71_say,kaːŋ2,kaːŋ2,,,Chin2015,,,,
-Xifang-72_sun-1,,Xifang,72_sun,tsha3 // vaŋ1,tsha3,,,Chin2015,,,,
-Xifang-72_sun-2,,Xifang,72_sun,tsha3 // vaŋ1,vaŋ1,,,Chin2015,,,,
-Baisha-72_sun-1,,Baisha,72_sun,tsha1 // vaŋ1,tsha1,,,Chin2015,,,,
-Baisha-72_sun-2,,Baisha,72_sun,tsha1 // vaŋ1,vaŋ1,,,Chin2015,,,,
-Yuanmen-72_sun-1,,Yuanmen,72_sun,van4,van4,,,Chin2015,,,,
-Heitu-72_sun-1,,Heitu,72_sun,tsha1 // ven1,tsha1,,,Chin2015,,,,
-Heitu-72_sun-2,,Heitu,72_sun,tsha1 // ven1,ven1,,,Chin2015,,,,
-Baoding-72_sun-1,,Baoding,72_sun,tsha1 hwan1,tsha1_hwan1,,,Chin2015,,,,
-Zhongsha-72_sun-1,,Zhongsha,72_sun,tsha2 // van1,tsha2,,,Chin2015,,,,
-Zhongsha-72_sun-2,,Zhongsha,72_sun,tsha2 // van1,van1,,,Chin2015,,,,
-Tongzha-72_sun-1,,Tongzha,72_sun,tsha1 // van4,tsha1,,,Chin2015,,,,
-Tongzha-72_sun-2,,Tongzha,72_sun,tsha1 // van4,van4,,,Chin2015,,,,
-Qiandui-72_sun-1,,Qiandui,72_sun,tsha1 // van4,tsha1,,,Chin2015,,,,
-Qiandui-72_sun-2,,Qiandui,72_sun,tsha1 // van4,van4,,,Chin2015,,,,
-Baocheng-72_sun-1,,Baocheng,72_sun,tsha1 van1,tsha1_van1,,,Chin2015,,,,
-Gelong-72_sun-1,,Gelong,72_sun,zi1 // hon4,zi1,,,Chin2015,,,,
-Gelong-72_sun-2,,Gelong,72_sun,zi1 // hon4,hon4,,,Chin2015,,,,
-Xifang-73_moon-1,,Xifang,73_moon,ȵa:ŋ1,ȵa:ŋ1,,,Chin2015,,,,
-Baisha-73_moon-1,,Baisha,73_moon,ȵa:ŋ1,ȵa:ŋ1,,,Chin2015,,,,
-Yuanmen-73_moon-1,,Yuanmen,73_moon,ȵuan4,ȵuan4,,,Chin2015,,,,
-Heitu-73_moon-1,,Heitu,73_moon,ȵa:n1,ȵa:n1,,,Chin2015,,,,
-Baoding-73_moon-1,,Baoding,73_moon,ȵa:n1,ȵa:n1,,,Chin2015,,,,
-Zhongsha-73_moon-1,,Zhongsha,73_moon,ȵa:n1,ȵa:n1,,,Chin2015,,,,
-Tongzha-73_moon-1,,Tongzha,73_moon,ȵa:n1,ȵa:n1,,,Chin2015,,,,
-Qiandui-73_moon-1,,Qiandui,73_moon,na:n4,na:n4,,,Chin2015,,,,
-Baocheng-73_moon-1,,Baocheng,73_moon,ȵa:n1,ȵa:n1,,,Chin2015,,,,
-Gelong-73_moon-1,,Gelong,73_moon,ȵɔn1,ȵɔn1,,,Chin2015,,,,
-Xifang-74_star-1,,Xifang,74_star,ra:u1,ra:u1,,,Chin2015,,,,
-Baisha-74_star-1,,Baisha,74_star,ra:u1,ra:u1,,,Chin2015,,,,
-Yuanmen-74_star-1,,Yuanmen,74_star,ra:u4,ra:u4,,,Chin2015,,,,
-Heitu-74_star-1,,Heitu,74_star,ra:u1,ra:u1,,,Chin2015,,,,
-Baoding-74_star-1,,Baoding,74_star,ra:u1,ra:u1,,,Chin2015,,,,
-Zhongsha-74_star-1,,Zhongsha,74_star,ra:u1,ra:u1,,,Chin2015,,,,
-Tongzha-74_star-1,,Tongzha,74_star,ra:u4,ra:u4,,,Chin2015,,,,
-Qiandui-74_star-1,,Qiandui,74_star,la:u4,la:u4,,,Chin2015,,,,
-Baocheng-74_star-1,,Baocheng,74_star,la:u4,la:u4,,,Chin2015,,,,
-Gelong-74_star-1,,Gelong,74_star,laːu4,laːu4,,,Chin2015,,,,
-Xifang-75_water-1,,Xifang,75_water,nam3,nam3,,,Chin2015,,,,
-Baisha-75_water-1,,Baisha,75_water,nam3,nam3,,,Chin2015,,,,
-Yuanmen-75_water-1,,Yuanmen,75_water,nam6,nam6,,,Chin2015,,,,
-Heitu-75_water-1,,Heitu,75_water,nom3,nom3,,,Chin2015,,,,
-Baoding-75_water-1,,Baoding,75_water,nom3,nom3,,,Chin2015,,,,
-Zhongsha-75_water-1,,Zhongsha,75_water,nam3,nam3,,,Chin2015,,,,
-Tongzha-75_water-1,,Tongzha,75_water,nam3,nam3,,,Chin2015,,,,
-Qiandui-75_water-1,,Qiandui,75_water,nam6,nam6,,,Chin2015,,,,
-Baocheng-75_water-1,,Baocheng,75_water,nam3,nam3,,,Chin2015,,,,
-Gelong-75_water-1,,Gelong,75_water,nam3,nam3,,,Chin2015,,,,
-Xifang-76_rain-1,,Xifang,76_rain,foŋ1,foŋ1,,,Chin2015,,,,
-Baisha-76_rain-1,,Baisha,76_rain,foŋ1,foŋ1,,,Chin2015,,,,
-Yuanmen-76_rain-1,,Yuanmen,76_rain,fhən1,fhən1,,,Chin2015,,,,
-Heitu-76_rain-1,,Heitu,76_rain,pun1,pun1,,,Chin2015,,,,
-Baoding-76_rain-1,,Baoding,76_rain,fun1,fun1,,,Chin2015,,,,
-Zhongsha-76_rain-1,,Zhongsha,76_rain,fun1,fun1,,,Chin2015,,,,
-Tongzha-76_rain-1,,Tongzha,76_rain,fun1,fun1,,,Chin2015,,,,
-Qiandui-76_rain-1,,Qiandui,76_rain,fun1,fun1,,,Chin2015,,,,
-Baocheng-76_rain-1,,Baocheng,76_rain,fun1,fun1,,,Chin2015,,,,
-Gelong-76_rain-1,,Gelong,76_rain,fən1,fən1,,,Chin2015,,,,
-Xifang-77_stone-1,,Xifang,77_stone,tshiŋ1,tshiŋ1,,,Chin2015,,,,
-Baisha-77_stone-1,,Baisha,77_stone,tshiŋ4,tshiŋ4,,,Chin2015,,,,
-Yuanmen-77_stone-1,,Yuanmen,77_stone,tshin1,tshin1,,,Chin2015,,,,
-Heitu-77_stone-1,,Heitu,77_stone,tshin1,tshin1,,,Chin2015,,,,
-Baoding-77_stone-1,,Baoding,77_stone,tshin1,tshin1,,,Chin2015,,,,
-Zhongsha-77_stone-1,,Zhongsha,77_stone,tshin1,tshin1,,,Chin2015,,,,
-Tongzha-77_stone-1,,Tongzha,77_stone,tshi:n1,tshi:n1,,,Chin2015,,,,
-Qiandui-77_stone-1,,Qiandui,77_stone,tshi:n1,tshi:n1,,,Chin2015,,,,
-Baocheng-77_stone-1,,Baocheng,77_stone,tshi:n1,tshi:n1,,,Chin2015,,,,
-Gelong-77_stone-1,,Gelong,77_stone,sin1,sin1,,,Chin2015,,,,
-Xifang-78_sand-1,,Xifang,78_sand,phau2,phau2,,,Chin2015,,,,
-Baisha-78_sand-1,,Baisha,78_sand,phau2,phau2,,,Chin2015,,,,
-Yuanmen-78_sand-1,,Yuanmen,78_sand,phau5,phau5,,,Chin2015,,,,
-Heitu-78_sand-1,,Heitu,78_sand,phau2,phau2,,,Chin2015,,,,
-Baoding-78_sand-1,,Baoding,78_sand,phou2,phou2,,,Chin2015,,,,
-Zhongsha-78_sand-1,,Zhongsha,78_sand,phau2,phau2,,,Chin2015,,,,
-Tongzha-78_sand-1,,Tongzha,78_sand,phau5,phau5,,,Chin2015,,,,
-Qiandui-78_sand-1,,Qiandui,78_sand,pho5,pho5,,,Chin2015,,,,
-Baocheng-78_sand-1,,Baocheng,78_sand,phɔ5,phɔ5,,,Chin2015,,,,
-Gelong-78_sand-1,,Gelong,78_sand,pha5,pha5,,,Chin2015,,,,
-Xifang-79_earth-1,,Xifang,79_earth,ɣaŋ1,ɣaŋ1,,,Chin2015,,,,
-Baisha-79_earth-1,,Baisha,79_earth,fanŋ1,fanŋ1,,,Chin2015,,,,
-Yuanmen-79_earth-1,,Yuanmen,79_earth,fan4,fan4,,,Chin2015,,,,
-Heitu-79_earth-1,,Heitu,79_earth,ren1,ren1,,,Chin2015,,,,
-Baoding-79_earth-1,,Baoding,79_earth,van1,van1,,,Chin2015,,,,
-Zhongsha-79_earth-1,,Zhongsha,79_earth,ran1,ran1,,,Chin2015,,,,
-Tongzha-79_earth-1,,Tongzha,79_earth,fan4,fan4,,,Chin2015,,,,
-Qiandui-79_earth-1,,Qiandui,79_earth,fan4,fan4,,,Chin2015,,,,
-Baocheng-79_earth-1,,Baocheng,79_earth,fan4,fan4,,,Chin2015,,,,
-Gelong-79_earth-1,,Gelong,79_earth,it2,it2,,,Chin2015,,,,
-Xifang-80_cloud-1,,Xifang,80_cloud,fa3 // dɯ2,fa3,,,Chin2015,,,,
-Xifang-80_cloud-2,,Xifang,80_cloud,fa3 // dɯ2,dɯ2,,,Chin2015,,,,
-Baisha-80_cloud-1,,Baisha,80_cloud,fa3 // deɁ7,fa3,,,Chin2015,,,,
-Baisha-80_cloud-2,,Baisha,80_cloud,fa3 // deɁ7,deɁ7,,,Chin2015,,,,
-Yuanmen-80_cloud-1,,Yuanmen,80_cloud,fha3 // diaɁ7,fha3,,,Chin2015,,,,
-Yuanmen-80_cloud-2,,Yuanmen,80_cloud,fha3 // diaɁ7,diaɁ7,,,Chin2015,,,,
-Baoding-80_cloud-1,,Baoding,80_cloud,fa3 // de:k7,fa3,,,Chin2015,,,,
-Baoding-80_cloud-2,,Baoding,80_cloud,fa3 // de:k7,de:k7,,,Chin2015,,,,
-Zhongsha-80_cloud-1,,Zhongsha,80_cloud,fa3 // ze:Ɂ7,fa3,,,Chin2015,,,,
-Zhongsha-80_cloud-2,,Zhongsha,80_cloud,fa3 // ze:Ɂ7,ze:Ɂ7,,,Chin2015,,,,
-Tongzha-80_cloud-1,,Tongzha,80_cloud,fa3 // fe:Ɂ7,fa3,,,Chin2015,,,,
-Tongzha-80_cloud-2,,Tongzha,80_cloud,fa3 // fe:Ɂ7,fe:Ɂ7,,,Chin2015,,,,
-Gelong-80_cloud-1,,Gelong,80_cloud,vən1,vən1,,,Chin2015,,,,
-Xifang-81_smoke-1,,Xifang,81_smoke,Ɂen1,Ɂen1,,,Chin2015,,,,
-Baisha-81_smoke-1,,Baisha,81_smoke,Ɂin1,Ɂin1,,,Chin2015,,,,
-Yuanmen-81_smoke-1,,Yuanmen,81_smoke,za4,za4,,,Chin2015,,,,
-Heitu-81_smoke-1,,Heitu,81_smoke,zɯ:Ɂ7,zɯ:Ɂ7,,,Chin2015,,,,
-Baoding-81_smoke-1,,Baoding,81_smoke,za1,za1,,,Chin2015,,,,
-Zhongsha-81_smoke-1,,Zhongsha,81_smoke,zɯ:Ɂ7,zɯ:Ɂ7,,,Chin2015,,,,
-Tongzha-81_smoke-1,,Tongzha,81_smoke,za4,za4,,,Chin2015,,,,
-Qiandui-81_smoke-1,,Qiandui,81_smoke,za4,za4,,,Chin2015,,,,
-Baocheng-81_smoke-1,,Baocheng,81_smoke,za1,za1,,,Chin2015,,,,
-Gelong-81_smoke-1,,Gelong,81_smoke,ŋuan1 fo1,ŋuan1_fo1,,,Chin2015,,,,
-Xifang-82_fire-1,,Xifang,82_fire,fei1,fei1,,,Chin2015,,,,
-Baisha-82_fire-1,,Baisha,82_fire,fei1,fei1,,,Chin2015,,,,
-Yuanmen-82_fire-1,,Yuanmen,82_fire,fhei1,fhei1,,,Chin2015,,,,
-Heitu-82_fire-1,,Heitu,82_fire,pei1,pei1,,,Chin2015,,,,
-Baoding-82_fire-1,,Baoding,82_fire,fei1,fei1,,,Chin2015,,,,
-Zhongsha-82_fire-1,,Zhongsha,82_fire,fei1,fei1,,,Chin2015,,,,
-Tongzha-82_fire-1,,Tongzha,82_fire,fei1,fei1,,,Chin2015,,,,
-Qiandui-82_fire-1,,Qiandui,82_fire,fei1,fei1,,,Chin2015,,,,
-Baocheng-82_fire-1,,Baocheng,82_fire,fei1,fei1,,,Chin2015,,,,
-Gelong-82_fire-1,,Gelong,82_fire,fo1,fo1,,,Chin2015,,,,
-Gelong-83_ashes-1,,Gelong,83_ashes,bu2 tθai3,bu2_tθai3,,,Chin2015,,,,
-Xifang-84_burn-1,,Xifang,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Baisha-84_burn-1,,Baisha,84_burn,tshoi3,tshoi3,,,Chin2015,,,,
-Yuanmen-84_burn-1,,Yuanmen,84_burn,tshou3,tshou3,,,Chin2015,,,,
-Heitu-84_burn-1,,Heitu,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Baoding-84_burn-1,,Baoding,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Zhongsha-84_burn-1,,Zhongsha,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Tongzha-84_burn-1,,Tongzha,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Qiandui-84_burn-1,,Qiandui,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Baocheng-84_burn-1,,Baocheng,84_burn,tshui3,tshui3,,,Chin2015,,,,
-Gelong-84_burn-1,,Gelong,84_burn,tshɔi3,tshɔi3,,,Chin2015,,,,
-Xifang-85_path-1,,Xifang,85_path,kuŋ1,kuŋ1,,,Chin2015,,,,
-Baisha-85_path-1,,Baisha,85_path,kuŋ1,kuŋ1,,,Chin2015,,,,
-Yuanmen-85_path-1,,Yuanmen,85_path,kun5,kun5,,,Chin2015,,,,
-Heitu-85_path-1,,Heitu,85_path,ku:n1,ku:n1,,,Chin2015,,,,
-Baoding-85_path-1,,Baoding,85_path,ku:n1,ku:n1,,,Chin2015,,,,
-Zhongsha-85_path-1,,Zhongsha,85_path,ku:n1,ku:n1,,,Chin2015,,,,
-Tongzha-85_path-1,,Tongzha,85_path,ku:n1,ku:n1,,,Chin2015,,,,
-Qiandui-85_path-1,,Qiandui,85_path,ku:n1,ku:n1,,,Chin2015,,,,
-Baocheng-85_path-1,,Baocheng,85_path,ku:n1,ku:n1,,,Chin2015,,,,
-Gelong-85_path-1,,Gelong,85_path,kai5,kai5,,,Chin2015,,,,
-Xifang-86_mountain-1,,Xifang,86_mountain,ŋo3,ŋo3,,,Chin2015,,,,
-Baisha-86_mountain-1,,Baisha,86_mountain,ŋo3,ŋo3,,,Chin2015,,,,
-Yuanmen-86_mountain-1,,Yuanmen,86_mountain,ɱo6,ɱo6,,,Chin2015,,,,
-Heitu-86_mountain-1,,Heitu,86_mountain,hau3,hau3,,,Chin2015,,,,
-Baoding-86_mountain-1,,Baoding,86_mountain,hwou3,hwou3,,,Chin2015,,,,
-Zhongsha-86_mountain-1,,Zhongsha,86_mountain,hau3,hau3,,,Chin2015,,,,
-Tongzha-86_mountain-1,,Tongzha,86_mountain,go3,go3,,,Chin2015,,,,
-Qiandui-86_mountain-1,,Qiandui,86_mountain,vo3,vo3,,,Chin2015,,,,
-Baocheng-86_mountain-1,,Baocheng,86_mountain,hɔ3,hɔ3,,,Chin2015,,,,
-Gelong-86_mountain-1,,Gelong,86_mountain,ŋau3,ŋau3,,,Chin2015,,,,
-Xifang-87_red-1,,Xifang,87_red,xa:ŋ3,xa:ŋ3,,,Chin2015,,,,
-Baisha-87_red-1,,Baisha,87_red,tɔŋ3,tɔŋ3,,,Chin2015,,,,
-Yuanmen-87_red-1,,Yuanmen,87_red,tɔŋ1,tɔŋ1,,,Chin2015,,,,
-Heitu-87_red-1,,Heitu,87_red,de:ŋ3,de:ŋ3,,,Chin2015,,,,
-Baoding-87_red-1,,Baoding,87_red,ga:n3,ga:n3,,,Chin2015,,,,
-Zhongsha-87_red-1,,Zhongsha,87_red,ga:n3,ga:n3,,,Chin2015,,,,
-Tongzha-87_red-1,,Tongzha,87_red,ge:ŋ4,ge:ŋ4,,,Chin2015,,,,
-Qiandui-87_red-1,,Qiandui,87_red,ɬa:t7,ɬa:t7,,,Chin2015,,,,
-Baocheng-87_red-1,,Baocheng,87_red,ɬa:t7,ɬa:t7,,,Chin2015,,,,
-Gelong-87_red-1,,Gelong,87_red,hoŋ1,hoŋ1,,,Chin2015,,,,
-Xifang-88_green-1,,Xifang,88_green,khiu1,khiu1,,,Chin2015,,,,
-Baisha-88_green-1,,Baisha,88_green,khiu1,khiu1,,,Chin2015,,,,
-Yuanmen-88_green-1,,Yuanmen,88_green,khiu1,khiu1,,,Chin2015,,,,
-Heitu-88_green-1,,Heitu,88_green,khi:u1,khi:u1,,,Chin2015,,,,
-Baoding-88_green-1,,Baoding,88_green,khi:u1,khi:u1,,,Chin2015,,,,
-Zhongsha-88_green-1,,Zhongsha,88_green,khi:u1,khi:u1,,,Chin2015,,,,
-Tongzha-88_green-1,,Tongzha,88_green,khi:u1,khi:u1,,,Chin2015,,,,
-Qiandui-88_green-1,,Qiandui,88_green,khiu1,khiu1,,,Chin2015,,,,
-Baocheng-88_green-1,,Baocheng,88_green,khi:u1,khi:u1,,,Chin2015,,,,
-Gelong-88_green-1,,Gelong,88_green,khiu1,khiu1,,,Chin2015,,,,
-Xifang-89_yellow-1,,Xifang,89_yellow,ze:ŋ1,ze:ŋ1,,,Chin2015,,,,
-Baisha-89_yellow-1,,Baisha,89_yellow,ziaŋ4,ziaŋ4,,,Chin2015,,,,
-Yuanmen-89_yellow-1,,Yuanmen,89_yellow,tsiaŋ4,tsiaŋ4,,,Chin2015,,,,
-Heitu-89_yellow-1,,Heitu,89_yellow,ze:ŋ1,ze:ŋ1,,,Chin2015,,,,
-Baoding-89_yellow-1,,Baoding,89_yellow,ze:ŋ1,ze:ŋ1,,,Chin2015,,,,
-Zhongsha-89_yellow-1,,Zhongsha,89_yellow,ze:ŋ1,ze:ŋ1,,,Chin2015,,,,
-Tongzha-89_yellow-1,,Tongzha,89_yellow,ɬe:ŋ4,ɬe:ŋ4,,,Chin2015,,,,
-Qiandui-89_yellow-1,,Qiandui,89_yellow,ɬe:ŋ4,ɬe:ŋ4,,,Chin2015,,,,
-Baocheng-89_yellow-1,,Baocheng,89_yellow,ɬe:ŋ4,ɬe:ŋ4,,,Chin2015,,,,
-Gelong-89_yellow-1,,Gelong,89_yellow,vɔŋ1,vɔŋ1,,,Chin2015,,,,
-Xifang-90_white-1,,Xifang,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Baisha-90_white-1,,Baisha,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Yuanmen-90_white-1,,Yuanmen,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Heitu-90_white-1,,Heitu,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Baoding-90_white-1,,Baoding,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Zhongsha-90_white-1,,Zhongsha,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Tongzha-90_white-1,,Tongzha,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Qiandui-90_white-1,,Qiandui,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Baocheng-90_white-1,,Baocheng,90_white,kha:u1,kha:u1,,,Chin2015,,,,
-Gelong-90_white-1,,Gelong,90_white,khaːu1,khaːu1,,,Chin2015,,,,
-Xifang-91_black-1,,Xifang,91_black,dam3,dam3,,,Chin2015,,,,
-Baisha-91_black-1,,Baisha,91_black,dam3,dam3,,,Chin2015,,,,
-Yuanmen-91_black-1,,Yuanmen,91_black,dam3,dam3,,,Chin2015,,,,
-Heitu-91_black-1,,Heitu,91_black,dom3,dom3,,,Chin2015,,,,
-Baoding-91_black-1,,Baoding,91_black,dom2,dom2,,,Chin2015,,,,
-Zhongsha-91_black-1,,Zhongsha,91_black,dam3,dam3,,,Chin2015,,,,
-Tongzha-91_black-1,,Tongzha,91_black,dam3,dam3,,,Chin2015,,,,
-Qiandui-91_black-1,,Qiandui,91_black,dam3,dam3,,,Chin2015,,,,
-Baocheng-91_black-1,,Baocheng,91_black,dəm3,dəm3,,,Chin2015,,,,
-Gelong-91_black-1,,Gelong,91_black,khoil1,khoil1,,,Chin2015,,,,
-Xifang-92_night-1,,Xifang,92_night,tshap7,tshap7,,,Chin2015,,,,
-Baisha-92_night-1,,Baisha,92_night,tshap7,tshap7,,,Chin2015,,,,
-Yuanmen-92_night-1,,Yuanmen,92_night,tshap7,tshap7,,,Chin2015,,,,
-Heitu-92_night-1,,Heitu,92_night,tshop7,tshop7,,,Chin2015,,,,
-Baoding-92_night-1,,Baoding,92_night,tshop7,tshop7,,,Chin2015,,,,
-Zhongsha-92_night-1,,Zhongsha,92_night,tshap7,tshap7,,,Chin2015,,,,
-Tongzha-92_night-1,,Tongzha,92_night,tshop7,tshop7,,,Chin2015,,,,
-Qiandui-92_night-1,,Qiandui,92_night,tshap7,tshap7,,,Chin2015,,,,
-Baocheng-92_night-1,,Baocheng,92_night,tshap7,tshap7,,,Chin2015,,,,
-Gelong-92_night-1,,Gelong,92_night,tshap2,tshap2,,,Chin2015,,,,
-Xifang-93_warm-1,,Xifang,93_warm,ɬoŋ2,ɬoŋ2,,,Chin2015,,,,
-Baisha-93_warm-1,,Baisha,93_warm,ɬom2,ɬom2,,,Chin2015,,,,
-Yuanmen-93_warm-1,,Yuanmen,93_warm,ɬom1,ɬom1,,,Chin2015,,,,
-Heitu-93_warm-1,,Heitu,93_warm,dun2,dun2,,,Chin2015,,,,
-Baoding-93_warm-1,,Baoding,93_warm,ɬun2,ɬun2,,,Chin2015,,,,
-Zhongsha-93_warm-1,,Zhongsha,93_warm,Ɂut7,Ɂut7,,,Chin2015,,,,
-Tongzha-93_warm-1,,Tongzha,93_warm,ɬun5,ɬun5,,,Chin2015,,,,
-Qiandui-93_warm-1,,Qiandui,93_warm,ɬun5,ɬun5,,,Chin2015,,,,
-Baocheng-93_warm-1,,Baocheng,93_warm,ɬun5,ɬun5,,,Chin2015,,,,
-Gelong-93_warm-1,,Gelong,93_warm,buɘt4,buɘt4,,,Chin2015,,,,
-Xifang-93b_hot-1,,Xifang,93b_hot,fo3,fo3,,,Chin2015,,,,
-Baisha-93b_hot-1,,Baisha,93b_hot,tshit8,tshit8,,,Chin2015,,,,
-Yuanmen-93b_hot-1,,Yuanmen,93b_hot,vut8,vut8,,,Chin2015,,,,
-Heitu-93b_hot-1,,Heitu,93b_hot,tshau3,tshau3,,,Chin2015,,,,
-Baoding-93b_hot-1,,Baoding,93b_hot,fou3,fou3,,,Chin2015,,,,
-Zhongsha-93b_hot-1,,Zhongsha,93b_hot,tshau3,tshau3,,,Chin2015,,,,
-Tongzha-93b_hot-1,,Tongzha,93b_hot,ti:t7,ti:t7,,,Chin2015,,,,
-Qiandui-93b_hot-1,,Qiandui,93b_hot,ti:t7,ti:t7,,,Chin2015,,,,
-Baocheng-93b_hot-1,,Baocheng,93b_hot,ti:t7,ti:t7,,,Chin2015,,,,
-Gelong-93b_hot-1,,Gelong,93b_hot,fau3,fau3,,,Chin2015,,,,
-Xifang-94_cold-1,,Xifang,94_cold,kha:i2,kha:i2,,,Chin2015,,,,
-Baisha-94_cold-1,,Baisha,94_cold,kha:i2,kha:i2,,,Chin2015,,,,
-Yuanmen-94_cold-1,,Yuanmen,94_cold,khuai5,khuai5,,,Chin2015,,,,
-Heitu-94_cold-1,,Heitu,94_cold,khai2,khai2,,,Chin2015,,,,
-Baoding-94_cold-1,,Baoding,94_cold,kha:i2,kha:i2,,,Chin2015,,,,
-Zhongsha-94_cold-1,,Zhongsha,94_cold,kha:i2,kha:i2,,,Chin2015,,,,
-Tongzha-94_cold-1,,Tongzha,94_cold,kha:i5,kha:i5,,,Chin2015,,,,
-Qiandui-94_cold-1,,Qiandui,94_cold,kha:i5,kha:i5,,,Chin2015,,,,
-Baocheng-94_cold-1,,Baocheng,94_cold,kha:i5,kha:i5,,,Chin2015,,,,
-Gelong-94_cold-1,,Gelong,94_cold,duŋ2 lhan4,duŋ2_lhan4,,,Chin2015,,,,
-Xifang-95_full-1,,Xifang,95_full,thik8,thik8,,,Chin2015,,,,
-Baisha-95_full-1,,Baisha,95_full,thi:Ɂ8,thi:Ɂ8,,,Chin2015,,,,
-Yuanmen-95_full-1,,Yuanmen,95_full,thiɁ7,thiɁ7,,,Chin2015,,,,
-Heitu-95_full-1,,Heitu,95_full,thi:Ɂ7,thi:Ɂ7,,,Chin2015,,,,
-Baoding-95_full-1,,Baoding,95_full,thi:k7,thi:k7,,,Chin2015,,,,
-Zhongsha-95_full-1,,Zhongsha,95_full,thi:Ɂ7,thi:Ɂ7,,,Chin2015,,,,
-Tongzha-95_full-1,,Tongzha,95_full,thiaɁ7,thiaɁ7,,,Chin2015,,,,
-Qiandui-95_full-1,,Qiandui,95_full,thiaɁ7,thiaɁ7,,,Chin2015,,,,
-Baocheng-95_full-1,,Baocheng,95_full,thiak7,thiak7,,,Chin2015,,,,
-Gelong-95_full-1,,Gelong,95_full,thiɘk2,thiɘk2,,,Chin2015,,,,
-Xifang-96_new-1,,Xifang,96_new,pa:ŋ1,pa:ŋ1,,,Chin2015,,,,
-Baisha-96_new-1,,Baisha,96_new,no3,no3,,,Chin2015,,,,
-Yuanmen-96_new-1,,Yuanmen,96_new,no6,no6,,,Chin2015,,,,
-Heitu-96_new-1,,Heitu,96_new,ma:n1,ma:n1,,,Chin2015,,,,
-Baoding-96_new-1,,Baoding,96_new,pa:n1,pa:n1,,,Chin2015,,,,
-Zhongsha-96_new-1,,Zhongsha,96_new,pa:n1,pa:n1,,,Chin2015,,,,
-Tongzha-96_new-1,,Tongzha,96_new,no3,no3,,,Chin2015,,,,
-Qiandui-96_new-1,,Qiandui,96_new,no6,no6,,,Chin2015,,,,
-Baocheng-96_new-1,,Baocheng,96_new,nɔ3,nɔ3,,,Chin2015,,,,
-Gelong-96_new-1,,Gelong,96_new,bɔn4,bɔn4,,,Chin2015,,,,
-Xifang-97_good-1,,Xifang,97_good,ɬen1,ɬen1,,,Chin2015,,,,
-Baisha-97_good-1,,Baisha,97_good,ɬen1,ɬen1,,,Chin2015,,,,
-Yuanmen-97_good-1,,Yuanmen,97_good,ɬen1,ɬen1,,,Chin2015,,,,
-Heitu-97_good-1,,Heitu,97_good,din1,din1,,,Chin2015,,,,
-Baoding-97_good-1,,Baoding,97_good,ɬeȵ1,ɬeȵ1,,,Chin2015,,,,
-Zhongsha-97_good-1,,Zhongsha,97_good,ɬin1,ɬin1,,,Chin2015,,,,
-Tongzha-97_good-1,,Tongzha,97_good,ɬen1,ɬen1,,,Chin2015,,,,
-Qiandui-97_good-1,,Qiandui,97_good,ɬen1,ɬen1,,,Chin2015,,,,
-Baocheng-97_good-1,,Baocheng,97_good,ɬin1,ɬin1,,,Chin2015,,,,
-Gelong-97_good-1,,Gelong,97_good,tθen1,tθen1,,,Chin2015,,,,
-Xifang-98_round-1,,Xifang,98_round,ɣom1,ɣom1,,,Chin2015,,,,
-Baisha-98_round-1,,Baisha,98_round,zom1,zom1,,,Chin2015,,,,
-Yuanmen-98_round-1,,Yuanmen,98_round,vom4,vom4,,,Chin2015,,,,
-Heitu-98_round-1,,Heitu,98_round,hom1,hom1,,,Chin2015,,,,
-Baoding-98_round-1,,Baoding,98_round,hwom1,hwom1,,,Chin2015,,,,
-Zhongsha-98_round-1,,Zhongsha,98_round,hom1,hom1,,,Chin2015,,,,
-Tongzha-98_round-1,,Tongzha,98_round,gom4,gom4,,,Chin2015,,,,
-Qiandui-98_round-1,,Qiandui,98_round,po5,po5,,,Chin2015,,,,
-Baocheng-98_round-1,,Baocheng,98_round,hum1,hum1,,,Chin2015,,,,
-Gelong-98_round-1,,Gelong,98_round,vin1,vin1,,,Chin2015,,,,
-Xifang-99_dry-1,,Xifang,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Baisha-99_dry-1,,Baisha,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Yuanmen-99_dry-1,,Yuanmen,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Heitu-99_dry-1,,Heitu,99_dry,kheɯ2,kheɯ2,,,Chin2015,,,,
-Baoding-99_dry-1,,Baoding,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Zhongsha-99_dry-1,,Zhongsha,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Tongzha-99_dry-1,,Tongzha,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Qiandui-99_dry-1,,Qiandui,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Baocheng-99_dry-1,,Baocheng,99_dry,da:u1,da:u1,,,Chin2015,,,,
-Gelong-99_dry-1,,Gelong,99_dry,khɔ5,khɔ5,,,Chin2015,,,,
-Xifang-100_name-1,,Xifang,100_name,phe:ŋ1,phe:ŋ1,,,Chin2015,,,,
-Baisha-100_name-1,,Baisha,100_name,phiaŋ1,phiaŋ1,,,Chin2015,,,,
-Yuanmen-100_name-1,,Yuanmen,100_name,phiaŋ1,phiaŋ1,,,Chin2015,,,,
-Heitu-100_name-1,,Heitu,100_name,pha:ŋ1,pha:ŋ1,,,Chin2015,,,,
-Baoding-100_name-1,,Baoding,100_name,phe:ŋ1,phe:ŋ1,,,Chin2015,,,,
-Zhongsha-100_name-1,,Zhongsha,100_name,phe:ŋ1,phe:ŋ1,,,Chin2015,,,,
-Tongzha-100_name-1,,Tongzha,100_name,phe:ŋ1,phe:ŋ1,,,Chin2015,,,,
-Qiandui-100_name-1,,Qiandui,100_name,phe:ŋ1,phe:ŋ1,,,Chin2015,,,,
-Baocheng-100_name-1,,Baocheng,100_name,phe:ŋ1,phe:ŋ1,,,Chin2015,,,,
-Gelong-100_name-1,,Gelong,100_name,phɛŋ1,phɛŋ1,,,Chin2015,,,,
+Xifang-1_i-1,,Xifang,1_i,hou1,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Baisha-1_i-1,,Baisha,1_i,ho1,ho1,h o <?>,,Chin2015,,,^ h o 1 $,default
+Yuanmen-1_i-1,,Yuanmen,1_i,houɁ7,houɁ7,h o u Ɂ <?>,,Chin2015,,,^ h o u Ɂ 7 $,default
+Heitu-1_i-1,,Heitu,1_i,hou1,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Baoding-1_i-1,,Baoding,1_i,hou1 // de3,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Baoding-1_i-2,,Baoding,1_i,hou1 // de3,de3,d e <?>,,Chin2015,,,^ d e 3 $,default
+Zhongsha-1_i-1,,Zhongsha,1_i,hou1,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Tongzha-1_i-1,,Tongzha,1_i,hou1,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Qiandui-1_i-1,,Qiandui,1_i,hou1,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Baocheng-1_i-1,,Baocheng,1_i,hou1,hou1,h o u <?>,,Chin2015,,,^ h o u 1 $,default
+Gelong-1_i-1,,Gelong,1_i,kɘ5,kɘ5,k ɘ <?>,,Chin2015,,,^ k ɘ 5 $,default
+Xifang-2_you-1,,Xifang,2_you,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Baisha-2_you-1,,Baisha,2_you,mə1,mə1,m ə <?>,,Chin2015,,,^ m ə 1 $,default
+Yuanmen-2_you-1,,Yuanmen,2_you,meɯɁ8,meɯɁ8,m e ɯ Ɂ <?>,,Chin2015,,,^ m e ɯ Ɂ 8 $,default
+Heitu-2_you-1,,Heitu,2_you,mɯ1,mɯ1,m ɯ <?>,,Chin2015,,,^ m ɯ 1 $,default
+Baoding-2_you-1,,Baoding,2_you,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Zhongsha-2_you-1,,Zhongsha,2_you,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Tongzha-2_you-1,,Tongzha,2_you,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Qiandui-2_you-1,,Qiandui,2_you,meɯ4,meɯ4,m e ɯ <?>,,Chin2015,,,^ m e ɯ 4 $,default
+Baocheng-2_you-1,,Baocheng,2_you,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Gelong-2_you-1,,Gelong,2_you,mɔ5,mɔ5,m ɔ <?>,,Chin2015,,,^ m ɔ 5 $,default
+Xifang-3_we-1,,Xifang,3_we,fau1,fau1,f a u <?>,,Chin2015,,,^ f a u 1 $,default
+Baisha-3_we-1,,Baisha,3_we,fə1,fə1,f ə <?>,,Chin2015,,,^ f ə 1 $,default
+Yuanmen-3_we-1,,Yuanmen,3_we,feɯɁ7,feɯɁ7,f e ɯ Ɂ <?>,,Chin2015,,,^ f e ɯ Ɂ 7 $,default
+Heitu-3_we-1,,Heitu,3_we,Ɂa2 rou1,Ɂa2_rou1,Ɂ a <?> _ r o u <?>,,Chin2015,,,^ Ɂ a 2 _ r o u 1 $,default
+Baoding-3_we-1,,Baoding,3_we,fa1,fa1,f a <?>,,Chin2015,,,^ f a 1 $,default
+Zhongsha-3_we-1,,Zhongsha,3_we,Ɂa3tau1,Ɂa3tau1,Ɂ a <?> t a u <?>,,Chin2015,,,^ Ɂ a 3 t a u 1 $,default
+Tongzha-3_we-1,,Tongzha,3_we,fau1,fau1,f a u <?>,,Chin2015,,,^ f a u 1 $,default
+Qiandui-3_we-1,,Qiandui,3_we,fau1,fau1,f a u <?>,,Chin2015,,,^ f a u 1 $,default
+Baocheng-3_we-1,,Baocheng,3_we,fou1,fou1,f o u <?>,,Chin2015,,,^ f o u 1 $,default
+Gelong-3_we-1,,Gelong,3_we,ha5,ha5,h a <?>,,Chin2015,,,^ h a 5 $,default
+Xifang-4_this-1,,Xifang,4_this,nei2,nei2,n e i <?>,,Chin2015,,,^ n e i 2 $,default
+Baisha-4_this-1,,Baisha,4_this,ne2 // nen3,ne2,n e <?>,,Chin2015,,,^ n e 2 $,default
+Baisha-4_this-2,,Baisha,4_this,ne2 // nen3,nen3,n e n <?>,,Chin2015,,,^ n e n 3 $,default
+Yuanmen-4_this-1,,Yuanmen,4_this,ni5,ni5,n i <?>,,Chin2015,,,^ n i 5 $,default
+Heitu-4_this-1,,Heitu,4_this,nei2,nei2,n e i <?>,,Chin2015,,,^ n e i 2 $,default
+Baoding-4_this-1,,Baoding,4_this,nei2,nei2,n e i <?>,,Chin2015,,,^ n e i 2 $,default
+Zhongsha-4_this-1,,Zhongsha,4_this,nei2,nei2,n e i <?>,,Chin2015,,,^ n e i 2 $,default
+Tongzha-4_this-1,,Tongzha,4_this,ni5,ni5,n i <?>,,Chin2015,,,^ n i 5 $,default
+Qiandui-4_this-1,,Qiandui,4_this,nei2,nei2,n e i <?>,,Chin2015,,,^ n e i 2 $,default
+Baocheng-4_this-1,,Baocheng,4_this,nei5,nei5,n e i <?>,,Chin2015,,,^ n e i 5 $,default
+Gelong-4_this-1,,Gelong,4_this,nɛi3,nɛi3,n ɛ i <?>,,Chin2015,,,^ n ɛ i 3 $,default
+Xifang-5_that-1,,Xifang,5_that,ma2,ma2,m a <?>,,Chin2015,,,^ m a 2 $,default
+Baisha-5_that-1,,Baisha,5_that,na3,na3,n a <?>,,Chin2015,,,^ n a 3 $,default
+Yuanmen-5_that-1,,Yuanmen,5_that,no5,no5,n o <?>,,Chin2015,,,^ n o 5 $,default
+Heitu-5_that-1,,Heitu,5_that,ma2,ma2,m a <?>,,Chin2015,,,^ m a 2 $,default
+Baoding-5_that-1,,Baoding,5_that,ma2,ma2,m a <?>,,Chin2015,,,^ m a 2 $,default
+Zhongsha-5_that-1,,Zhongsha,5_that,na2,na2,n a <?>,,Chin2015,,,^ n a 2 $,default
+Tongzha-5_that-1,,Tongzha,5_that,ma5,ma5,m a <?>,,Chin2015,,,^ m a 5 $,default
+Qiandui-5_that-1,,Qiandui,5_that,mɔ2,mɔ2,m ɔ <?>,,Chin2015,,,^ m ɔ 2 $,default
+Baocheng-5_that-1,,Baocheng,5_that,ma5,ma5,m a <?>,,Chin2015,,,^ m a 5 $,default
+Gelong-5_that-1,,Gelong,5_that,hɔ5,hɔ5,h ɔ <?>,,Chin2015,,,^ h ɔ 5 $,default
+Xifang-6_who-1,,Xifang,6_who,Ɂɯ3 ra3,Ɂɯ3_ra3,Ɂ ɯ <?> _ r a <?>,,Chin2015,,,^ Ɂ ɯ 3 _ r a 3 $,default
+Baisha-6_who-1,,Baisha,6_who,Ɂa1 ra5,Ɂa1_ra5,Ɂ a <?> _ r a <?>,,Chin2015,,,^ Ɂ a 1 _ r a 5 $,default
+Yuanmen-6_who-1,,Yuanmen,6_who,Ɂa1 ra6,Ɂa1_ra6,Ɂ a <?> _ r a <?>,,Chin2015,,,^ Ɂ a 1 _ r a 6 $,default
+Heitu-6_who-1,,Heitu,6_who,Ɂa3 ra1,Ɂa3_ra1,Ɂ a <?> _ r a <?>,,Chin2015,,,^ Ɂ a 3 _ r a 1 $,default
+Baoding-6_who-1,,Baoding,6_who,Ɂɯ3 ra3,Ɂɯ3_ra3,Ɂ ɯ <?> _ r a <?>,,Chin2015,,,^ Ɂ ɯ 3 _ r a 3 $,default
+Zhongsha-6_who-1,,Zhongsha,6_who,Ɂa3 ra1,Ɂa3_ra1,Ɂ a <?> _ r a <?>,,Chin2015,,,^ Ɂ a 3 _ r a 1 $,default
+Tongzha-6_who-1,,Tongzha,6_who,Ɂa3 ra2,Ɂa3_ra2,Ɂ a <?> _ r a <?>,,Chin2015,,,^ Ɂ a 3 _ r a 2 $,default
+Qiandui-6_who-1,,Qiandui,6_who,Ɂai1 la3,Ɂai1_la3,Ɂ a i <?> _ l a <?>,,Chin2015,,,^ Ɂ a i 1 _ l a 3 $,default
+Baocheng-6_who-1,,Baocheng,6_who,Ɂa4 la1,Ɂa4_la1,Ɂ a <?> _ l a <?>,,Chin2015,,,^ Ɂ a 4 _ l a 1 $,default
+Gelong-6_who-1,,Gelong,6_who,au5,au5,a u <?>,,Chin2015,,,^ a u 5 $,default
+Xifang-7_what-1,,Xifang,7_what,pɯ3 ra3,pɯ3_ra3,p ɯ <?> _ r a <?>,,Chin2015,,,^ p ɯ 3 _ r a 3 $,default
+Baisha-7_what-1,,Baisha,7_what,mau2 pla2,mau2_pla2,m a u <?> _ p l a <?>,,Chin2015,,,^ m a u 2 _ p l a 2 $,default
+Yuanmen-7_what-1,,Yuanmen,7_what,ma3 ra6,ma3_ra6,m a <?> _ r a <?>,,Chin2015,,,^ m a 3 _ r a 6 $,default
+Heitu-7_what-1,,Heitu,7_what,mei3 paŋ3,mei3_paŋ3,m e i <?> _ p a ŋ <?>,,Chin2015,,,^ m e i 3 _ p a ŋ 3 $,default
+Baoding-7_what-1,,Baoding,7_what,me3 he3,me3_he3,m e <?> _ h e <?>,,Chin2015,,,^ m e 3 _ h e 3 $,default
+Zhongsha-7_what-1,,Zhongsha,7_what,mau2 phe1,mau2_phe1,m a u <?> _ pʰ e <?>,,Chin2015,,,^ m a u 2 _ ph e 1 $,default
+Tongzha-7_what-1,,Tongzha,7_what,me3 he1,me3_he1,m e <?> _ h e <?>,,Chin2015,,,^ m e 3 _ h e 1 $,default
+Qiandui-7_what-1,,Qiandui,7_what,mo2 me:ŋ1,mo2_me:ŋ1,m o <?> _ m eː ŋ <?>,,Chin2015,,,^ m o 2 _ m e: ŋ 1 $,default
+Baocheng-7_what-1,,Baocheng,7_what,he1,he1,h e <?>,,Chin2015,,,^ h e 1 $,default
+Gelong-7_what-1,,Gelong,7_what,mɔ5 miɘ,mɔ5_miɘ,m ɔ <?> _ m i ɘ,,Chin2015,,,^ m ɔ 5 _ m i ɘ $,default
+Xifang-8_not-1,,Xifang,8_not,ɣan3,ɣan3,ɣ a n <?>,,Chin2015,,,^ ɣ a n 3 $,default
+Baisha-8_not-1,,Baisha,8_not,van3,van3,v a n <?>,,Chin2015,,,^ v a n 3 $,default
+Yuanmen-8_not-1,,Yuanmen,8_not,van5,van5,v a n <?>,,Chin2015,,,^ v a n 5 $,default
+Heitu-8_not-1,,Heitu,8_not,Ɂe:m2,Ɂe:m2,Ɂ eː m <?>,,Chin2015,,,^ Ɂ e: m 2 $,default
+Baoding-8_not-1,,Baoding,8_not,ta1,ta1,t a <?>,,Chin2015,,,^ t a 1 $,default
+Zhongsha-8_not-1,,Zhongsha,8_not,Ɂe:m2,Ɂe:m2,Ɂ eː m <?>,,Chin2015,,,^ Ɂ e: m 2 $,default
+Tongzha-8_not-1,,Tongzha,8_not,vei4,vei4,v e i <?>,,Chin2015,,,^ v e i 4 $,default
+Qiandui-8_not-1,,Qiandui,8_not,van3,van3,v a n <?>,,Chin2015,,,^ v a n 3 $,default
+Baocheng-8_not-1,,Baocheng,8_not,vei4,vei4,v e i <?>,,Chin2015,,,^ v e i 4 $,default
+Gelong-8_not-1,,Gelong,8_not,vɛn3,vɛn3,v ɛ n <?>,,Chin2015,,,^ v ɛ n 3 $,default
+Xifang-9_all-1,,Xifang,9_all,rik7 rik7,rik7_rik7,r i k <?> _ r i k <?>,,Chin2015,,,^ r i k 7 _ r i k 7 $,default
+Baisha-9_all-1,,Baisha,9_all,rit7 rit7,rit7_rit7,r i t <?> _ r i t <?>,,Chin2015,,,^ r i t 7 _ r i t 7 $,default
+Yuanmen-9_all-1,,Yuanmen,9_all,bu:i3 bu:i3,bu:i3_bu:i3,b uː i <?> _ b uː i <?>,,Chin2015,,,^ b u: i 3 _ b u: i 3 $,default
+Heitu-9_all-1,,Heitu,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aː i <?> _ b aː i <?>,,Chin2015,,,^ b a: i 3 _ b a: i 3 $,default
+Baoding-9_all-1,,Baoding,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aː i <?> _ b aː i <?>,,Chin2015,,,^ b a: i 3 _ b a: i 3 $,default
+Zhongsha-9_all-1,,Zhongsha,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aː i <?> _ b aː i <?>,,Chin2015,,,^ b a: i 3 _ b a: i 3 $,default
+Tongzha-9_all-1,,Tongzha,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aː i <?> _ b aː i <?>,,Chin2015,,,^ b a: i 3 _ b a: i 3 $,default
+Qiandui-9_all-1,,Qiandui,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aː i <?> _ b aː i <?>,,Chin2015,,,^ b a: i 3 _ b a: i 3 $,default
+Baocheng-9_all-1,,Baocheng,9_all,ba:i3 ba:i3,ba:i3_ba:i3,b aː i <?> _ b aː i <?>,,Chin2015,,,^ b a: i 3 _ b a: i 3 $,default
+Gelong-9_all-1,,Gelong,9_all,nuŋ3,nuŋ3,n u ŋ <?>,,Chin2015,,,^ n u ŋ 3 $,default
+Xifang-10_many-1,,Xifang,10_many,ɬo:i1,ɬo:i1,ɬ oː i <?>,,Chin2015,,,^ ɬ o: i 1 $,default
+Baisha-10_many-1,,Baisha,10_many,ɬuai1,ɬuai1,ɬ u a i <?>,,Chin2015,,,^ ɬ u a i 1 $,default
+Yuanmen-10_many-1,,Yuanmen,10_many,ɬu:i1,ɬu:i1,ɬ uː i <?>,,Chin2015,,,^ ɬ u: i 1 $,default
+Heitu-10_many-1,,Heitu,10_many,da:i1,da:i1,d aː i <?>,,Chin2015,,,^ d a: i 1 $,default
+Baoding-10_many-1,,Baoding,10_many,ɬo:i1,ɬo:i1,ɬ oː i <?>,,Chin2015,,,^ ɬ o: i 1 $,default
+Zhongsha-10_many-1,,Zhongsha,10_many,ɬo:i1,ɬo:i1,ɬ oː i <?>,,Chin2015,,,^ ɬ o: i 1 $,default
+Tongzha-10_many-1,,Tongzha,10_many,ɬa:i1,ɬa:i1,ɬ aː i <?>,,Chin2015,,,^ ɬ a: i 1 $,default
+Qiandui-10_many-1,,Qiandui,10_many,ɬa:i1,ɬa:i1,ɬ aː i <?>,,Chin2015,,,^ ɬ a: i 1 $,default
+Baocheng-10_many-1,,Baocheng,10_many,ɬa:i1,ɬa:i1,ɬ aː i <?>,,Chin2015,,,^ ɬ a: i 1 $,default
+Gelong-10_many-1,,Gelong,10_many,tθɔi1,tθɔi1,t θ ɔ i <?>,,Chin2015,,,^ t θ ɔ i 1 $,default
+Xifang-11_one-1,,Xifang,11_one,tshei3,tshei3,tsh e i <?>,,Chin2015,,,^ tsh e i 3 $,default
+Baisha-11_one-1,,Baisha,11_one,tsheɯ3,tsheɯ3,tsh e ɯ <?>,,Chin2015,,,^ tsh e ɯ 3 $,default
+Yuanmen-11_one-1,,Yuanmen,11_one,tsɯ2,tsɯ2,ts ɯ <?>,,Chin2015,,,^ ts ɯ 2 $,default
+Heitu-11_one-1,,Heitu,11_one,kɯ2,kɯ2,k ɯ <?>,,Chin2015,,,^ k ɯ 2 $,default
+Baoding-11_one-1,,Baoding,11_one,tsheɯ3,tsheɯ3,tsh e ɯ <?>,,Chin2015,,,^ tsh e ɯ 3 $,default
+Zhongsha-11_one-1,,Zhongsha,11_one,kɯ2,kɯ2,k ɯ <?>,,Chin2015,,,^ k ɯ 2 $,default
+Tongzha-11_one-1,,Tongzha,11_one,Ɂɯ3,Ɂɯ3,Ɂ ɯ <?>,,Chin2015,,,^ Ɂ ɯ 3 $,default
+Qiandui-11_one-1,,Qiandui,11_one,tɯ5,tɯ5,t ɯ <?>,,Chin2015,,,^ t ɯ 5 $,default
+Baocheng-11_one-1,,Baocheng,11_one,kɯ2,kɯ2,k ɯ <?>,,Chin2015,,,^ k ɯ 2 $,default
+Gelong-11_one-1,,Gelong,11_one,tsi4,tsi4,ts i <?>,,Chin2015,,,^ ts i 4 $,default
+Xifang-12_two-1,,Xifang,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Baisha-12_two-1,,Baisha,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Yuanmen-12_two-1,,Yuanmen,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Heitu-12_two-1,,Heitu,12_two,dou3,dou3,d o u <?>,,Chin2015,,,^ d o u 3 $,default
+Baoding-12_two-1,,Baoding,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Zhongsha-12_two-1,,Zhongsha,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Tongzha-12_two-1,,Tongzha,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Qiandui-12_two-1,,Qiandui,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Baocheng-12_two-1,,Baocheng,12_two,ɬau3,ɬau3,ɬ a u <?>,,Chin2015,,,^ ɬ a u 3 $,default
+Gelong-12_two-1,,Gelong,12_two,tθai3,tθai3,t θ a i <?>,,Chin2015,,,^ t θ a i 3 $,default
+Xifang-13_big-1,,Xifang,13_big,loŋ1,loŋ1,l o ŋ <?>,,Chin2015,,,^ l o ŋ 1 $,default
+Baisha-13_big-1,,Baisha,13_big,luŋ1,luŋ1,l u ŋ <?>,,Chin2015,,,^ l u ŋ 1 $,default
+Yuanmen-13_big-1,,Yuanmen,13_big,luŋ4,luŋ4,l u ŋ <?>,,Chin2015,,,^ l u ŋ 4 $,default
+Heitu-13_big-1,,Heitu,13_big,luŋ1,luŋ1,l u ŋ <?>,,Chin2015,,,^ l u ŋ 1 $,default
+Baoding-13_big-1,,Baoding,13_big,loŋ1,loŋ1,l o ŋ <?>,,Chin2015,,,^ l o ŋ 1 $,default
+Zhongsha-13_big-1,,Zhongsha,13_big,luŋ1,luŋ1,l u ŋ <?>,,Chin2015,,,^ l u ŋ 1 $,default
+Tongzha-13_big-1,,Tongzha,13_big,loŋ1,loŋ1,l o ŋ <?>,,Chin2015,,,^ l o ŋ 1 $,default
+Qiandui-13_big-1,,Qiandui,13_big,luŋ4,luŋ4,l u ŋ <?>,,Chin2015,,,^ l u ŋ 4 $,default
+Baocheng-13_big-1,,Baocheng,13_big,luŋ1,luŋ1,l u ŋ <?>,,Chin2015,,,^ l u ŋ 1 $,default
+Gelong-13_big-1,,Gelong,13_big,loŋ1,loŋ1,l o ŋ <?>,,Chin2015,,,^ l o ŋ 1 $,default
+Xifang-14_long-1,,Xifang,14_long,ta:u3,ta:u3,t aː u <?>,,Chin2015,,,^ t a: u 3 $,default
+Baisha-14_long-1,,Baisha,14_long,ta:u3,ta:u3,t aː u <?>,,Chin2015,,,^ t a: u 3 $,default
+Yuanmen-14_long-1,,Yuanmen,14_long,ta:u6,ta:u6,t aː u <?>,,Chin2015,,,^ t a: u 6 $,default
+Heitu-14_long-1,,Heitu,14_long,na:u3,na:u3,n aː u <?>,,Chin2015,,,^ n a: u 3 $,default
+Baoding-14_long-1,,Baoding,14_long,ta:u3,ta:u3,t aː u <?>,,Chin2015,,,^ t a: u 3 $,default
+Zhongsha-14_long-1,,Zhongsha,14_long,ta:u3,ta:u3,t aː u <?>,,Chin2015,,,^ t a: u 3 $,default
+Tongzha-14_long-1,,Tongzha,14_long,ta:u6,ta:u6,t aː u <?>,,Chin2015,,,^ t a: u 6 $,default
+Qiandui-14_long-1,,Qiandui,14_long,tha:u6,tha:u6,tʰ aː u <?>,,Chin2015,,,^ th a: u 6 $,default
+Baocheng-14_long-1,,Baocheng,14_long,ta:u6,ta:u6,t aː u <?>,,Chin2015,,,^ t a: u 6 $,default
+Gelong-14_long-1,,Gelong,14_long,tsaːu4,tsaːu4,ts aː u <?>,,Chin2015,,,^ ts aː u 4 $,default
+Xifang-15_small-1,,Xifang,15_small,Ɂiȵ2 // tɔk7,Ɂiȵ2,Ɂ i ȵ <?>,,Chin2015,,,^ Ɂ i ȵ 2 $,default
+Xifang-15_small-2,,Xifang,15_small,Ɂiȵ2 // tɔk7,tɔk7,t ɔ k <?>,,Chin2015,,,^ t ɔ k 7 $,default
+Baisha-15_small-1,,Baisha,15_small,tɔk8,tɔk8,t ɔ k <?>,,Chin2015,,,^ t ɔ k 8 $,default
+Yuanmen-15_small-1,,Yuanmen,15_small,tɔk8,tɔk8,t ɔ k <?>,,Chin2015,,,^ t ɔ k 8 $,default
+Heitu-15_small-1,,Heitu,15_small,tik9,tik9,t i k <?>,,Chin2015,,,^ t i k 9 $,default
+Baoding-15_small-1,,Baoding,15_small,Ɂeȵ2,Ɂeȵ2,Ɂ e ȵ <?>,,Chin2015,,,^ Ɂ e ȵ 2 $,default
+Zhongsha-15_small-1,,Zhongsha,15_small,Ɂin2,Ɂin2,Ɂ i n <?>,,Chin2015,,,^ Ɂ i n 2 $,default
+Tongzha-15_small-1,,Tongzha,15_small,tok8,tok8,t o k <?>,,Chin2015,,,^ t o k 8 $,default
+Qiandui-15_small-1,,Qiandui,15_small,thoɁ8,thoɁ8,tʰ o Ɂ <?>,,Chin2015,,,^ th o Ɂ 8 $,default
+Baocheng-15_small-1,,Baocheng,15_small,tɔk8,tɔk8,t ɔ k <?>,,Chin2015,,,^ t ɔ k 8 $,default
+Gelong-15_small-1,,Gelong,15_small,vɔi3,vɔi3,v ɔ i <?>,,Chin2015,,,^ v ɔ i 3 $,default
+Xifang-16_woman-1,,Xifang,16_woman,ɬɯk7 kho2,ɬɯk7_kho2,ɬ ɯ k <?> _ kʰ o <?>,,Chin2015,,,^ ɬ ɯ k 7 _ kh o 2 $,default
+Baisha-16_woman-1,,Baisha,16_woman,pai3 kho5,pai3_kho5,p a i <?> _ kʰ o <?>,,Chin2015,,,^ p a i 3 _ kh o 5 $,default
+Yuanmen-16_woman-1,,Yuanmen,16_woman,pai4 kho5,pai4_kho5,p a i <?> _ kʰ o <?>,,Chin2015,,,^ p a i 4 _ kh o 5 $,default
+Heitu-16_woman-1,,Heitu,16_woman,mei3 khau2,mei3_khau2,m e i <?> _ kʰ a u <?>,,Chin2015,,,^ m e i 3 _ kh a u 2 $,default
+Baoding-16_woman-1,,Baoding,16_woman,pai3 khau2,pai3_khau2,p a i <?> _ kʰ a u <?>,,Chin2015,,,^ p a i 3 _ kh a u 2 $,default
+Zhongsha-16_woman-1,,Zhongsha,16_woman,pai3 khau2,pai3_khau2,p a i <?> _ kʰ a u <?>,,Chin2015,,,^ p a i 3 _ kh a u 2 $,default
+Tongzha-16_woman-1,,Tongzha,16_woman,ɬɯɁ7 kho5,ɬɯɁ7_kho5,ɬ ɯ Ɂ <?> _ kʰ o <?>,,Chin2015,,,^ ɬ ɯ Ɂ 7 _ kh o 5 $,default
+Qiandui-16_woman-1,,Qiandui,16_woman,phai6 kho5,phai6_kho5,pʰ a i <?> _ kʰ o <?>,,Chin2015,,,^ ph a i 6 _ kh o 5 $,default
+Baocheng-16_woman-1,,Baocheng,16_woman,pai4 khɔ4,pai4_khɔ4,p a i <?> _ kʰ ɔ <?>,,Chin2015,,,^ p a i 4 _ kh ɔ 4 $,default
+Gelong-16_woman-1,,Gelong,16_woman,ŋaːu1 bai4,ŋaːu1_bai4,ŋ aː u <?> _ b a i <?>,,Chin2015,,,^ ŋ aː u 1 _ b a i 4 $,default
+Xifang-17_man-1,,Xifang,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Baisha-17_man-1,,Baisha,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Yuanmen-17_man-1,,Yuanmen,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Heitu-17_man-1,,Heitu,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Baoding-17_man-1,,Baoding,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Zhongsha-17_man-1,,Zhongsha,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Tongzha-17_man-1,,Tongzha,17_man,ɬɯ:Ɂ7,ɬɯ:Ɂ7,ɬ ɯː Ɂ <?>,,Chin2015,,,^ ɬ ɯ: Ɂ 7 $,default
+Qiandui-17_man-1,,Qiandui,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Baocheng-17_man-1,,Baocheng,17_man,pha3,pha3,pʰ a <?>,,Chin2015,,,^ ph a 3 $,default
+Gelong-17_man-1,,Gelong,17_man,phɔ3,phɔ3,pʰ ɔ <?>,,Chin2015,,,^ ph ɔ 3 $,default
+Xifang-18_person-1,,Xifang,18_person,Ɂa:u1,Ɂa:u1,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 1 $,default
+Baisha-18_person-1,,Baisha,18_person,ŋa:u4,ŋa:u4,ŋ aː u <?>,,Chin2015,,,^ ŋ a: u 4 $,default
+Yuanmen-18_person-1,,Yuanmen,18_person,ɱa:u5,ɱa:u5,ɱ aː u <?>,,Chin2015,,,^ ɱ a: u 5 $,default
+Heitu-18_person-1,,Heitu,18_person,Ɂa:u2,Ɂa:u2,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 2 $,default
+Baoding-18_person-1,,Baoding,18_person,Ɂa:u1,Ɂa:u1,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 1 $,default
+Zhongsha-18_person-1,,Zhongsha,18_person,Ɂa:u1,Ɂa:u1,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 1 $,default
+Tongzha-18_person-1,,Tongzha,18_person,Ɂa:u1,Ɂa:u1,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 1 $,default
+Qiandui-18_person-1,,Qiandui,18_person,Ɂa:u1,Ɂa:u1,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 1 $,default
+Baocheng-18_person-1,,Baocheng,18_person,Ɂa:u1,Ɂa:u1,Ɂ aː u <?>,,Chin2015,,,^ Ɂ a: u 1 $,default
+Gelong-18_person-1,,Gelong,18_person,ŋaːu1,ŋaːu1,ŋ aː u <?>,,Chin2015,,,^ ŋ aː u 1 $,default
+Xifang-19_fish-1,,Xifang,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Baisha-19_fish-1,,Baisha,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Yuanmen-19_fish-1,,Yuanmen,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Heitu-19_fish-1,,Heitu,19_fish,da1,da1,d a <?>,,Chin2015,,,^ d a 1 $,default
+Baoding-19_fish-1,,Baoding,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Zhongsha-19_fish-1,,Zhongsha,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Tongzha-19_fish-1,,Tongzha,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Qiandui-19_fish-1,,Qiandui,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Baocheng-19_fish-1,,Baocheng,19_fish,ɬa1,ɬa1,ɬ a <?>,,Chin2015,,,^ ɬ a 1 $,default
+Gelong-19_fish-1,,Gelong,19_fish,ŋɔi1,ŋɔi1,ŋ ɔ i <?>,,Chin2015,,,^ ŋ ɔ i 1 $,default
+Xifang-20_bird-1,,Xifang,20_bird,sat7,sat7,s a t <?>,,Chin2015,,,^ s a t 7 $,default
+Baisha-20_bird-1,,Baisha,20_bird,tshat8,tshat8,tsh a t <?>,,Chin2015,,,^ tsh a t 8 $,default
+Yuanmen-20_bird-1,,Yuanmen,20_bird,ȵa:u4,ȵa:u4,ȵ aː u <?>,,Chin2015,,,^ ȵ a: u 4 $,default
+Heitu-20_bird-1,,Heitu,20_bird,tat9,tat9,t a t <?>,,Chin2015,,,^ t a t 9 $,default
+Baoding-20_bird-1,,Baoding,20_bird,taȶ7,taȶ7,t a ȶ <?>,,Chin2015,,,^ t a ȶ 7 $,default
+Zhongsha-20_bird-1,,Zhongsha,20_bird,tat7,tat7,t a t <?>,,Chin2015,,,^ t a t 7 $,default
+Tongzha-20_bird-1,,Tongzha,20_bird,tat7,tat7,t a t <?>,,Chin2015,,,^ t a t 7 $,default
+Qiandui-20_bird-1,,Qiandui,20_bird,tat7,tat7,t a t <?>,,Chin2015,,,^ t a t 7 $,default
+Baocheng-20_bird-1,,Baocheng,20_bird,tat7,tat7,t a t <?>,,Chin2015,,,^ t a t 7 $,default
+Gelong-20_bird-1,,Gelong,20_bird,tshiat2,tshiat2,tsh i a t <?>,,Chin2015,,,^ tsh i a t 2 $,default
+Xifang-21_dog-1,,Xifang,21_dog,pa1,pa1,p a <?>,,Chin2015,,,^ p a 1 $,default
+Baisha-21_dog-1,,Baisha,21_dog,pa1,pa1,p a <?>,,Chin2015,,,^ p a 1 $,default
+Yuanmen-21_dog-1,,Yuanmen,21_dog,pa4,pa4,p a <?>,,Chin2015,,,^ p a 4 $,default
+Heitu-21_dog-1,,Heitu,21_dog,ma1,ma1,m a <?>,,Chin2015,,,^ m a 1 $,default
+Baoding-21_dog-1,,Baoding,21_dog,pa1,pa1,p a <?>,,Chin2015,,,^ p a 1 $,default
+Zhongsha-21_dog-1,,Zhongsha,21_dog,pa1,pa1,p a <?>,,Chin2015,,,^ p a 1 $,default
+Tongzha-21_dog-1,,Tongzha,21_dog,pa4,pa4,p a <?>,,Chin2015,,,^ p a 4 $,default
+Qiandui-21_dog-1,,Qiandui,21_dog,pha4,pha4,pʰ a <?>,,Chin2015,,,^ ph a 4 $,default
+Baocheng-21_dog-1,,Baocheng,21_dog,pa4,pa4,p a <?>,,Chin2015,,,^ p a 4 $,default
+Gelong-21_dog-1,,Gelong,21_dog,khak5,khak5,kʰ a k <?>,,Chin2015,,,^ kh a k 5 $,default
+Xifang-22_louse-1,,Xifang,22_louse,thaɁ1,thaɁ1,tʰ a Ɂ <?>,,Chin2015,,,^ th a Ɂ 1 $,default
+Baisha-22_louse-1,,Baisha,22_louse,thaɁ1,thaɁ1,tʰ a Ɂ <?>,,Chin2015,,,^ th a Ɂ 1 $,default
+Yuanmen-22_louse-1,,Yuanmen,22_louse,than1,than1,tʰ a n <?>,,Chin2015,,,^ th a n 1 $,default
+Heitu-22_louse-1,,Heitu,22_louse,then1,then1,tʰ e n <?>,,Chin2015,,,^ th e n 1 $,default
+Baoding-22_louse-1,,Baoding,22_louse,than1,than1,tʰ a n <?>,,Chin2015,,,^ th a n 1 $,default
+Zhongsha-22_louse-1,,Zhongsha,22_louse,than1,than1,tʰ a n <?>,,Chin2015,,,^ th a n 1 $,default
+Tongzha-22_louse-1,,Tongzha,22_louse,than1,than1,tʰ a n <?>,,Chin2015,,,^ th a n 1 $,default
+Qiandui-22_louse-1,,Qiandui,22_louse,than1,than1,tʰ a n <?>,,Chin2015,,,^ th a n 1 $,default
+Baocheng-22_louse-1,,Baocheng,22_louse,than1,than1,tʰ a n <?>,,Chin2015,,,^ th a n 1 $,default
+Gelong-22_louse-1,,Gelong,22_louse,ki5 feu1,ki5_feu1,k i <?> _ f e u <?>,,Chin2015,,,^ k i 5 _ f e u 1 $,default
+Xifang-23_tree-1,,Xifang,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Baisha-23_tree-1,,Baisha,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Yuanmen-23_tree-1,,Yuanmen,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Heitu-23_tree-1,,Heitu,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Baoding-23_tree-1,,Baoding,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Zhongsha-23_tree-1,,Zhongsha,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Tongzha-23_tree-1,,Tongzha,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Qiandui-23_tree-1,,Qiandui,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Baocheng-23_tree-1,,Baocheng,23_tree,tshai1,tshai1,tsh a i <?>,,Chin2015,,,^ tsh a i 1 $,default
+Gelong-23_tree-1,,Gelong,23_tree,nɛk2,nɛk2,n ɛ k <?>,,Chin2015,,,^ n ɛ k 2 $,default
+Xifang-24_seed-1,,Xifang,24_seed,faŋ1,faŋ1,f a ŋ <?>,,Chin2015,,,^ f a ŋ 1 $,default
+Baisha-24_seed-1,,Baisha,24_seed,faŋ1,faŋ1,f a ŋ <?>,,Chin2015,,,^ f a ŋ 1 $,default
+Yuanmen-24_seed-1,,Yuanmen,24_seed,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Heitu-24_seed-1,,Heitu,24_seed,phen1,phen1,pʰ e n <?>,,Chin2015,,,^ ph e n 1 $,default
+Baoding-24_seed-1,,Baoding,24_seed,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Zhongsha-24_seed-1,,Zhongsha,24_seed,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Tongzha-24_seed-1,,Tongzha,24_seed,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Qiandui-24_seed-1,,Qiandui,24_seed,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Baocheng-24_seed-1,,Baocheng,24_seed,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Gelong-24_seed-1,,Gelong,24_seed,fon1,fon1,f o n <?>,,Chin2015,,,^ f o n 1 $,default
+Xifang-25_leaf-1,,Xifang,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Baisha-25_leaf-1,,Baisha,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Yuanmen-25_leaf-1,,Yuanmen,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Heitu-25_leaf-1,,Heitu,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Baoding-25_leaf-1,,Baoding,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Zhongsha-25_leaf-1,,Zhongsha,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Tongzha-25_leaf-1,,Tongzha,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Qiandui-25_leaf-1,,Qiandui,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Baocheng-25_leaf-1,,Baocheng,25_leaf,ɓeɯ1,ɓeɯ1,ɓ e ɯ <?>,,Chin2015,,,^ ɓ e ɯ 1 $,default
+Gelong-25_leaf-1,,Gelong,25_leaf,bou1,bou1,b o u <?>,,Chin2015,,,^ b o u 1 $,default
+Xifang-26_root-1,,Xifang,26_root,kei1,kei1,k e i <?>,,Chin2015,,,^ k e i 1 $,default
+Baisha-26_root-1,,Baisha,26_root,rip8,rip8,r i p <?>,,Chin2015,,,^ r i p 8 $,default
+Yuanmen-26_root-1,,Yuanmen,26_root,rip8,rip8,r i p <?>,,Chin2015,,,^ r i p 8 $,default
+Heitu-26_root-1,,Heitu,26_root,ri:u1,ri:u1,r iː u <?>,,Chin2015,,,^ r i: u 1 $,default
+Baoding-26_root-1,,Baoding,26_root,kei1,kei1,k e i <?>,,Chin2015,,,^ k e i 1 $,default
+Zhongsha-26_root-1,,Zhongsha,26_root,gi:u1,gi:u1,g iː u <?>,,Chin2015,,,^ g i: u 1 $,default
+Tongzha-26_root-1,,Tongzha,26_root,van4,van4,v a n <?>,,Chin2015,,,^ v a n 4 $,default
+Qiandui-26_root-1,,Qiandui,26_root,van4,van4,v a n <?>,,Chin2015,,,^ v a n 4 $,default
+Baocheng-26_root-1,,Baocheng,26_root,van4,van4,v a n <?>,,Chin2015,,,^ v a n 4 $,default
+Gelong-26_root-1,,Gelong,26_root,fon1,fon1,f o n <?>,,Chin2015,,,^ f o n 1 $,default
+Xifang-28_skin-1,,Xifang,28_skin,no:ŋ1,no:ŋ1,n oː ŋ <?>,,Chin2015,,,^ n o: ŋ 1 $,default
+Baisha-28_skin-1,,Baisha,28_skin,nuaŋ1,nuaŋ1,n u a ŋ <?>,,Chin2015,,,^ n u a ŋ 1 $,default
+Yuanmen-28_skin-1,,Yuanmen,28_skin,nuaŋ4,nuaŋ4,n u a ŋ <?>,,Chin2015,,,^ n u a ŋ 4 $,default
+Heitu-28_skin-1,,Heitu,28_skin,naŋ1,naŋ1,n a ŋ <?>,,Chin2015,,,^ n a ŋ 1 $,default
+Baoding-28_skin-1,,Baoding,28_skin,no:ŋ1,no:ŋ1,n oː ŋ <?>,,Chin2015,,,^ n o: ŋ 1 $,default
+Zhongsha-28_skin-1,,Zhongsha,28_skin,no:ŋ1,no:ŋ1,n oː ŋ <?>,,Chin2015,,,^ n o: ŋ 1 $,default
+Tongzha-28_skin-1,,Tongzha,28_skin,no:ŋ1,no:ŋ1,n oː ŋ <?>,,Chin2015,,,^ n o: ŋ 1 $,default
+Qiandui-28_skin-1,,Qiandui,28_skin,nɔ:ŋ4,nɔ:ŋ4,n ɔː ŋ <?>,,Chin2015,,,^ n ɔ: ŋ 4 $,default
+Baocheng-28_skin-1,,Baocheng,28_skin,nɔ:ŋ1,nɔ:ŋ1,n ɔː ŋ <?>,,Chin2015,,,^ n ɔ: ŋ 1 $,default
+Gelong-28_skin-1,,Gelong,28_skin,naŋ1,naŋ1,n a ŋ <?>,,Chin2015,,,^ n a ŋ 1 $,default
+Xifang-29_flesh-1,,Xifang,29_flesh,xam3,xam3,x a m <?>,,Chin2015,,,^ x a m 3 $,default
+Baisha-29_flesh-1,,Baisha,29_flesh,xam3,xam3,x a m <?>,,Chin2015,,,^ x a m 3 $,default
+Yuanmen-29_flesh-1,,Yuanmen,29_flesh,kham3,kham3,kʰ a m <?>,,Chin2015,,,^ kh a m 3 $,default
+Heitu-29_flesh-1,,Heitu,29_flesh,mam2,mam2,m a m <?>,,Chin2015,,,^ m a m 2 $,default
+Baoding-29_flesh-1,,Baoding,29_flesh,gom3,gom3,g o m <?>,,Chin2015,,,^ g o m 3 $,default
+Zhongsha-29_flesh-1,,Zhongsha,29_flesh,gam3,gam3,g a m <?>,,Chin2015,,,^ g a m 3 $,default
+Tongzha-29_flesh-1,,Tongzha,29_flesh,gam6,gam6,g a m <?>,,Chin2015,,,^ g a m 6 $,default
+Qiandui-29_flesh-1,,Qiandui,29_flesh,ham6,ham6,h a m <?>,,Chin2015,,,^ h a m 6 $,default
+Baocheng-29_flesh-1,,Baocheng,29_flesh,ham6,ham6,h a m <?>,,Chin2015,,,^ h a m 6 $,default
+Gelong-29_flesh-1,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,muŋ1,m u ŋ <?>,,Chin2015,,,^ m u ŋ 1 $,default
+Gelong-29_flesh-2,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,tθɯək2,t θ ɯ ə k <?>,,Chin2015,,,^ t θ ɯ ə k 2 $,default
+Gelong-29_flesh-3,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,khai1,kʰ a i <?>,,Chin2015,,,^ kh a i 1 $,default
+Xifang-30_blood-1,,Xifang,30_blood,ɬo:ȶ7,ɬo:ȶ7,ɬ oː ȶ <?>,,Chin2015,,,^ ɬ o: ȶ 7 $,default
+Baisha-30_blood-1,,Baisha,30_blood,ɬa:ȶ 8,ɬa:ȶ_8,ɬ aː ȶ _ <?>,,Chin2015,,,^ ɬ a: ȶ _ 8 $,default
+Yuanmen-30_blood-1,,Yuanmen,30_blood,ɬuaȶ7,ɬuaȶ7,ɬ u a ȶ <?>,,Chin2015,,,^ ɬ u a ȶ 7 $,default
+Heitu-30_blood-1,,Heitu,30_blood,da:ȶ7,da:ȶ7,d aː ȶ <?>,,Chin2015,,,^ d a: ȶ 7 $,default
+Baoding-30_blood-1,,Baoding,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ <?>,,Chin2015,,,^ ɬ a: ȶ 7 $,default
+Zhongsha-30_blood-1,,Zhongsha,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ <?>,,Chin2015,,,^ ɬ a: ȶ 7 $,default
+Tongzha-30_blood-1,,Tongzha,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ <?>,,Chin2015,,,^ ɬ a: ȶ 7 $,default
+Qiandui-30_blood-1,,Qiandui,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ <?>,,Chin2015,,,^ ɬ a: ȶ 7 $,default
+Baocheng-30_blood-1,,Baocheng,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ <?>,,Chin2015,,,^ ɬ a: ȶ 7 $,default
+Gelong-30_blood-1,,Gelong,30_blood,tθɔt2,tθɔt2,t θ ɔ t <?>,,Chin2015,,,^ t θ ɔ t 2 $,default
+Xifang-31_bone-1,,Xifang,31_bone,ɣɯk7,ɣɯk7,ɣ ɯ k <?>,,Chin2015,,,^ ɣ ɯ k 7 $,default
+Baisha-31_bone-1,,Baisha,31_bone,fɯk8,fɯk8,f ɯ k <?>,,Chin2015,,,^ f ɯ k 8 $,default
+Yuanmen-31_bone-1,,Yuanmen,31_bone,fɯɁ8,fɯɁ8,f ɯ Ɂ <?>,,Chin2015,,,^ f ɯ Ɂ 8 $,default
+Heitu-31_bone-1,,Heitu,31_bone,rɯ:Ɂ7,rɯ:Ɂ7,r ɯː Ɂ <?>,,Chin2015,,,^ r ɯ: Ɂ 7 $,default
+Baoding-31_bone-1,,Baoding,31_bone,vɯ:k7,vɯ:k7,v ɯː k <?>,,Chin2015,,,^ v ɯ: k 7 $,default
+Zhongsha-31_bone-1,,Zhongsha,31_bone,rɯ:7,rɯ:7,r ɯː <?>,,Chin2015,,,^ r ɯ: 7 $,default
+Tongzha-31_bone-1,,Tongzha,31_bone,fɯ:Ɂ8,fɯ:Ɂ8,f ɯː Ɂ <?>,,Chin2015,,,^ f ɯ: Ɂ 8 $,default
+Qiandui-31_bone-1,,Qiandui,31_bone,fɯaɁ8,fɯaɁ8,f ɯ a Ɂ <?>,,Chin2015,,,^ f ɯ a Ɂ 8 $,default
+Baocheng-31_bone-1,,Baocheng,31_bone,fɯ:Ɂ8,fɯ:Ɂ8,f ɯː Ɂ <?>,,Chin2015,,,^ f ɯ: Ɂ 8 $,default
+Gelong-31_bone-1,,Gelong,31_bone,vɯək4,vɯək4,v ɯ ə k <?>,,Chin2015,,,^ v ɯ ə k 4 $,default
+Xifang-32_grease-1,,Xifang,32_grease,xui3,xui3,x u i <?>,,Chin2015,,,^ x u i 3 $,default
+Baisha-32_grease-1,,Baisha,32_grease,xui3,xui3,x u i <?>,,Chin2015,,,^ x u i 3 $,default
+Yuanmen-32_grease-1,,Yuanmen,32_grease,khui3,khui3,kʰ u i <?>,,Chin2015,,,^ kh u i 3 $,default
+Heitu-32_grease-1,,Heitu,32_grease,ru:i3,ru:i3,r uː i <?>,,Chin2015,,,^ r u: i 3 $,default
+Baoding-32_grease-1,,Baoding,32_grease,gwei3,gwei3,gw e i <?>,,Chin2015,,,^ gw e i 3 $,default
+Zhongsha-32_grease-1,,Zhongsha,32_grease,gu:i3,gu:i3,g uː i <?>,,Chin2015,,,^ g u: i 3 $,default
+Tongzha-32_grease-1,,Tongzha,32_grease,gu:i6,gu:i6,g uː i <?>,,Chin2015,,,^ g u: i 6 $,default
+Qiandui-32_grease-1,,Qiandui,32_grease,hu:i6,hu:i6,h uː i <?>,,Chin2015,,,^ h u: i 6 $,default
+Baocheng-32_grease-1,,Baocheng,32_grease,hu:i6,hu:i6,h uː i <?>,,Chin2015,,,^ h u: i 6 $,default
+Xifang-33_egg-1,,Xifang,33_egg,zum1,zum1,z u m <?>,,Chin2015,,,^ z u m 1 $,default
+Baisha-33_egg-1,,Baisha,33_egg,zum1,zum1,z u m <?>,,Chin2015,,,^ z u m 1 $,default
+Yuanmen-33_egg-1,,Yuanmen,33_egg,zum1,zum1,z u m <?>,,Chin2015,,,^ z u m 1 $,default
+Heitu-33_egg-1,,Heitu,33_egg,zɯ:m1,zɯ:m1,z ɯː m <?>,,Chin2015,,,^ z ɯ: m 1 $,default
+Baoding-33_egg-1,,Baoding,33_egg,zɯ:m1,zɯ:m1,z ɯː m <?>,,Chin2015,,,^ z ɯ: m 1 $,default
+Zhongsha-33_egg-1,,Zhongsha,33_egg,zɯ:m1,zɯ:m1,z ɯː m <?>,,Chin2015,,,^ z ɯ: m 1 $,default
+Tongzha-33_egg-1,,Tongzha,33_egg,zɯ:m1,zɯ:m1,z ɯː m <?>,,Chin2015,,,^ z ɯ: m 1 $,default
+Qiandui-33_egg-1,,Qiandui,33_egg,zu:m1,zu:m1,z uː m <?>,,Chin2015,,,^ z u: m 1 $,default
+Baocheng-33_egg-1,,Baocheng,33_egg,zɯ:m1,zɯ:m1,z ɯː m <?>,,Chin2015,,,^ z ɯ: m 1 $,default
+Gelong-33_egg-1,,Gelong,33_egg,fon1,fon1,f o n <?>,,Chin2015,,,^ f o n 1 $,default
+Xifang-34_horn-1,,Xifang,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Baisha-34_horn-1,,Baisha,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Yuanmen-34_horn-1,,Yuanmen,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Heitu-34_horn-1,,Heitu,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Baoding-34_horn-1,,Baoding,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Zhongsha-34_horn-1,,Zhongsha,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Tongzha-34_horn-1,,Tongzha,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Qiandui-34_horn-1,,Qiandui,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Baocheng-34_horn-1,,Baocheng,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Gelong-34_horn-1,,Gelong,34_horn,hau1,hau1,h a u <?>,,Chin2015,,,^ h a u 1 $,default
+Xifang-35_tail-1,,Xifang,35_tail,tshot7,tshot7,tsh o t <?>,,Chin2015,,,^ tsh o t 7 $,default
+Baisha-35_tail-1,,Baisha,35_tail,tshot8,tshot8,tsh o t <?>,,Chin2015,,,^ tsh o t 8 $,default
+Yuanmen-35_tail-1,,Yuanmen,35_tail,tshət7,tshət7,tsh ə t <?>,,Chin2015,,,^ tsh ə t 7 $,default
+Heitu-35_tail-1,,Heitu,35_tail,tshut7,tshut7,tsh u t <?>,,Chin2015,,,^ tsh u t 7 $,default
+Baoding-35_tail-1,,Baoding,35_tail,tshuȶ7,tshuȶ7,tsh u ȶ <?>,,Chin2015,,,^ tsh u ȶ 7 $,default
+Zhongsha-35_tail-1,,Zhongsha,35_tail,tshut7,tshut7,tsh u t <?>,,Chin2015,,,^ tsh u t 7 $,default
+Tongzha-35_tail-1,,Tongzha,35_tail,tshut7,tshut7,tsh u t <?>,,Chin2015,,,^ tsh u t 7 $,default
+Qiandui-35_tail-1,,Qiandui,35_tail,tshut7,tshut7,tsh u t <?>,,Chin2015,,,^ tsh u t 7 $,default
+Baocheng-35_tail-1,,Baocheng,35_tail,tshut7,tshut7,tsh u t <?>,,Chin2015,,,^ tsh u t 7 $,default
+Gelong-35_tail-1,,Gelong,35_tail,tshət2,tshət2,tsh ə t <?>,,Chin2015,,,^ tsh ə t 2 $,default
+Xifang-36_feather-1,,Xifang,36_feather,ŋoŋ1,ŋoŋ1,ŋ o ŋ <?>,,Chin2015,,,^ ŋ o ŋ 1 $,default
+Baisha-36_feather-1,,Baisha,36_feather,ŋoŋ1,ŋoŋ1,ŋ o ŋ <?>,,Chin2015,,,^ ŋ o ŋ 1 $,default
+Yuanmen-36_feather-1,,Yuanmen,36_feather,ɱən4,ɱən4,ɱ ə n <?>,,Chin2015,,,^ ɱ ə n 4 $,default
+Heitu-36_feather-1,,Heitu,36_feather,hun1,hun1,h u n <?>,,Chin2015,,,^ h u n 1 $,default
+Baoding-36_feather-1,,Baoding,36_feather,hun1,hun1,h u n <?>,,Chin2015,,,^ h u n 1 $,default
+Zhongsha-36_feather-1,,Zhongsha,36_feather,hun1,hun1,h u n <?>,,Chin2015,,,^ h u n 1 $,default
+Tongzha-36_feather-1,,Tongzha,36_feather,hun1,hun1,h u n <?>,,Chin2015,,,^ h u n 1 $,default
+Qiandui-36_feather-1,,Qiandui,36_feather,hun1,hun1,h u n <?>,,Chin2015,,,^ h u n 1 $,default
+Baocheng-36_feather-1,,Baocheng,36_feather,hun1,hun1,h u n <?>,,Chin2015,,,^ h u n 1 $,default
+Gelong-36_feather-1,,Gelong,36_feather,ŋən1,ŋən1,ŋ ə n <?>,,Chin2015,,,^ ŋ ə n 1 $,default
+Xifang-37_hair-1,,Xifang,37_hair,rom1,rom1,r o m <?>,,Chin2015,,,^ r o m 1 $,default
+Baisha-37_hair-1,,Baisha,37_hair,ɱən4,ɱən4,ɱ ə n <?>,,Chin2015,,,^ ɱ ə n 4 $,default
+Yuanmen-37_hair-1,,Yuanmen,37_hair,ɗan5,ɗan5,ɗ a n <?>,,Chin2015,,,^ ɗ a n 5 $,default
+Heitu-37_hair-1,,Heitu,37_hair,nom1,nom1,n o m <?>,,Chin2015,,,^ n o m 1 $,default
+Baoding-37_hair-1,,Baoding,37_hair,ɗan2,ɗan2,ɗ a n <?>,,Chin2015,,,^ ɗ a n 2 $,default
+Zhongsha-37_hair-1,,Zhongsha,37_hair,tom1,tom1,t o m <?>,,Chin2015,,,^ t o m 1 $,default
+Tongzha-37_hair-1,,Tongzha,37_hair,ɗan5,ɗan5,ɗ a n <?>,,Chin2015,,,^ ɗ a n 5 $,default
+Qiandui-37_hair-1,,Qiandui,37_hair,ɗan5,ɗan5,ɗ a n <?>,,Chin2015,,,^ ɗ a n 5 $,default
+Baocheng-37_hair-1,,Baocheng,37_hair,ɗan5,ɗan5,ɗ a n <?>,,Chin2015,,,^ ɗ a n 5 $,default
+Gelong-37_hair-1,,Gelong,37_hair,ŋən1 // vau2 // tθok3,ŋən1,ŋ ə n <?>,,Chin2015,,,^ ŋ ə n 1 $,default
+Gelong-37_hair-2,,Gelong,37_hair,ŋən1 // vau2 // tθok3,vau2,v a u <?>,,Chin2015,,,^ v a u 2 $,default
+Gelong-37_hair-3,,Gelong,37_hair,ŋən1 // vau2 // tθok3,tθok3,t θ o k <?>,,Chin2015,,,^ t θ o k 3 $,default
+Xifang-38_head-1,,Xifang,38_head,ɣo3,ɣo3,ɣ o <?>,,Chin2015,,,^ ɣ o 3 $,default
+Baisha-38_head-1,,Baisha,38_head,vo3,vo3,v o <?>,,Chin2015,,,^ v o 3 $,default
+Yuanmen-38_head-1,,Yuanmen,38_head,vo3,vo3,v o <?>,,Chin2015,,,^ v o 3 $,default
+Heitu-38_head-1,,Heitu,38_head,rau3,rau3,r a u <?>,,Chin2015,,,^ r a u 3 $,default
+Baoding-38_head-1,,Baoding,38_head,gwou3,gwou3,gw o u <?>,,Chin2015,,,^ gw o u 3 $,default
+Zhongsha-38_head-1,,Zhongsha,38_head,gau3,gau3,g a u <?>,,Chin2015,,,^ g a u 3 $,default
+Tongzha-38_head-1,,Tongzha,38_head,go6,go6,g o <?>,,Chin2015,,,^ g o 6 $,default
+Qiandui-38_head-1,,Qiandui,38_head,ho6,ho6,h o <?>,,Chin2015,,,^ h o 6 $,default
+Baocheng-38_head-1,,Baocheng,38_head,hɔ6,hɔ6,h ɔ <?>,,Chin2015,,,^ h ɔ 6 $,default
+Gelong-38_head-1,,Gelong,38_head,vau3,vau3,v a u <?>,,Chin2015,,,^ v a u 3 $,default
+Xifang-39_ear-1,,Xifang,39_ear,zai1,zai1,z a i <?>,,Chin2015,,,^ z a i 1 $,default
+Baisha-39_ear-1,,Baisha,39_ear,zai1,zai1,z a i <?>,,Chin2015,,,^ z a i 1 $,default
+Yuanmen-39_ear-1,,Yuanmen,39_ear,tsai4,tsai4,ts a i <?>,,Chin2015,,,^ ts a i 4 $,default
+Heitu-39_ear-1,,Heitu,39_ear,zai1,zai1,z a i <?>,,Chin2015,,,^ z a i 1 $,default
+Baoding-39_ear-1,,Baoding,39_ear,zai1,zai1,z a i <?>,,Chin2015,,,^ z a i 1 $,default
+Zhongsha-39_ear-1,,Zhongsha,39_ear,zai1,zai1,z a i <?>,,Chin2015,,,^ z a i 1 $,default
+Tongzha-39_ear-1,,Tongzha,39_ear,ɬai4,ɬai4,ɬ a i <?>,,Chin2015,,,^ ɬ a i 4 $,default
+Qiandui-39_ear-1,,Qiandui,39_ear,ɬai4,ɬai4,ɬ a i <?>,,Chin2015,,,^ ɬ a i 4 $,default
+Baocheng-39_ear-1,,Baocheng,39_ear,ɬai4,ɬai4,ɬ a i <?>,,Chin2015,,,^ ɬ a i 4 $,default
+Gelong-39_ear-1,,Gelong,39_ear,lai4,lai4,l a i <?>,,Chin2015,,,^ l a i 4 $,default
+Xifang-40_eye-1,,Xifang,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Baisha-40_eye-1,,Baisha,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Yuanmen-40_eye-1,,Yuanmen,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Heitu-40_eye-1,,Heitu,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Baoding-40_eye-1,,Baoding,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Zhongsha-40_eye-1,,Zhongsha,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Tongzha-40_eye-1,,Tongzha,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Qiandui-40_eye-1,,Qiandui,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Baocheng-40_eye-1,,Baocheng,40_eye,tsha1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Gelong-40_eye-1,,Gelong,40_eye,khan5 // hɔ1,khan5,kʰ a n <?>,,Chin2015,,,^ kh a n 5 $,default
+Gelong-40_eye-2,,Gelong,40_eye,khan5 // hɔ1,hɔ1,h ɔ <?>,,Chin2015,,,^ h ɔ 1 $,default
+Xifang-41_nose-1,,Xifang,41_nose,khak7,khak7,kʰ a k <?>,,Chin2015,,,^ kh a k 7 $,default
+Baisha-41_nose-1,,Baisha,41_nose,khak7,khak7,kʰ a k <?>,,Chin2015,,,^ kh a k 7 $,default
+Yuanmen-41_nose-1,,Yuanmen,41_nose,khat7,khat7,kʰ a t <?>,,Chin2015,,,^ kh a t 7 $,default
+Heitu-41_nose-1,,Heitu,41_nose,khet7,khet7,kʰ e t <?>,,Chin2015,,,^ kh e t 7 $,default
+Baoding-41_nose-1,,Baoding,41_nose,khat7,khat7,kʰ a t <?>,,Chin2015,,,^ kh a t 7 $,default
+Zhongsha-41_nose-1,,Zhongsha,41_nose,khat7,khat7,kʰ a t <?>,,Chin2015,,,^ kh a t 7 $,default
+Tongzha-41_nose-1,,Tongzha,41_nose,khat7,khat7,kʰ a t <?>,,Chin2015,,,^ kh a t 7 $,default
+Qiandui-41_nose-1,,Qiandui,41_nose,khat7,khat7,kʰ a t <?>,,Chin2015,,,^ kh a t 7 $,default
+Baocheng-41_nose-1,,Baocheng,41_nose,khat7,khat7,kʰ a t <?>,,Chin2015,,,^ kh a t 7 $,default
+Gelong-41_nose-1,,Gelong,41_nose,khat2,khat2,kʰ a t <?>,,Chin2015,,,^ kh a t 2 $,default
+Xifang-42_mouth-1,,Xifang,42_mouth,pom3,pom3,p o m <?>,,Chin2015,,,^ p o m 3 $,default
+Baisha-42_mouth-1,,Baisha,42_mouth,pom3,pom3,p o m <?>,,Chin2015,,,^ p o m 3 $,default
+Yuanmen-42_mouth-1,,Yuanmen,42_mouth,pom6,pom6,p o m <?>,,Chin2015,,,^ p o m 6 $,default
+Heitu-42_mouth-1,,Heitu,42_mouth,mom3,mom3,m o m <?>,,Chin2015,,,^ m o m 3 $,default
+Baoding-42_mouth-1,,Baoding,42_mouth,pom3,pom3,p o m <?>,,Chin2015,,,^ p o m 3 $,default
+Zhongsha-42_mouth-1,,Zhongsha,42_mouth,pam3,pam3,p a m <?>,,Chin2015,,,^ p a m 3 $,default
+Tongzha-42_mouth-1,,Tongzha,42_mouth,pam6,pam6,p a m <?>,,Chin2015,,,^ p a m 6 $,default
+Qiandui-42_mouth-1,,Qiandui,42_mouth,pham6,pham6,pʰ a m <?>,,Chin2015,,,^ ph a m 6 $,default
+Baocheng-42_mouth-1,,Baocheng,42_mouth,pam6,pam6,p a m <?>,,Chin2015,,,^ p a m 6 $,default
+Gelong-42_mouth-1,,Gelong,42_mouth,boŋ4,boŋ4,b o ŋ <?>,,Chin2015,,,^ b o ŋ 4 $,default
+Xifang-43_tooth-1,,Xifang,43_tooth,sen1,sen1,s e n <?>,,Chin2015,,,^ s e n 1 $,default
+Baisha-43_tooth-1,,Baisha,43_tooth,faŋ1,faŋ1,f a ŋ <?>,,Chin2015,,,^ f a ŋ 1 $,default
+Yuanmen-43_tooth-1,,Yuanmen,43_tooth,fhan1,fhan1,fh a n <?>,,Chin2015,,,^ fh a n 1 $,default
+Heitu-43_tooth-1,,Heitu,43_tooth,phen1,phen1,pʰ e n <?>,,Chin2015,,,^ ph e n 1 $,default
+Baoding-43_tooth-1,,Baoding,43_tooth,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Zhongsha-43_tooth-1,,Zhongsha,43_tooth,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Tongzha-43_tooth-1,,Tongzha,43_tooth,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Qiandui-43_tooth-1,,Qiandui,43_tooth,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Baocheng-43_tooth-1,,Baocheng,43_tooth,fan1,fan1,f a n <?>,,Chin2015,,,^ f a n 1 $,default
+Gelong-43_tooth-1,,Gelong,43_tooth,sen1,sen1,s e n <?>,,Chin2015,,,^ s e n 1 $,default
+Xifang-44_tongue-1,,Xifang,44_tongue,ɬiŋ3,ɬiŋ3,ɬ i ŋ <?>,,Chin2015,,,^ ɬ i ŋ 3 $,default
+Baisha-44_tongue-1,,Baisha,44_tongue,ɬiŋ3,ɬiŋ3,ɬ i ŋ <?>,,Chin2015,,,^ ɬ i ŋ 3 $,default
+Yuanmen-44_tongue-1,,Yuanmen,44_tongue,ɬin3,ɬin3,ɬ i n <?>,,Chin2015,,,^ ɬ i n 3 $,default
+Heitu-44_tongue-1,,Heitu,44_tongue,di:n3,di:n3,d iː n <?>,,Chin2015,,,^ d i: n 3 $,default
+Baoding-44_tongue-1,,Baoding,44_tongue,ɬi:n3,ɬi:n3,ɬ iː n <?>,,Chin2015,,,^ ɬ i: n 3 $,default
+Zhongsha-44_tongue-1,,Zhongsha,44_tongue,ɬi:n3,ɬi:n3,ɬ iː n <?>,,Chin2015,,,^ ɬ i: n 3 $,default
+Tongzha-44_tongue-1,,Tongzha,44_tongue,ɬi:n3,ɬi:n3,ɬ iː n <?>,,Chin2015,,,^ ɬ i: n 3 $,default
+Qiandui-44_tongue-1,,Qiandui,44_tongue,ɬi:n3,ɬi:n3,ɬ iː n <?>,,Chin2015,,,^ ɬ i: n 3 $,default
+Baocheng-44_tongue-1,,Baocheng,44_tongue,ɬi:n3,ɬi:n3,ɬ iː n <?>,,Chin2015,,,^ ɬ i: n 3 $,default
+Gelong-44_tongue-1,,Gelong,44_tongue,tθin3,tθin3,t θ i n <?>,,Chin2015,,,^ t θ i n 3 $,default
+Xifang-45_claw-1,,Xifang,45_claw,lip7,lip7,l i p <?>,,Chin2015,,,^ l i p 7 $,default
+Baisha-45_claw-1,,Baisha,45_claw,lip8,lip8,l i p <?>,,Chin2015,,,^ l i p 8 $,default
+Yuanmen-45_claw-1,,Yuanmen,45_claw,lip8,lip8,l i p <?>,,Chin2015,,,^ l i p 8 $,default
+Heitu-45_claw-1,,Heitu,45_claw,li:p7,li:p7,l iː p <?>,,Chin2015,,,^ l i: p 7 $,default
+Baoding-45_claw-1,,Baoding,45_claw,li:p7,li:p7,l iː p <?>,,Chin2015,,,^ l i: p 7 $,default
+Zhongsha-45_claw-1,,Zhongsha,45_claw,li:p7,li:p7,l iː p <?>,,Chin2015,,,^ l i: p 7 $,default
+Tongzha-45_claw-1,,Tongzha,45_claw,li:p7,li:p7,l iː p <?>,,Chin2015,,,^ l i: p 7 $,default
+Qiandui-45_claw-1,,Qiandui,45_claw,li:p8,li:p8,l iː p <?>,,Chin2015,,,^ l i: p 8 $,default
+Baocheng-45_claw-1,,Baocheng,45_claw,li:p7,li:p7,l iː p <?>,,Chin2015,,,^ l i: p 7 $,default
+Gelong-45_claw-1,,Gelong,45_claw,lip2,lip2,l i p <?>,,Chin2015,,,^ l i p 2 $,default
+Xifang-46_foot-1,,Xifang,46_foot,khɔk7,khɔk7,kʰ ɔ k <?>,,Chin2015,,,^ kh ɔ k 7 $,default
+Baisha-46_foot-1,,Baisha,46_foot,khɔk8,khɔk8,kʰ ɔ k <?>,,Chin2015,,,^ kh ɔ k 8 $,default
+Yuanmen-46_foot-1,,Yuanmen,46_foot,khɔk7,khɔk7,kʰ ɔ k <?>,,Chin2015,,,^ kh ɔ k 7 $,default
+Heitu-46_foot-1,,Heitu,46_foot,khok7,khok7,kʰ o k <?>,,Chin2015,,,^ kh o k 7 $,default
+Baoding-46_foot-1,,Baoding,46_foot,khok7,khok7,kʰ o k <?>,,Chin2015,,,^ kh o k 7 $,default
+Zhongsha-46_foot-1,,Zhongsha,46_foot,khuk7,khuk7,kʰ u k <?>,,Chin2015,,,^ kh u k 7 $,default
+Tongzha-46_foot-1,,Tongzha,46_foot,khok7,khok7,kʰ o k <?>,,Chin2015,,,^ kh o k 7 $,default
+Qiandui-46_foot-1,,Qiandui,46_foot,khoɁ7,khoɁ7,kʰ o Ɂ <?>,,Chin2015,,,^ kh o Ɂ 7 $,default
+Baocheng-46_foot-1,,Baocheng,46_foot,khɔk7,khɔk7,kʰ ɔ k <?>,,Chin2015,,,^ kh ɔ k 7 $,default
+Gelong-46_foot-1,,Gelong,46_foot,khok2,khok2,kʰ o k <?>,,Chin2015,,,^ kh o k 2 $,default
+Xifang-47_knee-1,,Xifang,47_knee,rou1,rou1,r o u <?>,,Chin2015,,,^ r o u 1 $,default
+Baisha-47_knee-1,,Baisha,47_knee,rou4,rou4,r o u <?>,,Chin2015,,,^ r o u 4 $,default
+Yuanmen-47_knee-1,,Yuanmen,47_knee,rou4,rou4,r o u <?>,,Chin2015,,,^ r o u 4 $,default
+Heitu-47_knee-1,,Heitu,47_knee,rou1,rou1,r o u <?>,,Chin2015,,,^ r o u 1 $,default
+Baoding-47_knee-1,,Baoding,47_knee,rou1,rou1,r o u <?>,,Chin2015,,,^ r o u 1 $,default
+Zhongsha-47_knee-1,,Zhongsha,47_knee,rou1,rou1,r o u <?>,,Chin2015,,,^ r o u 1 $,default
+Tongzha-47_knee-1,,Tongzha,47_knee,rou4,rou4,r o u <?>,,Chin2015,,,^ r o u 4 $,default
+Qiandui-47_knee-1,,Qiandui,47_knee,lou4,lou4,l o u <?>,,Chin2015,,,^ l o u 4 $,default
+Baocheng-47_knee-1,,Baocheng,47_knee,lou4,lou4,l o u <?>,,Chin2015,,,^ l o u 4 $,default
+Gelong-47_knee-1,,Gelong,47_knee,vau3 // zen4,vau3,v a u <?>,,Chin2015,,,^ v a u 3 $,default
+Gelong-47_knee-2,,Gelong,47_knee,vau3 // zen4,zen4,z e n <?>,,Chin2015,,,^ z e n 4 $,default
+Xifang-48_hand-1,,Xifang,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Baisha-48_hand-1,,Baisha,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Yuanmen-48_hand-1,,Yuanmen,48_hand,meɯ4,meɯ4,m e ɯ <?>,,Chin2015,,,^ m e ɯ 4 $,default
+Heitu-48_hand-1,,Heitu,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Baoding-48_hand-1,,Baoding,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Zhongsha-48_hand-1,,Zhongsha,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Tongzha-48_hand-1,,Tongzha,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Qiandui-48_hand-1,,Qiandui,48_hand,meɯ4,meɯ4,m e ɯ <?>,,Chin2015,,,^ m e ɯ 4 $,default
+Baocheng-48_hand-1,,Baocheng,48_hand,meɯ1,meɯ1,m e ɯ <?>,,Chin2015,,,^ m e ɯ 1 $,default
+Gelong-48_hand-1,,Gelong,48_hand,mou1,mou1,m o u <?>,,Chin2015,,,^ m o u 1 $,default
+Xifang-49_belly-1,,Xifang,49_belly,pɔk7,pɔk7,p ɔ k <?>,,Chin2015,,,^ p ɔ k 7 $,default
+Baisha-49_belly-1,,Baisha,49_belly,pɔk8,pɔk8,p ɔ k <?>,,Chin2015,,,^ p ɔ k 8 $,default
+Yuanmen-49_belly-1,,Yuanmen,49_belly,pɔk8,pɔk8,p ɔ k <?>,,Chin2015,,,^ p ɔ k 8 $,default
+Heitu-49_belly-1,,Heitu,49_belly,mok7,mok7,m o k <?>,,Chin2015,,,^ m o k 7 $,default
+Baoding-49_belly-1,,Baoding,49_belly,pok7,pok7,p o k <?>,,Chin2015,,,^ p o k 7 $,default
+Zhongsha-49_belly-1,,Zhongsha,49_belly,pok7,pok7,p o k <?>,,Chin2015,,,^ p o k 7 $,default
+Tongzha-49_belly-1,,Tongzha,49_belly,pok8,pok8,p o k <?>,,Chin2015,,,^ p o k 8 $,default
+Qiandui-49_belly-1,,Qiandui,49_belly,phoɁ8,phoɁ8,pʰ o Ɂ <?>,,Chin2015,,,^ ph o Ɂ 8 $,default
+Baocheng-49_belly-1,,Baocheng,49_belly,pɔk8,pɔk8,p ɔ k <?>,,Chin2015,,,^ p ɔ k 8 $,default
+Gelong-49_belly-1,,Gelong,49_belly,bɔk4,bɔk4,b ɔ k <?>,,Chin2015,,,^ b ɔ k 4 $,default
+Xifang-50_neck-1,,Xifang,50_neck,zɔŋ3,zɔŋ3,z ɔ ŋ <?>,,Chin2015,,,^ z ɔ ŋ 3 $,default
+Baisha-50_neck-1,,Baisha,50_neck,zɔŋ3,zɔŋ3,z ɔ ŋ <?>,,Chin2015,,,^ z ɔ ŋ 3 $,default
+Yuanmen-50_neck-1,,Yuanmen,50_neck,tsɔŋ3,tsɔŋ3,ts ɔ ŋ <?>,,Chin2015,,,^ ts ɔ ŋ 3 $,default
+Heitu-50_neck-1,,Heitu,50_neck,zoŋ3,zoŋ3,z o ŋ <?>,,Chin2015,,,^ z o ŋ 3 $,default
+Baoding-50_neck-1,,Baoding,50_neck,zoŋ3,zoŋ3,z o ŋ <?>,,Chin2015,,,^ z o ŋ 3 $,default
+Zhongsha-50_neck-1,,Zhongsha,50_neck,zuŋ3,zuŋ3,z u ŋ <?>,,Chin2015,,,^ z u ŋ 3 $,default
+Tongzha-50_neck-1,,Tongzha,50_neck,ɬoŋ6,ɬoŋ6,ɬ o ŋ <?>,,Chin2015,,,^ ɬ o ŋ 6 $,default
+Qiandui-50_neck-1,,Qiandui,50_neck,ɬoŋ6,ɬoŋ6,ɬ o ŋ <?>,,Chin2015,,,^ ɬ o ŋ 6 $,default
+Baocheng-50_neck-1,,Baocheng,50_neck,ɬɔŋ6,ɬɔŋ6,ɬ ɔ ŋ <?>,,Chin2015,,,^ ɬ ɔ ŋ 6 $,default
+Gelong-50_neck-1,,Gelong,50_neck,lɔŋ4,lɔŋ4,l ɔ ŋ <?>,,Chin2015,,,^ l ɔ ŋ 4 $,default
+Xifang-51_breast-1,,Xifang,51_breast,tsei1,tsei1,ts e i <?>,,Chin2015,,,^ ts e i 1 $,default
+Baisha-51_breast-1,,Baisha,51_breast,tsi3,tsi3,ts i <?>,,Chin2015,,,^ ts i 3 $,default
+Yuanmen-51_breast-1,,Yuanmen,51_breast,ti3,ti3,t i <?>,,Chin2015,,,^ t i 3 $,default
+Heitu-51_breast-1,,Heitu,51_breast,tsi2,tsi2,ts i <?>,,Chin2015,,,^ ts i 2 $,default
+Baoding-51_breast-1,,Baoding,51_breast,tsei1,tsei1,ts e i <?>,,Chin2015,,,^ ts e i 1 $,default
+Zhongsha-51_breast-1,,Zhongsha,51_breast,tsi2,tsi2,ts i <?>,,Chin2015,,,^ ts i 2 $,default
+Tongzha-51_breast-1,,Tongzha,51_breast,tsi5,tsi5,ts i <?>,,Chin2015,,,^ ts i 5 $,default
+Qiandui-51_breast-1,,Qiandui,51_breast,tsi5,tsi5,ts i <?>,,Chin2015,,,^ ts i 5 $,default
+Baocheng-51_breast-1,,Baocheng,51_breast,tsi5,tsi5,ts i <?>,,Chin2015,,,^ ts i 5 $,default
+Gelong-51_breast-1,,Gelong,51_breast,tsɛi1,tsɛi1,ts ɛ i <?>,,Chin2015,,,^ ts ɛ i 1 $,default
+Xifang-52_heart-1,,Xifang,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Baisha-52_heart-1,,Baisha,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Yuanmen-52_heart-1,,Yuanmen,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Heitu-52_heart-1,,Heitu,52_heart,tem3,tem3,t e m <?>,,Chin2015,,,^ t e m 3 $,default
+Baoding-52_heart-1,,Baoding,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Zhongsha-52_heart-1,,Zhongsha,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Tongzha-52_heart-1,,Tongzha,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Qiandui-52_heart-1,,Qiandui,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Baocheng-52_heart-1,,Baocheng,52_heart,ɬa:u3,ɬa:u3,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 3 $,default
+Gelong-52_heart-1,,Gelong,52_heart,tθem5,tθem5,t θ e m <?>,,Chin2015,,,^ t θ e m 5 $,default
+Xifang-53_liver-1,,Xifang,53_liver,ŋa: ŋ1,ŋa:_ŋ1,ŋ aː _ ŋ <?>,,Chin2015,,,^ ŋ a: _ ŋ 1 $,default
+Baisha-53_liver-1,,Baisha,53_liver,ŋa: ŋ1,ŋa:_ŋ1,ŋ aː _ ŋ <?>,,Chin2015,,,^ ŋ a: _ ŋ 1 $,default
+Yuanmen-53_liver-1,,Yuanmen,53_liver,ŋuan1,ŋuan1,ŋ u a n <?>,,Chin2015,,,^ ŋ u a n 1 $,default
+Heitu-53_liver-1,,Heitu,53_liver,ŋa: n1,ŋa:_n1,ŋ aː _ n <?>,,Chin2015,,,^ ŋ a: _ n 1 $,default
+Baoding-53_liver-1,,Baoding,53_liver,ŋa:n1,ŋa:n1,ŋ aː n <?>,,Chin2015,,,^ ŋ a: n 1 $,default
+Zhongsha-53_liver-1,,Zhongsha,53_liver,ŋa:n1,ŋa:n1,ŋ aː n <?>,,Chin2015,,,^ ŋ a: n 1 $,default
+Tongzha-53_liver-1,,Tongzha,53_liver,ŋa:n1,ŋa:n1,ŋ aː n <?>,,Chin2015,,,^ ŋ a: n 1 $,default
+Qiandui-53_liver-1,,Qiandui,53_liver,ŋa:n4,ŋa:n4,ŋ aː n <?>,,Chin2015,,,^ ŋ a: n 4 $,default
+Baocheng-53_liver-1,,Baocheng,53_liver,ŋa:n1,ŋa:n1,ŋ aː n <?>,,Chin2015,,,^ ŋ a: n 1 $,default
+Gelong-53_liver-1,,Gelong,53_liver,ŋɔn1,ŋɔn1,ŋ ɔ n <?>,,Chin2015,,,^ ŋ ɔ n 1 $,default
+Xifang-54_drink-1,,Xifang,54_drink,ȵa:u1,ȵa:u1,ȵ aː u <?>,,Chin2015,,,^ ȵ a: u 1 $,default
+Baisha-54_drink-1,,Baisha,54_drink,Ɂɔk8,Ɂɔk8,Ɂ ɔ k <?>,,Chin2015,,,^ Ɂ ɔ k 8 $,default
+Yuanmen-54_drink-1,,Yuanmen,54_drink,ɁɔɁ7,ɁɔɁ7,Ɂ ɔ Ɂ <?>,,Chin2015,,,^ Ɂ ɔ Ɂ 7 $,default
+Heitu-54_drink-1,,Heitu,54_drink,lou2,lou2,l o u <?>,,Chin2015,,,^ l o u 2 $,default
+Baoding-54_drink-1,,Baoding,54_drink,Ɂo:k9,Ɂo:k9,Ɂ oː k <?>,,Chin2015,,,^ Ɂ o: k 9 $,default
+Zhongsha-54_drink-1,,Zhongsha,54_drink,Ɂok7,Ɂok7,Ɂ o k <?>,,Chin2015,,,^ Ɂ o k 7 $,default
+Tongzha-54_drink-1,,Tongzha,54_drink,Ɂo:Ɂ 9,Ɂo:Ɂ_9,Ɂ oː Ɂ _ <?>,,Chin2015,,,^ Ɂ o: Ɂ _ 9 $,default
+Qiandui-54_drink-1,,Qiandui,54_drink,ɁoɁ7,ɁoɁ7,Ɂ o Ɂ <?>,,Chin2015,,,^ Ɂ o Ɂ 7 $,default
+Baocheng-54_drink-1,,Baocheng,54_drink,Ɂɔ:Ɂ7,Ɂɔ:Ɂ7,Ɂ ɔː Ɂ <?>,,Chin2015,,,^ Ɂ ɔ: Ɂ 7 $,default
+Gelong-54_drink-1,,Gelong,54_drink,tshep2,tshep2,tsh e p <?>,,Chin2015,,,^ tsh e p 2 $,default
+Xifang-55_eat-1,,Xifang,55_eat,lau2,lau2,l a u <?>,,Chin2015,,,^ l a u 2 $,default
+Baisha-55_eat-1,,Baisha,55_eat,lɔɁ8,lɔɁ8,l ɔ Ɂ <?>,,Chin2015,,,^ l ɔ Ɂ 8 $,default
+Yuanmen-55_eat-1,,Yuanmen,55_eat,lɔɁ8,lɔɁ8,l ɔ Ɂ <?>,,Chin2015,,,^ l ɔ Ɂ 8 $,default
+Heitu-55_eat-1,,Heitu,55_eat,lou2,lou2,l o u <?>,,Chin2015,,,^ l o u 2 $,default
+Baoding-55_eat-1,,Baoding,55_eat,la2,la2,l a <?>,,Chin2015,,,^ l a 2 $,default
+Zhongsha-55_eat-1,,Zhongsha,55_eat,lau2,lau2,l a u <?>,,Chin2015,,,^ l a u 2 $,default
+Tongzha-55_eat-1,,Tongzha,55_eat,lau5,lau5,l a u <?>,,Chin2015,,,^ l a u 5 $,default
+Qiandui-55_eat-1,,Qiandui,55_eat,khan1,khan1,kʰ a n <?>,,Chin2015,,,^ kh a n 1 $,default
+Baocheng-55_eat-1,,Baocheng,55_eat,khan1,khan1,kʰ a n <?>,,Chin2015,,,^ kh a n 1 $,default
+Gelong-55_eat-1,,Gelong,55_eat,la5,la5,l a <?>,,Chin2015,,,^ l a 5 $,default
+Xifang-56_bite-1,,Xifang,56_bite,kan3,kan3,k a n <?>,,Chin2015,,,^ k a n 3 $,default
+Baisha-56_bite-1,,Baisha,56_bite,kan3,kan3,k a n <?>,,Chin2015,,,^ k a n 3 $,default
+Yuanmen-56_bite-1,,Yuanmen,56_bite,rap8,rap8,r a p <?>,,Chin2015,,,^ r a p 8 $,default
+Heitu-56_bite-1,,Heitu,56_bite,than3,than3,tʰ a n <?>,,Chin2015,,,^ th a n 3 $,default
+Baoding-56_bite-1,,Baoding,56_bite,ka:ȵ3,ka:ȵ3,k aː ȵ <?>,,Chin2015,,,^ k a: ȵ 3 $,default
+Zhongsha-56_bite-1,,Zhongsha,56_bite,ka:n3,ka:n3,k aː n <?>,,Chin2015,,,^ k a: n 3 $,default
+Tongzha-56_bite-1,,Tongzha,56_bite,ka:n8,ka:n8,k aː n <?>,,Chin2015,,,^ k a: n 8 $,default
+Qiandui-56_bite-1,,Qiandui,56_bite,kha:n6,kha:n6,kʰ aː n <?>,,Chin2015,,,^ kh a: n 6 $,default
+Baocheng-56_bite-1,,Baocheng,56_bite,ka:n6,ka:n6,k aː n <?>,,Chin2015,,,^ k a: n 6 $,default
+Gelong-56_bite-1,,Gelong,56_bite,ŋat2,ŋat2,ŋ a t <?>,,Chin2015,,,^ ŋ a t 2 $,default
+Xifang-57_see-1,,Xifang,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Baisha-57_see-1,,Baisha,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Yuanmen-57_see-1,,Yuanmen,57_see,luai6,luai6,l u a i <?>,,Chin2015,,,^ l u a i 6 $,default
+Heitu-57_see-1,,Heitu,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Baoding-57_see-1,,Baoding,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Zhongsha-57_see-1,,Zhongsha,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Tongzha-57_see-1,,Tongzha,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Qiandui-57_see-1,,Qiandui,57_see,la:i6,la:i6,l aː i <?>,,Chin2015,,,^ l a: i 6 $,default
+Baocheng-57_see-1,,Baocheng,57_see,la:i3,la:i3,l aː i <?>,,Chin2015,,,^ l a: i 3 $,default
+Gelong-57_see-1,,Gelong,57_see,lai3,lai3,l a i <?>,,Chin2015,,,^ l a i 3 $,default
+Xifang-58_hear-1,,Xifang,58_hear,pleɯ1,pleɯ1,p l e ɯ <?>,,Chin2015,,,^ p l e ɯ 1 $,default
+Baisha-58_hear-1,,Baisha,58_hear,pleɯ1,pleɯ1,p l e ɯ <?>,,Chin2015,,,^ p l e ɯ 1 $,default
+Yuanmen-58_hear-1,,Yuanmen,58_hear,pleɯ1,pleɯ1,p l e ɯ <?>,,Chin2015,,,^ p l e ɯ 1 $,default
+Heitu-58_hear-1,,Heitu,58_hear,leɯ1,leɯ1,l e ɯ <?>,,Chin2015,,,^ l e ɯ 1 $,default
+Baoding-58_hear-1,,Baoding,58_hear,pleɯ1,pleɯ1,p l e ɯ <?>,,Chin2015,,,^ p l e ɯ 1 $,default
+Zhongsha-58_hear-1,,Zhongsha,58_hear,leɯ1,leɯ1,l e ɯ <?>,,Chin2015,,,^ l e ɯ 1 $,default
+Tongzha-58_hear-1,,Tongzha,58_hear,pleɯ1,pleɯ1,p l e ɯ <?>,,Chin2015,,,^ p l e ɯ 1 $,default
+Qiandui-58_hear-1,,Qiandui,58_hear,peɯ1,peɯ1,p e ɯ <?>,,Chin2015,,,^ p e ɯ 1 $,default
+Baocheng-58_hear-1,,Baocheng,58_hear,pleɯ1,pleɯ1,p l e ɯ <?>,,Chin2015,,,^ p l e ɯ 1 $,default
+Gelong-58_hear-1,,Gelong,58_hear,liəŋ5,liəŋ5,l i ə ŋ <?>,,Chin2015,,,^ l i ə ŋ 5 $,default
+Xifang-59_know-1,,Xifang,59_know,khoŋ1,khoŋ1,kʰ o ŋ <?>,,Chin2015,,,^ kh o ŋ 1 $,default
+Heitu-59_know-1,,Heitu,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ <?>,,Chin2015,,,^ kh u: ŋ 1 $,default
+Baoding-59_know-1,,Baoding,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ <?>,,Chin2015,,,^ kh u: ŋ 1 $,default
+Zhongsha-59_know-1,,Zhongsha,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ <?>,,Chin2015,,,^ kh u: ŋ 1 $,default
+Tongzha-59_know-1,,Tongzha,59_know,khu:ŋ1,khu:ŋ1,kʰ uː ŋ <?>,,Chin2015,,,^ kh u: ŋ 1 $,default
+Qiandui-59_know-1,,Qiandui,59_know,khuaŋ1,khuaŋ1,kʰ u a ŋ <?>,,Chin2015,,,^ kh u a ŋ 1 $,default
+Baocheng-59_know-1,,Baocheng,59_know,khuŋ1,khuŋ1,kʰ u ŋ <?>,,Chin2015,,,^ kh u ŋ 1 $,default
+Gelong-59_know-1,,Gelong,59_know,khoŋ1,khoŋ1,kʰ o ŋ <?>,,Chin2015,,,^ kh o ŋ 1 $,default
+Xifang-60_sleep-1,,Xifang,60_sleep,tso:ŋ1,tso:ŋ1,ts oː ŋ <?>,,Chin2015,,,^ ts o: ŋ 1 $,default
+Baisha-60_sleep-1,,Baisha,60_sleep,tsuaŋ1,tsuaŋ1,ts u a ŋ <?>,,Chin2015,,,^ ts u a ŋ 1 $,default
+Yuanmen-60_sleep-1,,Yuanmen,60_sleep,tu:n1,tu:n1,t uː n <?>,,Chin2015,,,^ t u: n 1 $,default
+Heitu-60_sleep-1,,Heitu,60_sleep,tso:n1,tso:n1,ts oː n <?>,,Chin2015,,,^ ts o: n 1 $,default
+Baoding-60_sleep-1,,Baoding,60_sleep,tso:n1,tso:n1,ts oː n <?>,,Chin2015,,,^ ts o: n 1 $,default
+Zhongsha-60_sleep-1,,Zhongsha,60_sleep,tso:n1,tso:n1,ts oː n <?>,,Chin2015,,,^ ts o: n 1 $,default
+Tongzha-60_sleep-1,,Tongzha,60_sleep,tso:n1,tso:n1,ts oː n <?>,,Chin2015,,,^ ts o: n 1 $,default
+Qiandui-60_sleep-1,,Qiandui,60_sleep,tsɔ:n1,tsɔ:n1,ts ɔː n <?>,,Chin2015,,,^ ts ɔ: n 1 $,default
+Baocheng-60_sleep-1,,Baocheng,60_sleep,tsɔ:n1,tsɔ:n1,ts ɔː n <?>,,Chin2015,,,^ ts ɔ: n 1 $,default
+Xifang-61_die-1,,Xifang,61_die,hɔk7,hɔk7,h ɔ k <?>,,Chin2015,,,^ h ɔ k 7 $,default
+Baisha-61_die-1,,Baisha,61_die,ɬa:u2,ɬa:u2,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 2 $,default
+Yuanmen-61_die-1,,Yuanmen,61_die,zui6,zui6,z u i <?>,,Chin2015,,,^ z u i 6 $,default
+Heitu-61_die-1,,Heitu,61_die,da:u2,da:u2,d aː u <?>,,Chin2015,,,^ d a: u 2 $,default
+Baoding-61_die-1,,Baoding,61_die,ɬa:u2,ɬa:u2,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 2 $,default
+Zhongsha-61_die-1,,Zhongsha,61_die,ɬa:u2,ɬa:u2,ɬ aː u <?>,,Chin2015,,,^ ɬ a: u 2 $,default
+Tongzha-61_die-1,,Tongzha,61_die,ɬu:i4,ɬu:i4,ɬ uː i <?>,,Chin2015,,,^ ɬ u: i 4 $,default
+Qiandui-61_die-1,,Qiandui,61_die,ɬu:i4,ɬu:i4,ɬ uː i <?>,,Chin2015,,,^ ɬ u: i 4 $,default
+Baocheng-61_die-1,,Baocheng,61_die,ɬu:i4,ɬu:i4,ɬ uː i <?>,,Chin2015,,,^ ɬ u: i 4 $,default
+Gelong-61_die-1,,Gelong,61_die,tshɔt2,tshɔt2,tsh ɔ t <?>,,Chin2015,,,^ tsh ɔ t 2 $,default
+Xifang-62_kill-1,,Xifang,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Baisha-62_kill-1,,Baisha,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Yuanmen-62_kill-1,,Yuanmen,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Heitu-62_kill-1,,Heitu,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Baoding-62_kill-1,,Baoding,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Zhongsha-62_kill-1,,Zhongsha,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Tongzha-62_kill-1,,Tongzha,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Qiandui-62_kill-1,,Qiandui,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Baocheng-62_kill-1,,Baocheng,62_kill,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Gelong-62_kill-1,,Gelong,62_kill,hai3,hai3,h a i <?>,,Chin2015,,,^ h a i 3 $,default
+Xifang-63_swim-1,,Xifang,63_swim,plei1,plei1,p l e i <?>,,Chin2015,,,^ p l e i 1 $,default
+Baisha-63_swim-1,,Baisha,63_swim,plei1,plei1,p l e i <?>,,Chin2015,,,^ p l e i 1 $,default
+Yuanmen-63_swim-1,,Yuanmen,63_swim,plei1,plei1,p l e i <?>,,Chin2015,,,^ p l e i 1 $,default
+Heitu-63_swim-1,,Heitu,63_swim,lei1,lei1,l e i <?>,,Chin2015,,,^ l e i 1 $,default
+Baoding-63_swim-1,,Baoding,63_swim,plei1,plei1,p l e i <?>,,Chin2015,,,^ p l e i 1 $,default
+Zhongsha-63_swim-1,,Zhongsha,63_swim,lei1,lei1,l e i <?>,,Chin2015,,,^ l e i 1 $,default
+Tongzha-63_swim-1,,Tongzha,63_swim,plei1,plei1,p l e i <?>,,Chin2015,,,^ p l e i 1 $,default
+Qiandui-63_swim-1,,Qiandui,63_swim,pei1,pei1,p e i <?>,,Chin2015,,,^ p e i 1 $,default
+Baocheng-63_swim-1,,Baocheng,63_swim,pei1,pei1,p e i <?>,,Chin2015,,,^ p e i 1 $,default
+Gelong-63_swim-1,,Gelong,63_swim,lɔi4,lɔi4,l ɔ i <?>,,Chin2015,,,^ l ɔ i 4 $,default
+Xifang-64_fly-1,,Xifang,64_fly,ben1,ben1,b e n <?>,,Chin2015,,,^ b e n 1 $,default
+Baisha-64_fly-1,,Baisha,64_fly,ben1,ben1,b e n <?>,,Chin2015,,,^ b e n 1 $,default
+Yuanmen-64_fly-1,,Yuanmen,64_fly,ben1,ben1,b e n <?>,,Chin2015,,,^ b e n 1 $,default
+Heitu-64_fly-1,,Heitu,64_fly,bin1,bin1,b i n <?>,,Chin2015,,,^ b i n 1 $,default
+Baoding-64_fly-1,,Baoding,64_fly,beȵ1,beȵ1,b e ȵ <?>,,Chin2015,,,^ b e ȵ 1 $,default
+Zhongsha-64_fly-1,,Zhongsha,64_fly,bin1,bin1,b i n <?>,,Chin2015,,,^ b i n 1 $,default
+Tongzha-64_fly-1,,Tongzha,64_fly,ben1,ben1,b e n <?>,,Chin2015,,,^ b e n 1 $,default
+Qiandui-64_fly-1,,Qiandui,64_fly,ben1,ben1,b e n <?>,,Chin2015,,,^ b e n 1 $,default
+Baocheng-64_fly-1,,Baocheng,64_fly,bin1,bin1,b i n <?>,,Chin2015,,,^ b i n 1 $,default
+Gelong-64_fly-1,,Gelong,64_fly,ben1,ben1,b e n <?>,,Chin2015,,,^ b e n 1 $,default
+Xifang-65_walk-1,,Xifang,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Baisha-65_walk-1,,Baisha,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Yuanmen-65_walk-1,,Yuanmen,65_walk,fhei1,fhei1,fh e i <?>,,Chin2015,,,^ fh e i 1 $,default
+Heitu-65_walk-1,,Heitu,65_walk,pei1,pei1,p e i <?>,,Chin2015,,,^ p e i 1 $,default
+Baoding-65_walk-1,,Baoding,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Zhongsha-65_walk-1,,Zhongsha,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Tongzha-65_walk-1,,Tongzha,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Qiandui-65_walk-1,,Qiandui,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Baocheng-65_walk-1,,Baocheng,65_walk,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Gelong-65_walk-1,,Gelong,65_walk,foil1,foil1,f o i l <?>,,Chin2015,,,^ f o i l 1 $,default
+Xifang-66_come-1,,Xifang,66_come,pɯŋ1,pɯŋ1,p ɯ ŋ <?>,,Chin2015,,,^ p ɯ ŋ 1 $,default
+Baisha-66_come-1,,Baisha,66_come,phə1 // nen3,phə1,pʰ ə <?>,,Chin2015,,,^ ph ə 1 $,default
+Baisha-66_come-2,,Baisha,66_come,phə1 // nen3,nen3,n e n <?>,,Chin2015,,,^ n e n 3 $,default
+Yuanmen-66_come-1,,Yuanmen,66_come,pheɯɁ7 // kɯ3 ni5,pheɯɁ7,pʰ e ɯ Ɂ <?>,,Chin2015,,,^ ph e ɯ Ɂ 7 $,default
+Yuanmen-66_come-2,,Yuanmen,66_come,pheɯɁ7 // kɯ3 ni5,kɯ3_ni5,k ɯ <?> _ n i <?>,,Chin2015,,,^ k ɯ 3 _ n i 5 $,default
+Heitu-66_come-1,,Heitu,66_come,mɯ:n1,mɯ:n1,m ɯː n <?>,,Chin2015,,,^ m ɯ: n 1 $,default
+Baoding-66_come-1,,Baoding,66_come,pɯ:n1,pɯ:n1,p ɯː n <?>,,Chin2015,,,^ p ɯ: n 1 $,default
+Zhongsha-66_come-1,,Zhongsha,66_come,pɯ:n1,pɯ:n1,p ɯː n <?>,,Chin2015,,,^ p ɯ: n 1 $,default
+Tongzha-66_come-1,,Tongzha,66_come,pɯ:n4,pɯ:n4,p ɯː n <?>,,Chin2015,,,^ p ɯ: n 4 $,default
+Qiandui-66_come-1,,Qiandui,66_come,phɯ:n4,phɯ:n4,pʰ ɯː n <?>,,Chin2015,,,^ ph ɯ: n 4 $,default
+Baocheng-66_come-1,,Baocheng,66_come,pɯ:n4,pɯ:n4,p ɯː n <?>,,Chin2015,,,^ p ɯ: n 4 $,default
+Gelong-66_come-1,,Gelong,66_come,bɘn4,bɘn4,b ɘ n <?>,,Chin2015,,,^ b ɘ n 4 $,default
+Xifang-68_sit-1,,Xifang,68_sit,tsɔŋ3,tsɔŋ3,ts ɔ ŋ <?>,,Chin2015,,,^ ts ɔ ŋ 3 $,default
+Baisha-68_sit-1,,Baisha,68_sit,tsɔŋ1,tsɔŋ1,ts ɔ ŋ <?>,,Chin2015,,,^ ts ɔ ŋ 1 $,default
+Yuanmen-68_sit-1,,Yuanmen,68_sit,tɔŋ3,tɔŋ3,t ɔ ŋ <?>,,Chin2015,,,^ t ɔ ŋ 3 $,default
+Heitu-68_sit-1,,Heitu,68_sit,tsuŋ3,tsuŋ3,ts u ŋ <?>,,Chin2015,,,^ ts u ŋ 3 $,default
+Baoding-68_sit-1,,Baoding,68_sit,tsoŋ3,tsoŋ3,ts o ŋ <?>,,Chin2015,,,^ ts o ŋ 3 $,default
+Zhongsha-68_sit-1,,Zhongsha,68_sit,tsuŋ3,tsuŋ3,ts u ŋ <?>,,Chin2015,,,^ ts u ŋ 3 $,default
+Tongzha-68_sit-1,,Tongzha,68_sit,tsoŋ3,tsoŋ3,ts o ŋ <?>,,Chin2015,,,^ ts o ŋ 3 $,default
+Qiandui-68_sit-1,,Qiandui,68_sit,tsoŋ3,tsoŋ3,ts o ŋ <?>,,Chin2015,,,^ ts o ŋ 3 $,default
+Baocheng-68_sit-1,,Baocheng,68_sit,tsɔŋ3,tsɔŋ3,ts ɔ ŋ <?>,,Chin2015,,,^ ts ɔ ŋ 3 $,default
+Gelong-68_sit-1,,Gelong,68_sit,tsom5,tsom5,ts o m <?>,,Chin2015,,,^ ts o m 5 $,default
+Xifang-69_stand-1,,Xifang,69_stand,tsuŋ1,tsuŋ1,ts u ŋ <?>,,Chin2015,,,^ ts u ŋ 1 $,default
+Baisha-69_stand-1,,Baisha,69_stand,tsuŋ1,tsuŋ1,ts u ŋ <?>,,Chin2015,,,^ ts u ŋ 1 $,default
+Yuanmen-69_stand-1,,Yuanmen,69_stand,tun1,tun1,t u n <?>,,Chin2015,,,^ t u n 1 $,default
+Heitu-69_stand-1,,Heitu,69_stand,tsu:n1,tsu:n1,ts uː n <?>,,Chin2015,,,^ ts u: n 1 $,default
+Baoding-69_stand-1,,Baoding,69_stand,tsu:n1,tsu:n1,ts uː n <?>,,Chin2015,,,^ ts u: n 1 $,default
+Zhongsha-69_stand-1,,Zhongsha,69_stand,tsu:n1,tsu:n1,ts uː n <?>,,Chin2015,,,^ ts u: n 1 $,default
+Tongzha-69_stand-1,,Tongzha,69_stand,tsu:n1,tsu:n1,ts uː n <?>,,Chin2015,,,^ ts u: n 1 $,default
+Qiandui-69_stand-1,,Qiandui,69_stand,tsu:n1,tsu:n1,ts uː n <?>,,Chin2015,,,^ ts u: n 1 $,default
+Baocheng-69_stand-1,,Baocheng,69_stand,tsu:n1,tsu:n1,ts uː n <?>,,Chin2015,,,^ ts u: n 1 $,default
+Gelong-69_stand-1,,Gelong,69_stand,hɔi5,hɔi5,h ɔ i <?>,,Chin2015,,,^ h ɔ i 5 $,default
+Xifang-70_give-1,,Xifang,70_give,tɯŋ2,tɯŋ2,t ɯ ŋ <?>,,Chin2015,,,^ t ɯ ŋ 2 $,default
+Baisha-70_give-1,,Baisha,70_give,kau2,kau2,k a u <?>,,Chin2015,,,^ k a u 2 $,default
+Yuanmen-70_give-1,,Yuanmen,70_give,kau2,kau2,k a u <?>,,Chin2015,,,^ k a u 2 $,default
+Heitu-70_give-1,,Heitu,70_give,ɗeɯ1,ɗeɯ1,ɗ e ɯ <?>,,Chin2015,,,^ ɗ e ɯ 1 $,default
+Baoding-70_give-1,,Baoding,70_give,tɯ:ŋ2,tɯ:ŋ2,t ɯː ŋ <?>,,Chin2015,,,^ t ɯ: ŋ 2 $,default
+Zhongsha-70_give-1,,Zhongsha,70_give,ɗeɯ1,ɗeɯ1,ɗ e ɯ <?>,,Chin2015,,,^ ɗ e ɯ 1 $,default
+Tongzha-70_give-1,,Tongzha,70_give,ɗeɯ1,ɗeɯ1,ɗ e ɯ <?>,,Chin2015,,,^ ɗ e ɯ 1 $,default
+Qiandui-70_give-1,,Qiandui,70_give,ɗeɯ1,ɗeɯ1,ɗ e ɯ <?>,,Chin2015,,,^ ɗ e ɯ 1 $,default
+Baocheng-70_give-1,,Baocheng,70_give,ɗeɯ1,ɗeɯ1,ɗ e ɯ <?>,,Chin2015,,,^ ɗ e ɯ 1 $,default
+Gelong-70_give-1,,Gelong,70_give,tsɯɘŋ5,tsɯɘŋ5,ts ɯ ɘ ŋ <?>,,Chin2015,,,^ ts ɯ ɘ ŋ 5 $,default
+Xifang-71_say-1,,Xifang,71_say,tshem2,tshem2,tsh e m <?>,,Chin2015,,,^ tsh e m 2 $,default
+Baisha-71_say-1,,Baisha,71_say,tshem2,tshem2,tsh e m <?>,,Chin2015,,,^ tsh e m 2 $,default
+Yuanmen-71_say-1,,Yuanmen,71_say,ȵeɯ4,ȵeɯ4,ȵ e ɯ <?>,,Chin2015,,,^ ȵ e ɯ 4 $,default
+Heitu-71_say-1,,Heitu,71_say,ri:n1,ri:n1,r iː n <?>,,Chin2015,,,^ r i: n 1 $,default
+Baoding-71_say-1,,Baoding,71_say,ri:n1,ri:n1,r iː n <?>,,Chin2015,,,^ r i: n 1 $,default
+Zhongsha-71_say-1,,Zhongsha,71_say,ri:n1,ri:n1,r iː n <?>,,Chin2015,,,^ r i: n 1 $,default
+Tongzha-71_say-1,,Tongzha,71_say,ri:n4,ri:n4,r iː n <?>,,Chin2015,,,^ r i: n 4 $,default
+Qiandui-71_say-1,,Qiandui,71_say,khuaŋ3,khuaŋ3,kʰ u a ŋ <?>,,Chin2015,,,^ kh u a ŋ 3 $,default
+Baocheng-71_say-1,,Baocheng,71_say,li:n4,li:n4,l iː n <?>,,Chin2015,,,^ l i: n 4 $,default
+Gelong-71_say-1,,Gelong,71_say,kaːŋ2,kaːŋ2,k aː ŋ <?>,,Chin2015,,,^ k aː ŋ 2 $,default
+Xifang-72_sun-1,,Xifang,72_sun,tsha3 // vaŋ1,tsha3,tsh a <?>,,Chin2015,,,^ tsh a 3 $,default
+Xifang-72_sun-2,,Xifang,72_sun,tsha3 // vaŋ1,vaŋ1,v a ŋ <?>,,Chin2015,,,^ v a ŋ 1 $,default
+Baisha-72_sun-1,,Baisha,72_sun,tsha1 // vaŋ1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Baisha-72_sun-2,,Baisha,72_sun,tsha1 // vaŋ1,vaŋ1,v a ŋ <?>,,Chin2015,,,^ v a ŋ 1 $,default
+Yuanmen-72_sun-1,,Yuanmen,72_sun,van4,van4,v a n <?>,,Chin2015,,,^ v a n 4 $,default
+Heitu-72_sun-1,,Heitu,72_sun,tsha1 // ven1,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Heitu-72_sun-2,,Heitu,72_sun,tsha1 // ven1,ven1,v e n <?>,,Chin2015,,,^ v e n 1 $,default
+Baoding-72_sun-1,,Baoding,72_sun,tsha1 hwan1,tsha1_hwan1,tsh a <?> _ hw a n <?>,,Chin2015,,,^ tsh a 1 _ hw a n 1 $,default
+Zhongsha-72_sun-1,,Zhongsha,72_sun,tsha2 // van1,tsha2,tsh a <?>,,Chin2015,,,^ tsh a 2 $,default
+Zhongsha-72_sun-2,,Zhongsha,72_sun,tsha2 // van1,van1,v a n <?>,,Chin2015,,,^ v a n 1 $,default
+Tongzha-72_sun-1,,Tongzha,72_sun,tsha1 // van4,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Tongzha-72_sun-2,,Tongzha,72_sun,tsha1 // van4,van4,v a n <?>,,Chin2015,,,^ v a n 4 $,default
+Qiandui-72_sun-1,,Qiandui,72_sun,tsha1 // van4,tsha1,tsh a <?>,,Chin2015,,,^ tsh a 1 $,default
+Qiandui-72_sun-2,,Qiandui,72_sun,tsha1 // van4,van4,v a n <?>,,Chin2015,,,^ v a n 4 $,default
+Baocheng-72_sun-1,,Baocheng,72_sun,tsha1 van1,tsha1_van1,tsh a <?> _ v a n <?>,,Chin2015,,,^ tsh a 1 _ v a n 1 $,default
+Gelong-72_sun-1,,Gelong,72_sun,zi1 // hon4,zi1,z i <?>,,Chin2015,,,^ z i 1 $,default
+Gelong-72_sun-2,,Gelong,72_sun,zi1 // hon4,hon4,h o n <?>,,Chin2015,,,^ h o n 4 $,default
+Xifang-73_moon-1,,Xifang,73_moon,ȵa:ŋ1,ȵa:ŋ1,ȵ aː ŋ <?>,,Chin2015,,,^ ȵ a: ŋ 1 $,default
+Baisha-73_moon-1,,Baisha,73_moon,ȵa:ŋ1,ȵa:ŋ1,ȵ aː ŋ <?>,,Chin2015,,,^ ȵ a: ŋ 1 $,default
+Yuanmen-73_moon-1,,Yuanmen,73_moon,ȵuan4,ȵuan4,ȵ u a n <?>,,Chin2015,,,^ ȵ u a n 4 $,default
+Heitu-73_moon-1,,Heitu,73_moon,ȵa:n1,ȵa:n1,ȵ aː n <?>,,Chin2015,,,^ ȵ a: n 1 $,default
+Baoding-73_moon-1,,Baoding,73_moon,ȵa:n1,ȵa:n1,ȵ aː n <?>,,Chin2015,,,^ ȵ a: n 1 $,default
+Zhongsha-73_moon-1,,Zhongsha,73_moon,ȵa:n1,ȵa:n1,ȵ aː n <?>,,Chin2015,,,^ ȵ a: n 1 $,default
+Tongzha-73_moon-1,,Tongzha,73_moon,ȵa:n1,ȵa:n1,ȵ aː n <?>,,Chin2015,,,^ ȵ a: n 1 $,default
+Qiandui-73_moon-1,,Qiandui,73_moon,na:n4,na:n4,n aː n <?>,,Chin2015,,,^ n a: n 4 $,default
+Baocheng-73_moon-1,,Baocheng,73_moon,ȵa:n1,ȵa:n1,ȵ aː n <?>,,Chin2015,,,^ ȵ a: n 1 $,default
+Gelong-73_moon-1,,Gelong,73_moon,ȵɔn1,ȵɔn1,ȵ ɔ n <?>,,Chin2015,,,^ ȵ ɔ n 1 $,default
+Xifang-74_star-1,,Xifang,74_star,ra:u1,ra:u1,r aː u <?>,,Chin2015,,,^ r a: u 1 $,default
+Baisha-74_star-1,,Baisha,74_star,ra:u1,ra:u1,r aː u <?>,,Chin2015,,,^ r a: u 1 $,default
+Yuanmen-74_star-1,,Yuanmen,74_star,ra:u4,ra:u4,r aː u <?>,,Chin2015,,,^ r a: u 4 $,default
+Heitu-74_star-1,,Heitu,74_star,ra:u1,ra:u1,r aː u <?>,,Chin2015,,,^ r a: u 1 $,default
+Baoding-74_star-1,,Baoding,74_star,ra:u1,ra:u1,r aː u <?>,,Chin2015,,,^ r a: u 1 $,default
+Zhongsha-74_star-1,,Zhongsha,74_star,ra:u1,ra:u1,r aː u <?>,,Chin2015,,,^ r a: u 1 $,default
+Tongzha-74_star-1,,Tongzha,74_star,ra:u4,ra:u4,r aː u <?>,,Chin2015,,,^ r a: u 4 $,default
+Qiandui-74_star-1,,Qiandui,74_star,la:u4,la:u4,l aː u <?>,,Chin2015,,,^ l a: u 4 $,default
+Baocheng-74_star-1,,Baocheng,74_star,la:u4,la:u4,l aː u <?>,,Chin2015,,,^ l a: u 4 $,default
+Gelong-74_star-1,,Gelong,74_star,laːu4,laːu4,l aː u <?>,,Chin2015,,,^ l aː u 4 $,default
+Xifang-75_water-1,,Xifang,75_water,nam3,nam3,n a m <?>,,Chin2015,,,^ n a m 3 $,default
+Baisha-75_water-1,,Baisha,75_water,nam3,nam3,n a m <?>,,Chin2015,,,^ n a m 3 $,default
+Yuanmen-75_water-1,,Yuanmen,75_water,nam6,nam6,n a m <?>,,Chin2015,,,^ n a m 6 $,default
+Heitu-75_water-1,,Heitu,75_water,nom3,nom3,n o m <?>,,Chin2015,,,^ n o m 3 $,default
+Baoding-75_water-1,,Baoding,75_water,nom3,nom3,n o m <?>,,Chin2015,,,^ n o m 3 $,default
+Zhongsha-75_water-1,,Zhongsha,75_water,nam3,nam3,n a m <?>,,Chin2015,,,^ n a m 3 $,default
+Tongzha-75_water-1,,Tongzha,75_water,nam3,nam3,n a m <?>,,Chin2015,,,^ n a m 3 $,default
+Qiandui-75_water-1,,Qiandui,75_water,nam6,nam6,n a m <?>,,Chin2015,,,^ n a m 6 $,default
+Baocheng-75_water-1,,Baocheng,75_water,nam3,nam3,n a m <?>,,Chin2015,,,^ n a m 3 $,default
+Gelong-75_water-1,,Gelong,75_water,nam3,nam3,n a m <?>,,Chin2015,,,^ n a m 3 $,default
+Xifang-76_rain-1,,Xifang,76_rain,foŋ1,foŋ1,f o ŋ <?>,,Chin2015,,,^ f o ŋ 1 $,default
+Baisha-76_rain-1,,Baisha,76_rain,foŋ1,foŋ1,f o ŋ <?>,,Chin2015,,,^ f o ŋ 1 $,default
+Yuanmen-76_rain-1,,Yuanmen,76_rain,fhən1,fhən1,fh ə n <?>,,Chin2015,,,^ fh ə n 1 $,default
+Heitu-76_rain-1,,Heitu,76_rain,pun1,pun1,p u n <?>,,Chin2015,,,^ p u n 1 $,default
+Baoding-76_rain-1,,Baoding,76_rain,fun1,fun1,f u n <?>,,Chin2015,,,^ f u n 1 $,default
+Zhongsha-76_rain-1,,Zhongsha,76_rain,fun1,fun1,f u n <?>,,Chin2015,,,^ f u n 1 $,default
+Tongzha-76_rain-1,,Tongzha,76_rain,fun1,fun1,f u n <?>,,Chin2015,,,^ f u n 1 $,default
+Qiandui-76_rain-1,,Qiandui,76_rain,fun1,fun1,f u n <?>,,Chin2015,,,^ f u n 1 $,default
+Baocheng-76_rain-1,,Baocheng,76_rain,fun1,fun1,f u n <?>,,Chin2015,,,^ f u n 1 $,default
+Gelong-76_rain-1,,Gelong,76_rain,fən1,fən1,f ə n <?>,,Chin2015,,,^ f ə n 1 $,default
+Xifang-77_stone-1,,Xifang,77_stone,tshiŋ1,tshiŋ1,tsh i ŋ <?>,,Chin2015,,,^ tsh i ŋ 1 $,default
+Baisha-77_stone-1,,Baisha,77_stone,tshiŋ4,tshiŋ4,tsh i ŋ <?>,,Chin2015,,,^ tsh i ŋ 4 $,default
+Yuanmen-77_stone-1,,Yuanmen,77_stone,tshin1,tshin1,tsh i n <?>,,Chin2015,,,^ tsh i n 1 $,default
+Heitu-77_stone-1,,Heitu,77_stone,tshin1,tshin1,tsh i n <?>,,Chin2015,,,^ tsh i n 1 $,default
+Baoding-77_stone-1,,Baoding,77_stone,tshin1,tshin1,tsh i n <?>,,Chin2015,,,^ tsh i n 1 $,default
+Zhongsha-77_stone-1,,Zhongsha,77_stone,tshin1,tshin1,tsh i n <?>,,Chin2015,,,^ tsh i n 1 $,default
+Tongzha-77_stone-1,,Tongzha,77_stone,tshi:n1,tshi:n1,tsh iː n <?>,,Chin2015,,,^ tsh i: n 1 $,default
+Qiandui-77_stone-1,,Qiandui,77_stone,tshi:n1,tshi:n1,tsh iː n <?>,,Chin2015,,,^ tsh i: n 1 $,default
+Baocheng-77_stone-1,,Baocheng,77_stone,tshi:n1,tshi:n1,tsh iː n <?>,,Chin2015,,,^ tsh i: n 1 $,default
+Gelong-77_stone-1,,Gelong,77_stone,sin1,sin1,s i n <?>,,Chin2015,,,^ s i n 1 $,default
+Xifang-78_sand-1,,Xifang,78_sand,phau2,phau2,pʰ a u <?>,,Chin2015,,,^ ph a u 2 $,default
+Baisha-78_sand-1,,Baisha,78_sand,phau2,phau2,pʰ a u <?>,,Chin2015,,,^ ph a u 2 $,default
+Yuanmen-78_sand-1,,Yuanmen,78_sand,phau5,phau5,pʰ a u <?>,,Chin2015,,,^ ph a u 5 $,default
+Heitu-78_sand-1,,Heitu,78_sand,phau2,phau2,pʰ a u <?>,,Chin2015,,,^ ph a u 2 $,default
+Baoding-78_sand-1,,Baoding,78_sand,phou2,phou2,pʰ o u <?>,,Chin2015,,,^ ph o u 2 $,default
+Zhongsha-78_sand-1,,Zhongsha,78_sand,phau2,phau2,pʰ a u <?>,,Chin2015,,,^ ph a u 2 $,default
+Tongzha-78_sand-1,,Tongzha,78_sand,phau5,phau5,pʰ a u <?>,,Chin2015,,,^ ph a u 5 $,default
+Qiandui-78_sand-1,,Qiandui,78_sand,pho5,pho5,pʰ o <?>,,Chin2015,,,^ ph o 5 $,default
+Baocheng-78_sand-1,,Baocheng,78_sand,phɔ5,phɔ5,pʰ ɔ <?>,,Chin2015,,,^ ph ɔ 5 $,default
+Gelong-78_sand-1,,Gelong,78_sand,pha5,pha5,pʰ a <?>,,Chin2015,,,^ ph a 5 $,default
+Xifang-79_earth-1,,Xifang,79_earth,ɣaŋ1,ɣaŋ1,ɣ a ŋ <?>,,Chin2015,,,^ ɣ a ŋ 1 $,default
+Baisha-79_earth-1,,Baisha,79_earth,fanŋ1,fanŋ1,f a n ŋ <?>,,Chin2015,,,^ f a n ŋ 1 $,default
+Yuanmen-79_earth-1,,Yuanmen,79_earth,fan4,fan4,f a n <?>,,Chin2015,,,^ f a n 4 $,default
+Heitu-79_earth-1,,Heitu,79_earth,ren1,ren1,r e n <?>,,Chin2015,,,^ r e n 1 $,default
+Baoding-79_earth-1,,Baoding,79_earth,van1,van1,v a n <?>,,Chin2015,,,^ v a n 1 $,default
+Zhongsha-79_earth-1,,Zhongsha,79_earth,ran1,ran1,r a n <?>,,Chin2015,,,^ r a n 1 $,default
+Tongzha-79_earth-1,,Tongzha,79_earth,fan4,fan4,f a n <?>,,Chin2015,,,^ f a n 4 $,default
+Qiandui-79_earth-1,,Qiandui,79_earth,fan4,fan4,f a n <?>,,Chin2015,,,^ f a n 4 $,default
+Baocheng-79_earth-1,,Baocheng,79_earth,fan4,fan4,f a n <?>,,Chin2015,,,^ f a n 4 $,default
+Gelong-79_earth-1,,Gelong,79_earth,it2,it2,i t <?>,,Chin2015,,,^ i t 2 $,default
+Xifang-80_cloud-1,,Xifang,80_cloud,fa3 // dɯ2,fa3,f a <?>,,Chin2015,,,^ f a 3 $,default
+Xifang-80_cloud-2,,Xifang,80_cloud,fa3 // dɯ2,dɯ2,d ɯ <?>,,Chin2015,,,^ d ɯ 2 $,default
+Baisha-80_cloud-1,,Baisha,80_cloud,fa3 // deɁ7,fa3,f a <?>,,Chin2015,,,^ f a 3 $,default
+Baisha-80_cloud-2,,Baisha,80_cloud,fa3 // deɁ7,deɁ7,d e Ɂ <?>,,Chin2015,,,^ d e Ɂ 7 $,default
+Yuanmen-80_cloud-1,,Yuanmen,80_cloud,fha3 // diaɁ7,fha3,fh a <?>,,Chin2015,,,^ fh a 3 $,default
+Yuanmen-80_cloud-2,,Yuanmen,80_cloud,fha3 // diaɁ7,diaɁ7,d i a Ɂ <?>,,Chin2015,,,^ d i a Ɂ 7 $,default
+Baoding-80_cloud-1,,Baoding,80_cloud,fa3 // de:k7,fa3,f a <?>,,Chin2015,,,^ f a 3 $,default
+Baoding-80_cloud-2,,Baoding,80_cloud,fa3 // de:k7,de:k7,d eː k <?>,,Chin2015,,,^ d e: k 7 $,default
+Zhongsha-80_cloud-1,,Zhongsha,80_cloud,fa3 // ze:Ɂ7,fa3,f a <?>,,Chin2015,,,^ f a 3 $,default
+Zhongsha-80_cloud-2,,Zhongsha,80_cloud,fa3 // ze:Ɂ7,ze:Ɂ7,z eː Ɂ <?>,,Chin2015,,,^ z e: Ɂ 7 $,default
+Tongzha-80_cloud-1,,Tongzha,80_cloud,fa3 // fe:Ɂ7,fa3,f a <?>,,Chin2015,,,^ f a 3 $,default
+Tongzha-80_cloud-2,,Tongzha,80_cloud,fa3 // fe:Ɂ7,fe:Ɂ7,f eː Ɂ <?>,,Chin2015,,,^ f e: Ɂ 7 $,default
+Gelong-80_cloud-1,,Gelong,80_cloud,vən1,vən1,v ə n <?>,,Chin2015,,,^ v ə n 1 $,default
+Xifang-81_smoke-1,,Xifang,81_smoke,Ɂen1,Ɂen1,Ɂ e n <?>,,Chin2015,,,^ Ɂ e n 1 $,default
+Baisha-81_smoke-1,,Baisha,81_smoke,Ɂin1,Ɂin1,Ɂ i n <?>,,Chin2015,,,^ Ɂ i n 1 $,default
+Yuanmen-81_smoke-1,,Yuanmen,81_smoke,za4,za4,z a <?>,,Chin2015,,,^ z a 4 $,default
+Heitu-81_smoke-1,,Heitu,81_smoke,zɯ:Ɂ7,zɯ:Ɂ7,z ɯː Ɂ <?>,,Chin2015,,,^ z ɯ: Ɂ 7 $,default
+Baoding-81_smoke-1,,Baoding,81_smoke,za1,za1,z a <?>,,Chin2015,,,^ z a 1 $,default
+Zhongsha-81_smoke-1,,Zhongsha,81_smoke,zɯ:Ɂ7,zɯ:Ɂ7,z ɯː Ɂ <?>,,Chin2015,,,^ z ɯ: Ɂ 7 $,default
+Tongzha-81_smoke-1,,Tongzha,81_smoke,za4,za4,z a <?>,,Chin2015,,,^ z a 4 $,default
+Qiandui-81_smoke-1,,Qiandui,81_smoke,za4,za4,z a <?>,,Chin2015,,,^ z a 4 $,default
+Baocheng-81_smoke-1,,Baocheng,81_smoke,za1,za1,z a <?>,,Chin2015,,,^ z a 1 $,default
+Gelong-81_smoke-1,,Gelong,81_smoke,ŋuan1 fo1,ŋuan1_fo1,ŋ u a n <?> _ f o <?>,,Chin2015,,,^ ŋ u a n 1 _ f o 1 $,default
+Xifang-82_fire-1,,Xifang,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Baisha-82_fire-1,,Baisha,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Yuanmen-82_fire-1,,Yuanmen,82_fire,fhei1,fhei1,fh e i <?>,,Chin2015,,,^ fh e i 1 $,default
+Heitu-82_fire-1,,Heitu,82_fire,pei1,pei1,p e i <?>,,Chin2015,,,^ p e i 1 $,default
+Baoding-82_fire-1,,Baoding,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Zhongsha-82_fire-1,,Zhongsha,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Tongzha-82_fire-1,,Tongzha,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Qiandui-82_fire-1,,Qiandui,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Baocheng-82_fire-1,,Baocheng,82_fire,fei1,fei1,f e i <?>,,Chin2015,,,^ f e i 1 $,default
+Gelong-82_fire-1,,Gelong,82_fire,fo1,fo1,f o <?>,,Chin2015,,,^ f o 1 $,default
+Gelong-83_ashes-1,,Gelong,83_ashes,bu2 tθai3,bu2_tθai3,b u <?> _ t θ a i <?>,,Chin2015,,,^ b u 2 _ t θ a i 3 $,default
+Xifang-84_burn-1,,Xifang,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Baisha-84_burn-1,,Baisha,84_burn,tshoi3,tshoi3,tsh o i <?>,,Chin2015,,,^ tsh o i 3 $,default
+Yuanmen-84_burn-1,,Yuanmen,84_burn,tshou3,tshou3,tsh o u <?>,,Chin2015,,,^ tsh o u 3 $,default
+Heitu-84_burn-1,,Heitu,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Baoding-84_burn-1,,Baoding,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Zhongsha-84_burn-1,,Zhongsha,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Tongzha-84_burn-1,,Tongzha,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Qiandui-84_burn-1,,Qiandui,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Baocheng-84_burn-1,,Baocheng,84_burn,tshui3,tshui3,tsh u i <?>,,Chin2015,,,^ tsh u i 3 $,default
+Gelong-84_burn-1,,Gelong,84_burn,tshɔi3,tshɔi3,tsh ɔ i <?>,,Chin2015,,,^ tsh ɔ i 3 $,default
+Xifang-85_path-1,,Xifang,85_path,kuŋ1,kuŋ1,k u ŋ <?>,,Chin2015,,,^ k u ŋ 1 $,default
+Baisha-85_path-1,,Baisha,85_path,kuŋ1,kuŋ1,k u ŋ <?>,,Chin2015,,,^ k u ŋ 1 $,default
+Yuanmen-85_path-1,,Yuanmen,85_path,kun5,kun5,k u n <?>,,Chin2015,,,^ k u n 5 $,default
+Heitu-85_path-1,,Heitu,85_path,ku:n1,ku:n1,k uː n <?>,,Chin2015,,,^ k u: n 1 $,default
+Baoding-85_path-1,,Baoding,85_path,ku:n1,ku:n1,k uː n <?>,,Chin2015,,,^ k u: n 1 $,default
+Zhongsha-85_path-1,,Zhongsha,85_path,ku:n1,ku:n1,k uː n <?>,,Chin2015,,,^ k u: n 1 $,default
+Tongzha-85_path-1,,Tongzha,85_path,ku:n1,ku:n1,k uː n <?>,,Chin2015,,,^ k u: n 1 $,default
+Qiandui-85_path-1,,Qiandui,85_path,ku:n1,ku:n1,k uː n <?>,,Chin2015,,,^ k u: n 1 $,default
+Baocheng-85_path-1,,Baocheng,85_path,ku:n1,ku:n1,k uː n <?>,,Chin2015,,,^ k u: n 1 $,default
+Gelong-85_path-1,,Gelong,85_path,kai5,kai5,k a i <?>,,Chin2015,,,^ k a i 5 $,default
+Xifang-86_mountain-1,,Xifang,86_mountain,ŋo3,ŋo3,ŋ o <?>,,Chin2015,,,^ ŋ o 3 $,default
+Baisha-86_mountain-1,,Baisha,86_mountain,ŋo3,ŋo3,ŋ o <?>,,Chin2015,,,^ ŋ o 3 $,default
+Yuanmen-86_mountain-1,,Yuanmen,86_mountain,ɱo6,ɱo6,ɱ o <?>,,Chin2015,,,^ ɱ o 6 $,default
+Heitu-86_mountain-1,,Heitu,86_mountain,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Baoding-86_mountain-1,,Baoding,86_mountain,hwou3,hwou3,hw o u <?>,,Chin2015,,,^ hw o u 3 $,default
+Zhongsha-86_mountain-1,,Zhongsha,86_mountain,hau3,hau3,h a u <?>,,Chin2015,,,^ h a u 3 $,default
+Tongzha-86_mountain-1,,Tongzha,86_mountain,go3,go3,g o <?>,,Chin2015,,,^ g o 3 $,default
+Qiandui-86_mountain-1,,Qiandui,86_mountain,vo3,vo3,v o <?>,,Chin2015,,,^ v o 3 $,default
+Baocheng-86_mountain-1,,Baocheng,86_mountain,hɔ3,hɔ3,h ɔ <?>,,Chin2015,,,^ h ɔ 3 $,default
+Gelong-86_mountain-1,,Gelong,86_mountain,ŋau3,ŋau3,ŋ a u <?>,,Chin2015,,,^ ŋ a u 3 $,default
+Xifang-87_red-1,,Xifang,87_red,xa:ŋ3,xa:ŋ3,x aː ŋ <?>,,Chin2015,,,^ x a: ŋ 3 $,default
+Baisha-87_red-1,,Baisha,87_red,tɔŋ3,tɔŋ3,t ɔ ŋ <?>,,Chin2015,,,^ t ɔ ŋ 3 $,default
+Yuanmen-87_red-1,,Yuanmen,87_red,tɔŋ1,tɔŋ1,t ɔ ŋ <?>,,Chin2015,,,^ t ɔ ŋ 1 $,default
+Heitu-87_red-1,,Heitu,87_red,de:ŋ3,de:ŋ3,d eː ŋ <?>,,Chin2015,,,^ d e: ŋ 3 $,default
+Baoding-87_red-1,,Baoding,87_red,ga:n3,ga:n3,g aː n <?>,,Chin2015,,,^ g a: n 3 $,default
+Zhongsha-87_red-1,,Zhongsha,87_red,ga:n3,ga:n3,g aː n <?>,,Chin2015,,,^ g a: n 3 $,default
+Tongzha-87_red-1,,Tongzha,87_red,ge:ŋ4,ge:ŋ4,g eː ŋ <?>,,Chin2015,,,^ g e: ŋ 4 $,default
+Qiandui-87_red-1,,Qiandui,87_red,ɬa:t7,ɬa:t7,ɬ aː t <?>,,Chin2015,,,^ ɬ a: t 7 $,default
+Baocheng-87_red-1,,Baocheng,87_red,ɬa:t7,ɬa:t7,ɬ aː t <?>,,Chin2015,,,^ ɬ a: t 7 $,default
+Gelong-87_red-1,,Gelong,87_red,hoŋ1,hoŋ1,h o ŋ <?>,,Chin2015,,,^ h o ŋ 1 $,default
+Xifang-88_green-1,,Xifang,88_green,khiu1,khiu1,kʰ i u <?>,,Chin2015,,,^ kh i u 1 $,default
+Baisha-88_green-1,,Baisha,88_green,khiu1,khiu1,kʰ i u <?>,,Chin2015,,,^ kh i u 1 $,default
+Yuanmen-88_green-1,,Yuanmen,88_green,khiu1,khiu1,kʰ i u <?>,,Chin2015,,,^ kh i u 1 $,default
+Heitu-88_green-1,,Heitu,88_green,khi:u1,khi:u1,kʰ iː u <?>,,Chin2015,,,^ kh i: u 1 $,default
+Baoding-88_green-1,,Baoding,88_green,khi:u1,khi:u1,kʰ iː u <?>,,Chin2015,,,^ kh i: u 1 $,default
+Zhongsha-88_green-1,,Zhongsha,88_green,khi:u1,khi:u1,kʰ iː u <?>,,Chin2015,,,^ kh i: u 1 $,default
+Tongzha-88_green-1,,Tongzha,88_green,khi:u1,khi:u1,kʰ iː u <?>,,Chin2015,,,^ kh i: u 1 $,default
+Qiandui-88_green-1,,Qiandui,88_green,khiu1,khiu1,kʰ i u <?>,,Chin2015,,,^ kh i u 1 $,default
+Baocheng-88_green-1,,Baocheng,88_green,khi:u1,khi:u1,kʰ iː u <?>,,Chin2015,,,^ kh i: u 1 $,default
+Gelong-88_green-1,,Gelong,88_green,khiu1,khiu1,kʰ i u <?>,,Chin2015,,,^ kh i u 1 $,default
+Xifang-89_yellow-1,,Xifang,89_yellow,ze:ŋ1,ze:ŋ1,z eː ŋ <?>,,Chin2015,,,^ z e: ŋ 1 $,default
+Baisha-89_yellow-1,,Baisha,89_yellow,ziaŋ4,ziaŋ4,z i a ŋ <?>,,Chin2015,,,^ z i a ŋ 4 $,default
+Yuanmen-89_yellow-1,,Yuanmen,89_yellow,tsiaŋ4,tsiaŋ4,ts i a ŋ <?>,,Chin2015,,,^ ts i a ŋ 4 $,default
+Heitu-89_yellow-1,,Heitu,89_yellow,ze:ŋ1,ze:ŋ1,z eː ŋ <?>,,Chin2015,,,^ z e: ŋ 1 $,default
+Baoding-89_yellow-1,,Baoding,89_yellow,ze:ŋ1,ze:ŋ1,z eː ŋ <?>,,Chin2015,,,^ z e: ŋ 1 $,default
+Zhongsha-89_yellow-1,,Zhongsha,89_yellow,ze:ŋ1,ze:ŋ1,z eː ŋ <?>,,Chin2015,,,^ z e: ŋ 1 $,default
+Tongzha-89_yellow-1,,Tongzha,89_yellow,ɬe:ŋ4,ɬe:ŋ4,ɬ eː ŋ <?>,,Chin2015,,,^ ɬ e: ŋ 4 $,default
+Qiandui-89_yellow-1,,Qiandui,89_yellow,ɬe:ŋ4,ɬe:ŋ4,ɬ eː ŋ <?>,,Chin2015,,,^ ɬ e: ŋ 4 $,default
+Baocheng-89_yellow-1,,Baocheng,89_yellow,ɬe:ŋ4,ɬe:ŋ4,ɬ eː ŋ <?>,,Chin2015,,,^ ɬ e: ŋ 4 $,default
+Gelong-89_yellow-1,,Gelong,89_yellow,vɔŋ1,vɔŋ1,v ɔ ŋ <?>,,Chin2015,,,^ v ɔ ŋ 1 $,default
+Xifang-90_white-1,,Xifang,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Baisha-90_white-1,,Baisha,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Yuanmen-90_white-1,,Yuanmen,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Heitu-90_white-1,,Heitu,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Baoding-90_white-1,,Baoding,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Zhongsha-90_white-1,,Zhongsha,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Tongzha-90_white-1,,Tongzha,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Qiandui-90_white-1,,Qiandui,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Baocheng-90_white-1,,Baocheng,90_white,kha:u1,kha:u1,kʰ aː u <?>,,Chin2015,,,^ kh a: u 1 $,default
+Gelong-90_white-1,,Gelong,90_white,khaːu1,khaːu1,kʰ aː u <?>,,Chin2015,,,^ kh aː u 1 $,default
+Xifang-91_black-1,,Xifang,91_black,dam3,dam3,d a m <?>,,Chin2015,,,^ d a m 3 $,default
+Baisha-91_black-1,,Baisha,91_black,dam3,dam3,d a m <?>,,Chin2015,,,^ d a m 3 $,default
+Yuanmen-91_black-1,,Yuanmen,91_black,dam3,dam3,d a m <?>,,Chin2015,,,^ d a m 3 $,default
+Heitu-91_black-1,,Heitu,91_black,dom3,dom3,d o m <?>,,Chin2015,,,^ d o m 3 $,default
+Baoding-91_black-1,,Baoding,91_black,dom2,dom2,d o m <?>,,Chin2015,,,^ d o m 2 $,default
+Zhongsha-91_black-1,,Zhongsha,91_black,dam3,dam3,d a m <?>,,Chin2015,,,^ d a m 3 $,default
+Tongzha-91_black-1,,Tongzha,91_black,dam3,dam3,d a m <?>,,Chin2015,,,^ d a m 3 $,default
+Qiandui-91_black-1,,Qiandui,91_black,dam3,dam3,d a m <?>,,Chin2015,,,^ d a m 3 $,default
+Baocheng-91_black-1,,Baocheng,91_black,dəm3,dəm3,d ə m <?>,,Chin2015,,,^ d ə m 3 $,default
+Gelong-91_black-1,,Gelong,91_black,khoil1,khoil1,kʰ o i l <?>,,Chin2015,,,^ kh o i l 1 $,default
+Xifang-92_night-1,,Xifang,92_night,tshap7,tshap7,tsh a p <?>,,Chin2015,,,^ tsh a p 7 $,default
+Baisha-92_night-1,,Baisha,92_night,tshap7,tshap7,tsh a p <?>,,Chin2015,,,^ tsh a p 7 $,default
+Yuanmen-92_night-1,,Yuanmen,92_night,tshap7,tshap7,tsh a p <?>,,Chin2015,,,^ tsh a p 7 $,default
+Heitu-92_night-1,,Heitu,92_night,tshop7,tshop7,tsh o p <?>,,Chin2015,,,^ tsh o p 7 $,default
+Baoding-92_night-1,,Baoding,92_night,tshop7,tshop7,tsh o p <?>,,Chin2015,,,^ tsh o p 7 $,default
+Zhongsha-92_night-1,,Zhongsha,92_night,tshap7,tshap7,tsh a p <?>,,Chin2015,,,^ tsh a p 7 $,default
+Tongzha-92_night-1,,Tongzha,92_night,tshop7,tshop7,tsh o p <?>,,Chin2015,,,^ tsh o p 7 $,default
+Qiandui-92_night-1,,Qiandui,92_night,tshap7,tshap7,tsh a p <?>,,Chin2015,,,^ tsh a p 7 $,default
+Baocheng-92_night-1,,Baocheng,92_night,tshap7,tshap7,tsh a p <?>,,Chin2015,,,^ tsh a p 7 $,default
+Gelong-92_night-1,,Gelong,92_night,tshap2,tshap2,tsh a p <?>,,Chin2015,,,^ tsh a p 2 $,default
+Xifang-93_warm-1,,Xifang,93_warm,ɬoŋ2,ɬoŋ2,ɬ o ŋ <?>,,Chin2015,,,^ ɬ o ŋ 2 $,default
+Baisha-93_warm-1,,Baisha,93_warm,ɬom2,ɬom2,ɬ o m <?>,,Chin2015,,,^ ɬ o m 2 $,default
+Yuanmen-93_warm-1,,Yuanmen,93_warm,ɬom1,ɬom1,ɬ o m <?>,,Chin2015,,,^ ɬ o m 1 $,default
+Heitu-93_warm-1,,Heitu,93_warm,dun2,dun2,d u n <?>,,Chin2015,,,^ d u n 2 $,default
+Baoding-93_warm-1,,Baoding,93_warm,ɬun2,ɬun2,ɬ u n <?>,,Chin2015,,,^ ɬ u n 2 $,default
+Zhongsha-93_warm-1,,Zhongsha,93_warm,Ɂut7,Ɂut7,Ɂ u t <?>,,Chin2015,,,^ Ɂ u t 7 $,default
+Tongzha-93_warm-1,,Tongzha,93_warm,ɬun5,ɬun5,ɬ u n <?>,,Chin2015,,,^ ɬ u n 5 $,default
+Qiandui-93_warm-1,,Qiandui,93_warm,ɬun5,ɬun5,ɬ u n <?>,,Chin2015,,,^ ɬ u n 5 $,default
+Baocheng-93_warm-1,,Baocheng,93_warm,ɬun5,ɬun5,ɬ u n <?>,,Chin2015,,,^ ɬ u n 5 $,default
+Gelong-93_warm-1,,Gelong,93_warm,buɘt4,buɘt4,b u ɘ t <?>,,Chin2015,,,^ b u ɘ t 4 $,default
+Xifang-93b_hot-1,,Xifang,93b_hot,fo3,fo3,f o <?>,,Chin2015,,,^ f o 3 $,default
+Baisha-93b_hot-1,,Baisha,93b_hot,tshit8,tshit8,tsh i t <?>,,Chin2015,,,^ tsh i t 8 $,default
+Yuanmen-93b_hot-1,,Yuanmen,93b_hot,vut8,vut8,v u t <?>,,Chin2015,,,^ v u t 8 $,default
+Heitu-93b_hot-1,,Heitu,93b_hot,tshau3,tshau3,tsh a u <?>,,Chin2015,,,^ tsh a u 3 $,default
+Baoding-93b_hot-1,,Baoding,93b_hot,fou3,fou3,f o u <?>,,Chin2015,,,^ f o u 3 $,default
+Zhongsha-93b_hot-1,,Zhongsha,93b_hot,tshau3,tshau3,tsh a u <?>,,Chin2015,,,^ tsh a u 3 $,default
+Tongzha-93b_hot-1,,Tongzha,93b_hot,ti:t7,ti:t7,t iː t <?>,,Chin2015,,,^ t i: t 7 $,default
+Qiandui-93b_hot-1,,Qiandui,93b_hot,ti:t7,ti:t7,t iː t <?>,,Chin2015,,,^ t i: t 7 $,default
+Baocheng-93b_hot-1,,Baocheng,93b_hot,ti:t7,ti:t7,t iː t <?>,,Chin2015,,,^ t i: t 7 $,default
+Gelong-93b_hot-1,,Gelong,93b_hot,fau3,fau3,f a u <?>,,Chin2015,,,^ f a u 3 $,default
+Xifang-94_cold-1,,Xifang,94_cold,kha:i2,kha:i2,kʰ aː i <?>,,Chin2015,,,^ kh a: i 2 $,default
+Baisha-94_cold-1,,Baisha,94_cold,kha:i2,kha:i2,kʰ aː i <?>,,Chin2015,,,^ kh a: i 2 $,default
+Yuanmen-94_cold-1,,Yuanmen,94_cold,khuai5,khuai5,kʰ u a i <?>,,Chin2015,,,^ kh u a i 5 $,default
+Heitu-94_cold-1,,Heitu,94_cold,khai2,khai2,kʰ a i <?>,,Chin2015,,,^ kh a i 2 $,default
+Baoding-94_cold-1,,Baoding,94_cold,kha:i2,kha:i2,kʰ aː i <?>,,Chin2015,,,^ kh a: i 2 $,default
+Zhongsha-94_cold-1,,Zhongsha,94_cold,kha:i2,kha:i2,kʰ aː i <?>,,Chin2015,,,^ kh a: i 2 $,default
+Tongzha-94_cold-1,,Tongzha,94_cold,kha:i5,kha:i5,kʰ aː i <?>,,Chin2015,,,^ kh a: i 5 $,default
+Qiandui-94_cold-1,,Qiandui,94_cold,kha:i5,kha:i5,kʰ aː i <?>,,Chin2015,,,^ kh a: i 5 $,default
+Baocheng-94_cold-1,,Baocheng,94_cold,kha:i5,kha:i5,kʰ aː i <?>,,Chin2015,,,^ kh a: i 5 $,default
+Gelong-94_cold-1,,Gelong,94_cold,duŋ2 lhan4,duŋ2_lhan4,d u ŋ <?> _ lh a n <?>,,Chin2015,,,^ d u ŋ 2 _ lh a n 4 $,default
+Xifang-95_full-1,,Xifang,95_full,thik8,thik8,tʰ i k <?>,,Chin2015,,,^ th i k 8 $,default
+Baisha-95_full-1,,Baisha,95_full,thi:Ɂ8,thi:Ɂ8,tʰ iː Ɂ <?>,,Chin2015,,,^ th i: Ɂ 8 $,default
+Yuanmen-95_full-1,,Yuanmen,95_full,thiɁ7,thiɁ7,tʰ i Ɂ <?>,,Chin2015,,,^ th i Ɂ 7 $,default
+Heitu-95_full-1,,Heitu,95_full,thi:Ɂ7,thi:Ɂ7,tʰ iː Ɂ <?>,,Chin2015,,,^ th i: Ɂ 7 $,default
+Baoding-95_full-1,,Baoding,95_full,thi:k7,thi:k7,tʰ iː k <?>,,Chin2015,,,^ th i: k 7 $,default
+Zhongsha-95_full-1,,Zhongsha,95_full,thi:Ɂ7,thi:Ɂ7,tʰ iː Ɂ <?>,,Chin2015,,,^ th i: Ɂ 7 $,default
+Tongzha-95_full-1,,Tongzha,95_full,thiaɁ7,thiaɁ7,tʰ i a Ɂ <?>,,Chin2015,,,^ th i a Ɂ 7 $,default
+Qiandui-95_full-1,,Qiandui,95_full,thiaɁ7,thiaɁ7,tʰ i a Ɂ <?>,,Chin2015,,,^ th i a Ɂ 7 $,default
+Baocheng-95_full-1,,Baocheng,95_full,thiak7,thiak7,tʰ i a k <?>,,Chin2015,,,^ th i a k 7 $,default
+Gelong-95_full-1,,Gelong,95_full,thiɘk2,thiɘk2,tʰ i ɘ k <?>,,Chin2015,,,^ th i ɘ k 2 $,default
+Xifang-96_new-1,,Xifang,96_new,pa:ŋ1,pa:ŋ1,p aː ŋ <?>,,Chin2015,,,^ p a: ŋ 1 $,default
+Baisha-96_new-1,,Baisha,96_new,no3,no3,n o <?>,,Chin2015,,,^ n o 3 $,default
+Yuanmen-96_new-1,,Yuanmen,96_new,no6,no6,n o <?>,,Chin2015,,,^ n o 6 $,default
+Heitu-96_new-1,,Heitu,96_new,ma:n1,ma:n1,m aː n <?>,,Chin2015,,,^ m a: n 1 $,default
+Baoding-96_new-1,,Baoding,96_new,pa:n1,pa:n1,p aː n <?>,,Chin2015,,,^ p a: n 1 $,default
+Zhongsha-96_new-1,,Zhongsha,96_new,pa:n1,pa:n1,p aː n <?>,,Chin2015,,,^ p a: n 1 $,default
+Tongzha-96_new-1,,Tongzha,96_new,no3,no3,n o <?>,,Chin2015,,,^ n o 3 $,default
+Qiandui-96_new-1,,Qiandui,96_new,no6,no6,n o <?>,,Chin2015,,,^ n o 6 $,default
+Baocheng-96_new-1,,Baocheng,96_new,nɔ3,nɔ3,n ɔ <?>,,Chin2015,,,^ n ɔ 3 $,default
+Gelong-96_new-1,,Gelong,96_new,bɔn4,bɔn4,b ɔ n <?>,,Chin2015,,,^ b ɔ n 4 $,default
+Xifang-97_good-1,,Xifang,97_good,ɬen1,ɬen1,ɬ e n <?>,,Chin2015,,,^ ɬ e n 1 $,default
+Baisha-97_good-1,,Baisha,97_good,ɬen1,ɬen1,ɬ e n <?>,,Chin2015,,,^ ɬ e n 1 $,default
+Yuanmen-97_good-1,,Yuanmen,97_good,ɬen1,ɬen1,ɬ e n <?>,,Chin2015,,,^ ɬ e n 1 $,default
+Heitu-97_good-1,,Heitu,97_good,din1,din1,d i n <?>,,Chin2015,,,^ d i n 1 $,default
+Baoding-97_good-1,,Baoding,97_good,ɬeȵ1,ɬeȵ1,ɬ e ȵ <?>,,Chin2015,,,^ ɬ e ȵ 1 $,default
+Zhongsha-97_good-1,,Zhongsha,97_good,ɬin1,ɬin1,ɬ i n <?>,,Chin2015,,,^ ɬ i n 1 $,default
+Tongzha-97_good-1,,Tongzha,97_good,ɬen1,ɬen1,ɬ e n <?>,,Chin2015,,,^ ɬ e n 1 $,default
+Qiandui-97_good-1,,Qiandui,97_good,ɬen1,ɬen1,ɬ e n <?>,,Chin2015,,,^ ɬ e n 1 $,default
+Baocheng-97_good-1,,Baocheng,97_good,ɬin1,ɬin1,ɬ i n <?>,,Chin2015,,,^ ɬ i n 1 $,default
+Gelong-97_good-1,,Gelong,97_good,tθen1,tθen1,t θ e n <?>,,Chin2015,,,^ t θ e n 1 $,default
+Xifang-98_round-1,,Xifang,98_round,ɣom1,ɣom1,ɣ o m <?>,,Chin2015,,,^ ɣ o m 1 $,default
+Baisha-98_round-1,,Baisha,98_round,zom1,zom1,z o m <?>,,Chin2015,,,^ z o m 1 $,default
+Yuanmen-98_round-1,,Yuanmen,98_round,vom4,vom4,v o m <?>,,Chin2015,,,^ v o m 4 $,default
+Heitu-98_round-1,,Heitu,98_round,hom1,hom1,h o m <?>,,Chin2015,,,^ h o m 1 $,default
+Baoding-98_round-1,,Baoding,98_round,hwom1,hwom1,hw o m <?>,,Chin2015,,,^ hw o m 1 $,default
+Zhongsha-98_round-1,,Zhongsha,98_round,hom1,hom1,h o m <?>,,Chin2015,,,^ h o m 1 $,default
+Tongzha-98_round-1,,Tongzha,98_round,gom4,gom4,g o m <?>,,Chin2015,,,^ g o m 4 $,default
+Qiandui-98_round-1,,Qiandui,98_round,po5,po5,p o <?>,,Chin2015,,,^ p o 5 $,default
+Baocheng-98_round-1,,Baocheng,98_round,hum1,hum1,h u m <?>,,Chin2015,,,^ h u m 1 $,default
+Gelong-98_round-1,,Gelong,98_round,vin1,vin1,v i n <?>,,Chin2015,,,^ v i n 1 $,default
+Xifang-99_dry-1,,Xifang,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Baisha-99_dry-1,,Baisha,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Yuanmen-99_dry-1,,Yuanmen,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Heitu-99_dry-1,,Heitu,99_dry,kheɯ2,kheɯ2,kʰ e ɯ <?>,,Chin2015,,,^ kh e ɯ 2 $,default
+Baoding-99_dry-1,,Baoding,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Zhongsha-99_dry-1,,Zhongsha,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Tongzha-99_dry-1,,Tongzha,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Qiandui-99_dry-1,,Qiandui,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Baocheng-99_dry-1,,Baocheng,99_dry,da:u1,da:u1,d aː u <?>,,Chin2015,,,^ d a: u 1 $,default
+Gelong-99_dry-1,,Gelong,99_dry,khɔ5,khɔ5,kʰ ɔ <?>,,Chin2015,,,^ kh ɔ 5 $,default
+Xifang-100_name-1,,Xifang,100_name,phe:ŋ1,phe:ŋ1,pʰ eː ŋ <?>,,Chin2015,,,^ ph e: ŋ 1 $,default
+Baisha-100_name-1,,Baisha,100_name,phiaŋ1,phiaŋ1,pʰ i a ŋ <?>,,Chin2015,,,^ ph i a ŋ 1 $,default
+Yuanmen-100_name-1,,Yuanmen,100_name,phiaŋ1,phiaŋ1,pʰ i a ŋ <?>,,Chin2015,,,^ ph i a ŋ 1 $,default
+Heitu-100_name-1,,Heitu,100_name,pha:ŋ1,pha:ŋ1,pʰ aː ŋ <?>,,Chin2015,,,^ ph a: ŋ 1 $,default
+Baoding-100_name-1,,Baoding,100_name,phe:ŋ1,phe:ŋ1,pʰ eː ŋ <?>,,Chin2015,,,^ ph e: ŋ 1 $,default
+Zhongsha-100_name-1,,Zhongsha,100_name,phe:ŋ1,phe:ŋ1,pʰ eː ŋ <?>,,Chin2015,,,^ ph e: ŋ 1 $,default
+Tongzha-100_name-1,,Tongzha,100_name,phe:ŋ1,phe:ŋ1,pʰ eː ŋ <?>,,Chin2015,,,^ ph e: ŋ 1 $,default
+Qiandui-100_name-1,,Qiandui,100_name,phe:ŋ1,phe:ŋ1,pʰ eː ŋ <?>,,Chin2015,,,^ ph e: ŋ 1 $,default
+Baocheng-100_name-1,,Baocheng,100_name,phe:ŋ1,phe:ŋ1,pʰ eː ŋ <?>,,Chin2015,,,^ ph e: ŋ 1 $,default
+Gelong-100_name-1,,Gelong,100_name,phɛŋ1,phɛŋ1,pʰ ɛ ŋ <?>,,Chin2015,,,^ ph ɛ ŋ 1 $,default

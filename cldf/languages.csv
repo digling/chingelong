@@ -1,11 +1,11 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Name_in_Source,Chinese_Name,RawLatitude,RawLongitude
-Xifang,Xifang Hlai,hlai1239,,,,,,,Northern Hlai,XF,西方,19°17´N,109°14′E
-Baisha,Baisha Hlai,hlai1239,,,,,,,Northern Hlai,BS,白沙,18°38′N,108°42′E
-Yuanmen,Yuanmen Hlai,hlai1239,,,,,,,Northern Hlai,YM,元門,19°06′N,109°32′E
-Heitu,Heitu Hlai,hlai1239,,,,,,,Southern Hlai,HT,黑土,19°30′N,108°56′E
-Baoding,Baoding Hlai,hlai1239,,,,,,,Central Hlai,BD,保定,18°46′N,110°27′E
-Zhongsha,Zhongsha Hlai,hlai1239,,,,,,,Central Hlai,ZS,中沙,15°50′N,114°20′E
-Tongzha,Tongzha Hlai,hlai1239,,,,,,,Central Hlai,TZ,通什,18°53′N,109°39′E
-Qiandui,Quiandui Hlai,hlai1239,,,,,,,Central Hlai,QD,塹對,18°54′N,110°02′E
-Baocheng,Baocheng Hlai,hlai1239,,,,,,,Central Hlai,BC,保城,18°38′N,109°41′E
-Gelong,Gelong,,,,,,,,,Gelong,哥隆話,19°06′N,108°39′E
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Name_in_Source,Chinese_Name
+Xifang,Xifang Hlai,hlai1239,,,,19.30,109.24,,Northern Hlai,XF,西方
+Baisha,Baisha Hlai,hlai1239,,,,18.65,108.72,,Northern Hlai,BS,白沙
+Yuanmen,Yuanmen Hlai,hlai1239,,,,19.11,109.54,,Northern Hlai,YM,元門
+Heitu,Heitu Hlai,hlai1239,,,,19.51,108.94,,Southern Hlai,HT,黑土
+Baoding,Baoding Hlai,hlai1239,,,,18.77,110.45,,Central Hlai,BD,保定
+Zhongsha,Zhongsha Hlai,hlai1239,,,,15.83,114.33,,Central Hlai,ZS,中沙
+Tongzha,Tongzha Hlai,hlai1239,,,,18.88,109.67,,Central Hlai,TZ,通什
+Qiandui,Quiandui Hlai,hlai1239,,,,18.91,110.04,,Central Hlai,QD,塹對
+Baocheng,Baocheng Hlai,hlai1239,,,,18.64,109.70,,Central Hlai,BC,保城
+Gelong,Gelong,,,,,19.10,108.65,,,Gelong,哥隆話
