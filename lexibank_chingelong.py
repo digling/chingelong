@@ -35,8 +35,8 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=cid,
                     Name=concept['ENGLISH'],
-                    #Concepticon_ID=concept['CONCEPTICON_ID'],
-                    #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
                     )
             concepts[concept['ENGLISH']] = cid
         languages = args.writer.add_languages(lookup_factory="Name_in_Source")
