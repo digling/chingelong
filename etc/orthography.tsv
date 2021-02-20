@@ -18,7 +18,7 @@ $	NULL
 9$	*9/⁵⁴	tat9, Ɂo:Ɂ_9	Heitu, Tongzha, Baoding	4	U+0039 U+0024
 ^	NULL				
 ^a	a	au5	Gelong	1	U+005e U+0061
-^au	au
+^au	au				
 ^b	b	ba:i3_ba:i3, ben1	Gelong, Heitu, Zhongsha, Qiandui, Yuanmen, Tongzha, Baoding, Baocheng, Baisha, Xifang	24	U+005e U+0062
 ^d	d	da:u1, dam3	Heitu, Baoding, Yuanmen, Baisha, Xifang, Zhongsha, Qiandui, Tongzha, Baocheng, Gelong	32	U+005e U+0064
 ^f	f	fei1, fan1	Tongzha, Baisha, Qiandui, Baoding, Baocheng, Gelong, Xifang, Zhongsha, Yuanmen	67	U+005e U+0066
@@ -92,59 +92,59 @@ v	v	tsha1_van1	Baocheng	1	U+0076
 ɯ	ɯ	meɯ1, ɓeɯ1	Xifang, Yuanmen, Heitu, Qiandui, Tongzha, Zhongsha, Baoding, Baocheng, Baisha, Gelong	68	U+026f
 ɯ:	ɯː	zɯ:m1, pɯ:n1	Heitu, Zhongsha, Tongzha, Baoding, Baocheng, Qiandui	20	U+026f U+003a
 tθ	tθ	tθɔi1, tθɔt2	Gelong	9	U+03b8
-^tθ	tθ
-ai	ai
-au	au
-a:i	aːi
-a:u	aːu
-aːi	aːi
-aːu	aːu
-ei	ei
-eu	eu
-e:i	eːi
-e:u	eːu
-eːi	eːi
-eːu	eːu
-ii	ii
-iu	iu
-i:i	iːi
-i:u	iːu
-iːi	iːi
-iːu	iːu
-oi	oi
-ou	ou
-o:i	oːi
-o:u	oːu
-oːi	oːi
-oːu	oːu
-ui	ui
-uu	uu
-u:i	uːi
-u:u	uːu
-uːi	uːi
-uːu	uːu
-əi	əi
-əu	əu
-ə:i	əːi
-ə:u	əːu
-əːi	əːi
-əːu	əːu
-ɘi	ɘi
-ɘu	ɘu
-ɘ:i	ɘːi
-ɘ:u	ɘːu
-ɘːi	ɘːi
-ɘːu	ɘːu
-ua	u/w a
-^ua	u/w a
-ia	i/j a
-ɔi	ɔi
-iə	i/j ə
-eɯ	eɯ
-ɯɘ	ɯɘ
-a:_	aː
-uai	u/w ai
-ɛi	ɛi
-fanŋ1	f a ŋ *1/¹
-iɘ	i/j ɘ/ə
-Ɂa3tau1	ʔ a *3/³ + t au *1/¹
+^tθ	tθ				
+ai	ai				
+au	au				
+a:i	aːi				
+a:u	aːu				
+aːi	aːi				
+aːu	aːu				
+ei	ei				
+eu	eu				
+e:i	eːi				
+e:u	eːu				
+eːi	eːi				
+eːu	eːu				
+ii	ii				
+iu	iu				
+i:i	iːi				
+i:u	iːu				
+iːi	iːi				
+iːu	iːu				
+oi	oi				
+ou	ou				
+o:i	oːi				
+o:u	oːu				
+oːi	oːi				
+oːu	oːu				
+ui	ui				
+uu	uu				
+u:i	uːi				
+u:u	uːu				
+uːi	uːi				
+uːu	uːu				
+əi	əi				
+əu	əu				
+ə:i	əːi				
+ə:u	əːu				
+əːi	əːi				
+əːu	əːu				
+ɘi	ɘi				
+ɘu	ɘu				
+ɘ:i	ɘːi				
+ɘ:u	ɘːu				
+ɘːi	ɘːi				
+ɘːu	ɘːu				
+ua	u/w a				
+^ua	u/w a				
+ia	i/j a				
+ɔi	ɔi				
+iə	i/j ə				
+eɯ	eɯ				
+ɯɘ	ɯɘ				
+a:_	aː				
+uai	u/w ai				
+ɛi	ɛi				
+fanŋ1	f a ŋ *1/¹				
+iɘ	i/j ɘ/ə				
+Ɂa3tau1	ʔ a *3/³ + t au *1/¹				
