@@ -1,0 +1,999 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCEPTICON	LATITUDE	LONGITUDE	COGNACY	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	COGIDS	LEXSTATIDS	ALIGNMENT
+1	1_i	I	Xifang	Xifang Hlai	hou1	hou1	h ou *1/¹	hlai1239	1209	19.30	109.24		3 7 8	AXT	HU6	8	8.H.C 8.U.V 8.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+2	1_i	I	Baisha	Baisha Hlai	ho1	ho1	h o *1/¹	hlai1239	1209	18.65	108.72		3 7 8	AXT	HU6	1	1.H.C 1.U.V 1.6.T	1.6 3.0 1.0	ho*1/¹	0	1	1	h o - *1/¹
+3	1_i	I	Yuanmen	Yuanmen Hlai	houɁ7	houɁ7	h ou ʔ *7/⁵²	hlai1239	1209	19.11	109.54		3 7 1 8	AXLT	HUH3	9	9.H.C 9.U.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	houʔ*7/⁵²	0	1	1	h ou ʔ *7/⁵²
+4	1_i	I	Heitu	Heitu Hlai	hou1	hou1	h ou *1/¹	hlai1239	1209	19.51	108.94		3 7 8	AXT	HU6	5	5.H.C 5.U.V 5.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+5	1_i	I	Baoding	Baoding Hlai	hou1 // de3	hou1	h ou *1/¹	hlai1239	1209	18.77	110.45		3 7 8	AXT	HU6	3	3.H.C 3.U.V 3.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+6	1_i	I	Baoding	Baoding Hlai	hou1 // de3	de3	d e *3/³	hlai1239	1209	18.77	110.45		1 7 8	AXT	TE6	3	3.T.C 3.E.V 3.6.T	1.6 3.0 1.0	de*3/³	0	3	3	d e *3/³
+7	1_i	I	Zhongsha	Zhongsha Hlai	hou1	hou1	h ou *1/¹	hlai1239	1209	15.83	114.33		3 7 8	AXT	HU6	10	10.H.C 10.U.V 10.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+8	1_i	I	Tongzha	Tongzha Hlai	hou1	hou1	h ou *1/¹	hlai1239	1209	18.88	109.67		3 7 8	AXT	HU6	7	7.H.C 7.U.V 7.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+9	1_i	I	Qiandui	Quiandui Hlai	hou1	hou1	h ou *1/¹	hlai1239	1209	18.91	110.04		3 7 8	AXT	HU6	6	6.H.C 6.U.V 6.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+10	1_i	I	Baocheng	Baocheng Hlai	hou1	hou1	h ou *1/¹	hlai1239	1209	18.64	109.70		3 7 8	AXT	HU6	2	2.H.C 2.U.V 2.6.T	1.6 3.0 1.0	hou*1/¹	0	1	1	h ou - *1/¹
+11	1_i	I	Gelong	Gelong	kɘ5	kɘ5	k ɘ/ə *5/⁵		1209	19.10	108.65		1 7 8	AXT	KE6	4	4.K.C 4.E.V 4.6.T	1.6 3.0 1.0	kɘ/ə*5/⁵	0	2	2	k ɘ/ə *5/⁵
+83	9_all	all	Xifang	Xifang Hlai	rik7 rik7	rik7_rik7	r i k *7/⁵² + r i k *7/⁵²	hlai1239	98	19.30	109.24		5 7 1 8 9 5 7 1 8	AXLT_AXLT	RIK3_RIK3	8	8.R.C 8.I.V 8.K.c 8.3.T 8._._ 8.R.C 8.I.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0 0.0 1.6 3.0 1.1 1.0	rik*7/⁵²+rik*7/⁵²	0	13 14	13 14	r i k *7/⁵² + r i k *7/⁵²
+84	9_all	all	Baisha	Baisha Hlai	rit7 rit7	rit7_rit7	r i t *7/⁵² + r i t *7/⁵²	hlai1239	98	18.65	108.72		5 7 1 8 9 5 7 1 8	AXLT_AXLT	RIT3_RIT3	1	1.R.C 1.I.V 1.T.c 1.3.T 1._._ 1.R.C 1.I.V 1.T.c 1.3.T	1.6 3.0 1.1 1.0 0.0 1.6 3.0 1.1 1.0	rit*7/⁵²+rit*7/⁵²	0	13 14	13 14	r i t *7/⁵² + r i t *7/⁵²
+85	9_all	all	Yuanmen	Yuanmen Hlai	bu:i3 bu:i3	bu:i3_bu:i3	b uːi *3/³ + b uːi *3/³	hlai1239	98	19.11	109.54		1 7 8 9 1 7 8	AXT_AXT	PY6_PY6	9	9.P.C 9.Y.V 9.6.T 9._._ 9.P.C 9.Y.V 9.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	buːi*3/³+buːi*3/³	0	15 16	15 16	b uːi *3/³ + b uːi *3/³
+86	9_all	all	Heitu	Heitu Hlai	ba:i3 ba:i3	ba:i3_ba:i3	b aːi *3/³ + b aːi *3/³	hlai1239	98	19.51	108.94		1 7 8 9 1 7 8	AXT_AXT	PA6_PA6	5	5.P.C 5.A.V 5.6.T 5._._ 5.P.C 5.A.V 5.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	baːi*3/³+baːi*3/³	0	15 16	15 16	b aːi *3/³ + b aːi *3/³
+87	9_all	all	Baoding	Baoding Hlai	ba:i3 ba:i3	ba:i3_ba:i3	b aːi *3/³ + b aːi *3/³	hlai1239	98	18.77	110.45		1 7 8 9 1 7 8	AXT_AXT	PA6_PA6	3	3.P.C 3.A.V 3.6.T 3._._ 3.P.C 3.A.V 3.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	baːi*3/³+baːi*3/³	0	15 16	15 16	b aːi *3/³ + b aːi *3/³
+88	9_all	all	Zhongsha	Zhongsha Hlai	ba:i3 ba:i3	ba:i3_ba:i3	b aːi *3/³ + b aːi *3/³	hlai1239	98	15.83	114.33		1 7 8 9 1 7 8	AXT_AXT	PA6_PA6	10	10.P.C 10.A.V 10.6.T 10._._ 10.P.C 10.A.V 10.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	baːi*3/³+baːi*3/³	0	15 16	15 16	b aːi *3/³ + b aːi *3/³
+89	9_all	all	Tongzha	Tongzha Hlai	ba:i3 ba:i3	ba:i3_ba:i3	b aːi *3/³ + b aːi *3/³	hlai1239	98	18.88	109.67		1 7 8 9 1 7 8	AXT_AXT	PA6_PA6	7	7.P.C 7.A.V 7.6.T 7._._ 7.P.C 7.A.V 7.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	baːi*3/³+baːi*3/³	0	15 16	15 16	b aːi *3/³ + b aːi *3/³
+90	9_all	all	Qiandui	Quiandui Hlai	ba:i3 ba:i3	ba:i3_ba:i3	b aːi *3/³ + b aːi *3/³	hlai1239	98	18.91	110.04		1 7 8 9 1 7 8	AXT_AXT	PA6_PA6	6	6.P.C 6.A.V 6.6.T 6._._ 6.P.C 6.A.V 6.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	baːi*3/³+baːi*3/³	0	15 16	15 16	b aːi *3/³ + b aːi *3/³
+91	9_all	all	Baocheng	Baocheng Hlai	ba:i3 ba:i3	ba:i3_ba:i3	b aːi *3/³ + b aːi *3/³	hlai1239	98	18.64	109.70		1 7 8 9 1 7 8	AXT_AXT	PA6_PA6	2	2.P.C 2.A.V 2.6.T 2._._ 2.P.C 2.A.V 2.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	baːi*3/³+baːi*3/³	0	15 16	15 16	b aːi *3/³ + b aːi *3/³
+92	9_all	all	Gelong	Gelong	nuŋ3	nuŋ3	n u ŋ *3/³		98	19.10	108.65		4 7 4 8	AXLT	NYN6	4	4.N.C 4.Y.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	nuŋ*3/³	0	17	17	n u ŋ *3/³
+818	83_ashes	ashes	Gelong	Gelong	bu2 tθai3	bu2_tθai3	b u *2/² + tθ ai *3/³		646	19.10	108.65		1 7 8 9 1 7 8	AXT_AXT	PY6_TA6	4	4.P.C 4.Y.V 4.6.T 4._._ 4.T.C 4.A.V 4.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	bu*2/²+tθai*3/³	0	33 34	33 34	b u *2/² + tθ ai *3/³
+479	49_belly	belly	Xifang	Xifang Hlai	pɔk7	pɔk7	p ɔ k *7/⁵²	hlai1239	1251	19.30	109.24		1 7 1 8	AXLT	PUK3	8	8.P.C 8.U.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	pɔk*7/⁵²	0	36	36	p ɔ k *7/⁵²
+480	49_belly	belly	Baisha	Baisha Hlai	pɔk8	pɔk8	p ɔ k *8/⁵³	hlai1239	1251	18.65	108.72		1 7 1 8	AXLT	PUK3	1	1.P.C 1.U.V 1.K.c 1.3.T	1.6 3.0 1.1 1.0	pɔk*8/⁵³	0	36	36	p ɔ k *8/⁵³
+481	49_belly	belly	Yuanmen	Yuanmen Hlai	pɔk8	pɔk8	p ɔ k *8/⁵³	hlai1239	1251	19.11	109.54		1 7 1 8	AXLT	PUK3	9	9.P.C 9.U.V 9.K.c 9.3.T	1.6 3.0 1.1 1.0	pɔk*8/⁵³	0	36	36	p ɔ k *8/⁵³
+482	49_belly	belly	Heitu	Heitu Hlai	mok7	mok7	m o k *7/⁵²	hlai1239	1251	19.51	108.94		4 7 1 8	AXLT	MUK3	5	5.M.C 5.U.V 5.K.c 5.3.T	1.6 3.0 1.1 1.0	mok*7/⁵²	0	36	36	m o k *7/⁵²
+483	49_belly	belly	Baoding	Baoding Hlai	pok7	pok7	p o k *7/⁵²	hlai1239	1251	18.77	110.45		1 7 1 8	AXLT	PUK3	3	3.P.C 3.U.V 3.K.c 3.3.T	1.6 3.0 1.1 1.0	pok*7/⁵²	0	36	36	p o k *7/⁵²
+484	49_belly	belly	Zhongsha	Zhongsha Hlai	pok7	pok7	p o k *7/⁵²	hlai1239	1251	15.83	114.33		1 7 1 8	AXLT	PUK3	10	10.P.C 10.U.V 10.K.c 10.3.T	1.6 3.0 1.1 1.0	pok*7/⁵²	0	36	36	p o k *7/⁵²
+485	49_belly	belly	Tongzha	Tongzha Hlai	pok8	pok8	p o k *8/⁵³	hlai1239	1251	18.88	109.67		1 7 1 8	AXLT	PUK3	7	7.P.C 7.U.V 7.K.c 7.3.T	1.6 3.0 1.1 1.0	pok*8/⁵³	0	36	36	p o k *8/⁵³
+486	49_belly	belly	Qiandui	Quiandui Hlai	phoɁ8	phoɁ8	pʰ o ʔ *8/⁵³	hlai1239	1251	18.91	110.04		1 7 1 8	AXLT	PUH3	6	6.P.C 6.U.V 6.H.c 6.3.T	1.6 3.0 1.1 1.0	pʰoʔ*8/⁵³	0	36	36	pʰ o ʔ *8/⁵³
+487	49_belly	belly	Baocheng	Baocheng Hlai	pɔk8	pɔk8	p ɔ k *8/⁵³	hlai1239	1251	18.64	109.70		1 7 1 8	AXLT	PUK3	2	2.P.C 2.U.V 2.K.c 2.3.T	1.6 3.0 1.1 1.0	pɔk*8/⁵³	0	36	36	p ɔ k *8/⁵³
+488	49_belly	belly	Gelong	Gelong	bɔk4	bɔk4	b ɔ k *4/⁴		1251	19.10	108.65		1 7 1 8	AXLT	PUK6	4	4.P.C 4.U.V 4.K.c 4.6.T	1.6 3.0 1.1 1.0	bɔk*4/⁴	0	36	36	b ɔ k *4/⁴
+123	13_big	big	Xifang	Xifang Hlai	loŋ1	loŋ1	l o ŋ *1/¹	hlai1239	1202	19.30	109.24		5 7 4 8	AXLT	LUN6	8	8.L.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	loŋ*1/¹	0	47	47	l o ŋ *1/¹
+124	13_big	big	Baisha	Baisha Hlai	luŋ1	luŋ1	l u ŋ *1/¹	hlai1239	1202	18.65	108.72		5 7 4 8	AXLT	LYN6	1	1.L.C 1.Y.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	luŋ*1/¹	0	47	47	l u ŋ *1/¹
+125	13_big	big	Yuanmen	Yuanmen Hlai	luŋ4	luŋ4	l u ŋ *4/⁴	hlai1239	1202	19.11	109.54		5 7 4 8	AXLT	LYN6	9	9.L.C 9.Y.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	luŋ*4/⁴	0	47	47	l u ŋ *4/⁴
+126	13_big	big	Heitu	Heitu Hlai	luŋ1	luŋ1	l u ŋ *1/¹	hlai1239	1202	19.51	108.94		5 7 4 8	AXLT	LYN6	5	5.L.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	luŋ*1/¹	0	47	47	l u ŋ *1/¹
+127	13_big	big	Baoding	Baoding Hlai	loŋ1	loŋ1	l o ŋ *1/¹	hlai1239	1202	18.77	110.45		5 7 4 8	AXLT	LUN6	3	3.L.C 3.U.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	loŋ*1/¹	0	47	47	l o ŋ *1/¹
+128	13_big	big	Zhongsha	Zhongsha Hlai	luŋ1	luŋ1	l u ŋ *1/¹	hlai1239	1202	15.83	114.33		5 7 4 8	AXLT	LYN6	10	10.L.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	luŋ*1/¹	0	47	47	l u ŋ *1/¹
+129	13_big	big	Tongzha	Tongzha Hlai	loŋ1	loŋ1	l o ŋ *1/¹	hlai1239	1202	18.88	109.67		5 7 4 8	AXLT	LUN6	7	7.L.C 7.U.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	loŋ*1/¹	0	47	47	l o ŋ *1/¹
+130	13_big	big	Qiandui	Quiandui Hlai	luŋ4	luŋ4	l u ŋ *4/⁴	hlai1239	1202	18.91	110.04		5 7 4 8	AXLT	LYN6	6	6.L.C 6.Y.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	luŋ*4/⁴	0	47	47	l u ŋ *4/⁴
+131	13_big	big	Baocheng	Baocheng Hlai	luŋ1	luŋ1	l u ŋ *1/¹	hlai1239	1202	18.64	109.70		5 7 4 8	AXLT	LYN6	2	2.L.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	luŋ*1/¹	0	47	47	l u ŋ *1/¹
+132	13_big	big	Gelong	Gelong	loŋ1	loŋ1	l o ŋ *1/¹		1202	19.10	108.65		5 7 4 8	AXLT	LUN6	4	4.L.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	loŋ*1/¹	0	47	47	l o ŋ *1/¹
+194	20_bird	bird	Xifang	Xifang Hlai	sat7	sat7	s a t *7/⁵²	hlai1239	937	19.30	109.24		3 7 1 8	AXLT	SAT3	8	8.S.C 8.A.V 8.T.c 8.3.T	1.6 3.0 1.1 1.0	sat*7/⁵²	0	58	58	s - a t *7/⁵²
+195	20_bird	bird	Baisha	Baisha Hlai	tshat8	tshat8	tsʰ a t *8/⁵³	hlai1239	937	18.65	108.72		2 7 1 8	AXLT	CAT3	1	1.C.C 1.A.V 1.T.c 1.3.T	1.6 3.0 1.1 1.0	tsʰat*8/⁵³	0	58	58	tsʰ - a t *8/⁵³
+196	20_bird	bird	Yuanmen	Yuanmen Hlai	ȵa:u4	ȵa:u4	ȵ aːu *4/⁴	hlai1239	937	19.11	109.54		4 7 8	AXT	NA6	9	9.N.C 9.A.V 9.6.T	1.6 3.0 1.0	ȵaːu*4/⁴	0	59	59	ȵ aːu *4/⁴
+197	20_bird	bird	Heitu	Heitu Hlai	tat9	tat9	t a t *9/⁵⁴	hlai1239	937	19.51	108.94		1 7 1 8	AXLT	TAT3	5	5.T.C 5.A.V 5.T.c 5.3.T	1.6 3.0 1.1 1.0	tat*9/⁵⁴	0	58	58	t - a t *9/⁵⁴
+198	20_bird	bird	Baoding	Baoding Hlai	taȶ7	taȶ7	t a ȶ *7/⁵²	hlai1239	937	18.77	110.45		1 7 1 8	AXLT	TAT3	3	3.T.C 3.A.V 3.T.c 3.3.T	1.6 3.0 1.1 1.0	taȶ*7/⁵²	0	58	58	t - a ȶ *7/⁵²
+199	20_bird	bird	Zhongsha	Zhongsha Hlai	tat7	tat7	t a t *7/⁵²	hlai1239	937	15.83	114.33		1 7 1 8	AXLT	TAT3	10	10.T.C 10.A.V 10.T.c 10.3.T	1.6 3.0 1.1 1.0	tat*7/⁵²	0	58	58	t - a t *7/⁵²
+200	20_bird	bird	Tongzha	Tongzha Hlai	tat7	tat7	t a t *7/⁵²	hlai1239	937	18.88	109.67		1 7 1 8	AXLT	TAT3	7	7.T.C 7.A.V 7.T.c 7.3.T	1.6 3.0 1.1 1.0	tat*7/⁵²	0	58	58	t - a t *7/⁵²
+201	20_bird	bird	Qiandui	Quiandui Hlai	tat7	tat7	t a t *7/⁵²	hlai1239	937	18.91	110.04		1 7 1 8	AXLT	TAT3	6	6.T.C 6.A.V 6.T.c 6.3.T	1.6 3.0 1.1 1.0	tat*7/⁵²	0	58	58	t - a t *7/⁵²
+202	20_bird	bird	Baocheng	Baocheng Hlai	tat7	tat7	t a t *7/⁵²	hlai1239	937	18.64	109.70		1 7 1 8	AXLT	TAT3	2	2.T.C 2.A.V 2.T.c 2.3.T	1.6 3.0 1.1 1.0	tat*7/⁵²	0	58	58	t - a t *7/⁵²
+203	20_bird	bird	Gelong	Gelong	tshiat2	tshiat2	tsʰ i/j a t *2/²		937	19.10	108.65		2 6 7 1 8	ACXLT	CJAT6	4	4.C.C 4.J.C 4.A.V 4.T.c 4.6.T	1.6 1.2 3.0 1.1 1.0	tsʰi/jat*2/²	0	58	58	tsʰ i/j a t *2/²
+549	56_bite	bite	Xifang	Xifang Hlai	kan3	kan3	k a n *3/³	hlai1239	1403	19.30	109.24		1 7 4 8	AXLT	KAN6	8	8.K.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	kan*3/³	0	69	69	k a n *3/³
+550	56_bite	bite	Baisha	Baisha Hlai	kan3	kan3	k a n *3/³	hlai1239	1403	18.65	108.72		1 7 4 8	AXLT	KAN6	1	1.K.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	kan*3/³	0	69	69	k a n *3/³
+551	56_bite	bite	Yuanmen	Yuanmen Hlai	rap8	rap8	r a p *8/⁵³	hlai1239	1403	19.11	109.54		5 7 1 8	AXLT	RAP3	9	9.R.C 9.A.V 9.P.c 9.3.T	1.6 3.0 1.1 1.0	rap*8/⁵³	0	71	72	r a p *8/⁵³
+552	56_bite	bite	Heitu	Heitu Hlai	than3	than3	tʰ a n *3/³	hlai1239	1403	19.51	108.94		1 7 4 8	AXLT	TAN6	5	5.T.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	tʰan*3/³	0	69	71	tʰ a n *3/³
+553	56_bite	bite	Baoding	Baoding Hlai	ka:ȵ3	ka:ȵ3	k aː ȵ *3/³	hlai1239	1403	18.77	110.45		1 7 4 8	AXLT	KAN6	3	3.K.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	kaːȵ*3/³	0	69	69	k aː ȵ *3/³
+554	56_bite	bite	Zhongsha	Zhongsha Hlai	ka:n3	ka:n3	k aː n *3/³	hlai1239	1403	15.83	114.33		1 7 4 8	AXLT	KAN6	10	10.K.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	kaːn*3/³	0	69	69	k aː n *3/³
+555	56_bite	bite	Tongzha	Tongzha Hlai	ka:n8	ka:n8	k aː n *8/⁵³	hlai1239	1403	18.88	109.67		1 7 4 8	AXLT	KAN3	7	7.K.C 7.A.V 7.N.c 7.3.T	1.6 3.0 1.1 1.0	kaːn*8/⁵³	0	69	69	k aː n *8/⁵³
+556	56_bite	bite	Qiandui	Quiandui Hlai	kha:n6	kha:n6	kʰ aː n *6/⁵¹	hlai1239	1403	18.91	110.04		1 7 4 8	AXLT	KAN3	6	6.K.C 6.A.V 6.N.c 6.3.T	1.6 3.0 1.1 1.0	kʰaːn*6/⁵¹	0	69	69	kʰ aː n *6/⁵¹
+557	56_bite	bite	Baocheng	Baocheng Hlai	ka:n6	ka:n6	k aː n *6/⁵¹	hlai1239	1403	18.64	109.70		1 7 4 8	AXLT	KAN3	2	2.K.C 2.A.V 2.N.c 2.3.T	1.6 3.0 1.1 1.0	kaːn*6/⁵¹	0	69	69	k aː n *6/⁵¹
+558	56_bite	bite	Gelong	Gelong	ŋat2	ŋat2	ŋ a t *2/²		1403	19.10	108.65		4 7 1 8	AXLT	NAT6	4	4.N.C 4.A.V 4.T.c 4.6.T	1.6 3.0 1.1 1.0	ŋat*2/²	0	70	70	ŋ a t *2/²
+889	91_black	black	Xifang	Xifang Hlai	dam3	dam3	d a m *3/³	hlai1239	163	19.30	109.24		1 7 4 8	AXLT	TAM6	8	8.T.C 8.A.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	dam*3/³	0	80	80	d a m *3/³
+890	91_black	black	Baisha	Baisha Hlai	dam3	dam3	d a m *3/³	hlai1239	163	18.65	108.72		1 7 4 8	AXLT	TAM6	1	1.T.C 1.A.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	dam*3/³	0	80	80	d a m *3/³
+891	91_black	black	Yuanmen	Yuanmen Hlai	dam3	dam3	d a m *3/³	hlai1239	163	19.11	109.54		1 7 4 8	AXLT	TAM6	9	9.T.C 9.A.V 9.M.c 9.6.T	1.6 3.0 1.1 1.0	dam*3/³	0	80	80	d a m *3/³
+892	91_black	black	Heitu	Heitu Hlai	dom3	dom3	d o m *3/³	hlai1239	163	19.51	108.94		1 7 4 8	AXLT	TUM6	5	5.T.C 5.U.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	dom*3/³	0	80	80	d o m *3/³
+893	91_black	black	Baoding	Baoding Hlai	dom2	dom2	d o m *2/²	hlai1239	163	18.77	110.45		1 7 4 8	AXLT	TUM6	3	3.T.C 3.U.V 3.M.c 3.6.T	1.6 3.0 1.1 1.0	dom*2/²	0	80	80	d o m *2/²
+894	91_black	black	Zhongsha	Zhongsha Hlai	dam3	dam3	d a m *3/³	hlai1239	163	15.83	114.33		1 7 4 8	AXLT	TAM6	10	10.T.C 10.A.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	dam*3/³	0	80	80	d a m *3/³
+895	91_black	black	Tongzha	Tongzha Hlai	dam3	dam3	d a m *3/³	hlai1239	163	18.88	109.67		1 7 4 8	AXLT	TAM6	7	7.T.C 7.A.V 7.M.c 7.6.T	1.6 3.0 1.1 1.0	dam*3/³	0	80	80	d a m *3/³
+896	91_black	black	Qiandui	Quiandui Hlai	dam3	dam3	d a m *3/³	hlai1239	163	18.91	110.04		1 7 4 8	AXLT	TAM6	6	6.T.C 6.A.V 6.M.c 6.6.T	1.6 3.0 1.1 1.0	dam*3/³	0	80	80	d a m *3/³
+897	91_black	black	Baocheng	Baocheng Hlai	dəm3	dəm3	d ə m *3/³	hlai1239	163	18.64	109.70		1 7 4 8	AXLT	TEM6	2	2.T.C 2.E.V 2.M.c 2.6.T	1.6 3.0 1.1 1.0	dəm*3/³	0	80	80	d ə m *3/³
+898	91_black	black	Gelong	Gelong	khoil1	khoil1	kʰ oi l *1/¹		163	19.10	108.65		1 7 5 8	AXLT	KUL6	4	4.K.C 4.U.V 4.L.c 4.6.T	1.6 3.0 1.1 1.0	kʰoil*1/¹	0	81	81	kʰ oi l *1/¹
+286	30_blood	blood	Xifang	Xifang Hlai	ɬo:ȶ7	ɬo:ȶ7	ɬ oː ȶ *7/⁵²	hlai1239	946	19.30	109.24		5 7 1 8	AXLT	LUT3	8	8.L.C 8.U.V 8.T.c 8.3.T	1.6 3.0 1.1 1.0	ɬoːȶ*7/⁵²	0	91	91	ɬ - oː ȶ *7/⁵²
+287	30_blood	blood	Baisha	Baisha Hlai	ɬa:ȶ 8	ɬa:ȶ_8	ɬ aː ȶ + *8/⁵³	hlai1239	946	18.65	108.72		5 7 1 9 8	AXN_T	LAT_3	1	1.L.C 1.A.V 1.T.c 1._._ 1.3.T	1.6 3.0 0.5 0.0 1.0	ɬaːȶ+*8/⁵³	0	91 92	91 92	ɬ - aː ȶ - + *8/⁵³
+288	30_blood	blood	Yuanmen	Yuanmen Hlai	ɬuaȶ7	ɬuaȶ7	ɬ u/w a ȶ *7/⁵²	hlai1239	946	19.11	109.54		5 6 7 1 8	ACXLT	LWAT3	9	9.L.C 9.W.C 9.A.V 9.T.c 9.3.T	1.6 1.2 3.0 1.1 1.0	ɬu/waȶ*7/⁵²	0	91	91	ɬ u/w a ȶ *7/⁵²
+289	30_blood	blood	Heitu	Heitu Hlai	da:ȶ7	da:ȶ7	d aː ȶ *7/⁵²	hlai1239	946	19.51	108.94		1 7 1 8	AXLT	TAT3	5	5.T.C 5.A.V 5.T.c 5.3.T	1.6 3.0 1.1 1.0	daːȶ*7/⁵²	0	91	91	- d aː ȶ *7/⁵²
+290	30_blood	blood	Baoding	Baoding Hlai	ɬa:ȶ7	ɬa:ȶ7	ɬ aː ȶ *7/⁵²	hlai1239	946	18.77	110.45		5 7 1 8	AXLT	LAT3	3	3.L.C 3.A.V 3.T.c 3.3.T	1.6 3.0 1.1 1.0	ɬaːȶ*7/⁵²	0	91	91	ɬ - aː ȶ *7/⁵²
+291	30_blood	blood	Zhongsha	Zhongsha Hlai	ɬa:ȶ7	ɬa:ȶ7	ɬ aː ȶ *7/⁵²	hlai1239	946	15.83	114.33		5 7 1 8	AXLT	LAT3	10	10.L.C 10.A.V 10.T.c 10.3.T	1.6 3.0 1.1 1.0	ɬaːȶ*7/⁵²	0	91	91	ɬ - aː ȶ *7/⁵²
+292	30_blood	blood	Tongzha	Tongzha Hlai	ɬa:ȶ7	ɬa:ȶ7	ɬ aː ȶ *7/⁵²	hlai1239	946	18.88	109.67		5 7 1 8	AXLT	LAT3	7	7.L.C 7.A.V 7.T.c 7.3.T	1.6 3.0 1.1 1.0	ɬaːȶ*7/⁵²	0	91	91	ɬ - aː ȶ *7/⁵²
+293	30_blood	blood	Qiandui	Quiandui Hlai	ɬa:ȶ7	ɬa:ȶ7	ɬ aː ȶ *7/⁵²	hlai1239	946	18.91	110.04		5 7 1 8	AXLT	LAT3	6	6.L.C 6.A.V 6.T.c 6.3.T	1.6 3.0 1.1 1.0	ɬaːȶ*7/⁵²	0	91	91	ɬ - aː ȶ *7/⁵²
+294	30_blood	blood	Baocheng	Baocheng Hlai	ɬa:ȶ7	ɬa:ȶ7	ɬ aː ȶ *7/⁵²	hlai1239	946	18.64	109.70		5 7 1 8	AXLT	LAT3	2	2.L.C 2.A.V 2.T.c 2.3.T	1.6 3.0 1.1 1.0	ɬaːȶ*7/⁵²	0	91	91	ɬ - aː ȶ *7/⁵²
+295	30_blood	blood	Gelong	Gelong	tθɔt2	tθɔt2	tθ ɔ t *2/²		946	19.10	108.65		1 7 1 8	AXLT	TUT6	4	4.T.C 4.U.V 4.T.c 4.6.T	1.6 3.0 1.1 1.0	tθɔt*2/²	0	91	91	- tθ ɔ t *2/²
+296	31_bone	bone	Xifang	Xifang Hlai	ɣɯk7	ɣɯk7	ɣ ɯ k *7/⁵²	hlai1239	1394	19.30	109.24		3 7 1 8	AXLT	GIK3	8	8.G.C 8.I.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	ɣɯk*7/⁵²	0	103	105	ɣ ɯ - k *7/⁵²
+297	31_bone	bone	Baisha	Baisha Hlai	fɯk8	fɯk8	f ɯ k *8/⁵³	hlai1239	1394	18.65	108.72		3 7 1 8	AXLT	BIK3	1	1.B.C 1.I.V 1.K.c 1.3.T	1.6 3.0 1.1 1.0	fɯk*8/⁵³	0	103	103	f ɯ - k *8/⁵³
+298	31_bone	bone	Yuanmen	Yuanmen Hlai	fɯɁ8	fɯɁ8	f ɯ ʔ *8/⁵³	hlai1239	1394	19.11	109.54		3 7 1 8	AXLT	BIH3	9	9.B.C 9.I.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	fɯʔ*8/⁵³	0	104	103	f ɯ - ʔ *8/⁵³
+299	31_bone	bone	Heitu	Heitu Hlai	rɯ:Ɂ7	rɯ:Ɂ7	r ɯː ʔ *7/⁵²	hlai1239	1394	19.51	108.94		5 7 1 8	AXLT	RIH3	5	5.R.C 5.I.V 5.H.c 5.3.T	1.6 3.0 1.1 1.0	rɯːʔ*7/⁵²	0	105	104	r ɯː ʔ *7/⁵²
+300	31_bone	bone	Baoding	Baoding Hlai	vɯ:k7	vɯ:k7	v ɯː k *7/⁵²	hlai1239	1394	18.77	110.45		3 7 1 8	AXLT	BIK3	3	3.B.C 3.I.V 3.K.c 3.3.T	1.6 3.0 1.1 1.0	vɯːk*7/⁵²	0	103	103	v ɯː - k *7/⁵²
+301	31_bone	bone	Zhongsha	Zhongsha Hlai	rɯ:7	rɯ:7	r ɯː *7/⁵²	hlai1239	1394	15.83	114.33		5 7 8	AXT	RI3	10	10.R.C 10.I.V 10.3.T	1.6 3.0 1.0	rɯː*7/⁵²	0	105	104	r ɯː - *7/⁵²
+302	31_bone	bone	Tongzha	Tongzha Hlai	fɯ:Ɂ8	fɯ:Ɂ8	f ɯː ʔ *8/⁵³	hlai1239	1394	18.88	109.67		3 7 1 8	AXLT	BIH3	7	7.B.C 7.I.V 7.H.c 7.3.T	1.6 3.0 1.1 1.0	fɯːʔ*8/⁵³	0	104	103	f ɯː - ʔ *8/⁵³
+303	31_bone	bone	Qiandui	Quiandui Hlai	fɯaɁ8	fɯaɁ8	f ɯ a ʔ *8/⁵³	hlai1239	1394	18.91	110.04		3 7 7 1 8	AXYLT	BIAH3	6	6.B.C 6.I.V 6.A.V 6.H.c 6.3.T	1.6 3.0 3.0 1.1 1.0	fɯaʔ*8/⁵³	0	104	103	f ɯ a ʔ *8/⁵³
+304	31_bone	bone	Baocheng	Baocheng Hlai	fɯ:Ɂ8	fɯ:Ɂ8	f ɯː ʔ *8/⁵³	hlai1239	1394	18.64	109.70		3 7 1 8	AXLT	BIH3	2	2.B.C 2.I.V 2.H.c 2.3.T	1.6 3.0 1.1 1.0	fɯːʔ*8/⁵³	0	104	103	f ɯː - ʔ *8/⁵³
+305	31_bone	bone	Gelong	Gelong	vɯək4	vɯək4	v ɯ ə k *4/⁴		1394	19.10	108.65		3 7 7 1 8	AXYLT	BIEK6	4	4.B.C 4.I.V 4.E.V 4.K.c 4.6.T	1.6 3.0 3.0 1.1 1.0	vɯək*4/⁴	0	103	103	v ɯ ə k *4/⁴
+499	51_breast	breast	Xifang	Xifang Hlai	tsei1	tsei1	ts ei *1/¹	hlai1239	1402	19.30	109.24		2 7 8	AXT	CE6	8	8.C.C 8.E.V 8.6.T	1.6 3.0 1.0	tsei*1/¹	0	114	114	ts ei *1/¹
+500	51_breast	breast	Baisha	Baisha Hlai	tsi3	tsi3	ts i *3/³	hlai1239	1402	18.65	108.72		2 7 8	AXT	CI6	1	1.C.C 1.I.V 1.6.T	1.6 3.0 1.0	tsi*3/³	0	114	114	ts i *3/³
+501	51_breast	breast	Yuanmen	Yuanmen Hlai	ti3	ti3	t i *3/³	hlai1239	1402	19.11	109.54		1 7 8	AXT	TI6	9	9.T.C 9.I.V 9.6.T	1.6 3.0 1.0	ti*3/³	0	114	114	t i *3/³
+502	51_breast	breast	Heitu	Heitu Hlai	tsi2	tsi2	ts i *2/²	hlai1239	1402	19.51	108.94		2 7 8	AXT	CI6	5	5.C.C 5.I.V 5.6.T	1.6 3.0 1.0	tsi*2/²	0	114	114	ts i *2/²
+503	51_breast	breast	Baoding	Baoding Hlai	tsei1	tsei1	ts ei *1/¹	hlai1239	1402	18.77	110.45		2 7 8	AXT	CE6	3	3.C.C 3.E.V 3.6.T	1.6 3.0 1.0	tsei*1/¹	0	114	114	ts ei *1/¹
+504	51_breast	breast	Zhongsha	Zhongsha Hlai	tsi2	tsi2	ts i *2/²	hlai1239	1402	15.83	114.33		2 7 8	AXT	CI6	10	10.C.C 10.I.V 10.6.T	1.6 3.0 1.0	tsi*2/²	0	114	114	ts i *2/²
+505	51_breast	breast	Tongzha	Tongzha Hlai	tsi5	tsi5	ts i *5/⁵	hlai1239	1402	18.88	109.67		2 7 8	AXT	CI6	7	7.C.C 7.I.V 7.6.T	1.6 3.0 1.0	tsi*5/⁵	0	114	114	ts i *5/⁵
+506	51_breast	breast	Qiandui	Quiandui Hlai	tsi5	tsi5	ts i *5/⁵	hlai1239	1402	18.91	110.04		2 7 8	AXT	CI6	6	6.C.C 6.I.V 6.6.T	1.6 3.0 1.0	tsi*5/⁵	0	114	114	ts i *5/⁵
+507	51_breast	breast	Baocheng	Baocheng Hlai	tsi5	tsi5	ts i *5/⁵	hlai1239	1402	18.64	109.70		2 7 8	AXT	CI6	2	2.C.C 2.I.V 2.6.T	1.6 3.0 1.0	tsi*5/⁵	0	114	114	ts i *5/⁵
+508	51_breast	breast	Gelong	Gelong	tsɛi1	tsɛi1	ts ɛi *1/¹		1402	19.10	108.65		2 7 8	AXT	CE6	4	4.C.C 4.E.V 4.6.T	1.6 3.0 1.0	tsɛi*1/¹	0	114	114	ts ɛi *1/¹
+819	84_burn	burn	Xifang	Xifang Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	19.30	109.24		2 7 8	AXT	CY6	8	8.C.C 8.Y.V 8.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+820	84_burn	burn	Baisha	Baisha Hlai	tshoi3	tshoi3	tsʰ oi *3/³	hlai1239	2102	18.65	108.72		2 7 8	AXT	CU6	1	1.C.C 1.U.V 1.6.T	1.6 3.0 1.0	tsʰoi*3/³	0	125	125	tsʰ oi *3/³
+821	84_burn	burn	Yuanmen	Yuanmen Hlai	tshou3	tshou3	tsʰ ou *3/³	hlai1239	2102	19.11	109.54		2 7 8	AXT	CU6	9	9.C.C 9.U.V 9.6.T	1.6 3.0 1.0	tsʰou*3/³	0	125	125	tsʰ ou *3/³
+822	84_burn	burn	Heitu	Heitu Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	19.51	108.94		2 7 8	AXT	CY6	5	5.C.C 5.Y.V 5.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+823	84_burn	burn	Baoding	Baoding Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	18.77	110.45		2 7 8	AXT	CY6	3	3.C.C 3.Y.V 3.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+824	84_burn	burn	Zhongsha	Zhongsha Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	15.83	114.33		2 7 8	AXT	CY6	10	10.C.C 10.Y.V 10.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+825	84_burn	burn	Tongzha	Tongzha Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	18.88	109.67		2 7 8	AXT	CY6	7	7.C.C 7.Y.V 7.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+826	84_burn	burn	Qiandui	Quiandui Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	18.91	110.04		2 7 8	AXT	CY6	6	6.C.C 6.Y.V 6.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+827	84_burn	burn	Baocheng	Baocheng Hlai	tshui3	tshui3	tsʰ ui *3/³	hlai1239	2102	18.64	109.70		2 7 8	AXT	CY6	2	2.C.C 2.Y.V 2.6.T	1.6 3.0 1.0	tsʰui*3/³	0	125	125	tsʰ ui *3/³
+828	84_burn	burn	Gelong	Gelong	tshɔi3	tshɔi3	tsʰ ɔi *3/³		2102	19.10	108.65		2 7 8	AXT	CU6	4	4.C.C 4.U.V 4.6.T	1.6 3.0 1.0	tsʰɔi*3/³	0	125	125	tsʰ ɔi *3/³
+438	45_claw	claw	Xifang	Xifang Hlai	lip7	lip7	l i p *7/⁵²	hlai1239	72	19.30	109.24		5 7 1 8	AXLT	LIP3	8	8.L.C 8.I.V 8.P.c 8.3.T	1.6 3.0 1.1 1.0	lip*7/⁵²	0	136	136	l i p *7/⁵²
+439	45_claw	claw	Baisha	Baisha Hlai	lip8	lip8	l i p *8/⁵³	hlai1239	72	18.65	108.72		5 7 1 8	AXLT	LIP3	1	1.L.C 1.I.V 1.P.c 1.3.T	1.6 3.0 1.1 1.0	lip*8/⁵³	0	136	136	l i p *8/⁵³
+440	45_claw	claw	Yuanmen	Yuanmen Hlai	lip8	lip8	l i p *8/⁵³	hlai1239	72	19.11	109.54		5 7 1 8	AXLT	LIP3	9	9.L.C 9.I.V 9.P.c 9.3.T	1.6 3.0 1.1 1.0	lip*8/⁵³	0	136	136	l i p *8/⁵³
+441	45_claw	claw	Heitu	Heitu Hlai	li:p7	li:p7	l iː p *7/⁵²	hlai1239	72	19.51	108.94		5 7 1 8	AXLT	LIP3	5	5.L.C 5.I.V 5.P.c 5.3.T	1.6 3.0 1.1 1.0	liːp*7/⁵²	0	136	136	l iː p *7/⁵²
+442	45_claw	claw	Baoding	Baoding Hlai	li:p7	li:p7	l iː p *7/⁵²	hlai1239	72	18.77	110.45		5 7 1 8	AXLT	LIP3	3	3.L.C 3.I.V 3.P.c 3.3.T	1.6 3.0 1.1 1.0	liːp*7/⁵²	0	136	136	l iː p *7/⁵²
+443	45_claw	claw	Zhongsha	Zhongsha Hlai	li:p7	li:p7	l iː p *7/⁵²	hlai1239	72	15.83	114.33		5 7 1 8	AXLT	LIP3	10	10.L.C 10.I.V 10.P.c 10.3.T	1.6 3.0 1.1 1.0	liːp*7/⁵²	0	136	136	l iː p *7/⁵²
+444	45_claw	claw	Tongzha	Tongzha Hlai	li:p7	li:p7	l iː p *7/⁵²	hlai1239	72	18.88	109.67		5 7 1 8	AXLT	LIP3	7	7.L.C 7.I.V 7.P.c 7.3.T	1.6 3.0 1.1 1.0	liːp*7/⁵²	0	136	136	l iː p *7/⁵²
+445	45_claw	claw	Qiandui	Quiandui Hlai	li:p8	li:p8	l iː p *8/⁵³	hlai1239	72	18.91	110.04		5 7 1 8	AXLT	LIP3	6	6.L.C 6.I.V 6.P.c 6.3.T	1.6 3.0 1.1 1.0	liːp*8/⁵³	0	136	136	l iː p *8/⁵³
+446	45_claw	claw	Baocheng	Baocheng Hlai	li:p7	li:p7	l iː p *7/⁵²	hlai1239	72	18.64	109.70		5 7 1 8	AXLT	LIP3	2	2.L.C 2.I.V 2.P.c 2.3.T	1.6 3.0 1.1 1.0	liːp*7/⁵²	0	136	136	l iː p *7/⁵²
+447	45_claw	claw	Gelong	Gelong	lip2	lip2	l i p *2/²		72	19.10	108.65		5 7 1 8	AXLT	LIP6	4	4.L.C 4.I.V 4.P.c 4.6.T	1.6 3.0 1.1 1.0	lip*2/²	0	136	136	l i p *2/²
+785	80_cloud	cloud	Xifang	Xifang Hlai	fa3 // dɯ2	fa3	f a *3/³	hlai1239	1489	19.30	109.24		3 7 8	AXT	BA6	8	8.B.C 8.A.V 8.6.T	1.6 3.0 1.0	fa*3/³	0	147	147	f a - *3/³
+786	80_cloud	cloud	Xifang	Xifang Hlai	fa3 // dɯ2	dɯ2	d ɯ *2/²	hlai1239	1489	19.30	109.24		1 7 8	AXT	TI6	8	8.T.C 8.I.V 8.6.T	1.6 3.0 1.0	dɯ*2/²	0	149	151	d ɯ - *2/²
+787	80_cloud	cloud	Baisha	Baisha Hlai	fa3 // deɁ7	fa3	f a *3/³	hlai1239	1489	18.65	108.72		3 7 8	AXT	BA6	1	1.B.C 1.A.V 1.6.T	1.6 3.0 1.0	fa*3/³	0	147	147	f a - *3/³
+788	80_cloud	cloud	Baisha	Baisha Hlai	fa3 // deɁ7	deɁ7	d e ʔ *7/⁵²	hlai1239	1489	18.65	108.72		1 7 1 8	AXLT	TEH3	1	1.T.C 1.E.V 1.H.c 1.3.T	1.6 3.0 1.1 1.0	deʔ*7/⁵²	0	148	149	d - e ʔ *7/⁵²
+789	80_cloud	cloud	Yuanmen	Yuanmen Hlai	fha3 // diaɁ7	fha3	fʰ a *3/³	hlai1239	1489	19.11	109.54		3 7 8	AXT	BA6	9	9.B.C 9.A.V 9.6.T	1.6 3.0 1.0	fʰa*3/³	0	147	147	fʰ a - *3/³
+790	80_cloud	cloud	Yuanmen	Yuanmen Hlai	fha3 // diaɁ7	diaɁ7	d i/j a ʔ *7/⁵²	hlai1239	1489	19.11	109.54		1 6 7 1 8	ACXLT	TJAH3	9	9.T.C 9.J.C 9.A.V 9.H.c 9.3.T	1.6 1.2 3.0 1.1 1.0	di/jaʔ*7/⁵²	0	148	149	d i/j a ʔ *7/⁵²
+791	80_cloud	cloud	Baoding	Baoding Hlai	fa3 // de:k7	fa3	f a *3/³	hlai1239	1489	18.77	110.45		3 7 8	AXT	BA6	3	3.B.C 3.A.V 3.6.T	1.6 3.0 1.0	fa*3/³	0	147	147	f a - *3/³
+792	80_cloud	cloud	Baoding	Baoding Hlai	fa3 // de:k7	de:k7	d eː k *7/⁵²	hlai1239	1489	18.77	110.45		1 7 1 8	AXLT	TEK3	3	3.T.C 3.E.V 3.K.c 3.3.T	1.6 3.0 1.1 1.0	deːk*7/⁵²	0	149	149	d eː k *7/⁵²
+793	80_cloud	cloud	Zhongsha	Zhongsha Hlai	fa3 // ze:Ɂ7	fa3	f a *3/³	hlai1239	1489	15.83	114.33		3 7 8	AXT	BA6	10	10.B.C 10.A.V 10.6.T	1.6 3.0 1.0	fa*3/³	0	147	147	f a - *3/³
+794	80_cloud	cloud	Zhongsha	Zhongsha Hlai	fa3 // ze:Ɂ7	ze:Ɂ7	z eː ʔ *7/⁵²	hlai1239	1489	15.83	114.33		3 7 1 8	AXLT	SEH3	10	10.S.C 10.E.V 10.H.c 10.3.T	1.6 3.0 1.1 1.0	zeːʔ*7/⁵²	0	148	150	z - eː ʔ *7/⁵²
+795	80_cloud	cloud	Tongzha	Tongzha Hlai	fa3 // fe:Ɂ7	fa3	f a *3/³	hlai1239	1489	18.88	109.67		3 7 8	AXT	BA6	7	7.B.C 7.A.V 7.6.T	1.6 3.0 1.0	fa*3/³	0	147	147	f a - *3/³
+796	80_cloud	cloud	Tongzha	Tongzha Hlai	fa3 // fe:Ɂ7	fe:Ɂ7	f eː ʔ *7/⁵²	hlai1239	1489	18.88	109.67		3 7 1 8	AXLT	BEH3	7	7.B.C 7.E.V 7.H.c 7.3.T	1.6 3.0 1.1 1.0	feːʔ*7/⁵²	0	147	150	f eː ʔ *7/⁵²
+797	80_cloud	cloud	Gelong	Gelong	vən1	vən1	v ə n *1/¹		1489	19.10	108.65		3 7 4 8	AXLT	BEN6	4	4.B.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	vən*1/¹	0	147	148	v ə n *1/¹
+929	94_cold	cold	Xifang	Xifang Hlai	kha:i2	kha:i2	kʰ aːi *2/²	hlai1239	1287	19.30	109.24		1 7 8	AXT	KA6	8	8.K.C 8.A.V 8.6.T	1.6 3.0 1.0	kʰaːi*2/²	0	161	161	kʰ - aːi *2/²
+930	94_cold	cold	Baisha	Baisha Hlai	kha:i2	kha:i2	kʰ aːi *2/²	hlai1239	1287	18.65	108.72		1 7 8	AXT	KA6	1	1.K.C 1.A.V 1.6.T	1.6 3.0 1.0	kʰaːi*2/²	0	161	161	kʰ - aːi *2/²
+931	94_cold	cold	Yuanmen	Yuanmen Hlai	khuai5	khuai5	kʰ u/w ai *5/⁵	hlai1239	1287	19.11	109.54		1 6 7 8	ACXT	KWA6	9	9.K.C 9.W.C 9.A.V 9.6.T	1.6 1.2 3.0 1.0	kʰu/wai*5/⁵	0	161	161	kʰ u/w ai *5/⁵
+932	94_cold	cold	Heitu	Heitu Hlai	khai2	khai2	kʰ ai *2/²	hlai1239	1287	19.51	108.94		1 7 8	AXT	KA6	5	5.K.C 5.A.V 5.6.T	1.6 3.0 1.0	kʰai*2/²	0	161	161	kʰ - ai *2/²
+933	94_cold	cold	Baoding	Baoding Hlai	kha:i2	kha:i2	kʰ aːi *2/²	hlai1239	1287	18.77	110.45		1 7 8	AXT	KA6	3	3.K.C 3.A.V 3.6.T	1.6 3.0 1.0	kʰaːi*2/²	0	161	161	kʰ - aːi *2/²
+934	94_cold	cold	Zhongsha	Zhongsha Hlai	kha:i2	kha:i2	kʰ aːi *2/²	hlai1239	1287	15.83	114.33		1 7 8	AXT	KA6	10	10.K.C 10.A.V 10.6.T	1.6 3.0 1.0	kʰaːi*2/²	0	161	161	kʰ - aːi *2/²
+935	94_cold	cold	Tongzha	Tongzha Hlai	kha:i5	kha:i5	kʰ aːi *5/⁵	hlai1239	1287	18.88	109.67		1 7 8	AXT	KA6	7	7.K.C 7.A.V 7.6.T	1.6 3.0 1.0	kʰaːi*5/⁵	0	161	161	kʰ - aːi *5/⁵
+936	94_cold	cold	Qiandui	Quiandui Hlai	kha:i5	kha:i5	kʰ aːi *5/⁵	hlai1239	1287	18.91	110.04		1 7 8	AXT	KA6	6	6.K.C 6.A.V 6.6.T	1.6 3.0 1.0	kʰaːi*5/⁵	0	161	161	kʰ - aːi *5/⁵
+937	94_cold	cold	Baocheng	Baocheng Hlai	kha:i5	kha:i5	kʰ aːi *5/⁵	hlai1239	1287	18.64	109.70		1 7 8	AXT	KA6	2	2.K.C 2.A.V 2.6.T	1.6 3.0 1.0	kʰaːi*5/⁵	0	161	161	kʰ - aːi *5/⁵
+938	94_cold	cold	Gelong	Gelong	duŋ2 lhan4	duŋ2_lhan4	d u ŋ *2/² + lh/l̥ a n *4/⁴		1287	19.10	108.65		1 7 4 8 9 5 7 4 8	AXLT_AXLT	TYN6_LAN6	4	4.T.C 4.Y.V 4.N.c 4.6.T 4._._ 4.L.C 4.A.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0 0.0 1.6 3.0 1.1 1.0	duŋ*2/²+lh/l̥an*4/⁴	0	162 163	162 163	d u ŋ *2/² + lh/l̥ a n *4/⁴
+646	66_come	come	Xifang	Xifang Hlai	pɯŋ1	pɯŋ1	p ɯ ŋ *1/¹	hlai1239	1446	19.30	109.24		1 7 4 8	AXLT	PIN6	8	8.P.C 8.I.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	pɯŋ*1/¹	0	173	174	p ɯ ŋ *1/¹
+647	66_come	come	Baisha	Baisha Hlai	phə1 // nen3	phə1	pʰ ə *1/¹	hlai1239	1446	18.65	108.72		1 7 8	AXT	PE6	1	1.P.C 1.E.V 1.6.T	1.6 3.0 1.0	pʰə*1/¹	0	173	173	pʰ ə - *1/¹
+648	66_come	come	Baisha	Baisha Hlai	phə1 // nen3	nen3	n e n *3/³	hlai1239	1446	18.65	108.72		4 7 4 8	AXLT	NEN6	1	1.N.C 1.E.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	nen*3/³	1	175	175	n e n *3/³
+649	66_come	come	Yuanmen	Yuanmen Hlai	pheɯɁ7 // kɯ3 ni5	pheɯɁ7	pʰ eɯ ʔ *7/⁵²	hlai1239	1446	19.11	109.54		1 7 1 8	AXLT	PEH3	9	9.P.C 9.E.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	pʰeɯʔ*7/⁵²	0	173	173	pʰ eɯ ʔ *7/⁵²
+650	66_come	come	Yuanmen	Yuanmen Hlai	pheɯɁ7 // kɯ3 ni5	kɯ3_ni5	k ɯ *3/³ + n i *5/⁵	hlai1239	1446	19.11	109.54		1 7 8 9 4 7 8	AXT_AXT	KI6_NI6	9	9.K.C 9.I.V 9.6.T 9._._ 9.N.C 9.I.V 9.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	kɯ*3/³+ni*5/⁵	0	176 175	176 175	k ɯ *3/³ + n i - *5/⁵
+651	66_come	come	Heitu	Heitu Hlai	mɯ:n1	mɯ:n1	m ɯː n *1/¹	hlai1239	1446	19.51	108.94		4 7 4 8	AXLT	MIN6	5	5.M.C 5.I.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	mɯːn*1/¹	0	174	174	m ɯː n *1/¹
+652	66_come	come	Baoding	Baoding Hlai	pɯ:n1	pɯ:n1	p ɯː n *1/¹	hlai1239	1446	18.77	110.45		1 7 4 8	AXLT	PIN6	3	3.P.C 3.I.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	pɯːn*1/¹	0	173	174	p ɯː n *1/¹
+653	66_come	come	Zhongsha	Zhongsha Hlai	pɯ:n1	pɯ:n1	p ɯː n *1/¹	hlai1239	1446	15.83	114.33		1 7 4 8	AXLT	PIN6	10	10.P.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	pɯːn*1/¹	0	173	174	p ɯː n *1/¹
+654	66_come	come	Tongzha	Tongzha Hlai	pɯ:n4	pɯ:n4	p ɯː n *4/⁴	hlai1239	1446	18.88	109.67		1 7 4 8	AXLT	PIN6	7	7.P.C 7.I.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	pɯːn*4/⁴	0	173	174	p ɯː n *4/⁴
+655	66_come	come	Qiandui	Quiandui Hlai	phɯ:n4	phɯ:n4	pʰ ɯː n *4/⁴	hlai1239	1446	18.91	110.04		1 7 4 8	AXLT	PIN6	6	6.P.C 6.I.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	pʰɯːn*4/⁴	0	173	174	pʰ ɯː n *4/⁴
+656	66_come	come	Baocheng	Baocheng Hlai	pɯ:n4	pɯ:n4	p ɯː n *4/⁴	hlai1239	1446	18.64	109.70		1 7 4 8	AXLT	PIN6	2	2.P.C 2.I.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	pɯːn*4/⁴	0	173	174	p ɯː n *4/⁴
+657	66_come	come	Gelong	Gelong	bɘn4	bɘn4	b ɘ/ə n *4/⁴		1446	19.10	108.65		1 7 4 8	AXLT	PEN6	4	4.P.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	bɘ/ən*4/⁴	0	173	174	b ɘ/ə n *4/⁴
+596	61_die	die	Xifang	Xifang Hlai	hɔk7	hɔk7	h ɔ k *7/⁵²	hlai1239	1494	19.30	109.24		3 7 1 8	AXLT	HUK3	8	8.H.C 8.U.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	hɔk*7/⁵²	0	190	190	h ɔ k *7/⁵²
+597	61_die	die	Baisha	Baisha Hlai	ɬa:u2	ɬa:u2	ɬ aːu *2/²	hlai1239	1494	18.65	108.72		5 7 8	AXT	LA6	1	1.L.C 1.A.V 1.6.T	1.6 3.0 1.0	ɬaːu*2/²	0	187	187	ɬ aːu *2/²
+598	61_die	die	Yuanmen	Yuanmen Hlai	zui6	zui6	z ui *6/⁵¹	hlai1239	1494	19.11	109.54		3 7 8	AXT	SY3	9	9.S.C 9.Y.V 9.3.T	1.6 3.0 1.0	zui*6/⁵¹	0	191	191	z ui *6/⁵¹
+599	61_die	die	Heitu	Heitu Hlai	da:u2	da:u2	d aːu *2/²	hlai1239	1494	19.51	108.94		1 7 8	AXT	TA6	5	5.T.C 5.A.V 5.6.T	1.6 3.0 1.0	daːu*2/²	0	189	187	d aːu *2/²
+600	61_die	die	Baoding	Baoding Hlai	ɬa:u2	ɬa:u2	ɬ aːu *2/²	hlai1239	1494	18.77	110.45		5 7 8	AXT	LA6	3	3.L.C 3.A.V 3.6.T	1.6 3.0 1.0	ɬaːu*2/²	0	187	187	ɬ aːu *2/²
+601	61_die	die	Zhongsha	Zhongsha Hlai	ɬa:u2	ɬa:u2	ɬ aːu *2/²	hlai1239	1494	15.83	114.33		5 7 8	AXT	LA6	10	10.L.C 10.A.V 10.6.T	1.6 3.0 1.0	ɬaːu*2/²	0	187	187	ɬ aːu *2/²
+602	61_die	die	Tongzha	Tongzha Hlai	ɬu:i4	ɬu:i4	ɬ uːi *4/⁴	hlai1239	1494	18.88	109.67		5 7 8	AXT	LY6	7	7.L.C 7.Y.V 7.6.T	1.6 3.0 1.0	ɬuːi*4/⁴	0	187	188	ɬ uːi *4/⁴
+603	61_die	die	Qiandui	Quiandui Hlai	ɬu:i4	ɬu:i4	ɬ uːi *4/⁴	hlai1239	1494	18.91	110.04		5 7 8	AXT	LY6	6	6.L.C 6.Y.V 6.6.T	1.6 3.0 1.0	ɬuːi*4/⁴	0	187	188	ɬ uːi *4/⁴
+604	61_die	die	Baocheng	Baocheng Hlai	ɬu:i4	ɬu:i4	ɬ uːi *4/⁴	hlai1239	1494	18.64	109.70		5 7 8	AXT	LY6	2	2.L.C 2.Y.V 2.6.T	1.6 3.0 1.0	ɬuːi*4/⁴	0	187	188	ɬ uːi *4/⁴
+605	61_die	die	Gelong	Gelong	tshɔt2	tshɔt2	tsʰ ɔ t *2/²		1494	19.10	108.65		2 7 1 8	AXLT	CUT6	4	4.C.C 4.U.V 4.T.c 4.6.T	1.6 3.0 1.1 1.0	tsʰɔt*2/²	0	188	189	tsʰ ɔ t *2/²
+204	21_dog	dog	Xifang	Xifang Hlai	pa1	pa1	p a *1/¹	hlai1239	2009	19.30	109.24		1 7 8	AXT	PA6	8	8.P.C 8.A.V 8.6.T	1.6 3.0 1.0	pa*1/¹	0	198	198	p a *1/¹
+205	21_dog	dog	Baisha	Baisha Hlai	pa1	pa1	p a *1/¹	hlai1239	2009	18.65	108.72		1 7 8	AXT	PA6	1	1.P.C 1.A.V 1.6.T	1.6 3.0 1.0	pa*1/¹	0	198	198	p a *1/¹
+206	21_dog	dog	Yuanmen	Yuanmen Hlai	pa4	pa4	p a *4/⁴	hlai1239	2009	19.11	109.54		1 7 8	AXT	PA6	9	9.P.C 9.A.V 9.6.T	1.6 3.0 1.0	pa*4/⁴	0	198	198	p a *4/⁴
+207	21_dog	dog	Heitu	Heitu Hlai	ma1	ma1	m a *1/¹	hlai1239	2009	19.51	108.94		4 7 8	AXT	MA6	5	5.M.C 5.A.V 5.6.T	1.6 3.0 1.0	ma*1/¹	0	200	198	m a *1/¹
+208	21_dog	dog	Baoding	Baoding Hlai	pa1	pa1	p a *1/¹	hlai1239	2009	18.77	110.45		1 7 8	AXT	PA6	3	3.P.C 3.A.V 3.6.T	1.6 3.0 1.0	pa*1/¹	0	198	198	p a *1/¹
+209	21_dog	dog	Zhongsha	Zhongsha Hlai	pa1	pa1	p a *1/¹	hlai1239	2009	15.83	114.33		1 7 8	AXT	PA6	10	10.P.C 10.A.V 10.6.T	1.6 3.0 1.0	pa*1/¹	0	198	198	p a *1/¹
+210	21_dog	dog	Tongzha	Tongzha Hlai	pa4	pa4	p a *4/⁴	hlai1239	2009	18.88	109.67		1 7 8	AXT	PA6	7	7.P.C 7.A.V 7.6.T	1.6 3.0 1.0	pa*4/⁴	0	198	198	p a *4/⁴
+211	21_dog	dog	Qiandui	Quiandui Hlai	pha4	pha4	pʰ a *4/⁴	hlai1239	2009	18.91	110.04		1 7 8	AXT	PA6	6	6.P.C 6.A.V 6.6.T	1.6 3.0 1.0	pʰa*4/⁴	0	198	198	pʰ a *4/⁴
+212	21_dog	dog	Baocheng	Baocheng Hlai	pa4	pa4	p a *4/⁴	hlai1239	2009	18.64	109.70		1 7 8	AXT	PA6	2	2.P.C 2.A.V 2.6.T	1.6 3.0 1.0	pa*4/⁴	0	198	198	p a *4/⁴
+213	21_dog	dog	Gelong	Gelong	khak5	khak5	kʰ a k *5/⁵		2009	19.10	108.65		1 7 1 8	AXLT	KAK6	4	4.K.C 4.A.V 4.K.c 4.6.T	1.6 3.0 1.1 1.0	kʰak*5/⁵	0	199	199	kʰ a k *5/⁵
+529	54_drink	drink	Xifang	Xifang Hlai	ȵa:u1	ȵa:u1	ȵ aːu *1/¹	hlai1239	1401	19.30	109.24		4 7 8	AXT	NA6	8	8.N.C 8.A.V 8.6.T	1.6 3.0 1.0	ȵaːu*1/¹	0	213	213	ȵ aːu *1/¹
+530	54_drink	drink	Baisha	Baisha Hlai	Ɂɔk8	Ɂɔk8	ʔ ɔ k *8/⁵³	hlai1239	1401	18.65	108.72		1 7 1 8	AXLT	HUK3	1	1.H.C 1.U.V 1.K.c 1.3.T	1.6 3.0 1.1 1.0	ʔɔk*8/⁵³	0	209	209	ʔ ɔ k *8/⁵³
+531	54_drink	drink	Yuanmen	Yuanmen Hlai	ɁɔɁ7	ɁɔɁ7	ʔ ɔ ʔ *7/⁵²	hlai1239	1401	19.11	109.54		1 7 1 8	AXLT	HUH3	9	9.H.C 9.U.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	ʔɔʔ*7/⁵²	0	209	209	ʔ ɔ ʔ *7/⁵²
+532	54_drink	drink	Heitu	Heitu Hlai	lou2	lou2	l ou *2/²	hlai1239	1401	19.51	108.94		5 7 8	AXT	LU6	5	5.L.C 5.U.V 5.6.T	1.6 3.0 1.0	lou*2/²	0	211	211	l ou *2/²
+533	54_drink	drink	Baoding	Baoding Hlai	Ɂo:k9	Ɂo:k9	ʔ oː k *9/⁵⁴	hlai1239	1401	18.77	110.45		1 7 1 8	AXLT	HUK3	3	3.H.C 3.U.V 3.K.c 3.3.T	1.6 3.0 1.1 1.0	ʔoːk*9/⁵⁴	0	209	209	ʔ oː k *9/⁵⁴
+534	54_drink	drink	Zhongsha	Zhongsha Hlai	Ɂok7	Ɂok7	ʔ o k *7/⁵²	hlai1239	1401	15.83	114.33		1 7 1 8	AXLT	HUK3	10	10.H.C 10.U.V 10.K.c 10.3.T	1.6 3.0 1.1 1.0	ʔok*7/⁵²	0	209	209	ʔ o k *7/⁵²
+535	54_drink	drink	Tongzha	Tongzha Hlai	Ɂo:Ɂ 9	Ɂo:Ɂ_9	ʔ oː ʔ + *9/⁵⁴	hlai1239	1401	18.88	109.67		1 7 1 9 8	AXN_T	HUH_3	7	7.H.C 7.U.V 7.H.c 7._._ 7.3.T	1.6 3.0 0.5 0.0 1.0	ʔoːʔ+*9/⁵⁴	0	209 212	209 212	ʔ oː ʔ - + *9/⁵⁴
+536	54_drink	drink	Qiandui	Quiandui Hlai	ɁoɁ7	ɁoɁ7	ʔ o ʔ *7/⁵²	hlai1239	1401	18.91	110.04		1 7 1 8	AXLT	HUH3	6	6.H.C 6.U.V 6.H.c 6.3.T	1.6 3.0 1.1 1.0	ʔoʔ*7/⁵²	0	209	209	ʔ o ʔ *7/⁵²
+537	54_drink	drink	Baocheng	Baocheng Hlai	Ɂɔ:Ɂ7	Ɂɔ:Ɂ7	ʔ ɔː ʔ *7/⁵²	hlai1239	1401	18.64	109.70		1 7 1 8	AXLT	HUH3	2	2.H.C 2.U.V 2.H.c 2.3.T	1.6 3.0 1.1 1.0	ʔɔːʔ*7/⁵²	0	209	209	ʔ ɔː ʔ *7/⁵²
+538	54_drink	drink	Gelong	Gelong	tshep2	tshep2	tsʰ e p *2/²		1401	19.10	108.65		2 7 1 8	AXLT	CEP6	4	4.C.C 4.E.V 4.P.c 4.6.T	1.6 3.0 1.1 1.0	tsʰep*2/²	0	210	210	tsʰ e p *2/²
+979	99_dry	dry	Xifang	Xifang Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	19.30	109.24		1 7 8	AXT	TA6	8	8.T.C 8.A.V 8.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+980	99_dry	dry	Baisha	Baisha Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	18.65	108.72		1 7 8	AXT	TA6	1	1.T.C 1.A.V 1.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+981	99_dry	dry	Yuanmen	Yuanmen Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	19.11	109.54		1 7 8	AXT	TA6	9	9.T.C 9.A.V 9.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+982	99_dry	dry	Heitu	Heitu Hlai	kheɯ2	kheɯ2	kʰ eɯ *2/²	hlai1239	1398	19.51	108.94		1 7 8	AXT	KE6	5	5.K.C 5.E.V 5.6.T	1.6 3.0 1.0	kʰeɯ*2/²	0	222	222	kʰ eɯ *2/²
+983	99_dry	dry	Baoding	Baoding Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	18.77	110.45		1 7 8	AXT	TA6	3	3.T.C 3.A.V 3.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+984	99_dry	dry	Zhongsha	Zhongsha Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	15.83	114.33		1 7 8	AXT	TA6	10	10.T.C 10.A.V 10.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+985	99_dry	dry	Tongzha	Tongzha Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	18.88	109.67		1 7 8	AXT	TA6	7	7.T.C 7.A.V 7.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+986	99_dry	dry	Qiandui	Quiandui Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	18.91	110.04		1 7 8	AXT	TA6	6	6.T.C 6.A.V 6.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+987	99_dry	dry	Baocheng	Baocheng Hlai	da:u1	da:u1	d aːu *1/¹	hlai1239	1398	18.64	109.70		1 7 8	AXT	TA6	2	2.T.C 2.A.V 2.6.T	1.6 3.0 1.0	daːu*1/¹	0	221	221	d aːu *1/¹
+988	99_dry	dry	Gelong	Gelong	khɔ5	khɔ5	kʰ ɔ *5/⁵		1398	19.10	108.65		1 7 8	AXT	KU6	4	4.K.C 4.U.V 4.6.T	1.6 3.0 1.0	kʰɔ*5/⁵	0	222	222	kʰ ɔ *5/⁵
+377	39_ear	ear	Xifang	Xifang Hlai	zai1	zai1	z ai *1/¹	hlai1239	1247	19.30	109.24		3 7 8	AXT	SA6	8	8.S.C 8.A.V 8.6.T	1.6 3.0 1.0	zai*1/¹	0	232	232	z ai *1/¹
+378	39_ear	ear	Baisha	Baisha Hlai	zai1	zai1	z ai *1/¹	hlai1239	1247	18.65	108.72		3 7 8	AXT	SA6	1	1.S.C 1.A.V 1.6.T	1.6 3.0 1.0	zai*1/¹	0	232	232	z ai *1/¹
+379	39_ear	ear	Yuanmen	Yuanmen Hlai	tsai4	tsai4	ts ai *4/⁴	hlai1239	1247	19.11	109.54		2 7 8	AXT	CA6	9	9.C.C 9.A.V 9.6.T	1.6 3.0 1.0	tsai*4/⁴	0	232	232	ts ai *4/⁴
+380	39_ear	ear	Heitu	Heitu Hlai	zai1	zai1	z ai *1/¹	hlai1239	1247	19.51	108.94		3 7 8	AXT	SA6	5	5.S.C 5.A.V 5.6.T	1.6 3.0 1.0	zai*1/¹	0	232	232	z ai *1/¹
+381	39_ear	ear	Baoding	Baoding Hlai	zai1	zai1	z ai *1/¹	hlai1239	1247	18.77	110.45		3 7 8	AXT	SA6	3	3.S.C 3.A.V 3.6.T	1.6 3.0 1.0	zai*1/¹	0	232	232	z ai *1/¹
+382	39_ear	ear	Zhongsha	Zhongsha Hlai	zai1	zai1	z ai *1/¹	hlai1239	1247	15.83	114.33		3 7 8	AXT	SA6	10	10.S.C 10.A.V 10.6.T	1.6 3.0 1.0	zai*1/¹	0	232	232	z ai *1/¹
+383	39_ear	ear	Tongzha	Tongzha Hlai	ɬai4	ɬai4	ɬ ai *4/⁴	hlai1239	1247	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	ɬai*4/⁴	0	233	232	ɬ ai *4/⁴
+384	39_ear	ear	Qiandui	Quiandui Hlai	ɬai4	ɬai4	ɬ ai *4/⁴	hlai1239	1247	18.91	110.04		5 7 8	AXT	LA6	6	6.L.C 6.A.V 6.6.T	1.6 3.0 1.0	ɬai*4/⁴	0	233	232	ɬ ai *4/⁴
+385	39_ear	ear	Baocheng	Baocheng Hlai	ɬai4	ɬai4	ɬ ai *4/⁴	hlai1239	1247	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	ɬai*4/⁴	0	233	232	ɬ ai *4/⁴
+386	39_ear	ear	Gelong	Gelong	lai4	lai4	l ai *4/⁴		1247	19.10	108.65		5 7 8	AXT	LA6	4	4.L.C 4.A.V 4.6.T	1.6 3.0 1.0	lai*4/⁴	0	233	232	l ai *4/⁴
+775	79_earth	earth	Xifang	Xifang Hlai	ɣaŋ1	ɣaŋ1	ɣ a ŋ *1/¹	hlai1239	1228	19.30	109.24		3 7 4 8	AXLT	GAN6	8	8.G.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ɣaŋ*1/¹	0	243	243	ɣ a - ŋ *1/¹
+776	79_earth	earth	Baisha	Baisha Hlai	fanŋ1	fanŋ1	f a n ŋ *1/¹	hlai1239	1228	18.65	108.72		3 7 4 4 8	AXLLT	BANN6	1	1.B.C 1.A.V 1.N.c 1.N.c 1.6.T	1.6 3.0 1.1 1.1 1.0	fanŋ*1/¹	0	243	243	f a n ŋ *1/¹
+777	79_earth	earth	Yuanmen	Yuanmen Hlai	fan4	fan4	f a n *4/⁴	hlai1239	1228	19.11	109.54		3 7 4 8	AXLT	BAN6	9	9.B.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	fan*4/⁴	0	243	243	f a - n *4/⁴
+778	79_earth	earth	Heitu	Heitu Hlai	ren1	ren1	r e n *1/¹	hlai1239	1228	19.51	108.94		5 7 4 8	AXLT	REN6	5	5.R.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	ren*1/¹	0	243	245	r e - n *1/¹
+779	79_earth	earth	Baoding	Baoding Hlai	van1	van1	v a n *1/¹	hlai1239	1228	18.77	110.45		3 7 4 8	AXLT	BAN6	3	3.B.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	van*1/¹	0	243	243	v a - n *1/¹
+780	79_earth	earth	Zhongsha	Zhongsha Hlai	ran1	ran1	r a n *1/¹	hlai1239	1228	15.83	114.33		5 7 4 8	AXLT	RAN6	10	10.R.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	ran*1/¹	0	243	245	r a - n *1/¹
+781	79_earth	earth	Tongzha	Tongzha Hlai	fan4	fan4	f a n *4/⁴	hlai1239	1228	18.88	109.67		3 7 4 8	AXLT	BAN6	7	7.B.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	fan*4/⁴	0	243	243	f a - n *4/⁴
+782	79_earth	earth	Qiandui	Quiandui Hlai	fan4	fan4	f a n *4/⁴	hlai1239	1228	18.91	110.04		3 7 4 8	AXLT	BAN6	6	6.B.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	fan*4/⁴	0	243	243	f a - n *4/⁴
+783	79_earth	earth	Baocheng	Baocheng Hlai	fan4	fan4	f a n *4/⁴	hlai1239	1228	18.64	109.70		3 7 4 8	AXLT	BAN6	2	2.B.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	fan*4/⁴	0	243	243	f a - n *4/⁴
+784	79_earth	earth	Gelong	Gelong	it2	it2	i t *2/²		1228	19.10	108.65		7 1 8	XLT	IT6	4	4.I.V 4.T.c 4.6.T	3.0 1.1 1.0	it*2/²	0	244	244	i t *2/²
+539	55_eat	eat	Xifang	Xifang Hlai	lau2	lau2	l au *2/²	hlai1239	1336	19.30	109.24		5 7 8	AXT	LA6	8	8.L.C 8.A.V 8.6.T	1.6 3.0 1.0	lau*2/²	0	254	256	l au - *2/²
+540	55_eat	eat	Baisha	Baisha Hlai	lɔɁ8	lɔɁ8	l ɔ ʔ *8/⁵³	hlai1239	1336	18.65	108.72		5 7 1 8	AXLT	LUH3	1	1.L.C 1.U.V 1.H.c 1.3.T	1.6 3.0 1.1 1.0	lɔʔ*8/⁵³	0	254	254	l ɔ ʔ *8/⁵³
+541	55_eat	eat	Yuanmen	Yuanmen Hlai	lɔɁ8	lɔɁ8	l ɔ ʔ *8/⁵³	hlai1239	1336	19.11	109.54		5 7 1 8	AXLT	LUH3	9	9.L.C 9.U.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	lɔʔ*8/⁵³	0	254	254	l ɔ ʔ *8/⁵³
+542	55_eat	eat	Heitu	Heitu Hlai	lou2	lou2	l ou *2/²	hlai1239	1336	19.51	108.94		5 7 8	AXT	LU6	5	5.L.C 5.U.V 5.6.T	1.6 3.0 1.0	lou*2/²	1	254	256	l ou - *2/²
+543	55_eat	eat	Baoding	Baoding Hlai	la2	la2	l a *2/²	hlai1239	1336	18.77	110.45		5 7 8	AXT	LA6	3	3.L.C 3.A.V 3.6.T	1.6 3.0 1.0	la*2/²	0	254	256	l a - *2/²
+544	55_eat	eat	Zhongsha	Zhongsha Hlai	lau2	lau2	l au *2/²	hlai1239	1336	15.83	114.33		5 7 8	AXT	LA6	10	10.L.C 10.A.V 10.6.T	1.6 3.0 1.0	lau*2/²	0	254	256	l au - *2/²
+545	55_eat	eat	Tongzha	Tongzha Hlai	lau5	lau5	l au *5/⁵	hlai1239	1336	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	lau*5/⁵	0	254	256	l au - *5/⁵
+546	55_eat	eat	Qiandui	Quiandui Hlai	khan1	khan1	kʰ a n *1/¹	hlai1239	1336	18.91	110.04		1 7 4 8	AXLT	KAN6	6	6.K.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	kʰan*1/¹	0	255	255	kʰ a n *1/¹
+547	55_eat	eat	Baocheng	Baocheng Hlai	khan1	khan1	kʰ a n *1/¹	hlai1239	1336	18.64	109.70		1 7 4 8	AXLT	KAN6	2	2.K.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	kʰan*1/¹	0	255	255	kʰ a n *1/¹
+548	55_eat	eat	Gelong	Gelong	la5	la5	l a *5/⁵		1336	19.10	108.65		5 7 8	AXT	LA6	4	4.L.C 4.A.V 4.6.T	1.6 3.0 1.0	la*5/⁵	0	254	256	l a - *5/⁵
+315	33_egg	egg	Xifang	Xifang Hlai	zum1	zum1	z u m *1/¹	hlai1239	744	19.30	109.24		3 7 4 8	AXLT	SYM6	8	8.S.C 8.Y.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	zum*1/¹	0	265	265	z u m *1/¹
+316	33_egg	egg	Baisha	Baisha Hlai	zum1	zum1	z u m *1/¹	hlai1239	744	18.65	108.72		3 7 4 8	AXLT	SYM6	1	1.S.C 1.Y.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	zum*1/¹	0	265	265	z u m *1/¹
+317	33_egg	egg	Yuanmen	Yuanmen Hlai	zum1	zum1	z u m *1/¹	hlai1239	744	19.11	109.54		3 7 4 8	AXLT	SYM6	9	9.S.C 9.Y.V 9.M.c 9.6.T	1.6 3.0 1.1 1.0	zum*1/¹	0	265	265	z u m *1/¹
+318	33_egg	egg	Heitu	Heitu Hlai	zɯ:m1	zɯ:m1	z ɯː m *1/¹	hlai1239	744	19.51	108.94		3 7 4 8	AXLT	SIM6	5	5.S.C 5.I.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	zɯːm*1/¹	0	265	265	z ɯː m *1/¹
+319	33_egg	egg	Baoding	Baoding Hlai	zɯ:m1	zɯ:m1	z ɯː m *1/¹	hlai1239	744	18.77	110.45		3 7 4 8	AXLT	SIM6	3	3.S.C 3.I.V 3.M.c 3.6.T	1.6 3.0 1.1 1.0	zɯːm*1/¹	0	265	265	z ɯː m *1/¹
+320	33_egg	egg	Zhongsha	Zhongsha Hlai	zɯ:m1	zɯ:m1	z ɯː m *1/¹	hlai1239	744	15.83	114.33		3 7 4 8	AXLT	SIM6	10	10.S.C 10.I.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	zɯːm*1/¹	0	265	265	z ɯː m *1/¹
+321	33_egg	egg	Tongzha	Tongzha Hlai	zɯ:m1	zɯ:m1	z ɯː m *1/¹	hlai1239	744	18.88	109.67		3 7 4 8	AXLT	SIM6	7	7.S.C 7.I.V 7.M.c 7.6.T	1.6 3.0 1.1 1.0	zɯːm*1/¹	0	265	265	z ɯː m *1/¹
+322	33_egg	egg	Qiandui	Quiandui Hlai	zu:m1	zu:m1	z uː m *1/¹	hlai1239	744	18.91	110.04		3 7 4 8	AXLT	SYM6	6	6.S.C 6.Y.V 6.M.c 6.6.T	1.6 3.0 1.1 1.0	zuːm*1/¹	0	265	265	z uː m *1/¹
+323	33_egg	egg	Baocheng	Baocheng Hlai	zɯ:m1	zɯ:m1	z ɯː m *1/¹	hlai1239	744	18.64	109.70		3 7 4 8	AXLT	SIM6	2	2.S.C 2.I.V 2.M.c 2.6.T	1.6 3.0 1.1 1.0	zɯːm*1/¹	0	265	265	z ɯː m *1/¹
+324	33_egg	egg	Gelong	Gelong	fon1	fon1	f o n *1/¹		744	19.10	108.65		3 7 4 8	AXLT	BUN6	4	4.B.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	fon*1/¹	1	266	266	f o n *1/¹
+387	40_eye	eye	Xifang	Xifang Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	19.30	109.24		2 7 8	AXT	CA6	8	8.C.C 8.A.V 8.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+388	40_eye	eye	Baisha	Baisha Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	18.65	108.72		2 7 8	AXT	CA6	1	1.C.C 1.A.V 1.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+389	40_eye	eye	Yuanmen	Yuanmen Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	19.11	109.54		2 7 8	AXT	CA6	9	9.C.C 9.A.V 9.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+390	40_eye	eye	Heitu	Heitu Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	19.51	108.94		2 7 8	AXT	CA6	5	5.C.C 5.A.V 5.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+391	40_eye	eye	Baoding	Baoding Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	18.77	110.45		2 7 8	AXT	CA6	3	3.C.C 3.A.V 3.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+392	40_eye	eye	Zhongsha	Zhongsha Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	15.83	114.33		2 7 8	AXT	CA6	10	10.C.C 10.A.V 10.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+393	40_eye	eye	Tongzha	Tongzha Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	18.88	109.67		2 7 8	AXT	CA6	7	7.C.C 7.A.V 7.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+394	40_eye	eye	Qiandui	Quiandui Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	18.91	110.04		2 7 8	AXT	CA6	6	6.C.C 6.A.V 6.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+395	40_eye	eye	Baocheng	Baocheng Hlai	tsha1	tsha1	tsʰ a *1/¹	hlai1239	1248	18.64	109.70		2 7 8	AXT	CA6	2	2.C.C 2.A.V 2.6.T	1.6 3.0 1.0	tsʰa*1/¹	0	276	276	tsʰ a - *1/¹
+396	40_eye	eye	Gelong	Gelong	khan5 // hɔ1	khan5	kʰ a n *5/⁵		1248	19.10	108.65		1 7 4 8	AXLT	KAN6	4	4.K.C 4.A.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	kʰan*5/⁵	0	276	277	kʰ a n *5/⁵
+397	40_eye	eye	Gelong	Gelong	khan5 // hɔ1	hɔ1	h ɔ *1/¹		1248	19.10	108.65		3 7 8	AXT	HU6	4	4.H.C 4.U.V 4.6.T	1.6 3.0 1.0	hɔ*1/¹	0	277	278	h ɔ *1/¹
+345	36_feather	feather	Xifang	Xifang Hlai	ŋoŋ1	ŋoŋ1	ŋ o ŋ *1/¹	hlai1239	1201	19.30	109.24		4 7 4 8	AXLT	NUN6	8	8.N.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ŋoŋ*1/¹	0	288	288	ŋ o ŋ *1/¹
+346	36_feather	feather	Baisha	Baisha Hlai	ŋoŋ1	ŋoŋ1	ŋ o ŋ *1/¹	hlai1239	1201	18.65	108.72		4 7 4 8	AXLT	NUN6	1	1.N.C 1.U.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ŋoŋ*1/¹	0	288	288	ŋ o ŋ *1/¹
+347	36_feather	feather	Yuanmen	Yuanmen Hlai	ɱən4	ɱən4	ɱ ə n *4/⁴	hlai1239	1201	19.11	109.54		4 7 4 8	AXLT	MEN6	9	9.M.C 9.E.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	ɱən*4/⁴	0	288	288	ɱ ə n *4/⁴
+348	36_feather	feather	Heitu	Heitu Hlai	hun1	hun1	h u n *1/¹	hlai1239	1201	19.51	108.94		3 7 4 8	AXLT	HYN6	5	5.H.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	hun*1/¹	0	288	288	h u n *1/¹
+349	36_feather	feather	Baoding	Baoding Hlai	hun1	hun1	h u n *1/¹	hlai1239	1201	18.77	110.45		3 7 4 8	AXLT	HYN6	3	3.H.C 3.Y.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	hun*1/¹	0	288	288	h u n *1/¹
+350	36_feather	feather	Zhongsha	Zhongsha Hlai	hun1	hun1	h u n *1/¹	hlai1239	1201	15.83	114.33		3 7 4 8	AXLT	HYN6	10	10.H.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	hun*1/¹	0	288	288	h u n *1/¹
+351	36_feather	feather	Tongzha	Tongzha Hlai	hun1	hun1	h u n *1/¹	hlai1239	1201	18.88	109.67		3 7 4 8	AXLT	HYN6	7	7.H.C 7.Y.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	hun*1/¹	0	288	288	h u n *1/¹
+352	36_feather	feather	Qiandui	Quiandui Hlai	hun1	hun1	h u n *1/¹	hlai1239	1201	18.91	110.04		3 7 4 8	AXLT	HYN6	6	6.H.C 6.Y.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	hun*1/¹	0	288	288	h u n *1/¹
+353	36_feather	feather	Baocheng	Baocheng Hlai	hun1	hun1	h u n *1/¹	hlai1239	1201	18.64	109.70		3 7 4 8	AXLT	HYN6	2	2.H.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	hun*1/¹	0	288	288	h u n *1/¹
+354	36_feather	feather	Gelong	Gelong	ŋən1	ŋən1	ŋ ə n *1/¹		1201	19.10	108.65		4 7 4 8	AXLT	NEN6	4	4.N.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	ŋən*1/¹	0	288	288	ŋ ə n *1/¹
+808	82_fire	fire	Xifang	Xifang Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	19.30	109.24		3 7 8	AXT	BE6	8	8.B.C 8.E.V 8.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+809	82_fire	fire	Baisha	Baisha Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	18.65	108.72		3 7 8	AXT	BE6	1	1.B.C 1.E.V 1.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+810	82_fire	fire	Yuanmen	Yuanmen Hlai	fhei1	fhei1	fʰ ei *1/¹	hlai1239	221	19.11	109.54		3 7 8	AXT	BE6	9	9.B.C 9.E.V 9.6.T	1.6 3.0 1.0	fʰei*1/¹	1	299	299	fʰ ei *1/¹
+811	82_fire	fire	Heitu	Heitu Hlai	pei1	pei1	p ei *1/¹	hlai1239	221	19.51	108.94		1 7 8	AXT	PE6	5	5.P.C 5.E.V 5.6.T	1.6 3.0 1.0	pei*1/¹	1	299	299	p ei *1/¹
+812	82_fire	fire	Baoding	Baoding Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	18.77	110.45		3 7 8	AXT	BE6	3	3.B.C 3.E.V 3.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+813	82_fire	fire	Zhongsha	Zhongsha Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	15.83	114.33		3 7 8	AXT	BE6	10	10.B.C 10.E.V 10.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+814	82_fire	fire	Tongzha	Tongzha Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	18.88	109.67		3 7 8	AXT	BE6	7	7.B.C 7.E.V 7.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+815	82_fire	fire	Qiandui	Quiandui Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	18.91	110.04		3 7 8	AXT	BE6	6	6.B.C 6.E.V 6.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+816	82_fire	fire	Baocheng	Baocheng Hlai	fei1	fei1	f ei *1/¹	hlai1239	221	18.64	109.70		3 7 8	AXT	BE6	2	2.B.C 2.E.V 2.6.T	1.6 3.0 1.0	fei*1/¹	1	299	299	f ei *1/¹
+817	82_fire	fire	Gelong	Gelong	fo1	fo1	f o *1/¹		221	19.10	108.65		3 7 8	AXT	BU6	4	4.B.C 4.U.V 4.6.T	1.6 3.0 1.0	fo*1/¹	0	299	299	f o *1/¹
+184	19_fish	fish	Xifang	Xifang Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	19.30	109.24		5 7 8	AXT	LA6	8	8.L.C 8.A.V 8.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+185	19_fish	fish	Baisha	Baisha Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	18.65	108.72		5 7 8	AXT	LA6	1	1.L.C 1.A.V 1.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+186	19_fish	fish	Yuanmen	Yuanmen Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	19.11	109.54		5 7 8	AXT	LA6	9	9.L.C 9.A.V 9.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+187	19_fish	fish	Heitu	Heitu Hlai	da1	da1	d a *1/¹	hlai1239	227	19.51	108.94		1 7 8	AXT	TA6	5	5.T.C 5.A.V 5.6.T	1.6 3.0 1.0	da*1/¹	0	312	310	d a *1/¹
+188	19_fish	fish	Baoding	Baoding Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	18.77	110.45		5 7 8	AXT	LA6	3	3.L.C 3.A.V 3.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+189	19_fish	fish	Zhongsha	Zhongsha Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	15.83	114.33		5 7 8	AXT	LA6	10	10.L.C 10.A.V 10.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+190	19_fish	fish	Tongzha	Tongzha Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+191	19_fish	fish	Qiandui	Quiandui Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	18.91	110.04		5 7 8	AXT	LA6	6	6.L.C 6.A.V 6.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+192	19_fish	fish	Baocheng	Baocheng Hlai	ɬa1	ɬa1	ɬ a *1/¹	hlai1239	227	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	ɬa*1/¹	0	310	310	ɬ a *1/¹
+193	19_fish	fish	Gelong	Gelong	ŋɔi1	ŋɔi1	ŋ ɔi *1/¹		227	19.10	108.65		4 7 8	AXT	NU6	4	4.N.C 4.U.V 4.6.T	1.6 3.0 1.0	ŋɔi*1/¹	0	311	311	ŋ ɔi *1/¹
+274	29_flesh	flesh	Xifang	Xifang Hlai	xam3	xam3	x a m *3/³	hlai1239	2615	19.30	109.24		3 7 4 8	AXLT	GAM6	8	8.G.C 8.A.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	xam*3/³	0	321	321	x a m *3/³
+275	29_flesh	flesh	Baisha	Baisha Hlai	xam3	xam3	x a m *3/³	hlai1239	2615	18.65	108.72		3 7 4 8	AXLT	GAM6	1	1.G.C 1.A.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	xam*3/³	0	321	321	x a m *3/³
+276	29_flesh	flesh	Yuanmen	Yuanmen Hlai	kham3	kham3	kʰ a m *3/³	hlai1239	2615	19.11	109.54		1 7 4 8	AXLT	KAM6	9	9.K.C 9.A.V 9.M.c 9.6.T	1.6 3.0 1.1 1.0	kʰam*3/³	0	321	321	kʰ a m *3/³
+277	29_flesh	flesh	Heitu	Heitu Hlai	mam2	mam2	m a m *2/²	hlai1239	2615	19.51	108.94		4 7 4 8	AXLT	MAM6	5	5.M.C 5.A.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	mam*2/²	0	322	321	m a m *2/²
+278	29_flesh	flesh	Baoding	Baoding Hlai	gom3	gom3	g o m *3/³	hlai1239	2615	18.77	110.45		1 7 4 8	AXLT	KUM6	3	3.K.C 3.U.V 3.M.c 3.6.T	1.6 3.0 1.1 1.0	gom*3/³	0	321	321	g o m *3/³
+279	29_flesh	flesh	Zhongsha	Zhongsha Hlai	gam3	gam3	g a m *3/³	hlai1239	2615	15.83	114.33		1 7 4 8	AXLT	KAM6	10	10.K.C 10.A.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	gam*3/³	0	321	321	g a m *3/³
+280	29_flesh	flesh	Tongzha	Tongzha Hlai	gam6	gam6	g a m *6/⁵¹	hlai1239	2615	18.88	109.67		1 7 4 8	AXLT	KAM3	7	7.K.C 7.A.V 7.M.c 7.3.T	1.6 3.0 1.1 1.0	gam*6/⁵¹	0	321	321	g a m *6/⁵¹
+281	29_flesh	flesh	Qiandui	Quiandui Hlai	ham6	ham6	h a m *6/⁵¹	hlai1239	2615	18.91	110.04		3 7 4 8	AXLT	HAM3	6	6.H.C 6.A.V 6.M.c 6.3.T	1.6 3.0 1.1 1.0	ham*6/⁵¹	0	321	321	h a m *6/⁵¹
+282	29_flesh	flesh	Baocheng	Baocheng Hlai	ham6	ham6	h a m *6/⁵¹	hlai1239	2615	18.64	109.70		3 7 4 8	AXLT	HAM3	2	2.H.C 2.A.V 2.M.c 2.3.T	1.6 3.0 1.1 1.0	ham*6/⁵¹	0	321	321	h a m *6/⁵¹
+283	29_flesh	flesh	Gelong	Gelong	muŋ1 // tθɯək2 // khai1	muŋ1	m u ŋ *1/¹		2615	19.10	108.65		4 7 4 8	AXLT	MYN6	4	4.M.C 4.Y.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	muŋ*1/¹	0	322	322	m u ŋ *1/¹
+284	29_flesh	flesh	Gelong	Gelong	muŋ1 // tθɯək2 // khai1	tθɯək2	tθ ɯ ə k *2/²		2615	19.10	108.65		1 7 7 1 8	AXYLT	TIEK6	4	4.T.C 4.I.V 4.E.V 4.K.c 4.6.T	1.6 3.0 3.0 1.1 1.0	tθɯək*2/²	0	323	323	tθ ɯ ə k *2/²
+285	29_flesh	flesh	Gelong	Gelong	muŋ1 // tθɯək2 // khai1	khai1	kʰ ai *1/¹		2615	19.10	108.65		1 7 8	AXT	KA6	4	4.K.C 4.A.V 4.6.T	1.6 3.0 1.0	kʰai*1/¹	0	321	324	kʰ ai - *1/¹
+626	64_fly	fly	Xifang	Xifang Hlai	ben1	ben1	b e n *1/¹	hlai1239	1441	19.30	109.24		1 7 4 8	AXLT	PEN6	8	8.P.C 8.E.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ben*1/¹	0	334	334	b e n *1/¹
+627	64_fly	fly	Baisha	Baisha Hlai	ben1	ben1	b e n *1/¹	hlai1239	1441	18.65	108.72		1 7 4 8	AXLT	PEN6	1	1.P.C 1.E.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ben*1/¹	0	334	334	b e n *1/¹
+628	64_fly	fly	Yuanmen	Yuanmen Hlai	ben1	ben1	b e n *1/¹	hlai1239	1441	19.11	109.54		1 7 4 8	AXLT	PEN6	9	9.P.C 9.E.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	ben*1/¹	0	334	334	b e n *1/¹
+629	64_fly	fly	Heitu	Heitu Hlai	bin1	bin1	b i n *1/¹	hlai1239	1441	19.51	108.94		1 7 4 8	AXLT	PIN6	5	5.P.C 5.I.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	bin*1/¹	0	334	334	b i n *1/¹
+630	64_fly	fly	Baoding	Baoding Hlai	beȵ1	beȵ1	b e ȵ *1/¹	hlai1239	1441	18.77	110.45		1 7 4 8	AXLT	PEN6	3	3.P.C 3.E.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	beȵ*1/¹	0	334	334	b e ȵ *1/¹
+631	64_fly	fly	Zhongsha	Zhongsha Hlai	bin1	bin1	b i n *1/¹	hlai1239	1441	15.83	114.33		1 7 4 8	AXLT	PIN6	10	10.P.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	bin*1/¹	0	334	334	b i n *1/¹
+632	64_fly	fly	Tongzha	Tongzha Hlai	ben1	ben1	b e n *1/¹	hlai1239	1441	18.88	109.67		1 7 4 8	AXLT	PEN6	7	7.P.C 7.E.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ben*1/¹	0	334	334	b e n *1/¹
+633	64_fly	fly	Qiandui	Quiandui Hlai	ben1	ben1	b e n *1/¹	hlai1239	1441	18.91	110.04		1 7 4 8	AXLT	PEN6	6	6.P.C 6.E.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ben*1/¹	0	334	334	b e n *1/¹
+634	64_fly	fly	Baocheng	Baocheng Hlai	bin1	bin1	b i n *1/¹	hlai1239	1441	18.64	109.70		1 7 4 8	AXLT	PIN6	2	2.P.C 2.I.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	bin*1/¹	0	334	334	b i n *1/¹
+635	64_fly	fly	Gelong	Gelong	ben1	ben1	b e n *1/¹		1441	19.10	108.65		1 7 4 8	AXLT	PEN6	4	4.P.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	ben*1/¹	0	334	334	b e n *1/¹
+448	46_foot	foot	Xifang	Xifang Hlai	khɔk7	khɔk7	kʰ ɔ k *7/⁵²	hlai1239	1301	19.30	109.24		1 7 1 8	AXLT	KUK3	8	8.K.C 8.U.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	kʰɔk*7/⁵²	0	345	345	kʰ ɔ k *7/⁵²
+449	46_foot	foot	Baisha	Baisha Hlai	khɔk8	khɔk8	kʰ ɔ k *8/⁵³	hlai1239	1301	18.65	108.72		1 7 1 8	AXLT	KUK3	1	1.K.C 1.U.V 1.K.c 1.3.T	1.6 3.0 1.1 1.0	kʰɔk*8/⁵³	0	345	345	kʰ ɔ k *8/⁵³
+450	46_foot	foot	Yuanmen	Yuanmen Hlai	khɔk7	khɔk7	kʰ ɔ k *7/⁵²	hlai1239	1301	19.11	109.54		1 7 1 8	AXLT	KUK3	9	9.K.C 9.U.V 9.K.c 9.3.T	1.6 3.0 1.1 1.0	kʰɔk*7/⁵²	0	345	345	kʰ ɔ k *7/⁵²
+451	46_foot	foot	Heitu	Heitu Hlai	khok7	khok7	kʰ o k *7/⁵²	hlai1239	1301	19.51	108.94		1 7 1 8	AXLT	KUK3	5	5.K.C 5.U.V 5.K.c 5.3.T	1.6 3.0 1.1 1.0	kʰok*7/⁵²	0	345	345	kʰ o k *7/⁵²
+452	46_foot	foot	Baoding	Baoding Hlai	khok7	khok7	kʰ o k *7/⁵²	hlai1239	1301	18.77	110.45		1 7 1 8	AXLT	KUK3	3	3.K.C 3.U.V 3.K.c 3.3.T	1.6 3.0 1.1 1.0	kʰok*7/⁵²	0	345	345	kʰ o k *7/⁵²
+453	46_foot	foot	Zhongsha	Zhongsha Hlai	khuk7	khuk7	kʰ u k *7/⁵²	hlai1239	1301	15.83	114.33		1 7 1 8	AXLT	KYK3	10	10.K.C 10.Y.V 10.K.c 10.3.T	1.6 3.0 1.1 1.0	kʰuk*7/⁵²	0	345	345	kʰ u k *7/⁵²
+454	46_foot	foot	Tongzha	Tongzha Hlai	khok7	khok7	kʰ o k *7/⁵²	hlai1239	1301	18.88	109.67		1 7 1 8	AXLT	KUK3	7	7.K.C 7.U.V 7.K.c 7.3.T	1.6 3.0 1.1 1.0	kʰok*7/⁵²	0	345	345	kʰ o k *7/⁵²
+455	46_foot	foot	Qiandui	Quiandui Hlai	khoɁ7	khoɁ7	kʰ o ʔ *7/⁵²	hlai1239	1301	18.91	110.04		1 7 1 8	AXLT	KUH3	6	6.K.C 6.U.V 6.H.c 6.3.T	1.6 3.0 1.1 1.0	kʰoʔ*7/⁵²	0	345	345	kʰ o ʔ *7/⁵²
+456	46_foot	foot	Baocheng	Baocheng Hlai	khɔk7	khɔk7	kʰ ɔ k *7/⁵²	hlai1239	1301	18.64	109.70		1 7 1 8	AXLT	KUK3	2	2.K.C 2.U.V 2.K.c 2.3.T	1.6 3.0 1.1 1.0	kʰɔk*7/⁵²	0	345	345	kʰ ɔ k *7/⁵²
+457	46_foot	foot	Gelong	Gelong	khok2	khok2	kʰ o k *2/²		1301	19.10	108.65		1 7 1 8	AXLT	KUK6	4	4.K.C 4.U.V 4.K.c 4.6.T	1.6 3.0 1.1 1.0	kʰok*2/²	0	345	345	kʰ o k *2/²
+939	95_full	full	Xifang	Xifang Hlai	thik8	thik8	tʰ i k *8/⁵³	hlai1239	1429	19.30	109.24		1 7 1 8	AXLT	TIK3	8	8.T.C 8.I.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	tʰik*8/⁵³	0	356	356	tʰ - i k *8/⁵³
+940	95_full	full	Baisha	Baisha Hlai	thi:Ɂ8	thi:Ɂ8	tʰ iː ʔ *8/⁵³	hlai1239	1429	18.65	108.72		1 7 1 8	AXLT	TIH3	1	1.T.C 1.I.V 1.H.c 1.3.T	1.6 3.0 1.1 1.0	tʰiːʔ*8/⁵³	0	356	356	tʰ - iː ʔ *8/⁵³
+941	95_full	full	Yuanmen	Yuanmen Hlai	thiɁ7	thiɁ7	tʰ i ʔ *7/⁵²	hlai1239	1429	19.11	109.54		1 7 1 8	AXLT	TIH3	9	9.T.C 9.I.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	tʰiʔ*7/⁵²	0	356	356	tʰ - i ʔ *7/⁵²
+942	95_full	full	Heitu	Heitu Hlai	thi:Ɂ7	thi:Ɂ7	tʰ iː ʔ *7/⁵²	hlai1239	1429	19.51	108.94		1 7 1 8	AXLT	TIH3	5	5.T.C 5.I.V 5.H.c 5.3.T	1.6 3.0 1.1 1.0	tʰiːʔ*7/⁵²	0	356	356	tʰ - iː ʔ *7/⁵²
+943	95_full	full	Baoding	Baoding Hlai	thi:k7	thi:k7	tʰ iː k *7/⁵²	hlai1239	1429	18.77	110.45		1 7 1 8	AXLT	TIK3	3	3.T.C 3.I.V 3.K.c 3.3.T	1.6 3.0 1.1 1.0	tʰiːk*7/⁵²	0	356	356	tʰ - iː k *7/⁵²
+944	95_full	full	Zhongsha	Zhongsha Hlai	thi:Ɂ7	thi:Ɂ7	tʰ iː ʔ *7/⁵²	hlai1239	1429	15.83	114.33		1 7 1 8	AXLT	TIH3	10	10.T.C 10.I.V 10.H.c 10.3.T	1.6 3.0 1.1 1.0	tʰiːʔ*7/⁵²	0	356	356	tʰ - iː ʔ *7/⁵²
+945	95_full	full	Tongzha	Tongzha Hlai	thiaɁ7	thiaɁ7	tʰ i/j a ʔ *7/⁵²	hlai1239	1429	18.88	109.67		1 6 7 1 8	ACXLT	TJAH3	7	7.T.C 7.J.C 7.A.V 7.H.c 7.3.T	1.6 1.2 3.0 1.1 1.0	tʰi/jaʔ*7/⁵²	0	356	359	tʰ i/j a ʔ *7/⁵²
+946	95_full	full	Qiandui	Quiandui Hlai	thiaɁ7	thiaɁ7	tʰ i/j a ʔ *7/⁵²	hlai1239	1429	18.91	110.04		1 6 7 1 8	ACXLT	TJAH3	6	6.T.C 6.J.C 6.A.V 6.H.c 6.3.T	1.6 1.2 3.0 1.1 1.0	tʰi/jaʔ*7/⁵²	0	356	359	tʰ i/j a ʔ *7/⁵²
+947	95_full	full	Baocheng	Baocheng Hlai	thiak7	thiak7	tʰ i/j a k *7/⁵²	hlai1239	1429	18.64	109.70		1 6 7 1 8	ACXLT	TJAK3	2	2.T.C 2.J.C 2.A.V 2.K.c 2.3.T	1.6 1.2 3.0 1.1 1.0	tʰi/jak*7/⁵²	0	356	357	tʰ i/j a k *7/⁵²
+948	95_full	full	Gelong	Gelong	thiɘk2	thiɘk2	tʰ i/j ɘ/ə k *2/²		1429	19.10	108.65		1 6 7 1 8	ACXLT	TJEK6	4	4.T.C 4.J.C 4.E.V 4.K.c 4.6.T	1.6 1.2 3.0 1.1 1.0	tʰi/jɘ/ək*2/²	0	356	358	tʰ i/j ɘ/ə k *2/²
+678	70_give	give	Xifang	Xifang Hlai	tɯŋ2	tɯŋ2	t ɯ ŋ *2/²	hlai1239	1447	19.30	109.24		1 7 4 8	AXLT	TIN6	8	8.T.C 8.I.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	tɯŋ*2/²	0	368	369	t ɯ ŋ *2/²
+679	70_give	give	Baisha	Baisha Hlai	kau2	kau2	k au *2/²	hlai1239	1447	18.65	108.72		1 7 8	AXT	KA6	1	1.K.C 1.A.V 1.6.T	1.6 3.0 1.0	kau*2/²	0	367	367	k au *2/²
+680	70_give	give	Yuanmen	Yuanmen Hlai	kau2	kau2	k au *2/²	hlai1239	1447	19.11	109.54		1 7 8	AXT	KA6	9	9.K.C 9.A.V 9.6.T	1.6 3.0 1.0	kau*2/²	0	367	367	k au *2/²
+681	70_give	give	Heitu	Heitu Hlai	ɗeɯ1	ɗeɯ1	ɗ eɯ *1/¹	hlai1239	1447	19.51	108.94		1 7 8	AXT	TE6	5	5.T.C 5.E.V 5.6.T	1.6 3.0 1.0	ɗeɯ*1/¹	0	368	368	ɗ eɯ - *1/¹
+682	70_give	give	Baoding	Baoding Hlai	tɯ:ŋ2	tɯ:ŋ2	t ɯː ŋ *2/²	hlai1239	1447	18.77	110.45		1 7 4 8	AXLT	TIN6	3	3.T.C 3.I.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	tɯːŋ*2/²	0	368	369	t ɯː ŋ *2/²
+683	70_give	give	Zhongsha	Zhongsha Hlai	ɗeɯ1	ɗeɯ1	ɗ eɯ *1/¹	hlai1239	1447	15.83	114.33		1 7 8	AXT	TE6	10	10.T.C 10.E.V 10.6.T	1.6 3.0 1.0	ɗeɯ*1/¹	0	368	368	ɗ eɯ - *1/¹
+684	70_give	give	Tongzha	Tongzha Hlai	ɗeɯ1	ɗeɯ1	ɗ eɯ *1/¹	hlai1239	1447	18.88	109.67		1 7 8	AXT	TE6	7	7.T.C 7.E.V 7.6.T	1.6 3.0 1.0	ɗeɯ*1/¹	0	368	368	ɗ eɯ - *1/¹
+685	70_give	give	Qiandui	Quiandui Hlai	ɗeɯ1	ɗeɯ1	ɗ eɯ *1/¹	hlai1239	1447	18.91	110.04		1 7 8	AXT	TE6	6	6.T.C 6.E.V 6.6.T	1.6 3.0 1.0	ɗeɯ*1/¹	0	368	368	ɗ eɯ - *1/¹
+686	70_give	give	Baocheng	Baocheng Hlai	ɗeɯ1	ɗeɯ1	ɗ eɯ *1/¹	hlai1239	1447	18.64	109.70		1 7 8	AXT	TE6	2	2.T.C 2.E.V 2.6.T	1.6 3.0 1.0	ɗeɯ*1/¹	0	368	368	ɗ eɯ - *1/¹
+687	70_give	give	Gelong	Gelong	tsɯɘŋ5	tsɯɘŋ5	ts ɯɘ ŋ *5/⁵		1447	19.10	108.65		2 7 4 8	AXLT	CIN6	4	4.C.C 4.I.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	tsɯɘŋ*5/⁵	0	368	369	ts ɯɘ ŋ *5/⁵
+959	97_good	good	Xifang	Xifang Hlai	ɬen1	ɬen1	ɬ e n *1/¹	hlai1239	1035	19.30	109.24		5 7 4 8	AXLT	LEN6	8	8.L.C 8.E.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ɬen*1/¹	0	378	378	ɬ e n *1/¹
+960	97_good	good	Baisha	Baisha Hlai	ɬen1	ɬen1	ɬ e n *1/¹	hlai1239	1035	18.65	108.72		5 7 4 8	AXLT	LEN6	1	1.L.C 1.E.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ɬen*1/¹	0	378	378	ɬ e n *1/¹
+961	97_good	good	Yuanmen	Yuanmen Hlai	ɬen1	ɬen1	ɬ e n *1/¹	hlai1239	1035	19.11	109.54		5 7 4 8	AXLT	LEN6	9	9.L.C 9.E.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	ɬen*1/¹	0	378	378	ɬ e n *1/¹
+962	97_good	good	Heitu	Heitu Hlai	din1	din1	d i n *1/¹	hlai1239	1035	19.51	108.94		1 7 4 8	AXLT	TIN6	5	5.T.C 5.I.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	din*1/¹	0	378	378	d i n *1/¹
+963	97_good	good	Baoding	Baoding Hlai	ɬeȵ1	ɬeȵ1	ɬ e ȵ *1/¹	hlai1239	1035	18.77	110.45		5 7 4 8	AXLT	LEN6	3	3.L.C 3.E.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ɬeȵ*1/¹	0	378	378	ɬ e ȵ *1/¹
+964	97_good	good	Zhongsha	Zhongsha Hlai	ɬin1	ɬin1	ɬ i n *1/¹	hlai1239	1035	15.83	114.33		5 7 4 8	AXLT	LIN6	10	10.L.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	ɬin*1/¹	0	378	378	ɬ i n *1/¹
+965	97_good	good	Tongzha	Tongzha Hlai	ɬen1	ɬen1	ɬ e n *1/¹	hlai1239	1035	18.88	109.67		5 7 4 8	AXLT	LEN6	7	7.L.C 7.E.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ɬen*1/¹	0	378	378	ɬ e n *1/¹
+966	97_good	good	Qiandui	Quiandui Hlai	ɬen1	ɬen1	ɬ e n *1/¹	hlai1239	1035	18.91	110.04		5 7 4 8	AXLT	LEN6	6	6.L.C 6.E.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ɬen*1/¹	0	378	378	ɬ e n *1/¹
+967	97_good	good	Baocheng	Baocheng Hlai	ɬin1	ɬin1	ɬ i n *1/¹	hlai1239	1035	18.64	109.70		5 7 4 8	AXLT	LIN6	2	2.L.C 2.I.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ɬin*1/¹	0	378	378	ɬ i n *1/¹
+968	97_good	good	Gelong	Gelong	tθen1	tθen1	tθ e n *1/¹		1035	19.10	108.65		1 7 4 8	AXLT	TEN6	4	4.T.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	tθen*1/¹	0	378	378	tθ e n *1/¹
+306	32_grease	grease	Xifang	Xifang Hlai	xui3	xui3	x ui *3/³	hlai1239	323	19.30	109.24		3 7 8	AXT	GY6	8	8.G.C 8.Y.V 8.6.T	1.6 3.0 1.0	xui*3/³	0	389	389	x - ui *3/³
+307	32_grease	grease	Baisha	Baisha Hlai	xui3	xui3	x ui *3/³	hlai1239	323	18.65	108.72		3 7 8	AXT	GY6	1	1.G.C 1.Y.V 1.6.T	1.6 3.0 1.0	xui*3/³	0	389	389	x - ui *3/³
+308	32_grease	grease	Yuanmen	Yuanmen Hlai	khui3	khui3	kʰ ui *3/³	hlai1239	323	19.11	109.54		1 7 8	AXT	KY6	9	9.K.C 9.Y.V 9.6.T	1.6 3.0 1.0	kʰui*3/³	0	389	389	kʰ - ui *3/³
+309	32_grease	grease	Heitu	Heitu Hlai	ru:i3	ru:i3	r uːi *3/³	hlai1239	323	19.51	108.94		5 7 8	AXT	RY6	5	5.R.C 5.Y.V 5.6.T	1.6 3.0 1.0	ruːi*3/³	0	391	391	r uːi *3/³
+310	32_grease	grease	Baoding	Baoding Hlai	gwei3	gwei3	g w ei *3/³	hlai1239	323	18.77	110.45		1 6 7 8	ACXT	KWE6	3	3.K.C 3.W.C 3.E.V 3.6.T	1.6 1.2 3.0 1.0	gwei*3/³	0	389	390	g w ei *3/³
+311	32_grease	grease	Zhongsha	Zhongsha Hlai	gu:i3	gu:i3	g uːi *3/³	hlai1239	323	15.83	114.33		1 7 8	AXT	KY6	10	10.K.C 10.Y.V 10.6.T	1.6 3.0 1.0	guːi*3/³	0	389	389	g - uːi *3/³
+312	32_grease	grease	Tongzha	Tongzha Hlai	gu:i6	gu:i6	g uːi *6/⁵¹	hlai1239	323	18.88	109.67		1 7 8	AXT	KY3	7	7.K.C 7.Y.V 7.3.T	1.6 3.0 1.0	guːi*6/⁵¹	0	389	389	g - uːi *6/⁵¹
+313	32_grease	grease	Qiandui	Quiandui Hlai	hu:i6	hu:i6	h uːi *6/⁵¹	hlai1239	323	18.91	110.04		3 7 8	AXT	HY3	6	6.H.C 6.Y.V 6.3.T	1.6 3.0 1.0	huːi*6/⁵¹	0	390	389	h uːi *6/⁵¹
+314	32_grease	grease	Baocheng	Baocheng Hlai	hu:i6	hu:i6	h uːi *6/⁵¹	hlai1239	323	18.64	109.70		3 7 8	AXT	HY3	2	2.H.C 2.Y.V 2.3.T	1.6 3.0 1.0	huːi*6/⁵¹	0	390	389	h uːi *6/⁵¹
+859	88_green	green	Xifang	Xifang Hlai	khiu1	khiu1	kʰ iu *1/¹	hlai1239	1425	19.30	109.24		1 7 8	AXT	KI6	8	8.K.C 8.I.V 8.6.T	1.6 3.0 1.0	kʰiu*1/¹	0	399	399	kʰ iu *1/¹
+860	88_green	green	Baisha	Baisha Hlai	khiu1	khiu1	kʰ iu *1/¹	hlai1239	1425	18.65	108.72		1 7 8	AXT	KI6	1	1.K.C 1.I.V 1.6.T	1.6 3.0 1.0	kʰiu*1/¹	0	399	399	kʰ iu *1/¹
+861	88_green	green	Yuanmen	Yuanmen Hlai	khiu1	khiu1	kʰ iu *1/¹	hlai1239	1425	19.11	109.54		1 7 8	AXT	KI6	9	9.K.C 9.I.V 9.6.T	1.6 3.0 1.0	kʰiu*1/¹	0	399	399	kʰ iu *1/¹
+862	88_green	green	Heitu	Heitu Hlai	khi:u1	khi:u1	kʰ iːu *1/¹	hlai1239	1425	19.51	108.94		1 7 8	AXT	KI6	5	5.K.C 5.I.V 5.6.T	1.6 3.0 1.0	kʰiːu*1/¹	0	399	399	kʰ iːu *1/¹
+863	88_green	green	Baoding	Baoding Hlai	khi:u1	khi:u1	kʰ iːu *1/¹	hlai1239	1425	18.77	110.45		1 7 8	AXT	KI6	3	3.K.C 3.I.V 3.6.T	1.6 3.0 1.0	kʰiːu*1/¹	0	399	399	kʰ iːu *1/¹
+864	88_green	green	Zhongsha	Zhongsha Hlai	khi:u1	khi:u1	kʰ iːu *1/¹	hlai1239	1425	15.83	114.33		1 7 8	AXT	KI6	10	10.K.C 10.I.V 10.6.T	1.6 3.0 1.0	kʰiːu*1/¹	0	399	399	kʰ iːu *1/¹
+865	88_green	green	Tongzha	Tongzha Hlai	khi:u1	khi:u1	kʰ iːu *1/¹	hlai1239	1425	18.88	109.67		1 7 8	AXT	KI6	7	7.K.C 7.I.V 7.6.T	1.6 3.0 1.0	kʰiːu*1/¹	0	399	399	kʰ iːu *1/¹
+866	88_green	green	Qiandui	Quiandui Hlai	khiu1	khiu1	kʰ iu *1/¹	hlai1239	1425	18.91	110.04		1 7 8	AXT	KI6	6	6.K.C 6.I.V 6.6.T	1.6 3.0 1.0	kʰiu*1/¹	0	399	399	kʰ iu *1/¹
+867	88_green	green	Baocheng	Baocheng Hlai	khi:u1	khi:u1	kʰ iːu *1/¹	hlai1239	1425	18.64	109.70		1 7 8	AXT	KI6	2	2.K.C 2.I.V 2.6.T	1.6 3.0 1.0	kʰiːu*1/¹	0	399	399	kʰ iːu *1/¹
+868	88_green	green	Gelong	Gelong	khiu1	khiu1	kʰ iu *1/¹		1425	19.10	108.65		1 7 8	AXT	KI6	4	4.K.C 4.I.V 4.6.T	1.6 3.0 1.0	kʰiu*1/¹	0	399	399	kʰ iu *1/¹
+355	37_hair	hair	Xifang	Xifang Hlai	rom1	rom1	r o m *1/¹	hlai1239	1040	19.30	109.24		5 7 4 8	AXLT	RUM6	8	8.R.C 8.U.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	rom*1/¹	0	412	413	r o m *1/¹
+356	37_hair	hair	Baisha	Baisha Hlai	ɱən4	ɱən4	ɱ ə n *4/⁴	hlai1239	1040	18.65	108.72		4 7 4 8	AXLT	MEN6	1	1.M.C 1.E.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ɱən*4/⁴	0	410	410	ɱ ə n *4/⁴
+357	37_hair	hair	Yuanmen	Yuanmen Hlai	ɗan5	ɗan5	ɗ a n *5/⁵	hlai1239	1040	19.11	109.54		1 7 4 8	AXLT	TAN6	9	9.T.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	ɗan*5/⁵	0	411	411	ɗ a n *5/⁵
+358	37_hair	hair	Heitu	Heitu Hlai	nom1	nom1	n o m *1/¹	hlai1239	1040	19.51	108.94		4 7 4 8	AXLT	NUM6	5	5.N.C 5.U.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	nom*1/¹	0	412	413	n o m *1/¹
+359	37_hair	hair	Baoding	Baoding Hlai	ɗan2	ɗan2	ɗ a n *2/²	hlai1239	1040	18.77	110.45		1 7 4 8	AXLT	TAN6	3	3.T.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ɗan*2/²	0	411	411	ɗ a n *2/²
+360	37_hair	hair	Zhongsha	Zhongsha Hlai	tom1	tom1	t o m *1/¹	hlai1239	1040	15.83	114.33		1 7 4 8	AXLT	TUM6	10	10.T.C 10.U.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	tom*1/¹	0	411	413	t o m *1/¹
+361	37_hair	hair	Tongzha	Tongzha Hlai	ɗan5	ɗan5	ɗ a n *5/⁵	hlai1239	1040	18.88	109.67		1 7 4 8	AXLT	TAN6	7	7.T.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ɗan*5/⁵	0	411	411	ɗ a n *5/⁵
+362	37_hair	hair	Qiandui	Quiandui Hlai	ɗan5	ɗan5	ɗ a n *5/⁵	hlai1239	1040	18.91	110.04		1 7 4 8	AXLT	TAN6	6	6.T.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ɗan*5/⁵	0	411	411	ɗ a n *5/⁵
+363	37_hair	hair	Baocheng	Baocheng Hlai	ɗan5	ɗan5	ɗ a n *5/⁵	hlai1239	1040	18.64	109.70		1 7 4 8	AXLT	TAN6	2	2.T.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ɗan*5/⁵	0	411	411	ɗ a n *5/⁵
+364	37_hair	hair	Gelong	Gelong	ŋən1 // vau2 // tθok3	ŋən1	ŋ ə n *1/¹		1040	19.10	108.65		4 7 4 8	AXLT	NEN6	4	4.N.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	ŋən*1/¹	1	410	412	ŋ ə n *1/¹
+365	37_hair	hair	Gelong	Gelong	ŋən1 // vau2 // tθok3	vau2	v au *2/²		1040	19.10	108.65		3 7 8	AXT	BA6	4	4.B.C 4.A.V 4.6.T	1.6 3.0 1.0	vau*2/²	0	413	414	v au *2/²
+366	37_hair	hair	Gelong	Gelong	ŋən1 // vau2 // tθok3	tθok3	tθ o k *3/³		1040	19.10	108.65		1 7 1 8	AXLT	TUK6	4	4.T.C 4.U.V 4.K.c 4.6.T	1.6 3.0 1.1 1.0	tθok*3/³	0	411	415	tθ o k *3/³
+469	48_hand	hand	Xifang	Xifang Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	19.30	109.24		4 7 8	AXT	ME6	8	8.M.C 8.E.V 8.6.T	1.6 3.0 1.0	meɯ*1/¹	1	423	423	m eɯ *1/¹
+470	48_hand	hand	Baisha	Baisha Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	18.65	108.72		4 7 8	AXT	ME6	1	1.M.C 1.E.V 1.6.T	1.6 3.0 1.0	meɯ*1/¹	0	423	423	m eɯ *1/¹
+471	48_hand	hand	Yuanmen	Yuanmen Hlai	meɯ4	meɯ4	m eɯ *4/⁴	hlai1239	1277	19.11	109.54		4 7 8	AXT	ME6	9	9.M.C 9.E.V 9.6.T	1.6 3.0 1.0	meɯ*4/⁴	0	423	423	m eɯ *4/⁴
+472	48_hand	hand	Heitu	Heitu Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	19.51	108.94		4 7 8	AXT	ME6	5	5.M.C 5.E.V 5.6.T	1.6 3.0 1.0	meɯ*1/¹	0	423	423	m eɯ *1/¹
+473	48_hand	hand	Baoding	Baoding Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	18.77	110.45		4 7 8	AXT	ME6	3	3.M.C 3.E.V 3.6.T	1.6 3.0 1.0	meɯ*1/¹	1	423	423	m eɯ *1/¹
+474	48_hand	hand	Zhongsha	Zhongsha Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	15.83	114.33		4 7 8	AXT	ME6	10	10.M.C 10.E.V 10.6.T	1.6 3.0 1.0	meɯ*1/¹	1	423	423	m eɯ *1/¹
+475	48_hand	hand	Tongzha	Tongzha Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	18.88	109.67		4 7 8	AXT	ME6	7	7.M.C 7.E.V 7.6.T	1.6 3.0 1.0	meɯ*1/¹	1	423	423	m eɯ *1/¹
+476	48_hand	hand	Qiandui	Quiandui Hlai	meɯ4	meɯ4	m eɯ *4/⁴	hlai1239	1277	18.91	110.04		4 7 8	AXT	ME6	6	6.M.C 6.E.V 6.6.T	1.6 3.0 1.0	meɯ*4/⁴	1	423	423	m eɯ *4/⁴
+477	48_hand	hand	Baocheng	Baocheng Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1277	18.64	109.70		4 7 8	AXT	ME6	2	2.M.C 2.E.V 2.6.T	1.6 3.0 1.0	meɯ*1/¹	1	423	423	m eɯ *1/¹
+478	48_hand	hand	Gelong	Gelong	mou1	mou1	m ou *1/¹		1277	19.10	108.65		4 7 8	AXT	MU6	4	4.M.C 4.U.V 4.6.T	1.6 3.0 1.0	mou*1/¹	0	423	423	m ou *1/¹
+367	38_head	head	Xifang	Xifang Hlai	ɣo3	ɣo3	ɣ o *3/³	hlai1239	1256	19.30	109.24		3 7 8	AXT	GU6	8	8.G.C 8.U.V 8.6.T	1.6 3.0 1.0	ɣo*3/³	0	436	436	ɣ - o *3/³
+368	38_head	head	Baisha	Baisha Hlai	vo3	vo3	v o *3/³	hlai1239	1256	18.65	108.72		3 7 8	AXT	BU6	1	1.B.C 1.U.V 1.6.T	1.6 3.0 1.0	vo*3/³	0	434	434	v o *3/³
+369	38_head	head	Yuanmen	Yuanmen Hlai	vo3	vo3	v o *3/³	hlai1239	1256	19.11	109.54		3 7 8	AXT	BU6	9	9.B.C 9.U.V 9.6.T	1.6 3.0 1.0	vo*3/³	0	434	434	v o *3/³
+370	38_head	head	Heitu	Heitu Hlai	rau3	rau3	r au *3/³	hlai1239	1256	19.51	108.94		5 7 8	AXT	RA6	5	5.R.C 5.A.V 5.6.T	1.6 3.0 1.0	rau*3/³	0	437	437	r au *3/³
+371	38_head	head	Baoding	Baoding Hlai	gwou3	gwou3	g w ou *3/³	hlai1239	1256	18.77	110.45		1 6 7 8	ACXT	KWU6	3	3.K.C 3.W.C 3.U.V 3.6.T	1.6 1.2 3.0 1.0	gwou*3/³	0	436	436	g w ou *3/³
+372	38_head	head	Zhongsha	Zhongsha Hlai	gau3	gau3	g au *3/³	hlai1239	1256	15.83	114.33		1 7 8	AXT	KA6	10	10.K.C 10.A.V 10.6.T	1.6 3.0 1.0	gau*3/³	0	436	436	g - au *3/³
+373	38_head	head	Tongzha	Tongzha Hlai	go6	go6	g o *6/⁵¹	hlai1239	1256	18.88	109.67		1 7 8	AXT	KU3	7	7.K.C 7.U.V 7.3.T	1.6 3.0 1.0	go*6/⁵¹	0	436	435	g - o *6/⁵¹
+374	38_head	head	Qiandui	Quiandui Hlai	ho6	ho6	h o *6/⁵¹	hlai1239	1256	18.91	110.04		3 7 8	AXT	HU3	6	6.H.C 6.U.V 6.3.T	1.6 3.0 1.0	ho*6/⁵¹	0	435	435	h o *6/⁵¹
+375	38_head	head	Baocheng	Baocheng Hlai	hɔ6	hɔ6	h ɔ *6/⁵¹	hlai1239	1256	18.64	109.70		3 7 8	AXT	HU3	2	2.H.C 2.U.V 2.3.T	1.6 3.0 1.0	hɔ*6/⁵¹	0	435	435	h ɔ *6/⁵¹
+376	38_head	head	Gelong	Gelong	vau3	vau3	v au *3/³		1256	19.10	108.65		3 7 8	AXT	BA6	4	4.B.C 4.A.V 4.6.T	1.6 3.0 1.0	vau*3/³	0	434	434	v au *3/³
+569	58_hear	hear	Xifang	Xifang Hlai	pleɯ1	pleɯ1	p l eɯ *1/¹	hlai1239	1408	19.30	109.24		1 5 7 8	ACXT	PLE6	8	8.P.C 8.L.C 8.E.V 8.6.T	1.6 1.2 3.0 1.0	pleɯ*1/¹	0	445	445	p l eɯ *1/¹
+570	58_hear	hear	Baisha	Baisha Hlai	pleɯ1	pleɯ1	p l eɯ *1/¹	hlai1239	1408	18.65	108.72		1 5 7 8	ACXT	PLE6	1	1.P.C 1.L.C 1.E.V 1.6.T	1.6 1.2 3.0 1.0	pleɯ*1/¹	0	445	445	p l eɯ *1/¹
+571	58_hear	hear	Yuanmen	Yuanmen Hlai	pleɯ1	pleɯ1	p l eɯ *1/¹	hlai1239	1408	19.11	109.54		1 5 7 8	ACXT	PLE6	9	9.P.C 9.L.C 9.E.V 9.6.T	1.6 1.2 3.0 1.0	pleɯ*1/¹	0	445	445	p l eɯ *1/¹
+572	58_hear	hear	Heitu	Heitu Hlai	leɯ1	leɯ1	l eɯ *1/¹	hlai1239	1408	19.51	108.94		5 7 8	AXT	LE6	5	5.L.C 5.E.V 5.6.T	1.6 3.0 1.0	leɯ*1/¹	0	445	445	- l eɯ *1/¹
+573	58_hear	hear	Baoding	Baoding Hlai	pleɯ1	pleɯ1	p l eɯ *1/¹	hlai1239	1408	18.77	110.45		1 5 7 8	ACXT	PLE6	3	3.P.C 3.L.C 3.E.V 3.6.T	1.6 1.2 3.0 1.0	pleɯ*1/¹	0	445	445	p l eɯ *1/¹
+574	58_hear	hear	Zhongsha	Zhongsha Hlai	leɯ1	leɯ1	l eɯ *1/¹	hlai1239	1408	15.83	114.33		5 7 8	AXT	LE6	10	10.L.C 10.E.V 10.6.T	1.6 3.0 1.0	leɯ*1/¹	0	445	445	- l eɯ *1/¹
+575	58_hear	hear	Tongzha	Tongzha Hlai	pleɯ1	pleɯ1	p l eɯ *1/¹	hlai1239	1408	18.88	109.67		1 5 7 8	ACXT	PLE6	7	7.P.C 7.L.C 7.E.V 7.6.T	1.6 1.2 3.0 1.0	pleɯ*1/¹	0	445	445	p l eɯ *1/¹
+576	58_hear	hear	Qiandui	Quiandui Hlai	peɯ1	peɯ1	p eɯ *1/¹	hlai1239	1408	18.91	110.04		1 7 8	AXT	PE6	6	6.P.C 6.E.V 6.6.T	1.6 3.0 1.0	peɯ*1/¹	0	445	445	p - eɯ *1/¹
+577	58_hear	hear	Baocheng	Baocheng Hlai	pleɯ1	pleɯ1	p l eɯ *1/¹	hlai1239	1408	18.64	109.70		1 5 7 8	ACXT	PLE6	2	2.P.C 2.L.C 2.E.V 2.6.T	1.6 1.2 3.0 1.0	pleɯ*1/¹	0	445	445	p l eɯ *1/¹
+578	58_hear	hear	Gelong	Gelong	liəŋ5	liəŋ5	l i/j ə ŋ *5/⁵		1408	19.10	108.65		5 6 7 4 8	ACXLT	LJEN6	4	4.L.C 4.J.C 4.E.V 4.N.c 4.6.T	1.6 1.2 3.0 1.1 1.0	li/jəŋ*5/⁵	0	446	446	l i/j ə ŋ *5/⁵
+509	52_heart	heart	Xifang	Xifang Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	19.30	109.24		5 7 8	AXT	LA6	8	8.L.C 8.A.V 8.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+510	52_heart	heart	Baisha	Baisha Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	18.65	108.72		5 7 8	AXT	LA6	1	1.L.C 1.A.V 1.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+511	52_heart	heart	Yuanmen	Yuanmen Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	19.11	109.54		5 7 8	AXT	LA6	9	9.L.C 9.A.V 9.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+512	52_heart	heart	Heitu	Heitu Hlai	tem3	tem3	t e m *3/³	hlai1239	1223	19.51	108.94		1 7 4 8	AXLT	TEM6	5	5.T.C 5.E.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	tem*3/³	0	457	457	t e m *3/³
+513	52_heart	heart	Baoding	Baoding Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	18.77	110.45		5 7 8	AXT	LA6	3	3.L.C 3.A.V 3.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+514	52_heart	heart	Zhongsha	Zhongsha Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	15.83	114.33		5 7 8	AXT	LA6	10	10.L.C 10.A.V 10.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+515	52_heart	heart	Tongzha	Tongzha Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+516	52_heart	heart	Qiandui	Quiandui Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	18.91	110.04		5 7 8	AXT	LA6	6	6.L.C 6.A.V 6.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+517	52_heart	heart	Baocheng	Baocheng Hlai	ɬa:u3	ɬa:u3	ɬ aːu *3/³	hlai1239	1223	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	ɬaːu*3/³	0	456	456	ɬ aːu *3/³
+518	52_heart	heart	Gelong	Gelong	tθem5	tθem5	tθ e m *5/⁵		1223	19.10	108.65		1 7 4 8	AXLT	TEM6	4	4.T.C 4.E.V 4.M.c 4.6.T	1.6 3.0 1.1 1.0	tθem*5/⁵	0	457	457	tθ e m *5/⁵
+325	34_horn	horn	Xifang	Xifang Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	19.30	109.24		3 7 8	AXT	HA6	8	8.H.C 8.A.V 8.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+326	34_horn	horn	Baisha	Baisha Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	18.65	108.72		3 7 8	AXT	HA6	1	1.H.C 1.A.V 1.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+327	34_horn	horn	Yuanmen	Yuanmen Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	19.11	109.54		3 7 8	AXT	HA6	9	9.H.C 9.A.V 9.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+328	34_horn	horn	Heitu	Heitu Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	19.51	108.94		3 7 8	AXT	HA6	5	5.H.C 5.A.V 5.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+329	34_horn	horn	Baoding	Baoding Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	18.77	110.45		3 7 8	AXT	HA6	3	3.H.C 3.A.V 3.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+330	34_horn	horn	Zhongsha	Zhongsha Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	15.83	114.33		3 7 8	AXT	HA6	10	10.H.C 10.A.V 10.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+331	34_horn	horn	Tongzha	Tongzha Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	18.88	109.67		3 7 8	AXT	HA6	7	7.H.C 7.A.V 7.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+332	34_horn	horn	Qiandui	Quiandui Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	18.91	110.04		3 7 8	AXT	HA6	6	6.H.C 6.A.V 6.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+333	34_horn	horn	Baocheng	Baocheng Hlai	hau1	hau1	h au *1/¹	hlai1239	1393	18.64	109.70		3 7 8	AXT	HA6	2	2.H.C 2.A.V 2.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+334	34_horn	horn	Gelong	Gelong	hau1	hau1	h au *1/¹		1393	19.10	108.65		3 7 8	AXT	HA6	4	4.H.C 4.A.V 4.6.T	1.6 3.0 1.0	hau*1/¹	0	467	467	h au *1/¹
+919	93b_hot	hot	Xifang	Xifang Hlai	fo3	fo3	f o *3/³	hlai1239	2272	19.30	109.24		3 7 8	AXT	BU6	8	8.B.C 8.U.V 8.6.T	1.6 3.0 1.0	fo*3/³	0	479	479	f o - *3/³
+920	93b_hot	hot	Baisha	Baisha Hlai	tshit8	tshit8	tsʰ i t *8/⁵³	hlai1239	2272	18.65	108.72		2 7 1 8	AXLT	CIT3	1	1.C.C 1.I.V 1.T.c 1.3.T	1.6 3.0 1.1 1.0	tsʰit*8/⁵³	0	478	478	tsʰ i t *8/⁵³
+921	93b_hot	hot	Yuanmen	Yuanmen Hlai	vut8	vut8	v u t *8/⁵³	hlai1239	2272	19.11	109.54		3 7 1 8	AXLT	BYT3	9	9.B.C 9.Y.V 9.T.c 9.3.T	1.6 3.0 1.1 1.0	vut*8/⁵³	0	479	481	v u t *8/⁵³
+922	93b_hot	hot	Heitu	Heitu Hlai	tshau3	tshau3	tsʰ au *3/³	hlai1239	2272	19.51	108.94		2 7 8	AXT	CA6	5	5.C.C 5.A.V 5.6.T	1.6 3.0 1.0	tsʰau*3/³	0	480	480	tsʰ au *3/³
+923	93b_hot	hot	Baoding	Baoding Hlai	fou3	fou3	f ou *3/³	hlai1239	2272	18.77	110.45		3 7 8	AXT	BU6	3	3.B.C 3.U.V 3.6.T	1.6 3.0 1.0	fou*3/³	0	479	479	f ou - *3/³
+924	93b_hot	hot	Zhongsha	Zhongsha Hlai	tshau3	tshau3	tsʰ au *3/³	hlai1239	2272	15.83	114.33		2 7 8	AXT	CA6	10	10.C.C 10.A.V 10.6.T	1.6 3.0 1.0	tsʰau*3/³	0	480	480	tsʰ au *3/³
+925	93b_hot	hot	Tongzha	Tongzha Hlai	ti:t7	ti:t7	t iː t *7/⁵²	hlai1239	2272	18.88	109.67		1 7 1 8	AXLT	TIT3	7	7.T.C 7.I.V 7.T.c 7.3.T	1.6 3.0 1.1 1.0	tiːt*7/⁵²	0	478	478	t iː t *7/⁵²
+926	93b_hot	hot	Qiandui	Quiandui Hlai	ti:t7	ti:t7	t iː t *7/⁵²	hlai1239	2272	18.91	110.04		1 7 1 8	AXLT	TIT3	6	6.T.C 6.I.V 6.T.c 6.3.T	1.6 3.0 1.1 1.0	tiːt*7/⁵²	0	478	478	t iː t *7/⁵²
+927	93b_hot	hot	Baocheng	Baocheng Hlai	ti:t7	ti:t7	t iː t *7/⁵²	hlai1239	2272	18.64	109.70		1 7 1 8	AXLT	TIT3	2	2.T.C 2.I.V 2.T.c 2.3.T	1.6 3.0 1.1 1.0	tiːt*7/⁵²	0	478	478	t iː t *7/⁵²
+928	93b_hot	hot	Gelong	Gelong	fau3	fau3	f au *3/³		2272	19.10	108.65		3 7 8	AXT	BA6	4	4.B.C 4.A.V 4.6.T	1.6 3.0 1.0	fau*3/³	0	479	479	f au - *3/³
+606	62_kill	kill	Xifang	Xifang Hlai	hau3	hau3	h au *3/³	hlai1239	1417	19.30	109.24		3 7 8	AXT	HA6	8	8.H.C 8.A.V 8.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+607	62_kill	kill	Baisha	Baisha Hlai	hau3	hau3	h au *3/³	hlai1239	1417	18.65	108.72		3 7 8	AXT	HA6	1	1.H.C 1.A.V 1.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+608	62_kill	kill	Yuanmen	Yuanmen Hlai	hau3	hau3	h au *3/³	hlai1239	1417	19.11	109.54		3 7 8	AXT	HA6	9	9.H.C 9.A.V 9.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+609	62_kill	kill	Heitu	Heitu Hlai	hau3	hau3	h au *3/³	hlai1239	1417	19.51	108.94		3 7 8	AXT	HA6	5	5.H.C 5.A.V 5.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+610	62_kill	kill	Baoding	Baoding Hlai	hau3	hau3	h au *3/³	hlai1239	1417	18.77	110.45		3 7 8	AXT	HA6	3	3.H.C 3.A.V 3.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+611	62_kill	kill	Zhongsha	Zhongsha Hlai	hau3	hau3	h au *3/³	hlai1239	1417	15.83	114.33		3 7 8	AXT	HA6	10	10.H.C 10.A.V 10.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+612	62_kill	kill	Tongzha	Tongzha Hlai	hau3	hau3	h au *3/³	hlai1239	1417	18.88	109.67		3 7 8	AXT	HA6	7	7.H.C 7.A.V 7.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+613	62_kill	kill	Qiandui	Quiandui Hlai	hau3	hau3	h au *3/³	hlai1239	1417	18.91	110.04		3 7 8	AXT	HA6	6	6.H.C 6.A.V 6.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+614	62_kill	kill	Baocheng	Baocheng Hlai	hau3	hau3	h au *3/³	hlai1239	1417	18.64	109.70		3 7 8	AXT	HA6	2	2.H.C 2.A.V 2.6.T	1.6 3.0 1.0	hau*3/³	0	489	489	h au *3/³
+615	62_kill	kill	Gelong	Gelong	hai3	hai3	h ai *3/³		1417	19.10	108.65		3 7 8	AXT	HA6	4	4.H.C 4.A.V 4.6.T	1.6 3.0 1.0	hai*3/³	0	489	489	h ai *3/³
+458	47_knee	knee	Xifang	Xifang Hlai	rou1	rou1	r ou *1/¹	hlai1239	1371	19.30	109.24		5 7 8	AXT	RU6	8	8.R.C 8.U.V 8.6.T	1.6 3.0 1.0	rou*1/¹	0	500	500	r ou *1/¹
+459	47_knee	knee	Baisha	Baisha Hlai	rou4	rou4	r ou *4/⁴	hlai1239	1371	18.65	108.72		5 7 8	AXT	RU6	1	1.R.C 1.U.V 1.6.T	1.6 3.0 1.0	rou*4/⁴	0	500	500	r ou *4/⁴
+460	47_knee	knee	Yuanmen	Yuanmen Hlai	rou4	rou4	r ou *4/⁴	hlai1239	1371	19.11	109.54		5 7 8	AXT	RU6	9	9.R.C 9.U.V 9.6.T	1.6 3.0 1.0	rou*4/⁴	0	500	500	r ou *4/⁴
+461	47_knee	knee	Heitu	Heitu Hlai	rou1	rou1	r ou *1/¹	hlai1239	1371	19.51	108.94		5 7 8	AXT	RU6	5	5.R.C 5.U.V 5.6.T	1.6 3.0 1.0	rou*1/¹	0	500	500	r ou *1/¹
+462	47_knee	knee	Baoding	Baoding Hlai	rou1	rou1	r ou *1/¹	hlai1239	1371	18.77	110.45		5 7 8	AXT	RU6	3	3.R.C 3.U.V 3.6.T	1.6 3.0 1.0	rou*1/¹	0	500	500	r ou *1/¹
+463	47_knee	knee	Zhongsha	Zhongsha Hlai	rou1	rou1	r ou *1/¹	hlai1239	1371	15.83	114.33		5 7 8	AXT	RU6	10	10.R.C 10.U.V 10.6.T	1.6 3.0 1.0	rou*1/¹	0	500	500	r ou *1/¹
+464	47_knee	knee	Tongzha	Tongzha Hlai	rou4	rou4	r ou *4/⁴	hlai1239	1371	18.88	109.67		5 7 8	AXT	RU6	7	7.R.C 7.U.V 7.6.T	1.6 3.0 1.0	rou*4/⁴	0	500	500	r ou *4/⁴
+465	47_knee	knee	Qiandui	Quiandui Hlai	lou4	lou4	l ou *4/⁴	hlai1239	1371	18.91	110.04		5 7 8	AXT	LU6	6	6.L.C 6.U.V 6.6.T	1.6 3.0 1.0	lou*4/⁴	0	500	500	l ou *4/⁴
+466	47_knee	knee	Baocheng	Baocheng Hlai	lou4	lou4	l ou *4/⁴	hlai1239	1371	18.64	109.70		5 7 8	AXT	LU6	2	2.L.C 2.U.V 2.6.T	1.6 3.0 1.0	lou*4/⁴	0	500	500	l ou *4/⁴
+467	47_knee	knee	Gelong	Gelong	vau3 // zen4	vau3	v au *3/³		1371	19.10	108.65		3 7 8	AXT	BA6	4	4.B.C 4.A.V 4.6.T	1.6 3.0 1.0	vau*3/³	1	501	501	v au *3/³
+468	47_knee	knee	Gelong	Gelong	vau3 // zen4	zen4	z e n *4/⁴		1371	19.10	108.65		3 7 4 8	AXLT	SEN6	4	4.S.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	zen*4/⁴	0	502	502	z e n *4/⁴
+579	59_know	know	Xifang	Xifang Hlai	khoŋ1	khoŋ1	kʰ o ŋ *1/¹	hlai1239	1410	19.30	109.24		1 7 4 8	AXLT	KUN6	8	8.K.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	kʰoŋ*1/¹	0	512	512	kʰ - o ŋ *1/¹
+580	59_know	know	Heitu	Heitu Hlai	khu:ŋ1	khu:ŋ1	kʰ uː ŋ *1/¹	hlai1239	1410	19.51	108.94		1 7 4 8	AXLT	KYN6	5	5.K.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	kʰuːŋ*1/¹	0	512	512	kʰ - uː ŋ *1/¹
+581	59_know	know	Baoding	Baoding Hlai	khu:ŋ1	khu:ŋ1	kʰ uː ŋ *1/¹	hlai1239	1410	18.77	110.45		1 7 4 8	AXLT	KYN6	3	3.K.C 3.Y.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	kʰuːŋ*1/¹	0	512	512	kʰ - uː ŋ *1/¹
+582	59_know	know	Zhongsha	Zhongsha Hlai	khu:ŋ1	khu:ŋ1	kʰ uː ŋ *1/¹	hlai1239	1410	15.83	114.33		1 7 4 8	AXLT	KYN6	10	10.K.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	kʰuːŋ*1/¹	0	512	512	kʰ - uː ŋ *1/¹
+583	59_know	know	Tongzha	Tongzha Hlai	khu:ŋ1	khu:ŋ1	kʰ uː ŋ *1/¹	hlai1239	1410	18.88	109.67		1 7 4 8	AXLT	KYN6	7	7.K.C 7.Y.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	kʰuːŋ*1/¹	0	512	512	kʰ - uː ŋ *1/¹
+584	59_know	know	Qiandui	Quiandui Hlai	khuaŋ1	khuaŋ1	kʰ u/w a ŋ *1/¹	hlai1239	1410	18.91	110.04		1 6 7 4 8	ACXLT	KWAN6	6	6.K.C 6.W.C 6.A.V 6.N.c 6.6.T	1.6 1.2 3.0 1.1 1.0	kʰu/waŋ*1/¹	0	512	513	kʰ u/w a ŋ *1/¹
+585	59_know	know	Baocheng	Baocheng Hlai	khuŋ1	khuŋ1	kʰ u ŋ *1/¹	hlai1239	1410	18.64	109.70		1 7 4 8	AXLT	KYN6	2	2.K.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	kʰuŋ*1/¹	0	512	512	kʰ - u ŋ *1/¹
+586	59_know	know	Gelong	Gelong	khoŋ1	khoŋ1	kʰ o ŋ *1/¹		1410	19.10	108.65		1 7 4 8	AXLT	KUN6	4	4.K.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	kʰoŋ*1/¹	0	512	512	kʰ - o ŋ *1/¹
+244	25_leaf	leaf	Xifang	Xifang Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	19.30	109.24		1 7 8	AXT	PE6	8	8.P.C 8.E.V 8.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+245	25_leaf	leaf	Baisha	Baisha Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	18.65	108.72		1 7 8	AXT	PE6	1	1.P.C 1.E.V 1.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+246	25_leaf	leaf	Yuanmen	Yuanmen Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	19.11	109.54		1 7 8	AXT	PE6	9	9.P.C 9.E.V 9.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+247	25_leaf	leaf	Heitu	Heitu Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	19.51	108.94		1 7 8	AXT	PE6	5	5.P.C 5.E.V 5.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+248	25_leaf	leaf	Baoding	Baoding Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	18.77	110.45		1 7 8	AXT	PE6	3	3.P.C 3.E.V 3.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+249	25_leaf	leaf	Zhongsha	Zhongsha Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	15.83	114.33		1 7 8	AXT	PE6	10	10.P.C 10.E.V 10.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+250	25_leaf	leaf	Tongzha	Tongzha Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	18.88	109.67		1 7 8	AXT	PE6	7	7.P.C 7.E.V 7.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+251	25_leaf	leaf	Qiandui	Quiandui Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	18.91	110.04		1 7 8	AXT	PE6	6	6.P.C 6.E.V 6.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+252	25_leaf	leaf	Baocheng	Baocheng Hlai	ɓeɯ1	ɓeɯ1	ɓ eɯ *1/¹	hlai1239	628	18.64	109.70		1 7 8	AXT	PE6	2	2.P.C 2.E.V 2.6.T	1.6 3.0 1.0	ɓeɯ*1/¹	0	521	521	ɓ eɯ *1/¹
+253	25_leaf	leaf	Gelong	Gelong	bou1	bou1	b ou *1/¹		628	19.10	108.65		1 7 8	AXT	PU6	4	4.P.C 4.U.V 4.6.T	1.6 3.0 1.0	bou*1/¹	0	521	521	b ou *1/¹
+519	53_liver	liver	Xifang	Xifang Hlai	ŋa: ŋ1	ŋa:_ŋ1	ŋ aː ŋ *1/¹	hlai1239	1224	19.30	109.24		4 7 4 8	AXLT	NAN6	8	8.N.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ŋaːŋ*1/¹	0	532	532	ŋ - aː ŋ *1/¹
+520	53_liver	liver	Baisha	Baisha Hlai	ŋa: ŋ1	ŋa:_ŋ1	ŋ aː ŋ *1/¹	hlai1239	1224	18.65	108.72		4 7 4 8	AXLT	NAN6	1	1.N.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ŋaːŋ*1/¹	0	532	532	ŋ - aː ŋ *1/¹
+521	53_liver	liver	Yuanmen	Yuanmen Hlai	ŋuan1	ŋuan1	ŋ u/w a n *1/¹	hlai1239	1224	19.11	109.54		4 6 7 4 8	ACXLT	NWAN6	9	9.N.C 9.W.C 9.A.V 9.N.c 9.6.T	1.6 1.2 3.0 1.1 1.0	ŋu/wan*1/¹	0	532	532	ŋ u/w a n *1/¹
+522	53_liver	liver	Heitu	Heitu Hlai	ŋa: n1	ŋa:_n1	ŋ aː n *1/¹	hlai1239	1224	19.51	108.94		4 7 4 8	AXLT	NAN6	5	5.N.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	ŋaːn*1/¹	0	532	532	ŋ - aː n *1/¹
+523	53_liver	liver	Baoding	Baoding Hlai	ŋa:n1	ŋa:n1	ŋ aː n *1/¹	hlai1239	1224	18.77	110.45		4 7 4 8	AXLT	NAN6	3	3.N.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ŋaːn*1/¹	0	532	532	ŋ - aː n *1/¹
+524	53_liver	liver	Zhongsha	Zhongsha Hlai	ŋa:n1	ŋa:n1	ŋ aː n *1/¹	hlai1239	1224	15.83	114.33		4 7 4 8	AXLT	NAN6	10	10.N.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	ŋaːn*1/¹	0	532	532	ŋ - aː n *1/¹
+525	53_liver	liver	Tongzha	Tongzha Hlai	ŋa:n1	ŋa:n1	ŋ aː n *1/¹	hlai1239	1224	18.88	109.67		4 7 4 8	AXLT	NAN6	7	7.N.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ŋaːn*1/¹	0	532	532	ŋ - aː n *1/¹
+526	53_liver	liver	Qiandui	Quiandui Hlai	ŋa:n4	ŋa:n4	ŋ aː n *4/⁴	hlai1239	1224	18.91	110.04		4 7 4 8	AXLT	NAN6	6	6.N.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ŋaːn*4/⁴	0	532	532	ŋ - aː n *4/⁴
+527	53_liver	liver	Baocheng	Baocheng Hlai	ŋa:n1	ŋa:n1	ŋ aː n *1/¹	hlai1239	1224	18.64	109.70		4 7 4 8	AXLT	NAN6	2	2.N.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ŋaːn*1/¹	0	532	532	ŋ - aː n *1/¹
+528	53_liver	liver	Gelong	Gelong	ŋɔn1	ŋɔn1	ŋ ɔ n *1/¹		1224	19.10	108.65		4 7 4 8	AXLT	NUN6	4	4.N.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	ŋɔn*1/¹	0	532	532	ŋ - ɔ n *1/¹
+133	14_long	long	Xifang	Xifang Hlai	ta:u3	ta:u3	t aːu *3/³	hlai1239	1203	19.30	109.24		1 7 8	AXT	TA6	8	8.T.C 8.A.V 8.6.T	1.6 3.0 1.0	taːu*3/³	0	543	543	t aːu *3/³
+134	14_long	long	Baisha	Baisha Hlai	ta:u3	ta:u3	t aːu *3/³	hlai1239	1203	18.65	108.72		1 7 8	AXT	TA6	1	1.T.C 1.A.V 1.6.T	1.6 3.0 1.0	taːu*3/³	0	543	543	t aːu *3/³
+135	14_long	long	Yuanmen	Yuanmen Hlai	ta:u6	ta:u6	t aːu *6/⁵¹	hlai1239	1203	19.11	109.54		1 7 8	AXT	TA3	9	9.T.C 9.A.V 9.3.T	1.6 3.0 1.0	taːu*6/⁵¹	0	543	543	t aːu *6/⁵¹
+136	14_long	long	Heitu	Heitu Hlai	na:u3	na:u3	n aːu *3/³	hlai1239	1203	19.51	108.94		4 7 8	AXT	NA6	5	5.N.C 5.A.V 5.6.T	1.6 3.0 1.0	naːu*3/³	0	544	544	n aːu *3/³
+137	14_long	long	Baoding	Baoding Hlai	ta:u3	ta:u3	t aːu *3/³	hlai1239	1203	18.77	110.45		1 7 8	AXT	TA6	3	3.T.C 3.A.V 3.6.T	1.6 3.0 1.0	taːu*3/³	0	543	543	t aːu *3/³
+138	14_long	long	Zhongsha	Zhongsha Hlai	ta:u3	ta:u3	t aːu *3/³	hlai1239	1203	15.83	114.33		1 7 8	AXT	TA6	10	10.T.C 10.A.V 10.6.T	1.6 3.0 1.0	taːu*3/³	0	543	543	t aːu *3/³
+139	14_long	long	Tongzha	Tongzha Hlai	ta:u6	ta:u6	t aːu *6/⁵¹	hlai1239	1203	18.88	109.67		1 7 8	AXT	TA3	7	7.T.C 7.A.V 7.3.T	1.6 3.0 1.0	taːu*6/⁵¹	0	543	543	t aːu *6/⁵¹
+140	14_long	long	Qiandui	Quiandui Hlai	tha:u6	tha:u6	tʰ aːu *6/⁵¹	hlai1239	1203	18.91	110.04		1 7 8	AXT	TA3	6	6.T.C 6.A.V 6.3.T	1.6 3.0 1.0	tʰaːu*6/⁵¹	0	543	543	tʰ aːu *6/⁵¹
+141	14_long	long	Baocheng	Baocheng Hlai	ta:u6	ta:u6	t aːu *6/⁵¹	hlai1239	1203	18.64	109.70		1 7 8	AXT	TA3	2	2.T.C 2.A.V 2.3.T	1.6 3.0 1.0	taːu*6/⁵¹	0	543	543	t aːu *6/⁵¹
+142	14_long	long	Gelong	Gelong	tsaːu4	tsaːu4	ts aːu *4/⁴		1203	19.10	108.65		2 7 8	AXT	CA6	4	4.C.C 4.A.V 4.6.T	1.6 3.0 1.0	tsaːu*4/⁴	0	543	543	ts aːu *4/⁴
+214	22_louse	louse	Xifang	Xifang Hlai	thaɁ1	thaɁ1	tʰ a ʔ *1/¹	hlai1239	1392	19.30	109.24		1 7 1 8	AXLT	TAH6	8	8.T.C 8.A.V 8.H.c 8.6.T	1.6 3.0 1.1 1.0	tʰaʔ*1/¹	0	554	554	tʰ a ʔ *1/¹
+215	22_louse	louse	Baisha	Baisha Hlai	thaɁ1	thaɁ1	tʰ a ʔ *1/¹	hlai1239	1392	18.65	108.72		1 7 1 8	AXLT	TAH6	1	1.T.C 1.A.V 1.H.c 1.6.T	1.6 3.0 1.1 1.0	tʰaʔ*1/¹	0	554	554	tʰ a ʔ *1/¹
+216	22_louse	louse	Yuanmen	Yuanmen Hlai	than1	than1	tʰ a n *1/¹	hlai1239	1392	19.11	109.54		1 7 4 8	AXLT	TAN6	9	9.T.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tʰan*1/¹	0	554	555	tʰ a n *1/¹
+217	22_louse	louse	Heitu	Heitu Hlai	then1	then1	tʰ e n *1/¹	hlai1239	1392	19.51	108.94		1 7 4 8	AXLT	TEN6	5	5.T.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	tʰen*1/¹	0	554	555	tʰ e n *1/¹
+218	22_louse	louse	Baoding	Baoding Hlai	than1	than1	tʰ a n *1/¹	hlai1239	1392	18.77	110.45		1 7 4 8	AXLT	TAN6	3	3.T.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	tʰan*1/¹	0	554	555	tʰ a n *1/¹
+219	22_louse	louse	Zhongsha	Zhongsha Hlai	than1	than1	tʰ a n *1/¹	hlai1239	1392	15.83	114.33		1 7 4 8	AXLT	TAN6	10	10.T.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	tʰan*1/¹	0	554	555	tʰ a n *1/¹
+220	22_louse	louse	Tongzha	Tongzha Hlai	than1	than1	tʰ a n *1/¹	hlai1239	1392	18.88	109.67		1 7 4 8	AXLT	TAN6	7	7.T.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	tʰan*1/¹	0	554	555	tʰ a n *1/¹
+221	22_louse	louse	Qiandui	Quiandui Hlai	than1	than1	tʰ a n *1/¹	hlai1239	1392	18.91	110.04		1 7 4 8	AXLT	TAN6	6	6.T.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	tʰan*1/¹	0	554	555	tʰ a n *1/¹
+222	22_louse	louse	Baocheng	Baocheng Hlai	than1	than1	tʰ a n *1/¹	hlai1239	1392	18.64	109.70		1 7 4 8	AXLT	TAN6	2	2.T.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	tʰan*1/¹	0	554	555	tʰ a n *1/¹
+223	22_louse	louse	Gelong	Gelong	ki5 feu1	ki5_feu1	k i *5/⁵ + f eu *1/¹		1392	19.10	108.65		1 7 8 9 3 7 8	AXT_AXT	KI6_BE6	4	4.K.C 4.I.V 4.6.T 4._._ 4.B.C 4.E.V 4.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ki*5/⁵+feu*1/¹	0	555 556	556 557	k i *5/⁵ + f eu *1/¹
+164	17_man	man	Xifang	Xifang Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	19.30	109.24		1 7 8	AXT	PA6	8	8.P.C 8.A.V 8.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+165	17_man	man	Baisha	Baisha Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	18.65	108.72		1 7 8	AXT	PA6	1	1.P.C 1.A.V 1.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+166	17_man	man	Yuanmen	Yuanmen Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	19.11	109.54		1 7 8	AXT	PA6	9	9.P.C 9.A.V 9.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+167	17_man	man	Heitu	Heitu Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	19.51	108.94		1 7 8	AXT	PA6	5	5.P.C 5.A.V 5.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+168	17_man	man	Baoding	Baoding Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	18.77	110.45		1 7 8	AXT	PA6	3	3.P.C 3.A.V 3.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+169	17_man	man	Zhongsha	Zhongsha Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	15.83	114.33		1 7 8	AXT	PA6	10	10.P.C 10.A.V 10.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+170	17_man	man	Tongzha	Tongzha Hlai	ɬɯ:Ɂ7	ɬɯ:Ɂ7	ɬ ɯː ʔ *7/⁵²	hlai1239	1554	18.88	109.67		5 7 1 8	AXLT	LIH3	7	7.L.C 7.I.V 7.H.c 7.3.T	1.6 3.0 1.1 1.0	ɬɯːʔ*7/⁵²	0	567	567	ɬ ɯː ʔ *7/⁵²
+171	17_man	man	Qiandui	Quiandui Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	18.91	110.04		1 7 8	AXT	PA6	6	6.P.C 6.A.V 6.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+172	17_man	man	Baocheng	Baocheng Hlai	pha3	pha3	pʰ a *3/³	hlai1239	1554	18.64	109.70		1 7 8	AXT	PA6	2	2.P.C 2.A.V 2.6.T	1.6 3.0 1.0	pʰa*3/³	0	566	566	pʰ a *3/³
+173	17_man	man	Gelong	Gelong	phɔ3	phɔ3	pʰ ɔ *3/³		1554	19.10	108.65		1 7 8	AXT	PU6	4	4.P.C 4.U.V 4.6.T	1.6 3.0 1.0	pʰɔ*3/³	0	566	566	pʰ ɔ *3/³
+93	10_many	many	Xifang	Xifang Hlai	ɬo:i1	ɬo:i1	ɬ oːi *1/¹	hlai1239	1198	19.30	109.24		5 7 8	AXT	LU6	8	8.L.C 8.U.V 8.6.T	1.6 3.0 1.0	ɬoːi*1/¹	0	577	577	ɬ - oːi *1/¹
+94	10_many	many	Baisha	Baisha Hlai	ɬuai1	ɬuai1	ɬ u/w ai *1/¹	hlai1239	1198	18.65	108.72		5 6 7 8	ACXT	LWA6	1	1.L.C 1.W.C 1.A.V 1.6.T	1.6 1.2 3.0 1.0	ɬu/wai*1/¹	0	577	577	ɬ u/w ai *1/¹
+95	10_many	many	Yuanmen	Yuanmen Hlai	ɬu:i1	ɬu:i1	ɬ uːi *1/¹	hlai1239	1198	19.11	109.54		5 7 8	AXT	LY6	9	9.L.C 9.Y.V 9.6.T	1.6 3.0 1.0	ɬuːi*1/¹	0	577	577	ɬ - uːi *1/¹
+96	10_many	many	Heitu	Heitu Hlai	da:i1	da:i1	d aːi *1/¹	hlai1239	1198	19.51	108.94		1 7 8	AXT	TA6	5	5.T.C 5.A.V 5.6.T	1.6 3.0 1.0	daːi*1/¹	0	578	578	d aːi *1/¹
+97	10_many	many	Baoding	Baoding Hlai	ɬo:i1	ɬo:i1	ɬ oːi *1/¹	hlai1239	1198	18.77	110.45		5 7 8	AXT	LU6	3	3.L.C 3.U.V 3.6.T	1.6 3.0 1.0	ɬoːi*1/¹	0	577	577	ɬ - oːi *1/¹
+98	10_many	many	Zhongsha	Zhongsha Hlai	ɬo:i1	ɬo:i1	ɬ oːi *1/¹	hlai1239	1198	15.83	114.33		5 7 8	AXT	LU6	10	10.L.C 10.U.V 10.6.T	1.6 3.0 1.0	ɬoːi*1/¹	0	577	577	ɬ - oːi *1/¹
+99	10_many	many	Tongzha	Tongzha Hlai	ɬa:i1	ɬa:i1	ɬ aːi *1/¹	hlai1239	1198	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	ɬaːi*1/¹	0	577	577	ɬ - aːi *1/¹
+100	10_many	many	Qiandui	Quiandui Hlai	ɬa:i1	ɬa:i1	ɬ aːi *1/¹	hlai1239	1198	18.91	110.04		5 7 8	AXT	LA6	6	6.L.C 6.A.V 6.6.T	1.6 3.0 1.0	ɬaːi*1/¹	0	577	577	ɬ - aːi *1/¹
+101	10_many	many	Baocheng	Baocheng Hlai	ɬa:i1	ɬa:i1	ɬ aːi *1/¹	hlai1239	1198	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	ɬaːi*1/¹	0	577	577	ɬ - aːi *1/¹
+102	10_many	many	Gelong	Gelong	tθɔi1	tθɔi1	tθ ɔi *1/¹		1198	19.10	108.65		1 7 8	AXT	TU6	4	4.T.C 4.U.V 4.6.T	1.6 3.0 1.0	tθɔi*1/¹	0	578	578	tθ ɔi *1/¹
+715	73_moon	moon	Xifang	Xifang Hlai	ȵa:ŋ1	ȵa:ŋ1	ȵ aː ŋ *1/¹	hlai1239	1313	19.30	109.24		4 7 4 8	AXLT	NAN6	8	8.N.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ȵaːŋ*1/¹	0	588	588	ȵ - aː ŋ *1/¹
+716	73_moon	moon	Baisha	Baisha Hlai	ȵa:ŋ1	ȵa:ŋ1	ȵ aː ŋ *1/¹	hlai1239	1313	18.65	108.72		4 7 4 8	AXLT	NAN6	1	1.N.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ȵaːŋ*1/¹	0	588	588	ȵ - aː ŋ *1/¹
+717	73_moon	moon	Yuanmen	Yuanmen Hlai	ȵuan4	ȵuan4	ȵ u/w a n *4/⁴	hlai1239	1313	19.11	109.54		4 6 7 4 8	ACXLT	NWAN6	9	9.N.C 9.W.C 9.A.V 9.N.c 9.6.T	1.6 1.2 3.0 1.1 1.0	ȵu/wan*4/⁴	0	588	588	ȵ u/w a n *4/⁴
+718	73_moon	moon	Heitu	Heitu Hlai	ȵa:n1	ȵa:n1	ȵ aː n *1/¹	hlai1239	1313	19.51	108.94		4 7 4 8	AXLT	NAN6	5	5.N.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	ȵaːn*1/¹	0	588	588	ȵ - aː n *1/¹
+719	73_moon	moon	Baoding	Baoding Hlai	ȵa:n1	ȵa:n1	ȵ aː n *1/¹	hlai1239	1313	18.77	110.45		4 7 4 8	AXLT	NAN6	3	3.N.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ȵaːn*1/¹	0	588	588	ȵ - aː n *1/¹
+720	73_moon	moon	Zhongsha	Zhongsha Hlai	ȵa:n1	ȵa:n1	ȵ aː n *1/¹	hlai1239	1313	15.83	114.33		4 7 4 8	AXLT	NAN6	10	10.N.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	ȵaːn*1/¹	0	588	588	ȵ - aː n *1/¹
+721	73_moon	moon	Tongzha	Tongzha Hlai	ȵa:n1	ȵa:n1	ȵ aː n *1/¹	hlai1239	1313	18.88	109.67		4 7 4 8	AXLT	NAN6	7	7.N.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ȵaːn*1/¹	0	588	588	ȵ - aː n *1/¹
+722	73_moon	moon	Qiandui	Quiandui Hlai	na:n4	na:n4	n aː n *4/⁴	hlai1239	1313	18.91	110.04		4 7 4 8	AXLT	NAN6	6	6.N.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	naːn*4/⁴	0	588	588	n - aː n *4/⁴
+723	73_moon	moon	Baocheng	Baocheng Hlai	ȵa:n1	ȵa:n1	ȵ aː n *1/¹	hlai1239	1313	18.64	109.70		4 7 4 8	AXLT	NAN6	2	2.N.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ȵaːn*1/¹	0	588	588	ȵ - aː n *1/¹
+724	73_moon	moon	Gelong	Gelong	ȵɔn1	ȵɔn1	ȵ ɔ n *1/¹		1313	19.10	108.65		4 7 4 8	AXLT	NUN6	4	4.N.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	ȵɔn*1/¹	0	588	588	ȵ - ɔ n *1/¹
+839	86_mountain	mountain	Xifang	Xifang Hlai	ŋo3	ŋo3	ŋ o *3/³	hlai1239	639	19.30	109.24		4 7 8	AXT	NU6	8	8.N.C 8.U.V 8.6.T	1.6 3.0 1.0	ŋo*3/³	0	599	599	ŋ o *3/³
+840	86_mountain	mountain	Baisha	Baisha Hlai	ŋo3	ŋo3	ŋ o *3/³	hlai1239	639	18.65	108.72		4 7 8	AXT	NU6	1	1.N.C 1.U.V 1.6.T	1.6 3.0 1.0	ŋo*3/³	0	599	599	ŋ o *3/³
+841	86_mountain	mountain	Yuanmen	Yuanmen Hlai	ɱo6	ɱo6	ɱ o *6/⁵¹	hlai1239	639	19.11	109.54		4 7 8	AXT	MU3	9	9.M.C 9.U.V 9.3.T	1.6 3.0 1.0	ɱo*6/⁵¹	0	603	603	ɱ o *6/⁵¹
+842	86_mountain	mountain	Heitu	Heitu Hlai	hau3	hau3	h au *3/³	hlai1239	639	19.51	108.94		3 7 8	AXT	HA6	5	5.H.C 5.A.V 5.6.T	1.6 3.0 1.0	hau*3/³	1	600	600	h - au *3/³
+843	86_mountain	mountain	Baoding	Baoding Hlai	hwou3	hwou3	h w ou *3/³	hlai1239	639	18.77	110.45		3 6 7 8	ACXT	HWU6	3	3.H.C 3.W.C 3.U.V 3.6.T	1.6 1.2 3.0 1.0	hwou*3/³	0	600	600	h w ou *3/³
+844	86_mountain	mountain	Zhongsha	Zhongsha Hlai	hau3	hau3	h au *3/³	hlai1239	639	15.83	114.33		3 7 8	AXT	HA6	10	10.H.C 10.A.V 10.6.T	1.6 3.0 1.0	hau*3/³	1	600	600	h - au *3/³
+845	86_mountain	mountain	Tongzha	Tongzha Hlai	go3	go3	g o *3/³	hlai1239	639	18.88	109.67		1 7 8	AXT	KU6	7	7.K.C 7.U.V 7.6.T	1.6 3.0 1.0	go*3/³	0	602	602	g o *3/³
+846	86_mountain	mountain	Qiandui	Quiandui Hlai	vo3	vo3	v o *3/³	hlai1239	639	18.91	110.04		3 7 8	AXT	BU6	6	6.B.C 6.U.V 6.6.T	1.6 3.0 1.0	vo*3/³	0	601	601	v o *3/³
+847	86_mountain	mountain	Baocheng	Baocheng Hlai	hɔ3	hɔ3	h ɔ *3/³	hlai1239	639	18.64	109.70		3 7 8	AXT	HU6	2	2.H.C 2.U.V 2.6.T	1.6 3.0 1.0	hɔ*3/³	0	600	600	h - ɔ *3/³
+848	86_mountain	mountain	Gelong	Gelong	ŋau3	ŋau3	ŋ au *3/³		639	19.10	108.65		4 7 8	AXT	NA6	4	4.N.C 4.A.V 4.6.T	1.6 3.0 1.0	ŋau*3/³	0	599	599	ŋ au *3/³
+408	42_mouth	mouth	Xifang	Xifang Hlai	pom3	pom3	p o m *3/³	hlai1239	674	19.30	109.24		1 7 4 8	AXLT	PUM6	8	8.P.C 8.U.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	pom*3/³	0	610	610	p o m *3/³
+409	42_mouth	mouth	Baisha	Baisha Hlai	pom3	pom3	p o m *3/³	hlai1239	674	18.65	108.72		1 7 4 8	AXLT	PUM6	1	1.P.C 1.U.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	pom*3/³	0	610	610	p o m *3/³
+410	42_mouth	mouth	Yuanmen	Yuanmen Hlai	pom6	pom6	p o m *6/⁵¹	hlai1239	674	19.11	109.54		1 7 4 8	AXLT	PUM3	9	9.P.C 9.U.V 9.M.c 9.3.T	1.6 3.0 1.1 1.0	pom*6/⁵¹	0	610	610	p o m *6/⁵¹
+411	42_mouth	mouth	Heitu	Heitu Hlai	mom3	mom3	m o m *3/³	hlai1239	674	19.51	108.94		4 7 4 8	AXLT	MUM6	5	5.M.C 5.U.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	mom*3/³	0	610	610	m o m *3/³
+412	42_mouth	mouth	Baoding	Baoding Hlai	pom3	pom3	p o m *3/³	hlai1239	674	18.77	110.45		1 7 4 8	AXLT	PUM6	3	3.P.C 3.U.V 3.M.c 3.6.T	1.6 3.0 1.1 1.0	pom*3/³	0	610	610	p o m *3/³
+413	42_mouth	mouth	Zhongsha	Zhongsha Hlai	pam3	pam3	p a m *3/³	hlai1239	674	15.83	114.33		1 7 4 8	AXLT	PAM6	10	10.P.C 10.A.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	pam*3/³	0	610	610	p a m *3/³
+414	42_mouth	mouth	Tongzha	Tongzha Hlai	pam6	pam6	p a m *6/⁵¹	hlai1239	674	18.88	109.67		1 7 4 8	AXLT	PAM3	7	7.P.C 7.A.V 7.M.c 7.3.T	1.6 3.0 1.1 1.0	pam*6/⁵¹	0	610	610	p a m *6/⁵¹
+415	42_mouth	mouth	Qiandui	Quiandui Hlai	pham6	pham6	pʰ a m *6/⁵¹	hlai1239	674	18.91	110.04		1 7 4 8	AXLT	PAM3	6	6.P.C 6.A.V 6.M.c 6.3.T	1.6 3.0 1.1 1.0	pʰam*6/⁵¹	0	610	610	pʰ a m *6/⁵¹
+416	42_mouth	mouth	Baocheng	Baocheng Hlai	pam6	pam6	p a m *6/⁵¹	hlai1239	674	18.64	109.70		1 7 4 8	AXLT	PAM3	2	2.P.C 2.A.V 2.M.c 2.3.T	1.6 3.0 1.1 1.0	pam*6/⁵¹	0	610	610	p a m *6/⁵¹
+417	42_mouth	mouth	Gelong	Gelong	boŋ4	boŋ4	b o ŋ *4/⁴		674	19.10	108.65		1 7 4 8	AXLT	PUN6	4	4.P.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	boŋ*4/⁴	0	610	611	b o ŋ *4/⁴
+989	100_name	name	Xifang	Xifang Hlai	phe:ŋ1	phe:ŋ1	pʰ eː ŋ *1/¹	hlai1239	1405	19.30	109.24		1 7 4 8	AXLT	PEN6	8	8.P.C 8.E.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	pʰeːŋ*1/¹	0	621	621	pʰ - eː ŋ *1/¹
+990	100_name	name	Baisha	Baisha Hlai	phiaŋ1	phiaŋ1	pʰ i/j a ŋ *1/¹	hlai1239	1405	18.65	108.72		1 6 7 4 8	ACXLT	PJAN6	1	1.P.C 1.J.C 1.A.V 1.N.c 1.6.T	1.6 1.2 3.0 1.1 1.0	pʰi/jaŋ*1/¹	0	621	621	pʰ i/j a ŋ *1/¹
+991	100_name	name	Yuanmen	Yuanmen Hlai	phiaŋ1	phiaŋ1	pʰ i/j a ŋ *1/¹	hlai1239	1405	19.11	109.54		1 6 7 4 8	ACXLT	PJAN6	9	9.P.C 9.J.C 9.A.V 9.N.c 9.6.T	1.6 1.2 3.0 1.1 1.0	pʰi/jaŋ*1/¹	0	621	621	pʰ i/j a ŋ *1/¹
+992	100_name	name	Heitu	Heitu Hlai	pha:ŋ1	pha:ŋ1	pʰ aː ŋ *1/¹	hlai1239	1405	19.51	108.94		1 7 4 8	AXLT	PAN6	5	5.P.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	pʰaːŋ*1/¹	0	621	621	pʰ - aː ŋ *1/¹
+993	100_name	name	Baoding	Baoding Hlai	phe:ŋ1	phe:ŋ1	pʰ eː ŋ *1/¹	hlai1239	1405	18.77	110.45		1 7 4 8	AXLT	PEN6	3	3.P.C 3.E.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	pʰeːŋ*1/¹	0	621	621	pʰ - eː ŋ *1/¹
+994	100_name	name	Zhongsha	Zhongsha Hlai	phe:ŋ1	phe:ŋ1	pʰ eː ŋ *1/¹	hlai1239	1405	15.83	114.33		1 7 4 8	AXLT	PEN6	10	10.P.C 10.E.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	pʰeːŋ*1/¹	0	621	621	pʰ - eː ŋ *1/¹
+995	100_name	name	Tongzha	Tongzha Hlai	phe:ŋ1	phe:ŋ1	pʰ eː ŋ *1/¹	hlai1239	1405	18.88	109.67		1 7 4 8	AXLT	PEN6	7	7.P.C 7.E.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	pʰeːŋ*1/¹	0	621	621	pʰ - eː ŋ *1/¹
+996	100_name	name	Qiandui	Quiandui Hlai	phe:ŋ1	phe:ŋ1	pʰ eː ŋ *1/¹	hlai1239	1405	18.91	110.04		1 7 4 8	AXLT	PEN6	6	6.P.C 6.E.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	pʰeːŋ*1/¹	0	621	621	pʰ - eː ŋ *1/¹
+997	100_name	name	Baocheng	Baocheng Hlai	phe:ŋ1	phe:ŋ1	pʰ eː ŋ *1/¹	hlai1239	1405	18.64	109.70		1 7 4 8	AXLT	PEN6	2	2.P.C 2.E.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	pʰeːŋ*1/¹	0	621	621	pʰ - eː ŋ *1/¹
+998	100_name	name	Gelong	Gelong	phɛŋ1	phɛŋ1	pʰ ɛ ŋ *1/¹		1405	19.10	108.65		1 7 4 8	AXLT	PEN6	4	4.P.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	pʰɛŋ*1/¹	0	621	621	pʰ - ɛ ŋ *1/¹
+489	50_neck	neck	Xifang	Xifang Hlai	zɔŋ3	zɔŋ3	z ɔ ŋ *3/³	hlai1239	1333	19.30	109.24		3 7 4 8	AXLT	SUN6	8	8.S.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	zɔŋ*3/³	0	632	632	z ɔ ŋ *3/³
+490	50_neck	neck	Baisha	Baisha Hlai	zɔŋ3	zɔŋ3	z ɔ ŋ *3/³	hlai1239	1333	18.65	108.72		3 7 4 8	AXLT	SUN6	1	1.S.C 1.U.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	zɔŋ*3/³	0	632	632	z ɔ ŋ *3/³
+491	50_neck	neck	Yuanmen	Yuanmen Hlai	tsɔŋ3	tsɔŋ3	ts ɔ ŋ *3/³	hlai1239	1333	19.11	109.54		2 7 4 8	AXLT	CUN6	9	9.C.C 9.U.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tsɔŋ*3/³	0	632	632	ts ɔ ŋ *3/³
+492	50_neck	neck	Heitu	Heitu Hlai	zoŋ3	zoŋ3	z o ŋ *3/³	hlai1239	1333	19.51	108.94		3 7 4 8	AXLT	SUN6	5	5.S.C 5.U.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	zoŋ*3/³	0	632	632	z o ŋ *3/³
+493	50_neck	neck	Baoding	Baoding Hlai	zoŋ3	zoŋ3	z o ŋ *3/³	hlai1239	1333	18.77	110.45		3 7 4 8	AXLT	SUN6	3	3.S.C 3.U.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	zoŋ*3/³	0	632	632	z o ŋ *3/³
+494	50_neck	neck	Zhongsha	Zhongsha Hlai	zuŋ3	zuŋ3	z u ŋ *3/³	hlai1239	1333	15.83	114.33		3 7 4 8	AXLT	SYN6	10	10.S.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	zuŋ*3/³	0	632	632	z u ŋ *3/³
+495	50_neck	neck	Tongzha	Tongzha Hlai	ɬoŋ6	ɬoŋ6	ɬ o ŋ *6/⁵¹	hlai1239	1333	18.88	109.67		5 7 4 8	AXLT	LUN3	7	7.L.C 7.U.V 7.N.c 7.3.T	1.6 3.0 1.1 1.0	ɬoŋ*6/⁵¹	0	632	632	ɬ o ŋ *6/⁵¹
+496	50_neck	neck	Qiandui	Quiandui Hlai	ɬoŋ6	ɬoŋ6	ɬ o ŋ *6/⁵¹	hlai1239	1333	18.91	110.04		5 7 4 8	AXLT	LUN3	6	6.L.C 6.U.V 6.N.c 6.3.T	1.6 3.0 1.1 1.0	ɬoŋ*6/⁵¹	0	632	632	ɬ o ŋ *6/⁵¹
+497	50_neck	neck	Baocheng	Baocheng Hlai	ɬɔŋ6	ɬɔŋ6	ɬ ɔ ŋ *6/⁵¹	hlai1239	1333	18.64	109.70		5 7 4 8	AXLT	LUN3	2	2.L.C 2.U.V 2.N.c 2.3.T	1.6 3.0 1.1 1.0	ɬɔŋ*6/⁵¹	0	632	632	ɬ ɔ ŋ *6/⁵¹
+498	50_neck	neck	Gelong	Gelong	lɔŋ4	lɔŋ4	l ɔ ŋ *4/⁴		1333	19.10	108.65		5 7 4 8	AXLT	LUN6	4	4.L.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	lɔŋ*4/⁴	0	632	632	l ɔ ŋ *4/⁴
+949	96_new	new	Xifang	Xifang Hlai	pa:ŋ1	pa:ŋ1	p aː ŋ *1/¹	hlai1239	1231	19.30	109.24		1 7 4 8	AXLT	PAN6	8	8.P.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	paːŋ*1/¹	0	644	644	p aː ŋ *1/¹
+950	96_new	new	Baisha	Baisha Hlai	no3	no3	n o *3/³	hlai1239	1231	18.65	108.72		4 7 8	AXT	NU6	1	1.N.C 1.U.V 1.6.T	1.6 3.0 1.0	no*3/³	0	643	643	n o *3/³
+951	96_new	new	Yuanmen	Yuanmen Hlai	no6	no6	n o *6/⁵¹	hlai1239	1231	19.11	109.54		4 7 8	AXT	NU3	9	9.N.C 9.U.V 9.3.T	1.6 3.0 1.0	no*6/⁵¹	0	643	643	n o *6/⁵¹
+952	96_new	new	Heitu	Heitu Hlai	ma:n1	ma:n1	m aː n *1/¹	hlai1239	1231	19.51	108.94		4 7 4 8	AXLT	MAN6	5	5.M.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	maːn*1/¹	0	644	644	m aː n *1/¹
+953	96_new	new	Baoding	Baoding Hlai	pa:n1	pa:n1	p aː n *1/¹	hlai1239	1231	18.77	110.45		1 7 4 8	AXLT	PAN6	3	3.P.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	paːn*1/¹	0	644	644	p aː n *1/¹
+954	96_new	new	Zhongsha	Zhongsha Hlai	pa:n1	pa:n1	p aː n *1/¹	hlai1239	1231	15.83	114.33		1 7 4 8	AXLT	PAN6	10	10.P.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	paːn*1/¹	0	644	644	p aː n *1/¹
+955	96_new	new	Tongzha	Tongzha Hlai	no3	no3	n o *3/³	hlai1239	1231	18.88	109.67		4 7 8	AXT	NU6	7	7.N.C 7.U.V 7.6.T	1.6 3.0 1.0	no*3/³	0	643	643	n o *3/³
+956	96_new	new	Qiandui	Quiandui Hlai	no6	no6	n o *6/⁵¹	hlai1239	1231	18.91	110.04		4 7 8	AXT	NU3	6	6.N.C 6.U.V 6.3.T	1.6 3.0 1.0	no*6/⁵¹	0	643	643	n o *6/⁵¹
+957	96_new	new	Baocheng	Baocheng Hlai	nɔ3	nɔ3	n ɔ *3/³	hlai1239	1231	18.64	109.70		4 7 8	AXT	NU6	2	2.N.C 2.U.V 2.6.T	1.6 3.0 1.0	nɔ*3/³	0	643	643	n ɔ *3/³
+958	96_new	new	Gelong	Gelong	bɔn4	bɔn4	b ɔ n *4/⁴		1231	19.10	108.65		1 7 4 8	AXLT	PUN6	4	4.P.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	bɔn*4/⁴	0	644	644	b ɔ n *4/⁴
+899	92_night	night	Xifang	Xifang Hlai	tshap7	tshap7	tsʰ a p *7/⁵²	hlai1239	1233	19.30	109.24		2 7 1 8	AXLT	CAP3	8	8.C.C 8.A.V 8.P.c 8.3.T	1.6 3.0 1.1 1.0	tsʰap*7/⁵²	0	654	654	tsʰ a p *7/⁵²
+900	92_night	night	Baisha	Baisha Hlai	tshap7	tshap7	tsʰ a p *7/⁵²	hlai1239	1233	18.65	108.72		2 7 1 8	AXLT	CAP3	1	1.C.C 1.A.V 1.P.c 1.3.T	1.6 3.0 1.1 1.0	tsʰap*7/⁵²	0	654	654	tsʰ a p *7/⁵²
+901	92_night	night	Yuanmen	Yuanmen Hlai	tshap7	tshap7	tsʰ a p *7/⁵²	hlai1239	1233	19.11	109.54		2 7 1 8	AXLT	CAP3	9	9.C.C 9.A.V 9.P.c 9.3.T	1.6 3.0 1.1 1.0	tsʰap*7/⁵²	0	654	654	tsʰ a p *7/⁵²
+902	92_night	night	Heitu	Heitu Hlai	tshop7	tshop7	tsʰ o p *7/⁵²	hlai1239	1233	19.51	108.94		2 7 1 8	AXLT	CUP3	5	5.C.C 5.U.V 5.P.c 5.3.T	1.6 3.0 1.1 1.0	tsʰop*7/⁵²	0	654	654	tsʰ o p *7/⁵²
+903	92_night	night	Baoding	Baoding Hlai	tshop7	tshop7	tsʰ o p *7/⁵²	hlai1239	1233	18.77	110.45		2 7 1 8	AXLT	CUP3	3	3.C.C 3.U.V 3.P.c 3.3.T	1.6 3.0 1.1 1.0	tsʰop*7/⁵²	0	654	654	tsʰ o p *7/⁵²
+904	92_night	night	Zhongsha	Zhongsha Hlai	tshap7	tshap7	tsʰ a p *7/⁵²	hlai1239	1233	15.83	114.33		2 7 1 8	AXLT	CAP3	10	10.C.C 10.A.V 10.P.c 10.3.T	1.6 3.0 1.1 1.0	tsʰap*7/⁵²	0	654	654	tsʰ a p *7/⁵²
+905	92_night	night	Tongzha	Tongzha Hlai	tshop7	tshop7	tsʰ o p *7/⁵²	hlai1239	1233	18.88	109.67		2 7 1 8	AXLT	CUP3	7	7.C.C 7.U.V 7.P.c 7.3.T	1.6 3.0 1.1 1.0	tsʰop*7/⁵²	0	654	654	tsʰ o p *7/⁵²
+906	92_night	night	Qiandui	Quiandui Hlai	tshap7	tshap7	tsʰ a p *7/⁵²	hlai1239	1233	18.91	110.04		2 7 1 8	AXLT	CAP3	6	6.C.C 6.A.V 6.P.c 6.3.T	1.6 3.0 1.1 1.0	tsʰap*7/⁵²	0	654	654	tsʰ a p *7/⁵²
+907	92_night	night	Baocheng	Baocheng Hlai	tshap7	tshap7	tsʰ a p *7/⁵²	hlai1239	1233	18.64	109.70		2 7 1 8	AXLT	CAP3	2	2.C.C 2.A.V 2.P.c 2.3.T	1.6 3.0 1.1 1.0	tsʰap*7/⁵²	0	654	654	tsʰ a p *7/⁵²
+908	92_night	night	Gelong	Gelong	tshap2	tshap2	tsʰ a p *2/²		1233	19.10	108.65		2 7 1 8	AXLT	CAP6	4	4.C.C 4.A.V 4.P.c 4.6.T	1.6 3.0 1.1 1.0	tsʰap*2/²	0	654	654	tsʰ a p *2/²
+398	41_nose	nose	Xifang	Xifang Hlai	khak7	khak7	kʰ a k *7/⁵²	hlai1239	1221	19.30	109.24		1 7 1 8	AXLT	KAK3	8	8.K.C 8.A.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	kʰak*7/⁵²	0	665	665	kʰ a k *7/⁵²
+399	41_nose	nose	Baisha	Baisha Hlai	khak7	khak7	kʰ a k *7/⁵²	hlai1239	1221	18.65	108.72		1 7 1 8	AXLT	KAK3	1	1.K.C 1.A.V 1.K.c 1.3.T	1.6 3.0 1.1 1.0	kʰak*7/⁵²	0	665	665	kʰ a k *7/⁵²
+400	41_nose	nose	Yuanmen	Yuanmen Hlai	khat7	khat7	kʰ a t *7/⁵²	hlai1239	1221	19.11	109.54		1 7 1 8	AXLT	KAT3	9	9.K.C 9.A.V 9.T.c 9.3.T	1.6 3.0 1.1 1.0	kʰat*7/⁵²	0	665	666	kʰ a t *7/⁵²
+401	41_nose	nose	Heitu	Heitu Hlai	khet7	khet7	kʰ e t *7/⁵²	hlai1239	1221	19.51	108.94		1 7 1 8	AXLT	KET3	5	5.K.C 5.E.V 5.T.c 5.3.T	1.6 3.0 1.1 1.0	kʰet*7/⁵²	0	665	666	kʰ e t *7/⁵²
+402	41_nose	nose	Baoding	Baoding Hlai	khat7	khat7	kʰ a t *7/⁵²	hlai1239	1221	18.77	110.45		1 7 1 8	AXLT	KAT3	3	3.K.C 3.A.V 3.T.c 3.3.T	1.6 3.0 1.1 1.0	kʰat*7/⁵²	0	665	666	kʰ a t *7/⁵²
+403	41_nose	nose	Zhongsha	Zhongsha Hlai	khat7	khat7	kʰ a t *7/⁵²	hlai1239	1221	15.83	114.33		1 7 1 8	AXLT	KAT3	10	10.K.C 10.A.V 10.T.c 10.3.T	1.6 3.0 1.1 1.0	kʰat*7/⁵²	0	665	666	kʰ a t *7/⁵²
+404	41_nose	nose	Tongzha	Tongzha Hlai	khat7	khat7	kʰ a t *7/⁵²	hlai1239	1221	18.88	109.67		1 7 1 8	AXLT	KAT3	7	7.K.C 7.A.V 7.T.c 7.3.T	1.6 3.0 1.1 1.0	kʰat*7/⁵²	0	665	666	kʰ a t *7/⁵²
+405	41_nose	nose	Qiandui	Quiandui Hlai	khat7	khat7	kʰ a t *7/⁵²	hlai1239	1221	18.91	110.04		1 7 1 8	AXLT	KAT3	6	6.K.C 6.A.V 6.T.c 6.3.T	1.6 3.0 1.1 1.0	kʰat*7/⁵²	0	665	666	kʰ a t *7/⁵²
+406	41_nose	nose	Baocheng	Baocheng Hlai	khat7	khat7	kʰ a t *7/⁵²	hlai1239	1221	18.64	109.70		1 7 1 8	AXLT	KAT3	2	2.K.C 2.A.V 2.T.c 2.3.T	1.6 3.0 1.1 1.0	kʰat*7/⁵²	0	665	666	kʰ a t *7/⁵²
+407	41_nose	nose	Gelong	Gelong	khat2	khat2	kʰ a t *2/²		1221	19.10	108.65		1 7 1 8	AXLT	KAT6	4	4.K.C 4.A.V 4.T.c 4.6.T	1.6 3.0 1.1 1.0	kʰat*2/²	0	665	666	kʰ a t *2/²
+73	8_not	not	Xifang	Xifang Hlai	ɣan3	ɣan3	ɣ a n *3/³	hlai1239	1240	19.30	109.24		3 7 4 8	AXLT	GAN6	8	8.G.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ɣan*3/³	0	679	676	ɣ a n *3/³
+74	8_not	not	Baisha	Baisha Hlai	van3	van3	v a n *3/³	hlai1239	1240	18.65	108.72		3 7 4 8	AXLT	BAN6	1	1.B.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	van*3/³	0	676	676	v a n *3/³
+75	8_not	not	Yuanmen	Yuanmen Hlai	van5	van5	v a n *5/⁵	hlai1239	1240	19.11	109.54		3 7 4 8	AXLT	BAN6	9	9.B.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	van*5/⁵	0	676	676	v a n *5/⁵
+76	8_not	not	Heitu	Heitu Hlai	Ɂe:m2	Ɂe:m2	ʔ eː m *2/²	hlai1239	1240	19.51	108.94		1 7 4 8	AXLT	HEM6	5	5.H.C 5.E.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	ʔeːm*2/²	0	678	679	ʔ eː m *2/²
+77	8_not	not	Baoding	Baoding Hlai	ta1	ta1	t a *1/¹	hlai1239	1240	18.77	110.45		1 7 8	AXT	TA6	3	3.T.C 3.A.V 3.6.T	1.6 3.0 1.0	ta*1/¹	0	677	678	t a *1/¹
+78	8_not	not	Zhongsha	Zhongsha Hlai	Ɂe:m2	Ɂe:m2	ʔ eː m *2/²	hlai1239	1240	15.83	114.33		1 7 4 8	AXLT	HEM6	10	10.H.C 10.E.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	ʔeːm*2/²	0	678	679	ʔ eː m *2/²
+79	8_not	not	Tongzha	Tongzha Hlai	vei4	vei4	v ei *4/⁴	hlai1239	1240	18.88	109.67		3 7 8	AXT	BE6	7	7.B.C 7.E.V 7.6.T	1.6 3.0 1.0	vei*4/⁴	0	676	677	v ei - *4/⁴
+80	8_not	not	Qiandui	Quiandui Hlai	van3	van3	v a n *3/³	hlai1239	1240	18.91	110.04		3 7 4 8	AXLT	BAN6	6	6.B.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	van*3/³	0	676	676	v a n *3/³
+81	8_not	not	Baocheng	Baocheng Hlai	vei4	vei4	v ei *4/⁴	hlai1239	1240	18.64	109.70		3 7 8	AXT	BE6	2	2.B.C 2.E.V 2.6.T	1.6 3.0 1.0	vei*4/⁴	0	676	677	v ei - *4/⁴
+82	8_not	not	Gelong	Gelong	vɛn3	vɛn3	v ɛ n *3/³		1240	19.10	108.65		3 7 4 8	AXLT	BEN6	4	4.B.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	vɛn*3/³	0	676	676	v ɛ n *3/³
+103	11_one	one	Xifang	Xifang Hlai	tshei3	tshei3	tsʰ ei *3/³	hlai1239	1493	19.30	109.24		2 7 8	AXT	CE6	8	8.C.C 8.E.V 8.6.T	1.6 3.0 1.0	tsʰei*3/³	0	687	687	tsʰ ei *3/³
+104	11_one	one	Baisha	Baisha Hlai	tsheɯ3	tsheɯ3	tsʰ eɯ *3/³	hlai1239	1493	18.65	108.72		2 7 8	AXT	CE6	1	1.C.C 1.E.V 1.6.T	1.6 3.0 1.0	tsʰeɯ*3/³	0	687	687	tsʰ eɯ *3/³
+105	11_one	one	Yuanmen	Yuanmen Hlai	tsɯ2	tsɯ2	ts ɯ *2/²	hlai1239	1493	19.11	109.54		2 7 8	AXT	CI6	9	9.C.C 9.I.V 9.6.T	1.6 3.0 1.0	tsɯ*2/²	0	687	687	ts ɯ *2/²
+106	11_one	one	Heitu	Heitu Hlai	kɯ2	kɯ2	k ɯ *2/²	hlai1239	1493	19.51	108.94		1 7 8	AXT	KI6	5	5.K.C 5.I.V 5.6.T	1.6 3.0 1.0	kɯ*2/²	0	687	688	k ɯ *2/²
+107	11_one	one	Baoding	Baoding Hlai	tsheɯ3	tsheɯ3	tsʰ eɯ *3/³	hlai1239	1493	18.77	110.45		2 7 8	AXT	CE6	3	3.C.C 3.E.V 3.6.T	1.6 3.0 1.0	tsʰeɯ*3/³	0	687	687	tsʰ eɯ *3/³
+108	11_one	one	Zhongsha	Zhongsha Hlai	kɯ2	kɯ2	k ɯ *2/²	hlai1239	1493	15.83	114.33		1 7 8	AXT	KI6	10	10.K.C 10.I.V 10.6.T	1.6 3.0 1.0	kɯ*2/²	0	687	688	k ɯ *2/²
+109	11_one	one	Tongzha	Tongzha Hlai	Ɂɯ3	Ɂɯ3	ʔ ɯ *3/³	hlai1239	1493	18.88	109.67		1 7 8	AXT	HI6	7	7.H.C 7.I.V 7.6.T	1.6 3.0 1.0	ʔɯ*3/³	0	688	690	ʔ ɯ *3/³
+110	11_one	one	Qiandui	Quiandui Hlai	tɯ5	tɯ5	t ɯ *5/⁵	hlai1239	1493	18.91	110.04		1 7 8	AXT	TI6	6	6.T.C 6.I.V 6.6.T	1.6 3.0 1.0	tɯ*5/⁵	0	687	689	t ɯ *5/⁵
+111	11_one	one	Baocheng	Baocheng Hlai	kɯ2	kɯ2	k ɯ *2/²	hlai1239	1493	18.64	109.70		1 7 8	AXT	KI6	2	2.K.C 2.I.V 2.6.T	1.6 3.0 1.0	kɯ*2/²	0	687	688	k ɯ *2/²
+112	11_one	one	Gelong	Gelong	tsi4	tsi4	ts i *4/⁴		1493	19.10	108.65		2 7 8	AXT	CI6	4	4.C.C 4.I.V 4.6.T	1.6 3.0 1.0	tsi*4/⁴	0	687	687	ts i *4/⁴
+829	85_path	path	Xifang	Xifang Hlai	kuŋ1	kuŋ1	k u ŋ *1/¹	hlai1239	2252	19.30	109.24		1 7 4 8	AXLT	KYN6	8	8.K.C 8.Y.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	kuŋ*1/¹	0	698	698	k u ŋ *1/¹
+830	85_path	path	Baisha	Baisha Hlai	kuŋ1	kuŋ1	k u ŋ *1/¹	hlai1239	2252	18.65	108.72		1 7 4 8	AXLT	KYN6	1	1.K.C 1.Y.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	kuŋ*1/¹	0	698	698	k u ŋ *1/¹
+831	85_path	path	Yuanmen	Yuanmen Hlai	kun5	kun5	k u n *5/⁵	hlai1239	2252	19.11	109.54		1 7 4 8	AXLT	KYN6	9	9.K.C 9.Y.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	kun*5/⁵	0	698	698	k u n *5/⁵
+832	85_path	path	Heitu	Heitu Hlai	ku:n1	ku:n1	k uː n *1/¹	hlai1239	2252	19.51	108.94		1 7 4 8	AXLT	KYN6	5	5.K.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	kuːn*1/¹	0	698	698	k uː n *1/¹
+833	85_path	path	Baoding	Baoding Hlai	ku:n1	ku:n1	k uː n *1/¹	hlai1239	2252	18.77	110.45		1 7 4 8	AXLT	KYN6	3	3.K.C 3.Y.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	kuːn*1/¹	0	698	698	k uː n *1/¹
+834	85_path	path	Zhongsha	Zhongsha Hlai	ku:n1	ku:n1	k uː n *1/¹	hlai1239	2252	15.83	114.33		1 7 4 8	AXLT	KYN6	10	10.K.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	kuːn*1/¹	0	698	698	k uː n *1/¹
+835	85_path	path	Tongzha	Tongzha Hlai	ku:n1	ku:n1	k uː n *1/¹	hlai1239	2252	18.88	109.67		1 7 4 8	AXLT	KYN6	7	7.K.C 7.Y.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	kuːn*1/¹	0	698	698	k uː n *1/¹
+836	85_path	path	Qiandui	Quiandui Hlai	ku:n1	ku:n1	k uː n *1/¹	hlai1239	2252	18.91	110.04		1 7 4 8	AXLT	KYN6	6	6.K.C 6.Y.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	kuːn*1/¹	0	698	698	k uː n *1/¹
+837	85_path	path	Baocheng	Baocheng Hlai	ku:n1	ku:n1	k uː n *1/¹	hlai1239	2252	18.64	109.70		1 7 4 8	AXLT	KYN6	2	2.K.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	kuːn*1/¹	0	698	698	k uː n *1/¹
+838	85_path	path	Gelong	Gelong	kai5	kai5	k ai *5/⁵		2252	19.10	108.65		1 7 8	AXT	KA6	4	4.K.C 4.A.V 4.6.T	1.6 3.0 1.0	kai*5/⁵	0	698	699	k ai - *5/⁵
+174	18_person	person	Xifang	Xifang Hlai	Ɂa:u1	Ɂa:u1	ʔ aːu *1/¹	hlai1239	683	19.30	109.24		1 7 8	AXT	HA6	8	8.H.C 8.A.V 8.6.T	1.6 3.0 1.0	ʔaːu*1/¹	0	710	710	ʔ aːu *1/¹
+175	18_person	person	Baisha	Baisha Hlai	ŋa:u4	ŋa:u4	ŋ aːu *4/⁴	hlai1239	683	18.65	108.72		4 7 8	AXT	NA6	1	1.N.C 1.A.V 1.6.T	1.6 3.0 1.0	ŋaːu*4/⁴	0	709	709	ŋ aːu *4/⁴
+176	18_person	person	Yuanmen	Yuanmen Hlai	ɱa:u5	ɱa:u5	ɱ aːu *5/⁵	hlai1239	683	19.11	109.54		4 7 8	AXT	MA6	9	9.M.C 9.A.V 9.6.T	1.6 3.0 1.0	ɱaːu*5/⁵	0	711	709	ɱ aːu *5/⁵
+177	18_person	person	Heitu	Heitu Hlai	Ɂa:u2	Ɂa:u2	ʔ aːu *2/²	hlai1239	683	19.51	108.94		1 7 8	AXT	HA6	5	5.H.C 5.A.V 5.6.T	1.6 3.0 1.0	ʔaːu*2/²	0	710	710	ʔ aːu *2/²
+178	18_person	person	Baoding	Baoding Hlai	Ɂa:u1	Ɂa:u1	ʔ aːu *1/¹	hlai1239	683	18.77	110.45		1 7 8	AXT	HA6	3	3.H.C 3.A.V 3.6.T	1.6 3.0 1.0	ʔaːu*1/¹	0	710	710	ʔ aːu *1/¹
+179	18_person	person	Zhongsha	Zhongsha Hlai	Ɂa:u1	Ɂa:u1	ʔ aːu *1/¹	hlai1239	683	15.83	114.33		1 7 8	AXT	HA6	10	10.H.C 10.A.V 10.6.T	1.6 3.0 1.0	ʔaːu*1/¹	0	710	710	ʔ aːu *1/¹
+180	18_person	person	Tongzha	Tongzha Hlai	Ɂa:u1	Ɂa:u1	ʔ aːu *1/¹	hlai1239	683	18.88	109.67		1 7 8	AXT	HA6	7	7.H.C 7.A.V 7.6.T	1.6 3.0 1.0	ʔaːu*1/¹	0	710	710	ʔ aːu *1/¹
+181	18_person	person	Qiandui	Quiandui Hlai	Ɂa:u1	Ɂa:u1	ʔ aːu *1/¹	hlai1239	683	18.91	110.04		1 7 8	AXT	HA6	6	6.H.C 6.A.V 6.6.T	1.6 3.0 1.0	ʔaːu*1/¹	0	710	710	ʔ aːu *1/¹
+182	18_person	person	Baocheng	Baocheng Hlai	Ɂa:u1	Ɂa:u1	ʔ aːu *1/¹	hlai1239	683	18.64	109.70		1 7 8	AXT	HA6	2	2.H.C 2.A.V 2.6.T	1.6 3.0 1.0	ʔaːu*1/¹	0	710	710	ʔ aːu *1/¹
+183	18_person	person	Gelong	Gelong	ŋaːu1	ŋaːu1	ŋ aːu *1/¹		683	19.10	108.65		4 7 8	AXT	NA6	4	4.N.C 4.A.V 4.6.T	1.6 3.0 1.0	ŋaːu*1/¹	0	709	709	ŋ aːu *1/¹
+745	76_rain	rain	Xifang	Xifang Hlai	foŋ1	foŋ1	f o ŋ *1/¹	hlai1239	2108	19.30	109.24		3 7 4 8	AXLT	BUN6	8	8.B.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	foŋ*1/¹	0	720	720	f o ŋ *1/¹
+746	76_rain	rain	Baisha	Baisha Hlai	foŋ1	foŋ1	f o ŋ *1/¹	hlai1239	2108	18.65	108.72		3 7 4 8	AXLT	BUN6	1	1.B.C 1.U.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	foŋ*1/¹	0	720	720	f o ŋ *1/¹
+747	76_rain	rain	Yuanmen	Yuanmen Hlai	fhən1	fhən1	fʰ ə n *1/¹	hlai1239	2108	19.11	109.54		3 7 4 8	AXLT	BEN6	9	9.B.C 9.E.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	fʰən*1/¹	0	720	720	fʰ ə n *1/¹
+748	76_rain	rain	Heitu	Heitu Hlai	pun1	pun1	p u n *1/¹	hlai1239	2108	19.51	108.94		1 7 4 8	AXLT	PYN6	5	5.P.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	pun*1/¹	0	720	720	p u n *1/¹
+749	76_rain	rain	Baoding	Baoding Hlai	fun1	fun1	f u n *1/¹	hlai1239	2108	18.77	110.45		3 7 4 8	AXLT	BYN6	3	3.B.C 3.Y.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	fun*1/¹	0	720	720	f u n *1/¹
+750	76_rain	rain	Zhongsha	Zhongsha Hlai	fun1	fun1	f u n *1/¹	hlai1239	2108	15.83	114.33		3 7 4 8	AXLT	BYN6	10	10.B.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	fun*1/¹	0	720	720	f u n *1/¹
+751	76_rain	rain	Tongzha	Tongzha Hlai	fun1	fun1	f u n *1/¹	hlai1239	2108	18.88	109.67		3 7 4 8	AXLT	BYN6	7	7.B.C 7.Y.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	fun*1/¹	0	720	720	f u n *1/¹
+752	76_rain	rain	Qiandui	Quiandui Hlai	fun1	fun1	f u n *1/¹	hlai1239	2108	18.91	110.04		3 7 4 8	AXLT	BYN6	6	6.B.C 6.Y.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	fun*1/¹	0	720	720	f u n *1/¹
+753	76_rain	rain	Baocheng	Baocheng Hlai	fun1	fun1	f u n *1/¹	hlai1239	2108	18.64	109.70		3 7 4 8	AXLT	BYN6	2	2.B.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	fun*1/¹	0	720	720	f u n *1/¹
+754	76_rain	rain	Gelong	Gelong	fən1	fən1	f ə n *1/¹		2108	19.10	108.65		3 7 4 8	AXLT	BEN6	4	4.B.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	fən*1/¹	0	720	720	f ə n *1/¹
+849	87_red	red	Xifang	Xifang Hlai	xa:ŋ3	xa:ŋ3	x aː ŋ *3/³	hlai1239	156	19.30	109.24		3 7 4 8	AXLT	GAN6	8	8.G.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	xaːŋ*3/³	0	731	733	x aː ŋ *3/³
+850	87_red	red	Baisha	Baisha Hlai	tɔŋ3	tɔŋ3	t ɔ ŋ *3/³	hlai1239	156	18.65	108.72		1 7 4 8	AXLT	TUN6	1	1.T.C 1.U.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	tɔŋ*3/³	0	731	731	t ɔ ŋ *3/³
+851	87_red	red	Yuanmen	Yuanmen Hlai	tɔŋ1	tɔŋ1	t ɔ ŋ *1/¹	hlai1239	156	19.11	109.54		1 7 4 8	AXLT	TUN6	9	9.T.C 9.U.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tɔŋ*1/¹	0	731	731	t ɔ ŋ *1/¹
+852	87_red	red	Heitu	Heitu Hlai	de:ŋ3	de:ŋ3	d eː ŋ *3/³	hlai1239	156	19.51	108.94		1 7 4 8	AXLT	TEN6	5	5.T.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	deːŋ*3/³	0	731	731	d eː ŋ *3/³
+853	87_red	red	Baoding	Baoding Hlai	ga:n3	ga:n3	g aː n *3/³	hlai1239	156	18.77	110.45		1 7 4 8	AXLT	KAN6	3	3.K.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	gaːn*3/³	0	731	733	g aː n *3/³
+854	87_red	red	Zhongsha	Zhongsha Hlai	ga:n3	ga:n3	g aː n *3/³	hlai1239	156	15.83	114.33		1 7 4 8	AXLT	KAN6	10	10.K.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	gaːn*3/³	0	731	733	g aː n *3/³
+855	87_red	red	Tongzha	Tongzha Hlai	ge:ŋ4	ge:ŋ4	g eː ŋ *4/⁴	hlai1239	156	18.88	109.67		1 7 4 8	AXLT	KEN6	7	7.K.C 7.E.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	geːŋ*4/⁴	0	731	733	g eː ŋ *4/⁴
+856	87_red	red	Qiandui	Quiandui Hlai	ɬa:t7	ɬa:t7	ɬ aː t *7/⁵²	hlai1239	156	18.91	110.04		5 7 1 8	AXLT	LAT3	6	6.L.C 6.A.V 6.T.c 6.3.T	1.6 3.0 1.1 1.0	ɬaːt*7/⁵²	0	732	732	ɬ aː t *7/⁵²
+857	87_red	red	Baocheng	Baocheng Hlai	ɬa:t7	ɬa:t7	ɬ aː t *7/⁵²	hlai1239	156	18.64	109.70		5 7 1 8	AXLT	LAT3	2	2.L.C 2.A.V 2.T.c 2.3.T	1.6 3.0 1.1 1.0	ɬaːt*7/⁵²	0	732	732	ɬ aː t *7/⁵²
+858	87_red	red	Gelong	Gelong	hoŋ1	hoŋ1	h o ŋ *1/¹		156	19.10	108.65		3 7 4 8	AXLT	HUN6	4	4.H.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	hoŋ*1/¹	0	731	734	h o ŋ *1/¹
+254	26_root	root	Xifang	Xifang Hlai	kei1	kei1	k ei *1/¹	hlai1239	670	19.30	109.24		1 7 8	AXT	KE6	8	8.K.C 8.E.V 8.6.T	1.6 3.0 1.0	kei*1/¹	0	744	744	k ei *1/¹
+255	26_root	root	Baisha	Baisha Hlai	rip8	rip8	r i p *8/⁵³	hlai1239	670	18.65	108.72		5 7 1 8	AXLT	RIP3	1	1.R.C 1.I.V 1.P.c 1.3.T	1.6 3.0 1.1 1.0	rip*8/⁵³	0	742	742	r i p *8/⁵³
+256	26_root	root	Yuanmen	Yuanmen Hlai	rip8	rip8	r i p *8/⁵³	hlai1239	670	19.11	109.54		5 7 1 8	AXLT	RIP3	9	9.R.C 9.I.V 9.P.c 9.3.T	1.6 3.0 1.1 1.0	rip*8/⁵³	0	742	742	r i p *8/⁵³
+257	26_root	root	Heitu	Heitu Hlai	ri:u1	ri:u1	r iːu *1/¹	hlai1239	670	19.51	108.94		5 7 8	AXT	RI6	5	5.R.C 5.I.V 5.6.T	1.6 3.0 1.0	riːu*1/¹	0	742	745	r iːu - *1/¹
+258	26_root	root	Baoding	Baoding Hlai	kei1	kei1	k ei *1/¹	hlai1239	670	18.77	110.45		1 7 8	AXT	KE6	3	3.K.C 3.E.V 3.6.T	1.6 3.0 1.0	kei*1/¹	0	744	744	k ei *1/¹
+259	26_root	root	Zhongsha	Zhongsha Hlai	gi:u1	gi:u1	g iːu *1/¹	hlai1239	670	15.83	114.33		1 7 8	AXT	KI6	10	10.K.C 10.I.V 10.6.T	1.6 3.0 1.0	giːu*1/¹	0	744	744	g iːu *1/¹
+260	26_root	root	Tongzha	Tongzha Hlai	van4	van4	v a n *4/⁴	hlai1239	670	18.88	109.67		3 7 4 8	AXLT	BAN6	7	7.B.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	van*4/⁴	0	743	743	v a n *4/⁴
+261	26_root	root	Qiandui	Quiandui Hlai	van4	van4	v a n *4/⁴	hlai1239	670	18.91	110.04		3 7 4 8	AXLT	BAN6	6	6.B.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	van*4/⁴	0	743	743	v a n *4/⁴
+262	26_root	root	Baocheng	Baocheng Hlai	van4	van4	v a n *4/⁴	hlai1239	670	18.64	109.70		3 7 4 8	AXLT	BAN6	2	2.B.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	van*4/⁴	0	743	743	v a n *4/⁴
+263	26_root	root	Gelong	Gelong	fon1	fon1	f o n *1/¹		670	19.10	108.65		3 7 4 8	AXLT	BUN6	4	4.B.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	fon*1/¹	1	743	743	f o n *1/¹
+969	98_round	round	Xifang	Xifang Hlai	ɣom1	ɣom1	ɣ o m *1/¹	hlai1239	1395	19.30	109.24		3 7 4 8	AXLT	GUM6	8	8.G.C 8.U.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	ɣom*1/¹	0	753	753	ɣ - o m *1/¹
+970	98_round	round	Baisha	Baisha Hlai	zom1	zom1	z o m *1/¹	hlai1239	1395	18.65	108.72		3 7 4 8	AXLT	SUM6	1	1.S.C 1.U.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	zom*1/¹	0	753	753	z - o m *1/¹
+971	98_round	round	Yuanmen	Yuanmen Hlai	vom4	vom4	v o m *4/⁴	hlai1239	1395	19.11	109.54		3 7 4 8	AXLT	BUM6	9	9.B.C 9.U.V 9.M.c 9.6.T	1.6 3.0 1.1 1.0	vom*4/⁴	0	753	753	v - o m *4/⁴
+972	98_round	round	Heitu	Heitu Hlai	hom1	hom1	h o m *1/¹	hlai1239	1395	19.51	108.94		3 7 4 8	AXLT	HUM6	5	5.H.C 5.U.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	hom*1/¹	0	753	753	h - o m *1/¹
+973	98_round	round	Baoding	Baoding Hlai	hwom1	hwom1	h w o m *1/¹	hlai1239	1395	18.77	110.45		3 6 7 4 8	ACXLT	HWUM6	3	3.H.C 3.W.C 3.U.V 3.M.c 3.6.T	1.6 1.2 3.0 1.1 1.0	hwom*1/¹	0	753	753	h w o m *1/¹
+974	98_round	round	Zhongsha	Zhongsha Hlai	hom1	hom1	h o m *1/¹	hlai1239	1395	15.83	114.33		3 7 4 8	AXLT	HUM6	10	10.H.C 10.U.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	hom*1/¹	0	753	753	h - o m *1/¹
+975	98_round	round	Tongzha	Tongzha Hlai	gom4	gom4	g o m *4/⁴	hlai1239	1395	18.88	109.67		1 7 4 8	AXLT	KUM6	7	7.K.C 7.U.V 7.M.c 7.6.T	1.6 3.0 1.1 1.0	gom*4/⁴	0	753	753	g - o m *4/⁴
+976	98_round	round	Qiandui	Quiandui Hlai	po5	po5	p o *5/⁵	hlai1239	1395	18.91	110.04		1 7 8	AXT	PU6	6	6.P.C 6.U.V 6.6.T	1.6 3.0 1.0	po*5/⁵	0	755	755	p o *5/⁵
+977	98_round	round	Baocheng	Baocheng Hlai	hum1	hum1	h u m *1/¹	hlai1239	1395	18.64	109.70		3 7 4 8	AXLT	HYM6	2	2.H.C 2.Y.V 2.M.c 2.6.T	1.6 3.0 1.1 1.0	hum*1/¹	0	753	753	h - u m *1/¹
+978	98_round	round	Gelong	Gelong	vin1	vin1	v i n *1/¹		1395	19.10	108.65		3 7 4 8	AXLT	BIN6	4	4.B.C 4.I.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	vin*1/¹	0	754	754	v i n *1/¹
+765	78_sand	sand	Xifang	Xifang Hlai	phau2	phau2	pʰ au *2/²	hlai1239	671	19.30	109.24		1 7 8	AXT	PA6	8	8.P.C 8.A.V 8.6.T	1.6 3.0 1.0	pʰau*2/²	0	764	764	pʰ au *2/²
+766	78_sand	sand	Baisha	Baisha Hlai	phau2	phau2	pʰ au *2/²	hlai1239	671	18.65	108.72		1 7 8	AXT	PA6	1	1.P.C 1.A.V 1.6.T	1.6 3.0 1.0	pʰau*2/²	0	764	764	pʰ au *2/²
+767	78_sand	sand	Yuanmen	Yuanmen Hlai	phau5	phau5	pʰ au *5/⁵	hlai1239	671	19.11	109.54		1 7 8	AXT	PA6	9	9.P.C 9.A.V 9.6.T	1.6 3.0 1.0	pʰau*5/⁵	0	764	764	pʰ au *5/⁵
+768	78_sand	sand	Heitu	Heitu Hlai	phau2	phau2	pʰ au *2/²	hlai1239	671	19.51	108.94		1 7 8	AXT	PA6	5	5.P.C 5.A.V 5.6.T	1.6 3.0 1.0	pʰau*2/²	0	764	764	pʰ au *2/²
+769	78_sand	sand	Baoding	Baoding Hlai	phou2	phou2	pʰ ou *2/²	hlai1239	671	18.77	110.45		1 7 8	AXT	PU6	3	3.P.C 3.U.V 3.6.T	1.6 3.0 1.0	pʰou*2/²	0	764	764	pʰ ou *2/²
+770	78_sand	sand	Zhongsha	Zhongsha Hlai	phau2	phau2	pʰ au *2/²	hlai1239	671	15.83	114.33		1 7 8	AXT	PA6	10	10.P.C 10.A.V 10.6.T	1.6 3.0 1.0	pʰau*2/²	0	764	764	pʰ au *2/²
+771	78_sand	sand	Tongzha	Tongzha Hlai	phau5	phau5	pʰ au *5/⁵	hlai1239	671	18.88	109.67		1 7 8	AXT	PA6	7	7.P.C 7.A.V 7.6.T	1.6 3.0 1.0	pʰau*5/⁵	0	764	764	pʰ au *5/⁵
+772	78_sand	sand	Qiandui	Quiandui Hlai	pho5	pho5	pʰ o *5/⁵	hlai1239	671	18.91	110.04		1 7 8	AXT	PU6	6	6.P.C 6.U.V 6.6.T	1.6 3.0 1.0	pʰo*5/⁵	0	764	764	pʰ o *5/⁵
+773	78_sand	sand	Baocheng	Baocheng Hlai	phɔ5	phɔ5	pʰ ɔ *5/⁵	hlai1239	671	18.64	109.70		1 7 8	AXT	PU6	2	2.P.C 2.U.V 2.6.T	1.6 3.0 1.0	pʰɔ*5/⁵	0	764	764	pʰ ɔ *5/⁵
+774	78_sand	sand	Gelong	Gelong	pha5	pha5	pʰ a *5/⁵		671	19.10	108.65		1 7 8	AXT	PA6	4	4.P.C 4.A.V 4.6.T	1.6 3.0 1.0	pʰa*5/⁵	0	764	764	pʰ a *5/⁵
+688	71_say	say	Xifang	Xifang Hlai	tshem2	tshem2	tsʰ e m *2/²	hlai1239	1458	19.30	109.24		2 7 4 8	AXLT	CEM6	8	8.C.C 8.E.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	tsʰem*2/²	0	775	775	tsʰ e m *2/²
+689	71_say	say	Baisha	Baisha Hlai	tshem2	tshem2	tsʰ e m *2/²	hlai1239	1458	18.65	108.72		2 7 4 8	AXLT	CEM6	1	1.C.C 1.E.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	tsʰem*2/²	0	775	775	tsʰ e m *2/²
+690	71_say	say	Yuanmen	Yuanmen Hlai	ȵeɯ4	ȵeɯ4	ȵ eɯ *4/⁴	hlai1239	1458	19.11	109.54		4 7 8	AXT	NE6	9	9.N.C 9.E.V 9.6.T	1.6 3.0 1.0	ȵeɯ*4/⁴	0	778	778	ȵ eɯ *4/⁴
+691	71_say	say	Heitu	Heitu Hlai	ri:n1	ri:n1	r iː n *1/¹	hlai1239	1458	19.51	108.94		5 7 4 8	AXLT	RIN6	5	5.R.C 5.I.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	riːn*1/¹	0	776	776	r iː n *1/¹
+692	71_say	say	Baoding	Baoding Hlai	ri:n1	ri:n1	r iː n *1/¹	hlai1239	1458	18.77	110.45		5 7 4 8	AXLT	RIN6	3	3.R.C 3.I.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	riːn*1/¹	0	776	776	r iː n *1/¹
+693	71_say	say	Zhongsha	Zhongsha Hlai	ri:n1	ri:n1	r iː n *1/¹	hlai1239	1458	15.83	114.33		5 7 4 8	AXLT	RIN6	10	10.R.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	riːn*1/¹	0	776	776	r iː n *1/¹
+694	71_say	say	Tongzha	Tongzha Hlai	ri:n4	ri:n4	r iː n *4/⁴	hlai1239	1458	18.88	109.67		5 7 4 8	AXLT	RIN6	7	7.R.C 7.I.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	riːn*4/⁴	0	776	776	r iː n *4/⁴
+695	71_say	say	Qiandui	Quiandui Hlai	khuaŋ3	khuaŋ3	kʰ u/w a ŋ *3/³	hlai1239	1458	18.91	110.04		1 6 7 4 8	ACXLT	KWAN6	6	6.K.C 6.W.C 6.A.V 6.N.c 6.6.T	1.6 1.2 3.0 1.1 1.0	kʰu/waŋ*3/³	0	777	777	kʰ u/w a ŋ *3/³
+696	71_say	say	Baocheng	Baocheng Hlai	li:n4	li:n4	l iː n *4/⁴	hlai1239	1458	18.64	109.70		5 7 4 8	AXLT	LIN6	2	2.L.C 2.I.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	liːn*4/⁴	0	776	776	l iː n *4/⁴
+697	71_say	say	Gelong	Gelong	kaːŋ2	kaːŋ2	k aː ŋ *2/²		1458	19.10	108.65		1 7 4 8	AXLT	KAN6	4	4.K.C 4.A.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	kaːŋ*2/²	0	777	777	k - aː ŋ *2/²
+559	57_see	see	Xifang	Xifang Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	19.30	109.24		5 7 8	AXT	LA6	8	8.L.C 8.A.V 8.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+560	57_see	see	Baisha	Baisha Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	18.65	108.72		5 7 8	AXT	LA6	1	1.L.C 1.A.V 1.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+561	57_see	see	Yuanmen	Yuanmen Hlai	luai6	luai6	l u/w ai *6/⁵¹	hlai1239	1409	19.11	109.54		5 6 7 8	ACXT	LWA3	9	9.L.C 9.W.C 9.A.V 9.3.T	1.6 1.2 3.0 1.0	lu/wai*6/⁵¹	0	786	786	l u/w ai *6/⁵¹
+562	57_see	see	Heitu	Heitu Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	19.51	108.94		5 7 8	AXT	LA6	5	5.L.C 5.A.V 5.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+563	57_see	see	Baoding	Baoding Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	18.77	110.45		5 7 8	AXT	LA6	3	3.L.C 3.A.V 3.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+564	57_see	see	Zhongsha	Zhongsha Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	15.83	114.33		5 7 8	AXT	LA6	10	10.L.C 10.A.V 10.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+565	57_see	see	Tongzha	Tongzha Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+566	57_see	see	Qiandui	Quiandui Hlai	la:i6	la:i6	l aːi *6/⁵¹	hlai1239	1409	18.91	110.04		5 7 8	AXT	LA3	6	6.L.C 6.A.V 6.3.T	1.6 3.0 1.0	laːi*6/⁵¹	0	786	786	l - aːi *6/⁵¹
+567	57_see	see	Baocheng	Baocheng Hlai	la:i3	la:i3	l aːi *3/³	hlai1239	1409	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	laːi*3/³	0	786	786	l - aːi *3/³
+568	57_see	see	Gelong	Gelong	lai3	lai3	l ai *3/³		1409	19.10	108.65		5 7 8	AXT	LA6	4	4.L.C 4.A.V 4.6.T	1.6 3.0 1.0	lai*3/³	0	786	786	l - ai *3/³
+234	24_seed	seed	Xifang	Xifang Hlai	faŋ1	faŋ1	f a ŋ *1/¹	hlai1239	714	19.30	109.24		3 7 4 8	AXLT	BAN6	8	8.B.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	faŋ*1/¹	0	797	797	f a ŋ *1/¹
+235	24_seed	seed	Baisha	Baisha Hlai	faŋ1	faŋ1	f a ŋ *1/¹	hlai1239	714	18.65	108.72		3 7 4 8	AXLT	BAN6	1	1.B.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	faŋ*1/¹	0	797	797	f a ŋ *1/¹
+236	24_seed	seed	Yuanmen	Yuanmen Hlai	fan1	fan1	f a n *1/¹	hlai1239	714	19.11	109.54		3 7 4 8	AXLT	BAN6	9	9.B.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	fan*1/¹	0	797	797	f a n *1/¹
+237	24_seed	seed	Heitu	Heitu Hlai	phen1	phen1	pʰ e n *1/¹	hlai1239	714	19.51	108.94		1 7 4 8	AXLT	PEN6	5	5.P.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	pʰen*1/¹	0	797	797	pʰ e n *1/¹
+238	24_seed	seed	Baoding	Baoding Hlai	fan1	fan1	f a n *1/¹	hlai1239	714	18.77	110.45		3 7 4 8	AXLT	BAN6	3	3.B.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	fan*1/¹	0	797	797	f a n *1/¹
+239	24_seed	seed	Zhongsha	Zhongsha Hlai	fan1	fan1	f a n *1/¹	hlai1239	714	15.83	114.33		3 7 4 8	AXLT	BAN6	10	10.B.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	fan*1/¹	0	797	797	f a n *1/¹
+240	24_seed	seed	Tongzha	Tongzha Hlai	fan1	fan1	f a n *1/¹	hlai1239	714	18.88	109.67		3 7 4 8	AXLT	BAN6	7	7.B.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	fan*1/¹	0	797	797	f a n *1/¹
+241	24_seed	seed	Qiandui	Quiandui Hlai	fan1	fan1	f a n *1/¹	hlai1239	714	18.91	110.04		3 7 4 8	AXLT	BAN6	6	6.B.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	fan*1/¹	0	797	797	f a n *1/¹
+242	24_seed	seed	Baocheng	Baocheng Hlai	fan1	fan1	f a n *1/¹	hlai1239	714	18.64	109.70		3 7 4 8	AXLT	BAN6	2	2.B.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	fan*1/¹	0	797	797	f a n *1/¹
+243	24_seed	seed	Gelong	Gelong	fon1	fon1	f o n *1/¹		714	19.10	108.65		3 7 4 8	AXLT	BUN6	4	4.B.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	fon*1/¹	0	797	797	f o n *1/¹
+658	68_sit	sit	Xifang	Xifang Hlai	tsɔŋ3	tsɔŋ3	ts ɔ ŋ *3/³	hlai1239	1416	19.30	109.24		2 7 4 8	AXLT	CUN6	8	8.C.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	tsɔŋ*3/³	0	808	808	ts ɔ ŋ *3/³
+659	68_sit	sit	Baisha	Baisha Hlai	tsɔŋ1	tsɔŋ1	ts ɔ ŋ *1/¹	hlai1239	1416	18.65	108.72		2 7 4 8	AXLT	CUN6	1	1.C.C 1.U.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	tsɔŋ*1/¹	0	808	808	ts ɔ ŋ *1/¹
+660	68_sit	sit	Yuanmen	Yuanmen Hlai	tɔŋ3	tɔŋ3	t ɔ ŋ *3/³	hlai1239	1416	19.11	109.54		1 7 4 8	AXLT	TUN6	9	9.T.C 9.U.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tɔŋ*3/³	0	808	808	t ɔ ŋ *3/³
+661	68_sit	sit	Heitu	Heitu Hlai	tsuŋ3	tsuŋ3	ts u ŋ *3/³	hlai1239	1416	19.51	108.94		2 7 4 8	AXLT	CYN6	5	5.C.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	tsuŋ*3/³	0	808	808	ts u ŋ *3/³
+662	68_sit	sit	Baoding	Baoding Hlai	tsoŋ3	tsoŋ3	ts o ŋ *3/³	hlai1239	1416	18.77	110.45		2 7 4 8	AXLT	CUN6	3	3.C.C 3.U.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	tsoŋ*3/³	0	808	808	ts o ŋ *3/³
+663	68_sit	sit	Zhongsha	Zhongsha Hlai	tsuŋ3	tsuŋ3	ts u ŋ *3/³	hlai1239	1416	15.83	114.33		2 7 4 8	AXLT	CYN6	10	10.C.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	tsuŋ*3/³	0	808	808	ts u ŋ *3/³
+664	68_sit	sit	Tongzha	Tongzha Hlai	tsoŋ3	tsoŋ3	ts o ŋ *3/³	hlai1239	1416	18.88	109.67		2 7 4 8	AXLT	CUN6	7	7.C.C 7.U.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	tsoŋ*3/³	0	808	808	ts o ŋ *3/³
+665	68_sit	sit	Qiandui	Quiandui Hlai	tsoŋ3	tsoŋ3	ts o ŋ *3/³	hlai1239	1416	18.91	110.04		2 7 4 8	AXLT	CUN6	6	6.C.C 6.U.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	tsoŋ*3/³	0	808	808	ts o ŋ *3/³
+666	68_sit	sit	Baocheng	Baocheng Hlai	tsɔŋ3	tsɔŋ3	ts ɔ ŋ *3/³	hlai1239	1416	18.64	109.70		2 7 4 8	AXLT	CUN6	2	2.C.C 2.U.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	tsɔŋ*3/³	0	808	808	ts ɔ ŋ *3/³
+667	68_sit	sit	Gelong	Gelong	tsom5	tsom5	ts o m *5/⁵		1416	19.10	108.65		2 7 4 8	AXLT	CUM6	4	4.C.C 4.U.V 4.M.c 4.6.T	1.6 3.0 1.1 1.0	tsom*5/⁵	0	808	809	ts o m *5/⁵
+264	28_skin	skin	Xifang	Xifang Hlai	no:ŋ1	no:ŋ1	n oː ŋ *1/¹	hlai1239	763	19.30	109.24		4 7 4 8	AXLT	NUN6	8	8.N.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	noːŋ*1/¹	0	819	819	n - oː ŋ *1/¹
+265	28_skin	skin	Baisha	Baisha Hlai	nuaŋ1	nuaŋ1	n u/w a ŋ *1/¹	hlai1239	763	18.65	108.72		4 6 7 4 8	ACXLT	NWAN6	1	1.N.C 1.W.C 1.A.V 1.N.c 1.6.T	1.6 1.2 3.0 1.1 1.0	nu/waŋ*1/¹	0	819	819	n u/w a ŋ *1/¹
+266	28_skin	skin	Yuanmen	Yuanmen Hlai	nuaŋ4	nuaŋ4	n u/w a ŋ *4/⁴	hlai1239	763	19.11	109.54		4 6 7 4 8	ACXLT	NWAN6	9	9.N.C 9.W.C 9.A.V 9.N.c 9.6.T	1.6 1.2 3.0 1.1 1.0	nu/waŋ*4/⁴	0	819	819	n u/w a ŋ *4/⁴
+267	28_skin	skin	Heitu	Heitu Hlai	naŋ1	naŋ1	n a ŋ *1/¹	hlai1239	763	19.51	108.94		4 7 4 8	AXLT	NAN6	5	5.N.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	naŋ*1/¹	0	819	819	n - a ŋ *1/¹
+268	28_skin	skin	Baoding	Baoding Hlai	no:ŋ1	no:ŋ1	n oː ŋ *1/¹	hlai1239	763	18.77	110.45		4 7 4 8	AXLT	NUN6	3	3.N.C 3.U.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	noːŋ*1/¹	0	819	819	n - oː ŋ *1/¹
+269	28_skin	skin	Zhongsha	Zhongsha Hlai	no:ŋ1	no:ŋ1	n oː ŋ *1/¹	hlai1239	763	15.83	114.33		4 7 4 8	AXLT	NUN6	10	10.N.C 10.U.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	noːŋ*1/¹	0	819	819	n - oː ŋ *1/¹
+270	28_skin	skin	Tongzha	Tongzha Hlai	no:ŋ1	no:ŋ1	n oː ŋ *1/¹	hlai1239	763	18.88	109.67		4 7 4 8	AXLT	NUN6	7	7.N.C 7.U.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	noːŋ*1/¹	0	819	819	n - oː ŋ *1/¹
+271	28_skin	skin	Qiandui	Quiandui Hlai	nɔ:ŋ4	nɔ:ŋ4	n ɔː ŋ *4/⁴	hlai1239	763	18.91	110.04		4 7 4 8	AXLT	NUN6	6	6.N.C 6.U.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	nɔːŋ*4/⁴	0	819	819	n - ɔː ŋ *4/⁴
+272	28_skin	skin	Baocheng	Baocheng Hlai	nɔ:ŋ1	nɔ:ŋ1	n ɔː ŋ *1/¹	hlai1239	763	18.64	109.70		4 7 4 8	AXLT	NUN6	2	2.N.C 2.U.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	nɔːŋ*1/¹	0	819	819	n - ɔː ŋ *1/¹
+273	28_skin	skin	Gelong	Gelong	naŋ1	naŋ1	n a ŋ *1/¹		763	19.10	108.65		4 7 4 8	AXLT	NAN6	4	4.N.C 4.A.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	naŋ*1/¹	0	819	819	n - a ŋ *1/¹
+587	60_sleep	sleep	Xifang	Xifang Hlai	tso:ŋ1	tso:ŋ1	ts oː ŋ *1/¹	hlai1239	1585	19.30	109.24		2 7 4 8	AXLT	CUN6	8	8.C.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	tsoːŋ*1/¹	0	830	830	ts - oː ŋ *1/¹
+588	60_sleep	sleep	Baisha	Baisha Hlai	tsuaŋ1	tsuaŋ1	ts u/w a ŋ *1/¹	hlai1239	1585	18.65	108.72		2 6 7 4 8	ACXLT	CWAN6	1	1.C.C 1.W.C 1.A.V 1.N.c 1.6.T	1.6 1.2 3.0 1.1 1.0	tsu/waŋ*1/¹	0	830	830	ts u/w a ŋ *1/¹
+589	60_sleep	sleep	Yuanmen	Yuanmen Hlai	tu:n1	tu:n1	t uː n *1/¹	hlai1239	1585	19.11	109.54		1 7 4 8	AXLT	TYN6	9	9.T.C 9.Y.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tuːn*1/¹	0	830	830	t - uː n *1/¹
+590	60_sleep	sleep	Heitu	Heitu Hlai	tso:n1	tso:n1	ts oː n *1/¹	hlai1239	1585	19.51	108.94		2 7 4 8	AXLT	CUN6	5	5.C.C 5.U.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	tsoːn*1/¹	0	830	830	ts - oː n *1/¹
+591	60_sleep	sleep	Baoding	Baoding Hlai	tso:n1	tso:n1	ts oː n *1/¹	hlai1239	1585	18.77	110.45		2 7 4 8	AXLT	CUN6	3	3.C.C 3.U.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	tsoːn*1/¹	0	830	830	ts - oː n *1/¹
+592	60_sleep	sleep	Zhongsha	Zhongsha Hlai	tso:n1	tso:n1	ts oː n *1/¹	hlai1239	1585	15.83	114.33		2 7 4 8	AXLT	CUN6	10	10.C.C 10.U.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	tsoːn*1/¹	0	830	830	ts - oː n *1/¹
+593	60_sleep	sleep	Tongzha	Tongzha Hlai	tso:n1	tso:n1	ts oː n *1/¹	hlai1239	1585	18.88	109.67		2 7 4 8	AXLT	CUN6	7	7.C.C 7.U.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	tsoːn*1/¹	0	830	830	ts - oː n *1/¹
+594	60_sleep	sleep	Qiandui	Quiandui Hlai	tsɔ:n1	tsɔ:n1	ts ɔː n *1/¹	hlai1239	1585	18.91	110.04		2 7 4 8	AXLT	CUN6	6	6.C.C 6.U.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	tsɔːn*1/¹	0	830	830	ts - ɔː n *1/¹
+595	60_sleep	sleep	Baocheng	Baocheng Hlai	tsɔ:n1	tsɔ:n1	ts ɔː n *1/¹	hlai1239	1585	18.64	109.70		2 7 4 8	AXLT	CUN6	2	2.C.C 2.U.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	tsɔːn*1/¹	0	830	830	ts - ɔː n *1/¹
+143	15_small	small	Xifang	Xifang Hlai	Ɂiȵ2 // tɔk7	Ɂiȵ2	ʔ i ȵ *2/²	hlai1239	1246	19.30	109.24		1 7 4 8	AXLT	HIN6	8	8.H.C 8.I.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ʔiȵ*2/²	0	841	841	ʔ i ȵ *2/²
+144	15_small	small	Xifang	Xifang Hlai	Ɂiȵ2 // tɔk7	tɔk7	t ɔ k *7/⁵²	hlai1239	1246	19.30	109.24		1 7 1 8	AXLT	TUK3	8	8.T.C 8.U.V 8.K.c 8.3.T	1.6 3.0 1.1 1.0	tɔk*7/⁵²	0	840	840	t ɔ k *7/⁵²
+145	15_small	small	Baisha	Baisha Hlai	tɔk8	tɔk8	t ɔ k *8/⁵³	hlai1239	1246	18.65	108.72		1 7 1 8	AXLT	TUK3	1	1.T.C 1.U.V 1.K.c 1.3.T	1.6 3.0 1.1 1.0	tɔk*8/⁵³	0	840	840	t ɔ k *8/⁵³
+146	15_small	small	Yuanmen	Yuanmen Hlai	tɔk8	tɔk8	t ɔ k *8/⁵³	hlai1239	1246	19.11	109.54		1 7 1 8	AXLT	TUK3	9	9.T.C 9.U.V 9.K.c 9.3.T	1.6 3.0 1.1 1.0	tɔk*8/⁵³	0	840	840	t ɔ k *8/⁵³
+147	15_small	small	Heitu	Heitu Hlai	tik9	tik9	t i k *9/⁵⁴	hlai1239	1246	19.51	108.94		1 7 1 8	AXLT	TIK3	5	5.T.C 5.I.V 5.K.c 5.3.T	1.6 3.0 1.1 1.0	tik*9/⁵⁴	0	840	840	t i k *9/⁵⁴
+148	15_small	small	Baoding	Baoding Hlai	Ɂeȵ2	Ɂeȵ2	ʔ e ȵ *2/²	hlai1239	1246	18.77	110.45		1 7 4 8	AXLT	HEN6	3	3.H.C 3.E.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ʔeȵ*2/²	0	841	841	ʔ e ȵ *2/²
+149	15_small	small	Zhongsha	Zhongsha Hlai	Ɂin2	Ɂin2	ʔ i n *2/²	hlai1239	1246	15.83	114.33		1 7 4 8	AXLT	HIN6	10	10.H.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	ʔin*2/²	0	841	841	ʔ i n *2/²
+150	15_small	small	Tongzha	Tongzha Hlai	tok8	tok8	t o k *8/⁵³	hlai1239	1246	18.88	109.67		1 7 1 8	AXLT	TUK3	7	7.T.C 7.U.V 7.K.c 7.3.T	1.6 3.0 1.1 1.0	tok*8/⁵³	0	840	840	t o k *8/⁵³
+151	15_small	small	Qiandui	Quiandui Hlai	thoɁ8	thoɁ8	tʰ o ʔ *8/⁵³	hlai1239	1246	18.91	110.04		1 7 1 8	AXLT	TUH3	6	6.T.C 6.U.V 6.H.c 6.3.T	1.6 3.0 1.1 1.0	tʰoʔ*8/⁵³	0	840	840	tʰ o ʔ *8/⁵³
+152	15_small	small	Baocheng	Baocheng Hlai	tɔk8	tɔk8	t ɔ k *8/⁵³	hlai1239	1246	18.64	109.70		1 7 1 8	AXLT	TUK3	2	2.T.C 2.U.V 2.K.c 2.3.T	1.6 3.0 1.1 1.0	tɔk*8/⁵³	0	840	840	t ɔ k *8/⁵³
+153	15_small	small	Gelong	Gelong	vɔi3	vɔi3	v ɔi *3/³		1246	19.10	108.65		3 7 8	AXT	BU6	4	4.B.C 4.U.V 4.6.T	1.6 3.0 1.0	vɔi*3/³	0	842	842	v ɔi *3/³
+798	81_smoke	smoke	Xifang	Xifang Hlai	Ɂen1	Ɂen1	ʔ e n *1/¹	hlai1239	778	19.30	109.24		1 7 4 8	AXLT	HEN6	8	8.H.C 8.E.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ʔen*1/¹	0	852	852	ʔ e n *1/¹
+799	81_smoke	smoke	Baisha	Baisha Hlai	Ɂin1	Ɂin1	ʔ i n *1/¹	hlai1239	778	18.65	108.72		1 7 4 8	AXLT	HIN6	1	1.H.C 1.I.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ʔin*1/¹	0	852	852	ʔ i n *1/¹
+800	81_smoke	smoke	Yuanmen	Yuanmen Hlai	za4	za4	z a *4/⁴	hlai1239	778	19.11	109.54		3 7 8	AXT	SA6	9	9.S.C 9.A.V 9.6.T	1.6 3.0 1.0	za*4/⁴	0	853	853	z a - *4/⁴
+801	81_smoke	smoke	Heitu	Heitu Hlai	zɯ:Ɂ7	zɯ:Ɂ7	z ɯː ʔ *7/⁵²	hlai1239	778	19.51	108.94		3 7 1 8	AXLT	SIH3	5	5.S.C 5.I.V 5.H.c 5.3.T	1.6 3.0 1.1 1.0	zɯːʔ*7/⁵²	0	853	856	z ɯː ʔ *7/⁵²
+802	81_smoke	smoke	Baoding	Baoding Hlai	za1	za1	z a *1/¹	hlai1239	778	18.77	110.45		3 7 8	AXT	SA6	3	3.S.C 3.A.V 3.6.T	1.6 3.0 1.0	za*1/¹	0	853	853	z a - *1/¹
+803	81_smoke	smoke	Zhongsha	Zhongsha Hlai	zɯ:Ɂ7	zɯ:Ɂ7	z ɯː ʔ *7/⁵²	hlai1239	778	15.83	114.33		3 7 1 8	AXLT	SIH3	10	10.S.C 10.I.V 10.H.c 10.3.T	1.6 3.0 1.1 1.0	zɯːʔ*7/⁵²	0	853	856	z ɯː ʔ *7/⁵²
+804	81_smoke	smoke	Tongzha	Tongzha Hlai	za4	za4	z a *4/⁴	hlai1239	778	18.88	109.67		3 7 8	AXT	SA6	7	7.S.C 7.A.V 7.6.T	1.6 3.0 1.0	za*4/⁴	0	853	853	z a - *4/⁴
+805	81_smoke	smoke	Qiandui	Quiandui Hlai	za4	za4	z a *4/⁴	hlai1239	778	18.91	110.04		3 7 8	AXT	SA6	6	6.S.C 6.A.V 6.6.T	1.6 3.0 1.0	za*4/⁴	0	853	853	z a - *4/⁴
+806	81_smoke	smoke	Baocheng	Baocheng Hlai	za1	za1	z a *1/¹	hlai1239	778	18.64	109.70		3 7 8	AXT	SA6	2	2.S.C 2.A.V 2.6.T	1.6 3.0 1.0	za*1/¹	0	853	853	z a - *1/¹
+807	81_smoke	smoke	Gelong	Gelong	ŋuan1 fo1	ŋuan1_fo1	ŋ u/w a n *1/¹ + f o *1/¹		778	19.10	108.65		4 6 7 4 8 9 3 7 8	ACXLT_AXT	NWAN6_BU6	4	4.N.C 4.W.C 4.A.V 4.N.c 4.6.T 4._._ 4.B.C 4.U.V 4.6.T	1.6 1.2 3.0 1.1 1.0 0.0 1.6 3.0 1.0	ŋu/wan*1/¹+fo*1/¹	0	854 855	854 855	ŋ u/w a n *1/¹ + f o *1/¹
+668	69_stand	stand	Xifang	Xifang Hlai	tsuŋ1	tsuŋ1	ts u ŋ *1/¹	hlai1239	1442	19.30	109.24		2 7 4 8	AXLT	CYN6	8	8.C.C 8.Y.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	tsuŋ*1/¹	0	864	864	ts u ŋ *1/¹
+669	69_stand	stand	Baisha	Baisha Hlai	tsuŋ1	tsuŋ1	ts u ŋ *1/¹	hlai1239	1442	18.65	108.72		2 7 4 8	AXLT	CYN6	1	1.C.C 1.Y.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	tsuŋ*1/¹	0	864	864	ts u ŋ *1/¹
+670	69_stand	stand	Yuanmen	Yuanmen Hlai	tun1	tun1	t u n *1/¹	hlai1239	1442	19.11	109.54		1 7 4 8	AXLT	TYN6	9	9.T.C 9.Y.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tun*1/¹	0	864	864	t u n *1/¹
+671	69_stand	stand	Heitu	Heitu Hlai	tsu:n1	tsu:n1	ts uː n *1/¹	hlai1239	1442	19.51	108.94		2 7 4 8	AXLT	CYN6	5	5.C.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	tsuːn*1/¹	0	864	864	ts uː n *1/¹
+672	69_stand	stand	Baoding	Baoding Hlai	tsu:n1	tsu:n1	ts uː n *1/¹	hlai1239	1442	18.77	110.45		2 7 4 8	AXLT	CYN6	3	3.C.C 3.Y.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	tsuːn*1/¹	0	864	864	ts uː n *1/¹
+673	69_stand	stand	Zhongsha	Zhongsha Hlai	tsu:n1	tsu:n1	ts uː n *1/¹	hlai1239	1442	15.83	114.33		2 7 4 8	AXLT	CYN6	10	10.C.C 10.Y.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	tsuːn*1/¹	0	864	864	ts uː n *1/¹
+674	69_stand	stand	Tongzha	Tongzha Hlai	tsu:n1	tsu:n1	ts uː n *1/¹	hlai1239	1442	18.88	109.67		2 7 4 8	AXLT	CYN6	7	7.C.C 7.Y.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	tsuːn*1/¹	0	864	864	ts uː n *1/¹
+675	69_stand	stand	Qiandui	Quiandui Hlai	tsu:n1	tsu:n1	ts uː n *1/¹	hlai1239	1442	18.91	110.04		2 7 4 8	AXLT	CYN6	6	6.C.C 6.Y.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	tsuːn*1/¹	0	864	864	ts uː n *1/¹
+676	69_stand	stand	Baocheng	Baocheng Hlai	tsu:n1	tsu:n1	ts uː n *1/¹	hlai1239	1442	18.64	109.70		2 7 4 8	AXLT	CYN6	2	2.C.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	tsuːn*1/¹	0	864	864	ts uː n *1/¹
+677	69_stand	stand	Gelong	Gelong	hɔi5	hɔi5	h ɔi *5/⁵		1442	19.10	108.65		3 7 8	AXT	HU6	4	4.H.C 4.U.V 4.6.T	1.6 3.0 1.0	hɔi*5/⁵	0	865	865	h ɔi *5/⁵
+725	74_star	star	Xifang	Xifang Hlai	ra:u1	ra:u1	r aːu *1/¹	hlai1239	1430	19.30	109.24		5 7 8	AXT	RA6	8	8.R.C 8.A.V 8.6.T	1.6 3.0 1.0	raːu*1/¹	0	875	875	r aːu *1/¹
+726	74_star	star	Baisha	Baisha Hlai	ra:u1	ra:u1	r aːu *1/¹	hlai1239	1430	18.65	108.72		5 7 8	AXT	RA6	1	1.R.C 1.A.V 1.6.T	1.6 3.0 1.0	raːu*1/¹	0	875	875	r aːu *1/¹
+727	74_star	star	Yuanmen	Yuanmen Hlai	ra:u4	ra:u4	r aːu *4/⁴	hlai1239	1430	19.11	109.54		5 7 8	AXT	RA6	9	9.R.C 9.A.V 9.6.T	1.6 3.0 1.0	raːu*4/⁴	0	875	875	r aːu *4/⁴
+728	74_star	star	Heitu	Heitu Hlai	ra:u1	ra:u1	r aːu *1/¹	hlai1239	1430	19.51	108.94		5 7 8	AXT	RA6	5	5.R.C 5.A.V 5.6.T	1.6 3.0 1.0	raːu*1/¹	0	875	875	r aːu *1/¹
+729	74_star	star	Baoding	Baoding Hlai	ra:u1	ra:u1	r aːu *1/¹	hlai1239	1430	18.77	110.45		5 7 8	AXT	RA6	3	3.R.C 3.A.V 3.6.T	1.6 3.0 1.0	raːu*1/¹	0	875	875	r aːu *1/¹
+730	74_star	star	Zhongsha	Zhongsha Hlai	ra:u1	ra:u1	r aːu *1/¹	hlai1239	1430	15.83	114.33		5 7 8	AXT	RA6	10	10.R.C 10.A.V 10.6.T	1.6 3.0 1.0	raːu*1/¹	0	875	875	r aːu *1/¹
+731	74_star	star	Tongzha	Tongzha Hlai	ra:u4	ra:u4	r aːu *4/⁴	hlai1239	1430	18.88	109.67		5 7 8	AXT	RA6	7	7.R.C 7.A.V 7.6.T	1.6 3.0 1.0	raːu*4/⁴	0	875	875	r aːu *4/⁴
+732	74_star	star	Qiandui	Quiandui Hlai	la:u4	la:u4	l aːu *4/⁴	hlai1239	1430	18.91	110.04		5 7 8	AXT	LA6	6	6.L.C 6.A.V 6.6.T	1.6 3.0 1.0	laːu*4/⁴	0	875	876	l aːu *4/⁴
+733	74_star	star	Baocheng	Baocheng Hlai	la:u4	la:u4	l aːu *4/⁴	hlai1239	1430	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	laːu*4/⁴	0	875	876	l aːu *4/⁴
+734	74_star	star	Gelong	Gelong	laːu4	laːu4	l aːu *4/⁴		1430	19.10	108.65		5 7 8	AXT	LA6	4	4.L.C 4.A.V 4.6.T	1.6 3.0 1.0	laːu*4/⁴	0	875	876	l aːu *4/⁴
+755	77_stone	stone	Xifang	Xifang Hlai	tshiŋ1	tshiŋ1	tsʰ i ŋ *1/¹	hlai1239	857	19.30	109.24		2 7 4 8	AXLT	CIN6	8	8.C.C 8.I.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	tsʰiŋ*1/¹	0	886	886	tsʰ i ŋ *1/¹
+756	77_stone	stone	Baisha	Baisha Hlai	tshiŋ4	tshiŋ4	tsʰ i ŋ *4/⁴	hlai1239	857	18.65	108.72		2 7 4 8	AXLT	CIN6	1	1.C.C 1.I.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	tsʰiŋ*4/⁴	0	886	886	tsʰ i ŋ *4/⁴
+757	77_stone	stone	Yuanmen	Yuanmen Hlai	tshin1	tshin1	tsʰ i n *1/¹	hlai1239	857	19.11	109.54		2 7 4 8	AXLT	CIN6	9	9.C.C 9.I.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	tsʰin*1/¹	0	886	886	tsʰ i n *1/¹
+758	77_stone	stone	Heitu	Heitu Hlai	tshin1	tshin1	tsʰ i n *1/¹	hlai1239	857	19.51	108.94		2 7 4 8	AXLT	CIN6	5	5.C.C 5.I.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	tsʰin*1/¹	0	886	886	tsʰ i n *1/¹
+759	77_stone	stone	Baoding	Baoding Hlai	tshin1	tshin1	tsʰ i n *1/¹	hlai1239	857	18.77	110.45		2 7 4 8	AXLT	CIN6	3	3.C.C 3.I.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	tsʰin*1/¹	0	886	886	tsʰ i n *1/¹
+760	77_stone	stone	Zhongsha	Zhongsha Hlai	tshin1	tshin1	tsʰ i n *1/¹	hlai1239	857	15.83	114.33		2 7 4 8	AXLT	CIN6	10	10.C.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	tsʰin*1/¹	0	886	886	tsʰ i n *1/¹
+761	77_stone	stone	Tongzha	Tongzha Hlai	tshi:n1	tshi:n1	tsʰ iː n *1/¹	hlai1239	857	18.88	109.67		2 7 4 8	AXLT	CIN6	7	7.C.C 7.I.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	tsʰiːn*1/¹	0	886	886	tsʰ iː n *1/¹
+762	77_stone	stone	Qiandui	Quiandui Hlai	tshi:n1	tshi:n1	tsʰ iː n *1/¹	hlai1239	857	18.91	110.04		2 7 4 8	AXLT	CIN6	6	6.C.C 6.I.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	tsʰiːn*1/¹	0	886	886	tsʰ iː n *1/¹
+763	77_stone	stone	Baocheng	Baocheng Hlai	tshi:n1	tshi:n1	tsʰ iː n *1/¹	hlai1239	857	18.64	109.70		2 7 4 8	AXLT	CIN6	2	2.C.C 2.I.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	tsʰiːn*1/¹	0	886	886	tsʰ iː n *1/¹
+764	77_stone	stone	Gelong	Gelong	sin1	sin1	s i n *1/¹		857	19.10	108.65		3 7 4 8	AXLT	SIN6	4	4.S.C 4.I.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	sin*1/¹	0	886	886	s i n *1/¹
+698	72_sun	sun	Xifang	Xifang Hlai	tsha3 // vaŋ1	tsha3	tsʰ a *3/³	hlai1239	1343	19.30	109.24		2 7 8	AXT	CA6	8	8.C.C 8.A.V 8.6.T	1.6 3.0 1.0	tsʰa*3/³	0	897	897	tsʰ a *3/³
+699	72_sun	sun	Xifang	Xifang Hlai	tsha3 // vaŋ1	vaŋ1	v a ŋ *1/¹	hlai1239	1343	19.30	109.24		3 7 4 8	AXLT	BAN6	8	8.B.C 8.A.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	vaŋ*1/¹	0	898	898	- v a ŋ *1/¹
+700	72_sun	sun	Baisha	Baisha Hlai	tsha1 // vaŋ1	tsha1	tsʰ a *1/¹	hlai1239	1343	18.65	108.72		2 7 8	AXT	CA6	1	1.C.C 1.A.V 1.6.T	1.6 3.0 1.0	tsʰa*1/¹	1	897	897	tsʰ a *1/¹
+701	72_sun	sun	Baisha	Baisha Hlai	tsha1 // vaŋ1	vaŋ1	v a ŋ *1/¹	hlai1239	1343	18.65	108.72		3 7 4 8	AXLT	BAN6	1	1.B.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	vaŋ*1/¹	0	898	898	- v a ŋ *1/¹
+702	72_sun	sun	Yuanmen	Yuanmen Hlai	van4	van4	v a n *4/⁴	hlai1239	1343	19.11	109.54		3 7 4 8	AXLT	BAN6	9	9.B.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	van*4/⁴	0	898	898	- v a n *4/⁴
+703	72_sun	sun	Heitu	Heitu Hlai	tsha1 // ven1	tsha1	tsʰ a *1/¹	hlai1239	1343	19.51	108.94		2 7 8	AXT	CA6	5	5.C.C 5.A.V 5.6.T	1.6 3.0 1.0	tsʰa*1/¹	1	897	897	tsʰ a *1/¹
+704	72_sun	sun	Heitu	Heitu Hlai	tsha1 // ven1	ven1	v e n *1/¹	hlai1239	1343	19.51	108.94		3 7 4 8	AXLT	BEN6	5	5.B.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	ven*1/¹	0	898	901	- v e n *1/¹
+705	72_sun	sun	Baoding	Baoding Hlai	tsha1 hwan1	tsha1_hwan1	tsʰ a *1/¹ + h w a n *1/¹	hlai1239	1343	18.77	110.45		2 7 8 9 3 6 7 4 8	AXT_ACXLT	CA6_HWAN6	3	3.C.C 3.A.V 3.6.T 3._._ 3.H.C 3.W.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.0 0.0 1.6 1.2 3.0 1.1 1.0	tsʰa*1/¹+hwan*1/¹	0	897 898	897 899	tsʰ a *1/¹ + h w a n *1/¹
+706	72_sun	sun	Zhongsha	Zhongsha Hlai	tsha2 // van1	tsha2	tsʰ a *2/²	hlai1239	1343	15.83	114.33		2 7 8	AXT	CA6	10	10.C.C 10.A.V 10.6.T	1.6 3.0 1.0	tsʰa*2/²	0	897	897	tsʰ a *2/²
+707	72_sun	sun	Zhongsha	Zhongsha Hlai	tsha2 // van1	van1	v a n *1/¹	hlai1239	1343	15.83	114.33		3 7 4 8	AXLT	BAN6	10	10.B.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	van*1/¹	0	898	898	- v a n *1/¹
+708	72_sun	sun	Tongzha	Tongzha Hlai	tsha1 // van4	tsha1	tsʰ a *1/¹	hlai1239	1343	18.88	109.67		2 7 8	AXT	CA6	7	7.C.C 7.A.V 7.6.T	1.6 3.0 1.0	tsʰa*1/¹	1	897	897	tsʰ a *1/¹
+709	72_sun	sun	Tongzha	Tongzha Hlai	tsha1 // van4	van4	v a n *4/⁴	hlai1239	1343	18.88	109.67		3 7 4 8	AXLT	BAN6	7	7.B.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	van*4/⁴	1	898	898	- v a n *4/⁴
+710	72_sun	sun	Qiandui	Quiandui Hlai	tsha1 // van4	tsha1	tsʰ a *1/¹	hlai1239	1343	18.91	110.04		2 7 8	AXT	CA6	6	6.C.C 6.A.V 6.6.T	1.6 3.0 1.0	tsʰa*1/¹	1	897	897	tsʰ a *1/¹
+711	72_sun	sun	Qiandui	Quiandui Hlai	tsha1 // van4	van4	v a n *4/⁴	hlai1239	1343	18.91	110.04		3 7 4 8	AXLT	BAN6	6	6.B.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	van*4/⁴	1	898	898	- v a n *4/⁴
+712	72_sun	sun	Baocheng	Baocheng Hlai	tsha1 van1	tsha1_van1	tsʰ a *1/¹ + v a n *1/¹	hlai1239	1343	18.64	109.70		2 7 8 9 3 7 4 8	AXT_AXLT	CA6_BAN6	2	2.C.C 2.A.V 2.6.T 2._._ 2.B.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.1 1.0	tsʰa*1/¹+van*1/¹	0	897 898	897 898	tsʰ a *1/¹ + - v a n *1/¹
+713	72_sun	sun	Gelong	Gelong	zi1 // hon4	zi1	z i *1/¹		1343	19.10	108.65		3 7 8	AXT	SI6	4	4.S.C 4.I.V 4.6.T	1.6 3.0 1.0	zi*1/¹	0	897	900	z i *1/¹
+714	72_sun	sun	Gelong	Gelong	zi1 // hon4	hon4	h o n *4/⁴		1343	19.10	108.65		3 7 4 8	AXLT	HUN6	4	4.H.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	hon*4/⁴	0	898	899	h - o n *4/⁴
+616	63_swim	swim	Xifang	Xifang Hlai	plei1	plei1	p l ei *1/¹	hlai1239	1439	19.30	109.24		1 5 7 8	ACXT	PLE6	8	8.P.C 8.L.C 8.E.V 8.6.T	1.6 1.2 3.0 1.0	plei*1/¹	0	917	917	p l ei *1/¹
+617	63_swim	swim	Baisha	Baisha Hlai	plei1	plei1	p l ei *1/¹	hlai1239	1439	18.65	108.72		1 5 7 8	ACXT	PLE6	1	1.P.C 1.L.C 1.E.V 1.6.T	1.6 1.2 3.0 1.0	plei*1/¹	0	917	917	p l ei *1/¹
+618	63_swim	swim	Yuanmen	Yuanmen Hlai	plei1	plei1	p l ei *1/¹	hlai1239	1439	19.11	109.54		1 5 7 8	ACXT	PLE6	9	9.P.C 9.L.C 9.E.V 9.6.T	1.6 1.2 3.0 1.0	plei*1/¹	0	917	917	p l ei *1/¹
+619	63_swim	swim	Heitu	Heitu Hlai	lei1	lei1	l ei *1/¹	hlai1239	1439	19.51	108.94		5 7 8	AXT	LE6	5	5.L.C 5.E.V 5.6.T	1.6 3.0 1.0	lei*1/¹	0	917	918	- l ei *1/¹
+620	63_swim	swim	Baoding	Baoding Hlai	plei1	plei1	p l ei *1/¹	hlai1239	1439	18.77	110.45		1 5 7 8	ACXT	PLE6	3	3.P.C 3.L.C 3.E.V 3.6.T	1.6 1.2 3.0 1.0	plei*1/¹	0	917	917	p l ei *1/¹
+621	63_swim	swim	Zhongsha	Zhongsha Hlai	lei1	lei1	l ei *1/¹	hlai1239	1439	15.83	114.33		5 7 8	AXT	LE6	10	10.L.C 10.E.V 10.6.T	1.6 3.0 1.0	lei*1/¹	0	917	918	- l ei *1/¹
+622	63_swim	swim	Tongzha	Tongzha Hlai	plei1	plei1	p l ei *1/¹	hlai1239	1439	18.88	109.67		1 5 7 8	ACXT	PLE6	7	7.P.C 7.L.C 7.E.V 7.6.T	1.6 1.2 3.0 1.0	plei*1/¹	0	917	917	p l ei *1/¹
+623	63_swim	swim	Qiandui	Quiandui Hlai	pei1	pei1	p ei *1/¹	hlai1239	1439	18.91	110.04		1 7 8	AXT	PE6	6	6.P.C 6.E.V 6.6.T	1.6 3.0 1.0	pei*1/¹	0	917	917	p - ei *1/¹
+624	63_swim	swim	Baocheng	Baocheng Hlai	pei1	pei1	p ei *1/¹	hlai1239	1439	18.64	109.70		1 7 8	AXT	PE6	2	2.P.C 2.E.V 2.6.T	1.6 3.0 1.0	pei*1/¹	0	917	917	p - ei *1/¹
+625	63_swim	swim	Gelong	Gelong	lɔi4	lɔi4	l ɔi *4/⁴		1439	19.10	108.65		5 7 8	AXT	LU6	4	4.L.C 4.U.V 4.6.T	1.6 3.0 1.0	lɔi*4/⁴	0	917	918	- l ɔi *4/⁴
+335	35_tail	tail	Xifang	Xifang Hlai	tshot7	tshot7	tsʰ o t *7/⁵²	hlai1239	1220	19.30	109.24		2 7 1 8	AXLT	CUT3	8	8.C.C 8.U.V 8.T.c 8.3.T	1.6 3.0 1.1 1.0	tsʰot*7/⁵²	0	928	928	tsʰ o t *7/⁵²
+336	35_tail	tail	Baisha	Baisha Hlai	tshot8	tshot8	tsʰ o t *8/⁵³	hlai1239	1220	18.65	108.72		2 7 1 8	AXLT	CUT3	1	1.C.C 1.U.V 1.T.c 1.3.T	1.6 3.0 1.1 1.0	tsʰot*8/⁵³	0	928	928	tsʰ o t *8/⁵³
+337	35_tail	tail	Yuanmen	Yuanmen Hlai	tshət7	tshət7	tsʰ ə t *7/⁵²	hlai1239	1220	19.11	109.54		2 7 1 8	AXLT	CET3	9	9.C.C 9.E.V 9.T.c 9.3.T	1.6 3.0 1.1 1.0	tsʰət*7/⁵²	0	928	928	tsʰ ə t *7/⁵²
+338	35_tail	tail	Heitu	Heitu Hlai	tshut7	tshut7	tsʰ u t *7/⁵²	hlai1239	1220	19.51	108.94		2 7 1 8	AXLT	CYT3	5	5.C.C 5.Y.V 5.T.c 5.3.T	1.6 3.0 1.1 1.0	tsʰut*7/⁵²	0	928	928	tsʰ u t *7/⁵²
+339	35_tail	tail	Baoding	Baoding Hlai	tshuȶ7	tshuȶ7	tsʰ u ȶ *7/⁵²	hlai1239	1220	18.77	110.45		2 7 1 8	AXLT	CYT3	3	3.C.C 3.Y.V 3.T.c 3.3.T	1.6 3.0 1.1 1.0	tsʰuȶ*7/⁵²	0	928	928	tsʰ u ȶ *7/⁵²
+340	35_tail	tail	Zhongsha	Zhongsha Hlai	tshut7	tshut7	tsʰ u t *7/⁵²	hlai1239	1220	15.83	114.33		2 7 1 8	AXLT	CYT3	10	10.C.C 10.Y.V 10.T.c 10.3.T	1.6 3.0 1.1 1.0	tsʰut*7/⁵²	0	928	928	tsʰ u t *7/⁵²
+341	35_tail	tail	Tongzha	Tongzha Hlai	tshut7	tshut7	tsʰ u t *7/⁵²	hlai1239	1220	18.88	109.67		2 7 1 8	AXLT	CYT3	7	7.C.C 7.Y.V 7.T.c 7.3.T	1.6 3.0 1.1 1.0	tsʰut*7/⁵²	0	928	928	tsʰ u t *7/⁵²
+342	35_tail	tail	Qiandui	Quiandui Hlai	tshut7	tshut7	tsʰ u t *7/⁵²	hlai1239	1220	18.91	110.04		2 7 1 8	AXLT	CYT3	6	6.C.C 6.Y.V 6.T.c 6.3.T	1.6 3.0 1.1 1.0	tsʰut*7/⁵²	0	928	928	tsʰ u t *7/⁵²
+343	35_tail	tail	Baocheng	Baocheng Hlai	tshut7	tshut7	tsʰ u t *7/⁵²	hlai1239	1220	18.64	109.70		2 7 1 8	AXLT	CYT3	2	2.C.C 2.Y.V 2.T.c 2.3.T	1.6 3.0 1.1 1.0	tsʰut*7/⁵²	0	928	928	tsʰ u t *7/⁵²
+344	35_tail	tail	Gelong	Gelong	tshət2	tshət2	tsʰ ə t *2/²		1220	19.10	108.65		2 7 1 8	AXLT	CET6	4	4.C.C 4.E.V 4.T.c 4.6.T	1.6 3.0 1.1 1.0	tsʰət*2/²	0	928	928	tsʰ ə t *2/²
+43	5_that	that	Xifang	Xifang Hlai	ma2	ma2	m a *2/²	hlai1239	78	19.30	109.24		4 7 8	AXT	MA6	8	8.M.C 8.A.V 8.6.T	1.6 3.0 1.0	ma*2/²	0	940	940	m a *2/²
+44	5_that	that	Baisha	Baisha Hlai	na3	na3	n a *3/³	hlai1239	78	18.65	108.72		4 7 8	AXT	NA6	1	1.N.C 1.A.V 1.6.T	1.6 3.0 1.0	na*3/³	0	939	939	n a *3/³
+45	5_that	that	Yuanmen	Yuanmen Hlai	no5	no5	n o *5/⁵	hlai1239	78	19.11	109.54		4 7 8	AXT	NU6	9	9.N.C 9.U.V 9.6.T	1.6 3.0 1.0	no*5/⁵	0	939	939	n o *5/⁵
+46	5_that	that	Heitu	Heitu Hlai	ma2	ma2	m a *2/²	hlai1239	78	19.51	108.94		4 7 8	AXT	MA6	5	5.M.C 5.A.V 5.6.T	1.6 3.0 1.0	ma*2/²	0	940	940	m a *2/²
+47	5_that	that	Baoding	Baoding Hlai	ma2	ma2	m a *2/²	hlai1239	78	18.77	110.45		4 7 8	AXT	MA6	3	3.M.C 3.A.V 3.6.T	1.6 3.0 1.0	ma*2/²	0	940	940	m a *2/²
+48	5_that	that	Zhongsha	Zhongsha Hlai	na2	na2	n a *2/²	hlai1239	78	15.83	114.33		4 7 8	AXT	NA6	10	10.N.C 10.A.V 10.6.T	1.6 3.0 1.0	na*2/²	0	939	939	n a *2/²
+49	5_that	that	Tongzha	Tongzha Hlai	ma5	ma5	m a *5/⁵	hlai1239	78	18.88	109.67		4 7 8	AXT	MA6	7	7.M.C 7.A.V 7.6.T	1.6 3.0 1.0	ma*5/⁵	0	940	940	m a *5/⁵
+50	5_that	that	Qiandui	Quiandui Hlai	mɔ2	mɔ2	m ɔ *2/²	hlai1239	78	18.91	110.04		4 7 8	AXT	MU6	6	6.M.C 6.U.V 6.6.T	1.6 3.0 1.0	mɔ*2/²	0	940	940	m ɔ *2/²
+51	5_that	that	Baocheng	Baocheng Hlai	ma5	ma5	m a *5/⁵	hlai1239	78	18.64	109.70		4 7 8	AXT	MA6	2	2.M.C 2.A.V 2.6.T	1.6 3.0 1.0	ma*5/⁵	0	940	940	m a *5/⁵
+52	5_that	that	Gelong	Gelong	hɔ5	hɔ5	h ɔ *5/⁵		78	19.10	108.65		3 7 8	AXT	HU6	4	4.H.C 4.U.V 4.6.T	1.6 3.0 1.0	hɔ*5/⁵	0	941	941	h ɔ *5/⁵
+32	4_this	this	Xifang	Xifang Hlai	nei2	nei2	n ei *2/²	hlai1239	1214	19.30	109.24		4 7 8	AXT	NE6	8	8.N.C 8.E.V 8.6.T	1.6 3.0 1.0	nei*2/²	0	950	950	n ei - *2/²
+33	4_this	this	Baisha	Baisha Hlai	ne2 // nen3	ne2	n e *2/²	hlai1239	1214	18.65	108.72		4 7 8	AXT	NE6	1	1.N.C 1.E.V 1.6.T	1.6 3.0 1.0	ne*2/²	0	950	950	n e - *2/²
+34	4_this	this	Baisha	Baisha Hlai	ne2 // nen3	nen3	n e n *3/³	hlai1239	1214	18.65	108.72		4 7 4 8	AXLT	NEN6	1	1.N.C 1.E.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	nen*3/³	0	950	950	n e n *3/³
+35	4_this	this	Yuanmen	Yuanmen Hlai	ni5	ni5	n i *5/⁵	hlai1239	1214	19.11	109.54		4 7 8	AXT	NI6	9	9.N.C 9.I.V 9.6.T	1.6 3.0 1.0	ni*5/⁵	0	950	950	n i - *5/⁵
+36	4_this	this	Heitu	Heitu Hlai	nei2	nei2	n ei *2/²	hlai1239	1214	19.51	108.94		4 7 8	AXT	NE6	5	5.N.C 5.E.V 5.6.T	1.6 3.0 1.0	nei*2/²	0	950	950	n ei - *2/²
+37	4_this	this	Baoding	Baoding Hlai	nei2	nei2	n ei *2/²	hlai1239	1214	18.77	110.45		4 7 8	AXT	NE6	3	3.N.C 3.E.V 3.6.T	1.6 3.0 1.0	nei*2/²	0	950	950	n ei - *2/²
+38	4_this	this	Zhongsha	Zhongsha Hlai	nei2	nei2	n ei *2/²	hlai1239	1214	15.83	114.33		4 7 8	AXT	NE6	10	10.N.C 10.E.V 10.6.T	1.6 3.0 1.0	nei*2/²	0	950	950	n ei - *2/²
+39	4_this	this	Tongzha	Tongzha Hlai	ni5	ni5	n i *5/⁵	hlai1239	1214	18.88	109.67		4 7 8	AXT	NI6	7	7.N.C 7.I.V 7.6.T	1.6 3.0 1.0	ni*5/⁵	0	950	950	n i - *5/⁵
+40	4_this	this	Qiandui	Quiandui Hlai	nei2	nei2	n ei *2/²	hlai1239	1214	18.91	110.04		4 7 8	AXT	NE6	6	6.N.C 6.E.V 6.6.T	1.6 3.0 1.0	nei*2/²	0	950	950	n ei - *2/²
+41	4_this	this	Baocheng	Baocheng Hlai	nei5	nei5	n ei *5/⁵	hlai1239	1214	18.64	109.70		4 7 8	AXT	NE6	2	2.N.C 2.E.V 2.6.T	1.6 3.0 1.0	nei*5/⁵	0	950	950	n ei - *5/⁵
+42	4_this	this	Gelong	Gelong	nɛi3	nɛi3	n ɛi *3/³		1214	19.10	108.65		4 7 8	AXT	NE6	4	4.N.C 4.E.V 4.6.T	1.6 3.0 1.0	nɛi*3/³	0	950	950	n ɛi - *3/³
+428	44_tongue	tongue	Xifang	Xifang Hlai	ɬiŋ3	ɬiŋ3	ɬ i ŋ *3/³	hlai1239	1205	19.30	109.24		5 7 4 8	AXLT	LIN6	8	8.L.C 8.I.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ɬiŋ*3/³	0	962	962	ɬ i ŋ *3/³
+429	44_tongue	tongue	Baisha	Baisha Hlai	ɬiŋ3	ɬiŋ3	ɬ i ŋ *3/³	hlai1239	1205	18.65	108.72		5 7 4 8	AXLT	LIN6	1	1.L.C 1.I.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	ɬiŋ*3/³	0	962	962	ɬ i ŋ *3/³
+430	44_tongue	tongue	Yuanmen	Yuanmen Hlai	ɬin3	ɬin3	ɬ i n *3/³	hlai1239	1205	19.11	109.54		5 7 4 8	AXLT	LIN6	9	9.L.C 9.I.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	ɬin*3/³	0	962	962	ɬ i n *3/³
+431	44_tongue	tongue	Heitu	Heitu Hlai	di:n3	di:n3	d iː n *3/³	hlai1239	1205	19.51	108.94		1 7 4 8	AXLT	TIN6	5	5.T.C 5.I.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	diːn*3/³	0	962	962	d iː n *3/³
+432	44_tongue	tongue	Baoding	Baoding Hlai	ɬi:n3	ɬi:n3	ɬ iː n *3/³	hlai1239	1205	18.77	110.45		5 7 4 8	AXLT	LIN6	3	3.L.C 3.I.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ɬiːn*3/³	0	962	962	ɬ iː n *3/³
+433	44_tongue	tongue	Zhongsha	Zhongsha Hlai	ɬi:n3	ɬi:n3	ɬ iː n *3/³	hlai1239	1205	15.83	114.33		5 7 4 8	AXLT	LIN6	10	10.L.C 10.I.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	ɬiːn*3/³	0	962	962	ɬ iː n *3/³
+434	44_tongue	tongue	Tongzha	Tongzha Hlai	ɬi:n3	ɬi:n3	ɬ iː n *3/³	hlai1239	1205	18.88	109.67		5 7 4 8	AXLT	LIN6	7	7.L.C 7.I.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ɬiːn*3/³	0	962	962	ɬ iː n *3/³
+435	44_tongue	tongue	Qiandui	Quiandui Hlai	ɬi:n3	ɬi:n3	ɬ iː n *3/³	hlai1239	1205	18.91	110.04		5 7 4 8	AXLT	LIN6	6	6.L.C 6.I.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ɬiːn*3/³	0	962	962	ɬ iː n *3/³
+436	44_tongue	tongue	Baocheng	Baocheng Hlai	ɬi:n3	ɬi:n3	ɬ iː n *3/³	hlai1239	1205	18.64	109.70		5 7 4 8	AXLT	LIN6	2	2.L.C 2.I.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ɬiːn*3/³	0	962	962	ɬ iː n *3/³
+437	44_tongue	tongue	Gelong	Gelong	tθin3	tθin3	tθ i n *3/³		1205	19.10	108.65		1 7 4 8	AXLT	TIN6	4	4.T.C 4.I.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	tθin*3/³	0	962	962	tθ i n *3/³
+418	43_tooth	tooth	Xifang	Xifang Hlai	sen1	sen1	s e n *1/¹	hlai1239	1380	19.30	109.24		3 7 4 8	AXLT	SEN6	8	8.S.C 8.E.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	sen*1/¹	0	973	974	s e n *1/¹
+419	43_tooth	tooth	Baisha	Baisha Hlai	faŋ1	faŋ1	f a ŋ *1/¹	hlai1239	1380	18.65	108.72		3 7 4 8	AXLT	BAN6	1	1.B.C 1.A.V 1.N.c 1.6.T	1.6 3.0 1.1 1.0	faŋ*1/¹	1	973	973	f a ŋ *1/¹
+420	43_tooth	tooth	Yuanmen	Yuanmen Hlai	fhan1	fhan1	fʰ a n *1/¹	hlai1239	1380	19.11	109.54		3 7 4 8	AXLT	BAN6	9	9.B.C 9.A.V 9.N.c 9.6.T	1.6 3.0 1.1 1.0	fʰan*1/¹	0	973	973	fʰ a n *1/¹
+421	43_tooth	tooth	Heitu	Heitu Hlai	phen1	phen1	pʰ e n *1/¹	hlai1239	1380	19.51	108.94		1 7 4 8	AXLT	PEN6	5	5.P.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	pʰen*1/¹	1	973	973	pʰ e n *1/¹
+422	43_tooth	tooth	Baoding	Baoding Hlai	fan1	fan1	f a n *1/¹	hlai1239	1380	18.77	110.45		3 7 4 8	AXLT	BAN6	3	3.B.C 3.A.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	fan*1/¹	1	973	973	f a n *1/¹
+423	43_tooth	tooth	Zhongsha	Zhongsha Hlai	fan1	fan1	f a n *1/¹	hlai1239	1380	15.83	114.33		3 7 4 8	AXLT	BAN6	10	10.B.C 10.A.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	fan*1/¹	1	973	973	f a n *1/¹
+424	43_tooth	tooth	Tongzha	Tongzha Hlai	fan1	fan1	f a n *1/¹	hlai1239	1380	18.88	109.67		3 7 4 8	AXLT	BAN6	7	7.B.C 7.A.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	fan*1/¹	1	973	973	f a n *1/¹
+425	43_tooth	tooth	Qiandui	Quiandui Hlai	fan1	fan1	f a n *1/¹	hlai1239	1380	18.91	110.04		3 7 4 8	AXLT	BAN6	6	6.B.C 6.A.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	fan*1/¹	1	973	973	f a n *1/¹
+426	43_tooth	tooth	Baocheng	Baocheng Hlai	fan1	fan1	f a n *1/¹	hlai1239	1380	18.64	109.70		3 7 4 8	AXLT	BAN6	2	2.B.C 2.A.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	fan*1/¹	1	973	973	f a n *1/¹
+427	43_tooth	tooth	Gelong	Gelong	sen1	sen1	s e n *1/¹		1380	19.10	108.65		3 7 4 8	AXLT	SEN6	4	4.S.C 4.E.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	sen*1/¹	0	973	974	s e n *1/¹
+224	23_tree	tree	Xifang	Xifang Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	19.30	109.24		2 7 8	AXT	CA6	8	8.C.C 8.A.V 8.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+225	23_tree	tree	Baisha	Baisha Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	18.65	108.72		2 7 8	AXT	CA6	1	1.C.C 1.A.V 1.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+226	23_tree	tree	Yuanmen	Yuanmen Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	19.11	109.54		2 7 8	AXT	CA6	9	9.C.C 9.A.V 9.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+227	23_tree	tree	Heitu	Heitu Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	19.51	108.94		2 7 8	AXT	CA6	5	5.C.C 5.A.V 5.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+228	23_tree	tree	Baoding	Baoding Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	18.77	110.45		2 7 8	AXT	CA6	3	3.C.C 3.A.V 3.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+229	23_tree	tree	Zhongsha	Zhongsha Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	15.83	114.33		2 7 8	AXT	CA6	10	10.C.C 10.A.V 10.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+230	23_tree	tree	Tongzha	Tongzha Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	18.88	109.67		2 7 8	AXT	CA6	7	7.C.C 7.A.V 7.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+231	23_tree	tree	Qiandui	Quiandui Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	18.91	110.04		2 7 8	AXT	CA6	6	6.C.C 6.A.V 6.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+232	23_tree	tree	Baocheng	Baocheng Hlai	tshai1	tshai1	tsʰ ai *1/¹	hlai1239	906	18.64	109.70		2 7 8	AXT	CA6	2	2.C.C 2.A.V 2.6.T	1.6 3.0 1.0	tsʰai*1/¹	0	984	984	tsʰ ai *1/¹
+233	23_tree	tree	Gelong	Gelong	nɛk2	nɛk2	n ɛ k *2/²		906	19.10	108.65		4 7 1 8	AXLT	NEK6	4	4.N.C 4.E.V 4.K.c 4.6.T	1.6 3.0 1.1 1.0	nɛk*2/²	0	985	985	n ɛ k *2/²
+113	12_two	two	Xifang	Xifang Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	19.30	109.24		5 7 8	AXT	LA6	8	8.L.C 8.A.V 8.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+114	12_two	two	Baisha	Baisha Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	18.65	108.72		5 7 8	AXT	LA6	1	1.L.C 1.A.V 1.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+115	12_two	two	Yuanmen	Yuanmen Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	19.11	109.54		5 7 8	AXT	LA6	9	9.L.C 9.A.V 9.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+116	12_two	two	Heitu	Heitu Hlai	dou3	dou3	d ou *3/³	hlai1239	1498	19.51	108.94		1 7 8	AXT	TU6	5	5.T.C 5.U.V 5.6.T	1.6 3.0 1.0	dou*3/³	0	996	996	d ou *3/³
+117	12_two	two	Baoding	Baoding Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	18.77	110.45		5 7 8	AXT	LA6	3	3.L.C 3.A.V 3.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+118	12_two	two	Zhongsha	Zhongsha Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	15.83	114.33		5 7 8	AXT	LA6	10	10.L.C 10.A.V 10.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+119	12_two	two	Tongzha	Tongzha Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	18.88	109.67		5 7 8	AXT	LA6	7	7.L.C 7.A.V 7.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+120	12_two	two	Qiandui	Quiandui Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	18.91	110.04		5 7 8	AXT	LA6	6	6.L.C 6.A.V 6.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+121	12_two	two	Baocheng	Baocheng Hlai	ɬau3	ɬau3	ɬ au *3/³	hlai1239	1498	18.64	109.70		5 7 8	AXT	LA6	2	2.L.C 2.A.V 2.6.T	1.6 3.0 1.0	ɬau*3/³	0	995	995	ɬ au *3/³
+122	12_two	two	Gelong	Gelong	tθai3	tθai3	tθ ai *3/³		1498	19.10	108.65		1 7 8	AXT	TA6	4	4.T.C 4.A.V 4.6.T	1.6 3.0 1.0	tθai*3/³	0	996	996	tθ ai *3/³
+636	65_walk	walk	Xifang	Xifang Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	19.30	109.24		3 7 8	AXT	BE6	8	8.B.C 8.E.V 8.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+637	65_walk	walk	Baisha	Baisha Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	18.65	108.72		3 7 8	AXT	BE6	1	1.B.C 1.E.V 1.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+638	65_walk	walk	Yuanmen	Yuanmen Hlai	fhei1	fhei1	fʰ ei *1/¹	hlai1239	1443	19.11	109.54		3 7 8	AXT	BE6	9	9.B.C 9.E.V 9.6.T	1.6 3.0 1.0	fʰei*1/¹	0	1006	1006	fʰ ei - *1/¹
+639	65_walk	walk	Heitu	Heitu Hlai	pei1	pei1	p ei *1/¹	hlai1239	1443	19.51	108.94		1 7 8	AXT	PE6	5	5.P.C 5.E.V 5.6.T	1.6 3.0 1.0	pei*1/¹	0	1006	1006	p ei - *1/¹
+640	65_walk	walk	Baoding	Baoding Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	18.77	110.45		3 7 8	AXT	BE6	3	3.B.C 3.E.V 3.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+641	65_walk	walk	Zhongsha	Zhongsha Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	15.83	114.33		3 7 8	AXT	BE6	10	10.B.C 10.E.V 10.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+642	65_walk	walk	Tongzha	Tongzha Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	18.88	109.67		3 7 8	AXT	BE6	7	7.B.C 7.E.V 7.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+643	65_walk	walk	Qiandui	Quiandui Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	18.91	110.04		3 7 8	AXT	BE6	6	6.B.C 6.E.V 6.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+644	65_walk	walk	Baocheng	Baocheng Hlai	fei1	fei1	f ei *1/¹	hlai1239	1443	18.64	109.70		3 7 8	AXT	BE6	2	2.B.C 2.E.V 2.6.T	1.6 3.0 1.0	fei*1/¹	0	1006	1006	f ei - *1/¹
+645	65_walk	walk	Gelong	Gelong	foil1	foil1	f oi l *1/¹		1443	19.10	108.65		3 7 5 8	AXLT	BUL6	4	4.B.C 4.U.V 4.L.c 4.6.T	1.6 3.0 1.1 1.0	foil*1/¹	0	1006	1007	f oi l *1/¹
+909	93_warm	warm	Xifang	Xifang Hlai	ɬoŋ2	ɬoŋ2	ɬ o ŋ *2/²	hlai1239	2272	19.30	109.24		5 7 4 8	AXLT	LUN6	8	8.L.C 8.U.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	ɬoŋ*2/²	0	1017	1018	ɬ o ŋ *2/²
+910	93_warm	warm	Baisha	Baisha Hlai	ɬom2	ɬom2	ɬ o m *2/²	hlai1239	2272	18.65	108.72		5 7 4 8	AXLT	LUM6	1	1.L.C 1.U.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	ɬom*2/²	0	1017	1017	ɬ o m *2/²
+911	93_warm	warm	Yuanmen	Yuanmen Hlai	ɬom1	ɬom1	ɬ o m *1/¹	hlai1239	2272	19.11	109.54		5 7 4 8	AXLT	LUM6	9	9.L.C 9.U.V 9.M.c 9.6.T	1.6 3.0 1.1 1.0	ɬom*1/¹	0	1017	1017	ɬ o m *1/¹
+912	93_warm	warm	Heitu	Heitu Hlai	dun2	dun2	d u n *2/²	hlai1239	2272	19.51	108.94		1 7 4 8	AXLT	TYN6	5	5.T.C 5.Y.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	dun*2/²	0	1019	1018	d u n *2/²
+913	93_warm	warm	Baoding	Baoding Hlai	ɬun2	ɬun2	ɬ u n *2/²	hlai1239	2272	18.77	110.45		5 7 4 8	AXLT	LYN6	3	3.L.C 3.Y.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	ɬun*2/²	0	1017	1018	ɬ u n *2/²
+914	93_warm	warm	Zhongsha	Zhongsha Hlai	Ɂut7	Ɂut7	ʔ u t *7/⁵²	hlai1239	2272	15.83	114.33		1 7 1 8	AXLT	HYT3	10	10.H.C 10.Y.V 10.T.c 10.3.T	1.6 3.0 1.1 1.0	ʔut*7/⁵²	0	1020	1020	ʔ u t *7/⁵²
+915	93_warm	warm	Tongzha	Tongzha Hlai	ɬun5	ɬun5	ɬ u n *5/⁵	hlai1239	2272	18.88	109.67		5 7 4 8	AXLT	LYN6	7	7.L.C 7.Y.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ɬun*5/⁵	0	1017	1018	ɬ u n *5/⁵
+916	93_warm	warm	Qiandui	Quiandui Hlai	ɬun5	ɬun5	ɬ u n *5/⁵	hlai1239	2272	18.91	110.04		5 7 4 8	AXLT	LYN6	6	6.L.C 6.Y.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ɬun*5/⁵	0	1017	1018	ɬ u n *5/⁵
+917	93_warm	warm	Baocheng	Baocheng Hlai	ɬun5	ɬun5	ɬ u n *5/⁵	hlai1239	2272	18.64	109.70		5 7 4 8	AXLT	LYN6	2	2.L.C 2.Y.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ɬun*5/⁵	0	1017	1018	ɬ u n *5/⁵
+918	93_warm	warm	Gelong	Gelong	buɘt4	buɘt4	b u ɘ/ə t *4/⁴		2272	19.10	108.65		1 7 7 1 8	AXYLT	PYET6	4	4.P.C 4.Y.V 4.E.V 4.T.c 4.6.T	1.6 3.0 3.0 1.1 1.0	buɘ/ət*4/⁴	0	1018	1019	b u ɘ/ə t *4/⁴
+735	75_water	water	Xifang	Xifang Hlai	nam3	nam3	n a m *3/³	hlai1239	948	19.30	109.24		4 7 4 8	AXLT	NAM6	8	8.N.C 8.A.V 8.M.c 8.6.T	1.6 3.0 1.1 1.0	nam*3/³	0	1028	1028	n a m *3/³
+736	75_water	water	Baisha	Baisha Hlai	nam3	nam3	n a m *3/³	hlai1239	948	18.65	108.72		4 7 4 8	AXLT	NAM6	1	1.N.C 1.A.V 1.M.c 1.6.T	1.6 3.0 1.1 1.0	nam*3/³	0	1028	1028	n a m *3/³
+737	75_water	water	Yuanmen	Yuanmen Hlai	nam6	nam6	n a m *6/⁵¹	hlai1239	948	19.11	109.54		4 7 4 8	AXLT	NAM3	9	9.N.C 9.A.V 9.M.c 9.3.T	1.6 3.0 1.1 1.0	nam*6/⁵¹	0	1028	1028	n a m *6/⁵¹
+738	75_water	water	Heitu	Heitu Hlai	nom3	nom3	n o m *3/³	hlai1239	948	19.51	108.94		4 7 4 8	AXLT	NUM6	5	5.N.C 5.U.V 5.M.c 5.6.T	1.6 3.0 1.1 1.0	nom*3/³	0	1028	1028	n o m *3/³
+739	75_water	water	Baoding	Baoding Hlai	nom3	nom3	n o m *3/³	hlai1239	948	18.77	110.45		4 7 4 8	AXLT	NUM6	3	3.N.C 3.U.V 3.M.c 3.6.T	1.6 3.0 1.1 1.0	nom*3/³	0	1028	1028	n o m *3/³
+740	75_water	water	Zhongsha	Zhongsha Hlai	nam3	nam3	n a m *3/³	hlai1239	948	15.83	114.33		4 7 4 8	AXLT	NAM6	10	10.N.C 10.A.V 10.M.c 10.6.T	1.6 3.0 1.1 1.0	nam*3/³	0	1028	1028	n a m *3/³
+741	75_water	water	Tongzha	Tongzha Hlai	nam3	nam3	n a m *3/³	hlai1239	948	18.88	109.67		4 7 4 8	AXLT	NAM6	7	7.N.C 7.A.V 7.M.c 7.6.T	1.6 3.0 1.1 1.0	nam*3/³	0	1028	1028	n a m *3/³
+742	75_water	water	Qiandui	Quiandui Hlai	nam6	nam6	n a m *6/⁵¹	hlai1239	948	18.91	110.04		4 7 4 8	AXLT	NAM3	6	6.N.C 6.A.V 6.M.c 6.3.T	1.6 3.0 1.1 1.0	nam*6/⁵¹	0	1028	1028	n a m *6/⁵¹
+743	75_water	water	Baocheng	Baocheng Hlai	nam3	nam3	n a m *3/³	hlai1239	948	18.64	109.70		4 7 4 8	AXLT	NAM6	2	2.N.C 2.A.V 2.M.c 2.6.T	1.6 3.0 1.1 1.0	nam*3/³	0	1028	1028	n a m *3/³
+744	75_water	water	Gelong	Gelong	nam3	nam3	n a m *3/³		948	19.10	108.65		4 7 4 8	AXLT	NAM6	4	4.N.C 4.A.V 4.M.c 4.6.T	1.6 3.0 1.1 1.0	nam*3/³	0	1028	1028	n a m *3/³
+22	3_we	we	Xifang	Xifang Hlai	fau1	fau1	f au *1/¹	hlai1239	1212	19.30	109.24		3 7 8	AXT	BA6	8	8.B.C 8.A.V 8.6.T	1.6 3.0 1.0	fau*1/¹	0	1039	1040	f au - *1/¹
+23	3_we	we	Baisha	Baisha Hlai	fə1	fə1	f ə *1/¹	hlai1239	1212	18.65	108.72		3 7 8	AXT	BE6	1	1.B.C 1.E.V 1.6.T	1.6 3.0 1.0	fə*1/¹	0	1039	1039	f ə - *1/¹
+24	3_we	we	Yuanmen	Yuanmen Hlai	feɯɁ7	feɯɁ7	f eɯ ʔ *7/⁵²	hlai1239	1212	19.11	109.54		3 7 1 8	AXLT	BEH3	9	9.B.C 9.E.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	feɯʔ*7/⁵²	0	1039	1039	f eɯ ʔ *7/⁵²
+25	3_we	we	Heitu	Heitu Hlai	Ɂa2 rou1	Ɂa2_rou1	ʔ a *2/² + r ou *1/¹	hlai1239	1212	19.51	108.94		1 7 8 9 5 7 8	AXT_AXT	HA6_RU6	5	5.H.C 5.A.V 5.6.T 5._._ 5.R.C 5.U.V 5.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*2/²+rou*1/¹	0	1040 1041	1041 1042	ʔ a *2/² - - - + r ou *1/¹
+26	3_we	we	Baoding	Baoding Hlai	fa1	fa1	f a *1/¹	hlai1239	1212	18.77	110.45		3 7 8	AXT	BA6	3	3.B.C 3.A.V 3.6.T	1.6 3.0 1.0	fa*1/¹	0	1039	1040	f a - *1/¹
+27	3_we	we	Zhongsha	Zhongsha Hlai	Ɂa3tau1	Ɂa3tau1	ʔ a *3/³ t au *1/¹	hlai1239	1212	15.83	114.33		1 7 8 1 7 8	AXTBYT	HA6TA6	10	10.H.C 10.A.V 10.6.T 10.T.C 10.A.V 10.6.T	1.6 3.0 1.0 1.3 3.0 1.0	ʔa*3/³tau*1/¹	0	1040	1041	ʔ a *3/³ t au *1/¹
+28	3_we	we	Tongzha	Tongzha Hlai	fau1	fau1	f au *1/¹	hlai1239	1212	18.88	109.67		3 7 8	AXT	BA6	7	7.B.C 7.A.V 7.6.T	1.6 3.0 1.0	fau*1/¹	0	1039	1040	f au - *1/¹
+29	3_we	we	Qiandui	Quiandui Hlai	fau1	fau1	f au *1/¹	hlai1239	1212	18.91	110.04		3 7 8	AXT	BA6	6	6.B.C 6.A.V 6.6.T	1.6 3.0 1.0	fau*1/¹	0	1039	1040	f au - *1/¹
+30	3_we	we	Baocheng	Baocheng Hlai	fou1	fou1	f ou *1/¹	hlai1239	1212	18.64	109.70		3 7 8	AXT	BU6	2	2.B.C 2.U.V 2.6.T	1.6 3.0 1.0	fou*1/¹	0	1039	1040	f ou - *1/¹
+31	3_we	we	Gelong	Gelong	ha5	ha5	h a *5/⁵		1212	19.10	108.65		3 7 8	AXT	HA6	4	4.H.C 4.A.V 4.6.T	1.6 3.0 1.0	ha*5/⁵	0	1040	1041	h a *5/⁵ - - -
+63	7_what	what	Xifang	Xifang Hlai	pɯ3 ra3	pɯ3_ra3	p ɯ *3/³ + r a *3/³	hlai1239	1236	19.30	109.24		1 7 8 9 5 7 8	AXT_AXT	PI6_RA6	8	8.P.C 8.I.V 8.6.T 8._._ 8.R.C 8.A.V 8.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pɯ*3/³+ra*3/³	0	1052 1056	1056 1057	p - ɯ - *3/³ + r a *3/³
+64	7_what	what	Baisha	Baisha Hlai	mau2 pla2	mau2_pla2	m au *2/² + p l a *2/²	hlai1239	1236	18.65	108.72		4 7 8 9 1 5 7 8	AXT_ACXT	MA6_PLA6	1	1.M.C 1.A.V 1.6.T 1._._ 1.P.C 1.L.C 1.A.V 1.6.T	1.6 3.0 1.0 0.0 1.6 1.2 3.0 1.0	mau*2/²+pla*2/²	0	1051 1052	1051 1052	m au *2/² + p l a - *2/²
+65	7_what	what	Yuanmen	Yuanmen Hlai	ma3 ra6	ma3_ra6	m a *3/³ + r a *6/⁵¹	hlai1239	1236	19.11	109.54		4 7 8 9 5 7 8	AXT_AXT	MA6_RA3	9	9.M.C 9.A.V 9.6.T 9._._ 9.R.C 9.A.V 9.3.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ma*3/³+ra*6/⁵¹	0	1051 1056	1051 1057	m a *3/³ + r a *6/⁵¹
+66	7_what	what	Heitu	Heitu Hlai	mei3 paŋ3	mei3_paŋ3	m ei *3/³ + p a ŋ *3/³	hlai1239	1236	19.51	108.94		4 7 8 9 1 7 4 8	AXT_AXLT	ME6_PAN6	5	5.M.C 5.E.V 5.6.T 5._._ 5.P.C 5.A.V 5.N.c 5.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.1 1.0	mei*3/³+paŋ*3/³	0	1051 1052	1051 1055	m ei *3/³ + p - a ŋ *3/³
+67	7_what	what	Baoding	Baoding Hlai	me3 he3	me3_he3	m e *3/³ + h e *3/³	hlai1239	1236	18.77	110.45		4 7 8 9 3 7 8	AXT_AXT	ME6_HE6	3	3.M.C 3.E.V 3.6.T 3._._ 3.H.C 3.E.V 3.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	me*3/³+he*3/³	0	1051 1053	1051 1053	m e *3/³ + h e *3/³
+68	7_what	what	Zhongsha	Zhongsha Hlai	mau2 phe1	mau2_phe1	m au *2/² + pʰ e *1/¹	hlai1239	1236	15.83	114.33		4 7 8 9 1 7 8	AXT_AXT	MA6_PE6	10	10.M.C 10.A.V 10.6.T 10._._ 10.P.C 10.E.V 10.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	mau*2/²+pʰe*1/¹	0	1051 1052	1051 1056	m au *2/² + pʰ - e - *1/¹
+69	7_what	what	Tongzha	Tongzha Hlai	me3 he1	me3_he1	m e *3/³ + h e *1/¹	hlai1239	1236	18.88	109.67		4 7 8 9 3 7 8	AXT_AXT	ME6_HE6	7	7.M.C 7.E.V 7.6.T 7._._ 7.H.C 7.E.V 7.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	me*3/³+he*1/¹	0	1051 1053	1051 1053	m e *3/³ + h e *1/¹
+70	7_what	what	Qiandui	Quiandui Hlai	mo2 me:ŋ1	mo2_me:ŋ1	m o *2/² + m eː ŋ *1/¹	hlai1239	1236	18.91	110.04		4 7 8 9 4 7 4 8	AXT_AXLT	MU6_MEN6	6	6.M.C 6.U.V 6.6.T 6._._ 6.M.C 6.E.V 6.N.c 6.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.1 1.0	mo*2/²+meːŋ*1/¹	0	1051 1055	1051 1054	m o *2/² + m eː ŋ *1/¹
+71	7_what	what	Baocheng	Baocheng Hlai	he1	he1	h e *1/¹	hlai1239	1236	18.64	109.70		3 7 8	AXT	HE6	2	2.H.C 2.E.V 2.6.T	1.6 3.0 1.0	he*1/¹	0	1053	1053	h e *1/¹
+72	7_what	what	Gelong	Gelong	mɔ5 miɘ	mɔ5_miɘ	m ɔ *5/⁵ + m i/j ɘ/ə		1236	19.10	108.65		4 7 8 9 4 6 7	AXT_ACX	MU6_MJE	4	4.M.C 4.U.V 4.6.T 4._._ 4.M.C 4.J.C 4.E.V	1.6 3.0 1.0 0.0 1.6 1.2 3.0	mɔ*5/⁵+mi/jɘ/ə	0	1051 1054	1051 1054	m ɔ *5/⁵ + m i/j ɘ/ə
+879	90_white	white	Xifang	Xifang Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	19.30	109.24		1 7 8	AXT	KA6	8	8.K.C 8.A.V 8.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+880	90_white	white	Baisha	Baisha Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	18.65	108.72		1 7 8	AXT	KA6	1	1.K.C 1.A.V 1.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+881	90_white	white	Yuanmen	Yuanmen Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	19.11	109.54		1 7 8	AXT	KA6	9	9.K.C 9.A.V 9.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+882	90_white	white	Heitu	Heitu Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	19.51	108.94		1 7 8	AXT	KA6	5	5.K.C 5.A.V 5.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+883	90_white	white	Baoding	Baoding Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	18.77	110.45		1 7 8	AXT	KA6	3	3.K.C 3.A.V 3.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+884	90_white	white	Zhongsha	Zhongsha Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	15.83	114.33		1 7 8	AXT	KA6	10	10.K.C 10.A.V 10.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+885	90_white	white	Tongzha	Tongzha Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	18.88	109.67		1 7 8	AXT	KA6	7	7.K.C 7.A.V 7.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+886	90_white	white	Qiandui	Quiandui Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	18.91	110.04		1 7 8	AXT	KA6	6	6.K.C 6.A.V 6.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+887	90_white	white	Baocheng	Baocheng Hlai	kha:u1	kha:u1	kʰ aːu *1/¹	hlai1239	1335	18.64	109.70		1 7 8	AXT	KA6	2	2.K.C 2.A.V 2.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+888	90_white	white	Gelong	Gelong	khaːu1	khaːu1	kʰ aːu *1/¹		1335	19.10	108.65		1 7 8	AXT	KA6	4	4.K.C 4.A.V 4.6.T	1.6 3.0 1.0	kʰaːu*1/¹	0	1071	1071	kʰ aːu *1/¹
+53	6_who	who	Xifang	Xifang Hlai	Ɂɯ3 ra3	Ɂɯ3_ra3	ʔ ɯ *3/³ + r a *3/³	hlai1239	1235	19.30	109.24		1 7 8 9 5 7 8	AXT_AXT	HI6_RA6	8	8.H.C 8.I.V 8.6.T 8._._ 8.R.C 8.A.V 8.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔɯ*3/³+ra*3/³	0	1082 1083	1082 1083	ʔ ɯ *3/³ + r a *3/³
+54	6_who	who	Baisha	Baisha Hlai	Ɂa1 ra5	Ɂa1_ra5	ʔ a *1/¹ + r a *5/⁵	hlai1239	1235	18.65	108.72		1 7 8 9 5 7 8	AXT_AXT	HA6_RA6	1	1.H.C 1.A.V 1.6.T 1._._ 1.R.C 1.A.V 1.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*1/¹+ra*5/⁵	0	1082 1083	1082 1083	ʔ a *1/¹ + r a *5/⁵
+55	6_who	who	Yuanmen	Yuanmen Hlai	Ɂa1 ra6	Ɂa1_ra6	ʔ a *1/¹ + r a *6/⁵¹	hlai1239	1235	19.11	109.54		1 7 8 9 5 7 8	AXT_AXT	HA6_RA3	9	9.H.C 9.A.V 9.6.T 9._._ 9.R.C 9.A.V 9.3.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*1/¹+ra*6/⁵¹	0	1082 1083	1082 1083	ʔ a *1/¹ + r a *6/⁵¹
+56	6_who	who	Heitu	Heitu Hlai	Ɂa3 ra1	Ɂa3_ra1	ʔ a *3/³ + r a *1/¹	hlai1239	1235	19.51	108.94		1 7 8 9 5 7 8	AXT_AXT	HA6_RA6	5	5.H.C 5.A.V 5.6.T 5._._ 5.R.C 5.A.V 5.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*3/³+ra*1/¹	0	1082 1083	1082 1083	ʔ a *3/³ + r a *1/¹
+57	6_who	who	Baoding	Baoding Hlai	Ɂɯ3 ra3	Ɂɯ3_ra3	ʔ ɯ *3/³ + r a *3/³	hlai1239	1235	18.77	110.45		1 7 8 9 5 7 8	AXT_AXT	HI6_RA6	3	3.H.C 3.I.V 3.6.T 3._._ 3.R.C 3.A.V 3.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔɯ*3/³+ra*3/³	0	1082 1083	1082 1083	ʔ ɯ *3/³ + r a *3/³
+58	6_who	who	Zhongsha	Zhongsha Hlai	Ɂa3 ra1	Ɂa3_ra1	ʔ a *3/³ + r a *1/¹	hlai1239	1235	15.83	114.33		1 7 8 9 5 7 8	AXT_AXT	HA6_RA6	10	10.H.C 10.A.V 10.6.T 10._._ 10.R.C 10.A.V 10.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*3/³+ra*1/¹	0	1082 1083	1082 1083	ʔ a *3/³ + r a *1/¹
+59	6_who	who	Tongzha	Tongzha Hlai	Ɂa3 ra2	Ɂa3_ra2	ʔ a *3/³ + r a *2/²	hlai1239	1235	18.88	109.67		1 7 8 9 5 7 8	AXT_AXT	HA6_RA6	7	7.H.C 7.A.V 7.6.T 7._._ 7.R.C 7.A.V 7.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*3/³+ra*2/²	0	1082 1083	1082 1083	ʔ a *3/³ + r a *2/²
+60	6_who	who	Qiandui	Quiandui Hlai	Ɂai1 la3	Ɂai1_la3	ʔ ai *1/¹ + l a *3/³	hlai1239	1235	18.91	110.04		1 7 8 9 5 7 8	AXT_AXT	HA6_LA6	6	6.H.C 6.A.V 6.6.T 6._._ 6.L.C 6.A.V 6.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔai*1/¹+la*3/³	0	1082 1083	1082 1083	ʔ ai *1/¹ + l a *3/³
+61	6_who	who	Baocheng	Baocheng Hlai	Ɂa4 la1	Ɂa4_la1	ʔ a *4/⁴ + l a *1/¹	hlai1239	1235	18.64	109.70		1 7 8 9 5 7 8	AXT_AXT	HA6_LA6	2	2.H.C 2.A.V 2.6.T 2._._ 2.L.C 2.A.V 2.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ʔa*4/⁴+la*1/¹	0	1082 1083	1082 1083	ʔ a *4/⁴ + l a *1/¹
+62	6_who	who	Gelong	Gelong	au5	au5	au *5/⁵		1235	19.10	108.65		7 8	XT	A6	4	4.A.V 4.6.T	3.0 1.0	au*5/⁵	0	1084	1084	au *5/⁵
+154	16_woman	woman	Xifang	Xifang Hlai	ɬɯk7 kho2	ɬɯk7_kho2	ɬ ɯ k *7/⁵² + kʰ o *2/²	hlai1239	962	19.30	109.24		5 7 1 8 9 1 7 8	AXLT_AXT	LIK3_KU6	8	8.L.C 8.I.V 8.K.c 8.3.T 8._._ 8.K.C 8.U.V 8.6.T	1.6 3.0 1.1 1.0 0.0 1.6 3.0 1.0	ɬɯk*7/⁵²+kʰo*2/²	0	1106 1103	1106 1103	ɬ ɯ k *7/⁵² + kʰ o *2/²
+155	16_woman	woman	Baisha	Baisha Hlai	pai3 kho5	pai3_kho5	p ai *3/³ + kʰ o *5/⁵	hlai1239	962	18.65	108.72		1 7 8 9 1 7 8	AXT_AXT	PA6_KU6	1	1.P.C 1.A.V 1.6.T 1._._ 1.K.C 1.U.V 1.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pai*3/³+kʰo*5/⁵	0	1102 1103	1102 1103	p ai *3/³ + kʰ o *5/⁵
+156	16_woman	woman	Yuanmen	Yuanmen Hlai	pai4 kho5	pai4_kho5	p ai *4/⁴ + kʰ o *5/⁵	hlai1239	962	19.11	109.54		1 7 8 9 1 7 8	AXT_AXT	PA6_KU6	9	9.P.C 9.A.V 9.6.T 9._._ 9.K.C 9.U.V 9.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pai*4/⁴+kʰo*5/⁵	0	1102 1103	1102 1103	p ai *4/⁴ + kʰ o *5/⁵
+157	16_woman	woman	Heitu	Heitu Hlai	mei3 khau2	mei3_khau2	m ei *3/³ + kʰ au *2/²	hlai1239	962	19.51	108.94		4 7 8 9 1 7 8	AXT_AXT	ME6_KA6	5	5.M.C 5.E.V 5.6.T 5._._ 5.K.C 5.A.V 5.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	mei*3/³+kʰau*2/²	0	1105 1103	1105 1103	m ei *3/³ + kʰ au *2/²
+158	16_woman	woman	Baoding	Baoding Hlai	pai3 khau2	pai3_khau2	p ai *3/³ + kʰ au *2/²	hlai1239	962	18.77	110.45		1 7 8 9 1 7 8	AXT_AXT	PA6_KA6	3	3.P.C 3.A.V 3.6.T 3._._ 3.K.C 3.A.V 3.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pai*3/³+kʰau*2/²	0	1102 1103	1102 1103	p ai *3/³ + kʰ au *2/²
+159	16_woman	woman	Zhongsha	Zhongsha Hlai	pai3 khau2	pai3_khau2	p ai *3/³ + kʰ au *2/²	hlai1239	962	15.83	114.33		1 7 8 9 1 7 8	AXT_AXT	PA6_KA6	10	10.P.C 10.A.V 10.6.T 10._._ 10.K.C 10.A.V 10.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pai*3/³+kʰau*2/²	0	1102 1103	1102 1103	p ai *3/³ + kʰ au *2/²
+160	16_woman	woman	Tongzha	Tongzha Hlai	ɬɯɁ7 kho5	ɬɯɁ7_kho5	ɬ ɯ ʔ *7/⁵² + kʰ o *5/⁵	hlai1239	962	18.88	109.67		5 7 1 8 9 1 7 8	AXLT_AXT	LIH3_KU6	7	7.L.C 7.I.V 7.H.c 7.3.T 7._._ 7.K.C 7.U.V 7.6.T	1.6 3.0 1.1 1.0 0.0 1.6 3.0 1.0	ɬɯʔ*7/⁵²+kʰo*5/⁵	0	1106 1103	1106 1103	ɬ ɯ ʔ *7/⁵² + kʰ o *5/⁵
+161	16_woman	woman	Qiandui	Quiandui Hlai	phai6 kho5	phai6_kho5	pʰ ai *6/⁵¹ + kʰ o *5/⁵	hlai1239	962	18.91	110.04		1 7 8 9 1 7 8	AXT_AXT	PA3_KU6	6	6.P.C 6.A.V 6.3.T 6._._ 6.K.C 6.U.V 6.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pʰai*6/⁵¹+kʰo*5/⁵	0	1102 1103	1102 1103	pʰ ai *6/⁵¹ + kʰ o *5/⁵
+162	16_woman	woman	Baocheng	Baocheng Hlai	pai4 khɔ4	pai4_khɔ4	p ai *4/⁴ + kʰ ɔ *4/⁴	hlai1239	962	18.64	109.70		1 7 8 9 1 7 8	AXT_AXT	PA6_KU6	2	2.P.C 2.A.V 2.6.T 2._._ 2.K.C 2.U.V 2.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	pai*4/⁴+kʰɔ*4/⁴	0	1102 1103	1102 1103	p ai *4/⁴ + kʰ ɔ *4/⁴
+163	16_woman	woman	Gelong	Gelong	ŋaːu1 bai4	ŋaːu1_bai4	ŋ aːu *1/¹ + b ai *4/⁴		962	19.10	108.65		4 7 8 9 1 7 8	AXT_AXT	NA6_PA6	4	4.N.C 4.A.V 4.6.T 4._._ 4.P.C 4.A.V 4.6.T	1.6 3.0 1.0 0.0 1.6 3.0 1.0	ŋaːu*1/¹+bai*4/⁴	0	1104 1102	1104 1102	ŋ aːu *1/¹ + b ai *4/⁴
+869	89_yellow	yellow	Xifang	Xifang Hlai	ze:ŋ1	ze:ŋ1	z eː ŋ *1/¹	hlai1239	1424	19.30	109.24		3 7 4 8	AXLT	SEN6	8	8.S.C 8.E.V 8.N.c 8.6.T	1.6 3.0 1.1 1.0	zeːŋ*1/¹	0	1123	1123	z - eː ŋ *1/¹
+870	89_yellow	yellow	Baisha	Baisha Hlai	ziaŋ4	ziaŋ4	z i/j a ŋ *4/⁴	hlai1239	1424	18.65	108.72		3 6 7 4 8	ACXLT	SJAN6	1	1.S.C 1.J.C 1.A.V 1.N.c 1.6.T	1.6 1.2 3.0 1.1 1.0	zi/jaŋ*4/⁴	0	1123	1123	z i/j a ŋ *4/⁴
+871	89_yellow	yellow	Yuanmen	Yuanmen Hlai	tsiaŋ4	tsiaŋ4	ts i/j a ŋ *4/⁴	hlai1239	1424	19.11	109.54		2 6 7 4 8	ACXLT	CJAN6	9	9.C.C 9.J.C 9.A.V 9.N.c 9.6.T	1.6 1.2 3.0 1.1 1.0	tsi/jaŋ*4/⁴	0	1123	1123	ts i/j a ŋ *4/⁴
+872	89_yellow	yellow	Heitu	Heitu Hlai	ze:ŋ1	ze:ŋ1	z eː ŋ *1/¹	hlai1239	1424	19.51	108.94		3 7 4 8	AXLT	SEN6	5	5.S.C 5.E.V 5.N.c 5.6.T	1.6 3.0 1.1 1.0	zeːŋ*1/¹	0	1123	1123	z - eː ŋ *1/¹
+873	89_yellow	yellow	Baoding	Baoding Hlai	ze:ŋ1	ze:ŋ1	z eː ŋ *1/¹	hlai1239	1424	18.77	110.45		3 7 4 8	AXLT	SEN6	3	3.S.C 3.E.V 3.N.c 3.6.T	1.6 3.0 1.1 1.0	zeːŋ*1/¹	0	1123	1123	z - eː ŋ *1/¹
+874	89_yellow	yellow	Zhongsha	Zhongsha Hlai	ze:ŋ1	ze:ŋ1	z eː ŋ *1/¹	hlai1239	1424	15.83	114.33		3 7 4 8	AXLT	SEN6	10	10.S.C 10.E.V 10.N.c 10.6.T	1.6 3.0 1.1 1.0	zeːŋ*1/¹	0	1123	1123	z - eː ŋ *1/¹
+875	89_yellow	yellow	Tongzha	Tongzha Hlai	ɬe:ŋ4	ɬe:ŋ4	ɬ eː ŋ *4/⁴	hlai1239	1424	18.88	109.67		5 7 4 8	AXLT	LEN6	7	7.L.C 7.E.V 7.N.c 7.6.T	1.6 3.0 1.1 1.0	ɬeːŋ*4/⁴	0	1123	1123	- ɬ eː ŋ *4/⁴
+876	89_yellow	yellow	Qiandui	Quiandui Hlai	ɬe:ŋ4	ɬe:ŋ4	ɬ eː ŋ *4/⁴	hlai1239	1424	18.91	110.04		5 7 4 8	AXLT	LEN6	6	6.L.C 6.E.V 6.N.c 6.6.T	1.6 3.0 1.1 1.0	ɬeːŋ*4/⁴	0	1123	1123	- ɬ eː ŋ *4/⁴
+877	89_yellow	yellow	Baocheng	Baocheng Hlai	ɬe:ŋ4	ɬe:ŋ4	ɬ eː ŋ *4/⁴	hlai1239	1424	18.64	109.70		5 7 4 8	AXLT	LEN6	2	2.L.C 2.E.V 2.N.c 2.6.T	1.6 3.0 1.1 1.0	ɬeːŋ*4/⁴	0	1123	1123	- ɬ eː ŋ *4/⁴
+878	89_yellow	yellow	Gelong	Gelong	vɔŋ1	vɔŋ1	v ɔ ŋ *1/¹		1424	19.10	108.65		3 7 4 8	AXLT	BUN6	4	4.B.C 4.U.V 4.N.c 4.6.T	1.6 3.0 1.1 1.0	vɔŋ*1/¹	0	1123	1124	- v ɔ ŋ *1/¹
+12	2_you	you	Xifang	Xifang Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1215	19.30	109.24		4 7 8	AXT	ME6	8	8.M.C 8.E.V 8.6.T	1.6 3.0 1.0	meɯ*1/¹	0	1134	1134	m eɯ - *1/¹
+13	2_you	you	Baisha	Baisha Hlai	mə1	mə1	m ə *1/¹	hlai1239	1215	18.65	108.72		4 7 8	AXT	ME6	1	1.M.C 1.E.V 1.6.T	1.6 3.0 1.0	mə*1/¹	0	1134	1134	m ə - *1/¹
+14	2_you	you	Yuanmen	Yuanmen Hlai	meɯɁ8	meɯɁ8	m eɯ ʔ *8/⁵³	hlai1239	1215	19.11	109.54		4 7 1 8	AXLT	MEH3	9	9.M.C 9.E.V 9.H.c 9.3.T	1.6 3.0 1.1 1.0	meɯʔ*8/⁵³	0	1134	1134	m eɯ ʔ *8/⁵³
+15	2_you	you	Heitu	Heitu Hlai	mɯ1	mɯ1	m ɯ *1/¹	hlai1239	1215	19.51	108.94		4 7 8	AXT	MI6	5	5.M.C 5.I.V 5.6.T	1.6 3.0 1.0	mɯ*1/¹	0	1134	1134	m ɯ - *1/¹
+16	2_you	you	Baoding	Baoding Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1215	18.77	110.45		4 7 8	AXT	ME6	3	3.M.C 3.E.V 3.6.T	1.6 3.0 1.0	meɯ*1/¹	0	1134	1134	m eɯ - *1/¹
+17	2_you	you	Zhongsha	Zhongsha Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1215	15.83	114.33		4 7 8	AXT	ME6	10	10.M.C 10.E.V 10.6.T	1.6 3.0 1.0	meɯ*1/¹	0	1134	1134	m eɯ - *1/¹
+18	2_you	you	Tongzha	Tongzha Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1215	18.88	109.67		4 7 8	AXT	ME6	7	7.M.C 7.E.V 7.6.T	1.6 3.0 1.0	meɯ*1/¹	0	1134	1134	m eɯ - *1/¹
+19	2_you	you	Qiandui	Quiandui Hlai	meɯ4	meɯ4	m eɯ *4/⁴	hlai1239	1215	18.91	110.04		4 7 8	AXT	ME6	6	6.M.C 6.E.V 6.6.T	1.6 3.0 1.0	meɯ*4/⁴	0	1134	1134	m eɯ - *4/⁴
+20	2_you	you	Baocheng	Baocheng Hlai	meɯ1	meɯ1	m eɯ *1/¹	hlai1239	1215	18.64	109.70		4 7 8	AXT	ME6	2	2.M.C 2.E.V 2.6.T	1.6 3.0 1.0	meɯ*1/¹	0	1134	1134	m eɯ - *1/¹
+21	2_you	you	Gelong	Gelong	mɔ5	mɔ5	m ɔ *5/⁵		1215	19.10	108.65		4 7 8	AXT	MU6	4	4.M.C 4.U.V 4.6.T	1.6 3.0 1.0	mɔ*5/⁵	0	1134	1134	m ɔ - *5/⁵
