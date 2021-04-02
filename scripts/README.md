@@ -20,6 +20,6 @@ Running this script will produce a tsv file called *alignments.tsv* containing a
 
 In a next step you can calculate the distance matrix:
 
-	```$ python scripts/phylogenetic_reconstruction.py```
+```$ python scripts/phylogenetic_reconstruction.py```
   
 With the help of the SplitsTree software you can compute and further manipulate the phylogenetic tree by uploading the distance matrix there.
