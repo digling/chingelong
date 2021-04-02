@@ -1,6 +1,6 @@
-# Code for Partial Cognate Detection
+# Code for Partial Cognate Detection and Phylogenetic Reconstruction
 
-This instruction helps reproducing the steps of the partial cognate detection mentioned in the post "Computer-Assisted Comparison of Gelong and Hlai using Cross-Linguistic Data Formats".
+This instruction helps reproducing the steps of the partial cognate detection and phylogenetic reconstruction mentioned in the post "Computer-Assisted Comparison of Gelong and Hlai using Cross-Linguistic Data Formats".
 
 In order to run the provided [script](https://github.com/digling/chingelong/blob/main/scripts/partial_cognate_detection.py), you need to follow several steps:
 - Please clone this repository first:
@@ -16,4 +16,10 @@ In order to run the provided [script](https://github.com/digling/chingelong/blob
 
 	```$ python scripts/partial_cognate_detection.py```
 
-Running this script will produce the expected tsv file called *alignments.tsv*.
+Running this script will produce a tsv file called *alignments.tsv* containing all cognate sets and alignments.
+
+In a next step you can calculate the distance matrix:
+
+	```$ python scripts/phylogenetic_reconstruction.py```
+  
+With the help of the SplitsTree software you can compute and further manipulate the phylogenetic tree by uploading the distance matrix there.
