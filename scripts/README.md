@@ -8,7 +8,7 @@ In order to run the provided [script](https://github.com/digling/chingelong/blob
 	```$ git clone https://github.com/digling/chingelong.git```
 
 - It is suggested to create a fresh virtual environment.
-- Several software is required to run this code (e.g. cldfbench, lingpy). You can install all requirements with the command: 
+- Several software is required to run this code (e.g. cldfbench, lingpy). You can install all requirements with this command: 
 
 	```$ pip install -e ./```
 
