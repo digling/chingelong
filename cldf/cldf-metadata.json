@@ -14,12 +14,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/chingelong",
-            "dc:created": "5f527cc"
+            "dc:created": "be67f82"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.3"
         },
         {

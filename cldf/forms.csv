@@ -285,7 +285,7 @@ Gelong-29_flesh-1,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,muŋ1,m u ŋ *1/�
 Gelong-29_flesh-2,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,tθɯək2,tθ ɯ ə k *2/²,,Chin2015,,,^tθ ɯ ə k 2$,default
 Gelong-29_flesh-3,,Gelong,29_flesh,muŋ1 // tθɯək2 // khai1,khai1,kʰ ai *1/¹,,Chin2015,,,^kh ai 1$,default
 Xifang-30_blood-1,,Xifang,30_blood,ɬo:ȶ7,ɬo:ȶ7,ɬ oː ȶ *7/⁵²,,Chin2015,,,^ɬ o: ȶ 7$,default
-Baisha-30_blood-1,,Baisha,30_blood,ɬa:ȶ 8,ɬa:ȶ_8,ɬ aː ȶ + *8/⁵³,,Chin2015,,,^ɬ a: ȶ _ 8$,default
+Baisha-30_blood-1,,Baisha,30_blood,ɬa:ȶ8,ɬa:ȶ8,ɬ aː ȶ *8/⁵³,,Chin2015,,,^ɬ a: ȶ 8$,default
 Yuanmen-30_blood-1,,Yuanmen,30_blood,ɬuaȶ7,ɬuaȶ7,ɬ u/w a ȶ *7/⁵²,,Chin2015,,,^ɬ ua ȶ 7$,default
 Heitu-30_blood-1,,Heitu,30_blood,da:ȶ7,da:ȶ7,d aː ȶ *7/⁵²,,Chin2015,,,^d a: ȶ 7$,default
 Baoding-30_blood-1,,Baoding,30_blood,ɬa:ȶ7,ɬa:ȶ7,ɬ aː ȶ *7/⁵²,,Chin2015,,,^ɬ a: ȶ 7$,default
@@ -517,10 +517,10 @@ Tongzha-52_heart-1,,Tongzha,52_heart,ɬa:u3,ɬa:u3,ɬ aːu *3/³,,Chin2015,,,^ɬ
 Qiandui-52_heart-1,,Qiandui,52_heart,ɬa:u3,ɬa:u3,ɬ aːu *3/³,,Chin2015,,,^ɬ a:u 3$,default
 Baocheng-52_heart-1,,Baocheng,52_heart,ɬa:u3,ɬa:u3,ɬ aːu *3/³,,Chin2015,,,^ɬ a:u 3$,default
 Gelong-52_heart-1,,Gelong,52_heart,tθem5,tθem5,tθ e m *5/⁵,,Chin2015,,,^tθ e m 5$,default
-Xifang-53_liver-1,,Xifang,53_liver,ŋa: ŋ1,ŋa:_ŋ1,ŋ aː ŋ *1/¹,,Chin2015,,,^ŋ a:_ ŋ 1$,default
-Baisha-53_liver-1,,Baisha,53_liver,ŋa: ŋ1,ŋa:_ŋ1,ŋ aː ŋ *1/¹,,Chin2015,,,^ŋ a:_ ŋ 1$,default
+Xifang-53_liver-1,,Xifang,53_liver,ŋa:ŋ1,ŋa:ŋ1,ŋ aː ŋ *1/¹,,Chin2015,,,^ŋ a: ŋ 1$,default
+Baisha-53_liver-1,,Baisha,53_liver,ŋa:ŋ1,ŋa:ŋ1,ŋ aː ŋ *1/¹,,Chin2015,,,^ŋ a: ŋ 1$,default
 Yuanmen-53_liver-1,,Yuanmen,53_liver,ŋuan1,ŋuan1,ŋ u/w a n *1/¹,,Chin2015,,,^ŋ ua n 1$,default
-Heitu-53_liver-1,,Heitu,53_liver,ŋa: n1,ŋa:_n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a:_ n 1$,default
+Heitu-53_liver-1,,Heitu,53_liver,ŋa:n1,ŋa:n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a: n 1$,default
 Baoding-53_liver-1,,Baoding,53_liver,ŋa:n1,ŋa:n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a: n 1$,default
 Zhongsha-53_liver-1,,Zhongsha,53_liver,ŋa:n1,ŋa:n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a: n 1$,default
 Tongzha-53_liver-1,,Tongzha,53_liver,ŋa:n1,ŋa:n1,ŋ aː n *1/¹,,Chin2015,,,^ŋ a: n 1$,default
@@ -533,7 +533,7 @@ Yuanmen-54_drink-1,,Yuanmen,54_drink,ɁɔɁ7,ɁɔɁ7,ʔ ɔ ʔ *7/⁵²,,Chin2015
 Heitu-54_drink-1,,Heitu,54_drink,lou2,lou2,l ou *2/²,,Chin2015,,,^l ou 2$,default
 Baoding-54_drink-1,,Baoding,54_drink,Ɂo:k9,Ɂo:k9,ʔ oː k *9/⁵⁴,,Chin2015,,,^Ɂ o: k 9$,default
 Zhongsha-54_drink-1,,Zhongsha,54_drink,Ɂok7,Ɂok7,ʔ o k *7/⁵²,,Chin2015,,,^Ɂ o k 7$,default
-Tongzha-54_drink-1,,Tongzha,54_drink,Ɂo:Ɂ 9,Ɂo:Ɂ_9,ʔ oː ʔ + *9/⁵⁴,,Chin2015,,,^Ɂ o: Ɂ _ 9$,default
+Tongzha-54_drink-1,,Tongzha,54_drink,Ɂo:Ɂ9,Ɂo:Ɂ9,ʔ oː ʔ *9/⁵⁴,,Chin2015,,,^Ɂ o: Ɂ 9$,default
 Qiandui-54_drink-1,,Qiandui,54_drink,ɁoɁ7,ɁoɁ7,ʔ o ʔ *7/⁵²,,Chin2015,,,^Ɂ o Ɂ 7$,default
 Baocheng-54_drink-1,,Baocheng,54_drink,Ɂɔ:Ɂ7,Ɂɔ:Ɂ7,ʔ ɔː ʔ *7/⁵²,,Chin2015,,,^Ɂ ɔ: Ɂ 7$,default
 Gelong-54_drink-1,,Gelong,54_drink,tshep2,tshep2,tsʰ e p *2/²,,Chin2015,,,^tsh e p 2$,default
