@@ -1,11 +1,20 @@
 # CLDF dataset derived from Chin's "Gelong Language in the Multilingual Hub of Hainan" from 2015
 
-Cite the source dataset as
+## How to cite
 
-> Chin, Andy C. (2015): The Gelong Language in the Multilingual Hub of Hainan. Bulletin of Chinese Linguistics. 8. 140-156.
+If you use these data please cite
+- the original source
+  > Chin, Andy C. (2015): The Gelong Language in the Multilingual Hub of Hainan. Bulletin of Chinese Linguistics. 8. 140-156.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Chin-2015-100](https://concepticon.clld.org/contributions/Chin-2015-100)
 ## Notes
 
 # Removal of unnecessary whitespaces
@@ -43,3 +52,10 @@ Ayten Tüfekci      | @Ayten123   | student task              | Other
 Andy C. Chin       |             | original data compilation | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
