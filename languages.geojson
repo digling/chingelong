@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.24,
+          19.3
+        ]
+      },
+      "properties": {
+        "Name": "Xifang Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Northern Hlai",
+        "Name_in_Source": "XF",
+        "Chinese_Name": "\u897f\u65b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.72,
+          18.65
+        ]
+      },
+      "properties": {
+        "Name": "Baisha Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Northern Hlai",
+        "Name_in_Source": "BS",
+        "Chinese_Name": "\u767d\u6c99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.54,
+          19.11
+        ]
+      },
+      "properties": {
+        "Name": "Yuanmen Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Northern Hlai",
+        "Name_in_Source": "YM",
+        "Chinese_Name": "\u5143\u9580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.94,
+          19.51
+        ]
+      },
+      "properties": {
+        "Name": "Heitu Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Southern Hlai",
+        "Name_in_Source": "HT",
+        "Chinese_Name": "\u9ed1\u571f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.45,
+          18.77
+        ]
+      },
+      "properties": {
+        "Name": "Baoding Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Central Hlai",
+        "Name_in_Source": "BD",
+        "Chinese_Name": "\u4fdd\u5b9a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33,
+          15.83
+        ]
+      },
+      "properties": {
+        "Name": "Zhongsha Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Central Hlai",
+        "Name_in_Source": "ZS",
+        "Chinese_Name": "\u4e2d\u6c99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.67,
+          18.88
+        ]
+      },
+      "properties": {
+        "Name": "Tongzha Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Central Hlai",
+        "Name_in_Source": "TZ",
+        "Chinese_Name": "\u901a\u4ec0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.04,
+          18.91
+        ]
+      },
+      "properties": {
+        "Name": "Quiandui Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Central Hlai",
+        "Name_in_Source": "QD",
+        "Chinese_Name": "\u5879\u5c0d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.7,
+          18.64
+        ]
+      },
+      "properties": {
+        "Name": "Baocheng Hlai",
+        "Glottocode": "hlai1239",
+        "Glottolog_Name": "Hlai",
+        "ISO639P3code": "lic",
+        "Macroarea": "Eurasia",
+        "Family": "Tai-Kadai",
+        "SubGroup": "Central Hlai",
+        "Name_in_Source": "BC",
+        "Chinese_Name": "\u4fdd\u57ce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.65,
+          19.1
+        ]
+      },
+      "properties": {
+        "Name": "Gelong",
+        "Name_in_Source": "Gelong",
+        "Chinese_Name": "\u54e5\u9686\u8a71"
+      }
+    }
+  ]
+}
