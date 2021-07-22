@@ -1,5 +1,7 @@
 # CLDF dataset derived from Chin's "Gelong Language in the Multilingual Hub of Hainan" from 2015
 
+[![CLDF validation](https://github.com/digling/chingelong/workflows/CLDF-validation/badge.svg)](https://github.com/digling/chingelong/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -26,6 +28,7 @@ But these are obviously not correct. Affected from the removal are lines 30 (blo
 ## Statistics
 
 
+[![CLDF validation](https://github.com/digling/chingelong/workflows/CLDF-validation/badge.svg)](https://github.com/digling/chingelong/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 90%](https://img.shields.io/badge/Glottolog-90%25-yellowgreen.svg "Glottolog: 90%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
