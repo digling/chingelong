@@ -1,7 +1,6 @@
 from pathlib import Path
-from pylexibank.dataset import Dataset as BaseDataset 
+from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Language, FormSpec
-from pylexibank import progressbar
 
 from clldutils.misc import slug
 import attr
@@ -14,11 +13,12 @@ class CustomLanguage(Language):
     Chinese_Name = attr.ib(default=None)
 
 
-
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chingelong"
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     form_spec = FormSpec(
             missing_data=("---", ),
             separators="/",
@@ -42,8 +42,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory="Name_in_Source")
         args.writer.add_sources()
 
-        for row in self.raw_dir.read_csv('data.tsv', delimiter='\t',
-                dicts=True):
+        for row in self.raw_dir.read_csv('data.tsv', delimiter='\t', dicts=True):
             for language, lid in languages.items():
                 form = row[language].strip()
                 if form and form != '---':
@@ -53,5 +52,3 @@ class Dataset(BaseDataset):
                             Value=form,
                             Source='Chin2015'
                             )
-
-
