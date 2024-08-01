@@ -35,21 +35,21 @@ But these are obviously not correct. Affected from the removal are lines 30 (blo
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 10
-- **Concepts:** 99
+- **Varieties:** 10 (linked to 1 different Glottocodes)
+- **Concepts:** 99 (linked to 98 different Concepticon concept sets)
 - **Lexemes:** 998
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
 - **Tokens:** 3,747
-- **Segments:** 80 (0 BIPA errors, 0 CTLS sound class errors, 80 CLTS modified)
+- **Segments:** 80 (0 BIPA errors, 0 CLTS sound class errors, 80 CLTS modified)
 - **Inventory size (avg):** 54.90
 
 # Contributors
 
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
-Johann-Mattis List | @LinguList  | maintainer                | Other
+Johann-Mattis List | @LinguList  | maintainer                | Editor
 Fiona Grond        | @DarthGrond | student task              | Other
 Ayten Tüfekci      | @Ayten123   | student task              | Other
 Andy C. Chin       |             | original data compilation | Author
